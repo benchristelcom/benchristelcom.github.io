@@ -1,0 +1,7 @@
+image: node:lts
+pages:
+  script: ["true"]
+  artifacts:
+    paths: [public]
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
