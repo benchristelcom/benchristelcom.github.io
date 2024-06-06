@@ -1,40 +1,101 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>Ben Christel</title>
-  </head>
-  <body>
-    <h1 id="ben-christel">Ben Christel</h1>
-<h2 id="my-projects">My Projects</h2>
+<html lang="en">
+	<head>
+		<title>Ben Christel’s Website</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <style>
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: #fec;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height: 1.4;
+}
+
+body {
+  max-width: 40em;
+  margin-inline: auto;
+}
+
+h1 { font-size: 175%; text-align: center; border-bottom: 1px solid #0004; padding-block: 0.5em; margin-bottom: 1em; }
+h2 { font-size: 150%; }
+h3 { font-size: 110%; }
+h4 { font-size: 100%; }
+
+a:not(.webring-container *) {
+  text-decoration: none;
+  box-shadow: inset 0 -1px #0006;
+}
+
+li a:first-of-type {
+  text-shadow: 0.03em 0;
+  letter-spacing: 0.03em;
+}
+
+li {
+  margin-block: 0.33em;
+}
+
+.webring-container {
+  display: table;
+  padding: 0 5em;
+  margin: 2em auto;
+}
+    </style>
+	</head>
+	<body>
+		<style>
+h1 {
+  border-bottom: none;
+}
+</style>
+
+<h1 id="ben-christels-website">Ben Christel&rsquo;s Website</h1>
+<div style="width:200px;height:200px;margin:1em auto;background-image:url('tree-resized.jpg');background-position:1px -20px;background-color:#fec;background-blend-mode:multiply;border:2px solid #0004;border-radius:100px;"></div>
+
+<h2 id="projects">Projects</h2>
+<h3 id="writing">Writing</h3>
 <ul>
-<li>Ben&#39;s Guide to Software Development</li>
-<li><em>Process to Processes</em></li>
-<li>Bliki</li>
-<li>Culture Machine</li>
-<li>mdsite</li>
-<li>Taste</li>
-<li>Audition</li>
+<li><a href="https://benchristel.github.io/process-to-processes"><em>Process to Processes</em></a> - A draft of my upcoming book about software development</li>
+<li><a href="https://bensguide.substack.com">Ben&#39;s Guide to Software Development</a> - A newsletter about the book</li>
+<li><a href="https://github.com/benchristel/benchristel.github.io/wiki">Bliki</a> - My personal blog/wiki about software, with 250+ topic-focused pages on everything from <a href="https://github.com/benchristel/benchristel.github.io/wiki/Abstraction">abstraction</a> to <a href="https://github.com/benchristel/benchristel.github.io/wiki/Wholeness">wholeness</a>.</li>
+</ul>
+<h3 id="usable">Usable</h3>
+<ul>
+<li><a href="https://benchristel.github.io/tv">Culture Machine</a> - The dopamine hack that broke my YouTube addiction. Culture-bearing videos played continuously in an unskippable random sequence.</li>
+<li><a href="https://benchristel.github.io/mdsite">mdsite</a> - The tool I used to create this webpage! <code>mdsite</code> is a modern generator for old-school static sites. It turns any tree of Markdown files into a website, complete with auto-generated navigation links.</li>
+<li><a href="https://npmjs.com/package/@benchristel/taste">Taste</a> - Simple, speedy JavaScript test framework</li>
+<li><a href="https://benchristel.github.io/yt/">yt</a> - Watch YouTube without ads or tracking. Pairs great with <a href="https://www.proginosko.com/leechblock/">LeechBlock</a>.</li>
+</ul>
+<h3 id="niche">Niche</h3>
+<ul>
+<li><a href="https://github.com/benchristel/audition">Audition</a> - A command-line tool that keeps the prose description of your conlang up to date with its morphology and lexicon.</li>
+<li><a href="https://github.com/benchristel/OGTRTA">The One Grammar to Rule Them All</a> - The Lisp of conlangs. A syntax template for people who don&#39;t want to think about syntax anymore.</li>
+<li><a href="https://www.npmjs.com/package/wwwebring">wwwebring</a> - A fully clientside webring widget for static sites. Powers <a href="https://waywardweb.org">the Wayward Web</a>.</li>
+<li><a href="https://github.com/benchristel/LynX">LynX</a> - My Linux &quot;distro.&quot; Re-skins Linux Mint to look and feel like vintage Mac OSX.</li>
+<li><a href="https://github.com/benchristel/autokeyconf">autokeyconf</a> - Rebinds shortcut keys system-wide on Linux.</li>
+<li><a href="https://github.com/benchristel/docky-frost">&quot;Frost&quot; theme for Docky</a> - An OSX-style dock for Linux.</li>
 </ul>
 <h2 id="list-of-lists-of-links">List of Lists of Links</h2>
 <ul>
-<li>Recipes</li>
+<li><a href="https://github.com/benchristel/recipes">Recipes</a></li>
 <li>Music</li>
 <li>Communication and Social Networks</li>
-<li>Software Development</li>
+<li><a href="software.html">Software Development</a></li>
 <li>Life De-FAANGed</li>
 <li>Languages and Linguistics</li>
 <li>J.R.R. Tolkien</li>
 <li>Alexandrian Architecture and Philosophy</li>
-<li>History of Technology</li>
+<li><a href="techhist.html">History of Technology</a></li>
 </ul>
 <script defer src="https://cdn.jsdelivr.net/npm/wwwebring@0.0.2"></script>
 <div
+  class="webring-container"
   data-wwwebring="https://waywardweb.org/ring.json"
   data-wwwebring-theme="default"
   data-wwwebring-you-are-here="https://ben.waywardweb.org"
 ></div>
-    <nav>
-      <a href="index.html">Home</a> | <a href="index.html">Up</a> |  | 
-    </nav>
-  </body>
+	</body>
 </html>
