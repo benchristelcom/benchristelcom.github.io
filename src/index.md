@@ -21,3 +21,10 @@
 - J.R.R. Tolkien
 - Alexandrian Architecture and Philosophy
 - History of Technology
+
+<script defer src="https://cdn.jsdelivr.net/npm/wwwebring@0.0.2"></script>
+<div
+  data-wwwebring="https://waywardweb.org/ring.json"
+  data-wwwebring-theme="default"
+  data-wwwebring-you-are-here="https://ben.waywardweb.org"
+></div>
