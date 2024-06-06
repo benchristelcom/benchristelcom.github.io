@@ -1,4 +1,8 @@
 <style>
+.home-link {
+  display: none;
+}
+
 h1 {
   border-bottom: none;
 }
@@ -30,8 +34,10 @@ div.wwwebring-widget {
 
 ### Usable
 
-- [Culture Machine](https://benchristel.github.io/tv) - The dopamine hack that broke my YouTube addiction. Culture-bearing videos played continuously in an unskippable random sequence.
-- [mdsite](https://benchristel.github.io/mdsite) - The tool I used to create this webpage! `mdsite` is a modern generator for old-school static sites. It turns any tree of Markdown files into a website, complete with auto-generated navigation links.
+- [The Wayward Web](https://waywardweb.org) - A webring. A collaborative effort to map the useful, human parts of the web.
+- [Druthers](https://druthers.app) - Instantly grok your group's priorities with ranked-choice voting. A collaboration with [Gavin Morgan](https://gavmor.com). 
+- [Culture Machine](https://benchristel.github.io/tv) - The app I wrote to break my YouTube addiction (it worked). Emotionally-stabilizing videos played continuously in an unskippable random sequence.
+- [mdsite](https://benchristel.github.io/mdsite) - A modern generator for old-school static sites. It turns any tree of Markdown files into a website, complete with auto-generated navigation links. It's also the tool I used to create this webpage!
 - [Taste](https://npmjs.com/package/@benchristel/taste) - Simple, speedy JavaScript test framework
 - [yt](https://benchristel.github.io/yt/) - Watch YouTube without ads or tracking. Pairs great with [LeechBlock](https://www.proginosko.com/leechblock/).
 
@@ -55,6 +61,7 @@ div.wwwebring-widget {
 - J.R.R. Tolkien
 - Alexandrian Architecture and Philosophy
 - [History of Technology](techhist.html)
+- [Web Archives and Archiving Tools](archiving.html)
 
 <script defer src="https://cdn.jsdelivr.net/npm/wwwebring@0.0.2"></script>
 <div

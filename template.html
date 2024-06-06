@@ -38,9 +38,19 @@ li a:first-of-type {
 li {
   margin-block: 0.33em;
 }
+
+.footer-home-link {
+  margin-block: 2em;
+  text-align: center;
+}
+
     </style>
 	</head>
 	<body>
+    <div class="home-link">{{home}}</div>
 		{{content}}
+    <div class="home-link footer-home-link">
+      {{home}}
+    </div>
 	</body>
 </html>

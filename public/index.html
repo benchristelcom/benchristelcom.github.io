@@ -38,10 +38,21 @@ li a:first-of-type {
 li {
   margin-block: 0.33em;
 }
+
+.footer-home-link {
+  margin-block: 2em;
+  text-align: center;
+}
+
     </style>
 	</head>
 	<body>
+    <div class="home-link"><a href="index.html">Home</a></div>
 		<style>
+.home-link {
+  display: none;
+}
+
 h1 {
   border-bottom: none;
 }
@@ -71,8 +82,10 @@ div.wwwebring-widget {
 </ul>
 <h3 id="usable">Usable</h3>
 <ul>
-<li><a href="https://benchristel.github.io/tv">Culture Machine</a> - The dopamine hack that broke my YouTube addiction. Culture-bearing videos played continuously in an unskippable random sequence.</li>
-<li><a href="https://benchristel.github.io/mdsite">mdsite</a> - The tool I used to create this webpage! <code>mdsite</code> is a modern generator for old-school static sites. It turns any tree of Markdown files into a website, complete with auto-generated navigation links.</li>
+<li><a href="https://waywardweb.org">The Wayward Web</a> - A webring. A collaborative effort to map the useful, human parts of the web.</li>
+<li><a href="https://druthers.app">Druthers</a> - Instantly grok your group&#39;s priorities with ranked-choice voting. A collaboration with <a href="https://gavmor.com">Gavin Morgan</a>. </li>
+<li><a href="https://benchristel.github.io/tv">Culture Machine</a> - The app I wrote to break my YouTube addiction (it worked). Emotionally-stabilizing videos played continuously in an unskippable random sequence.</li>
+<li><a href="https://benchristel.github.io/mdsite">mdsite</a> - A modern generator for old-school static sites. It turns any tree of Markdown files into a website, complete with auto-generated navigation links. It&#39;s also the tool I used to create this webpage!</li>
 <li><a href="https://npmjs.com/package/@benchristel/taste">Taste</a> - Simple, speedy JavaScript test framework</li>
 <li><a href="https://benchristel.github.io/yt/">yt</a> - Watch YouTube without ads or tracking. Pairs great with <a href="https://www.proginosko.com/leechblock/">LeechBlock</a>.</li>
 </ul>
@@ -96,6 +109,7 @@ div.wwwebring-widget {
 <li>J.R.R. Tolkien</li>
 <li>Alexandrian Architecture and Philosophy</li>
 <li><a href="techhist.html">History of Technology</a></li>
+<li><a href="archiving.html">Web Archives and Archiving Tools</a></li>
 </ul>
 <script defer src="https://cdn.jsdelivr.net/npm/wwwebring@0.0.2"></script>
 <div
@@ -104,5 +118,8 @@ div.wwwebring-widget {
   data-wwwebring-theme="default"
   data-wwwebring-you-are-here="https://ben.waywardweb.org"
 ></div>
+    <div class="home-link footer-home-link">
+      <a href="index.html">Home</a>
+    </div>
 	</body>
 </html>
