@@ -2,6 +2,18 @@
 h1 {
   border-bottom: none;
 }
+
+div.wwwebring-widget {
+  background: #eee !important;
+  border: outset 2px #fff !important;
+  box-shadow: 1px 1px #0005, 0 0 0 1px #0002;
+}
+
+.webring-container {
+  display: table;
+  margin: 2em auto;
+}
+
 </style>
 
 # Ben Christel&rsquo;s Website
@@ -34,7 +46,7 @@ h1 {
 
 ## List of Lists of Links
 
-- [Recipes](https://github.com/benchristel/recipes)
+- [Recipes](https://benchristel.github.io/recipes)
 - Music
 - Communication and Social Networks
 - [Software Development](software.html)
