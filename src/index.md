@@ -26,12 +26,6 @@ div.wwwebring-widget {
 
 ## Projects
 
-### Writing
-
-- [_Process to Processes_](https://benchristel.github.io/process-to-processes) - A draft of my upcoming book about software development
-- [Ben's Guide to Software Development](https://bensguide.substack.com) - A newsletter about the book
-- [Bliki](https://github.com/benchristel/benchristel.github.io/wiki) - My personal blog/wiki about software, with 250+ topic-focused pages on everything from [abstraction](https://github.com/benchristel/benchristel.github.io/wiki/Abstraction) to [wholeness](https://github.com/benchristel/benchristel.github.io/wiki/Wholeness).
-
 ### Usable
 
 - [The Wayward Web](https://waywardweb.org) - A webring. A collaborative effort to map the useful, human parts of the web.
@@ -50,6 +44,12 @@ div.wwwebring-widget {
 - [autokeyconf](https://github.com/benchristel/autokeyconf) - Rebinds shortcut keys system-wide on Linux.
 - ["Frost" theme for Docky](https://github.com/benchristel/docky-frost) - An OSX-style dock for Linux.
 
+### Writing
+
+- [_Process to Processes_](https://benchristel.github.io/process-to-processes) - A draft of my upcoming book about software development
+- [Ben's Guide to Software Development](https://bensguide.substack.com) - A newsletter about the book
+- [Bliki](https://github.com/benchristel/benchristel.github.io/wiki) - My personal blog/wiki about software, with 250+ topic-focused pages on everything from [abstraction](https://github.com/benchristel/benchristel.github.io/wiki/Abstraction) to [wholeness](https://github.com/benchristel/benchristel.github.io/wiki/Wholeness).
+
 ## List of Lists of Links
 
 - [Recipes](https://benchristel.github.io/recipes)
@@ -60,6 +60,7 @@ div.wwwebring-widget {
 - Languages and Linguistics
 - J.R.R. Tolkien
 - Alexandrian Architecture and Philosophy
+- [Heroes of Might and Magic IV](heroes4) - Maps and documentation for the classic computer strategy game.
 - [History of Technology](techhist.html)
 - [Web Archives and Archiving Tools](archiving.html)
 

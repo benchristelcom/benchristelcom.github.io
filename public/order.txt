@@ -1,5 +1,6 @@
 
 !unspecified
 archiving.html
+heroes4
 software.html
 techhist.html
