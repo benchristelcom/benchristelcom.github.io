@@ -23,8 +23,7 @@ div.wwwebring-widget {
   height: 200px;
   margin: 1em auto 3em;
   background-image: url('tree-resized.jpg');
-  background-position: 2px -12px;
-  background-size: 100% 100%;
+  background-position: 2px -20px;
   background-color: #fec;
   background-blend-mode: multiply;
   border: 2px solid #0004;
