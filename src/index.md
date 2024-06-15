@@ -22,7 +22,12 @@ div.wwwebring-widget {
 
 # Ben Christel&rsquo;s Website
 
-<div style="width:200px;height:200px;margin:1em auto;background-image:url('tree-resized.jpg');background-position:1px -20px;background-color:#fec;background-blend-mode:multiply;border:2px solid #0004;border-radius:100px;"></div>
+<div style="width:200px;height:200px;margin:1em auto 3em;background-image:url('tree-resized.jpg');background-position:1px -20px;background-color:#fec;background-blend-mode:multiply;border:2px solid #0004;border-radius:100px;"></div>
+
+<script defer type="module" src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.0.2"></script>
+<input data-hypersearch type="search" placeholder="Search" style="display: block; max-width: 300px; margin-inline: auto;"/>
+
+<div data-hypersearch-start></div>
 
 ## Projects
 
@@ -63,6 +68,10 @@ div.wwwebring-widget {
 - [Heroes of Might and Magic IV](heroes4) - Maps and documentation for the classic computer strategy game.
 - [History of Technology](techhist.html)
 - [Web Archives and Archiving Tools](archiving.html)
+
+<div data-hypersearch-end></div>
+
+## Webring
 
 <script defer src="https://cdn.jsdelivr.net/npm/wwwebring@0.1.0"></script>
 <div
