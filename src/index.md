@@ -24,7 +24,7 @@ div.wwwebring-widget {
 
 <div style="width:200px;height:200px;margin:1em auto 3em;background-image:url('tree-resized.jpg');background-position:1px -20px;background-color:#fec;background-blend-mode:multiply;border:2px solid #0004;border-radius:100px;"></div>
 
-<script defer type="module" src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.0.2"></script>
+<script defer type="module" src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.1.0"></script>
 <input data-hypersearch type="search" placeholder="Search" style="display: block; max-width: 300px; margin-inline: auto;"/>
 
 <div data-hypersearch-start></div>
