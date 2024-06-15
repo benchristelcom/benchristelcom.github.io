@@ -1,4 +1,4 @@
-# Ben Christel&rsquo;s Website
+# Ben Christel’s Website
 
 <div id="tree"></div>
 
