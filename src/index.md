@@ -18,11 +18,24 @@ div.wwwebring-widget {
   margin: 2em auto;
 }
 
+#tree {
+  width: 200px;
+  height: 200px;
+  margin: 1em auto 3em;
+  background-image: url('tree-resized.jpg');
+  background-position: 2px -12px;
+  background-size: 100% 100%;
+  background-color: #fec;
+  background-blend-mode: multiply;
+  border: 2px solid #0004;
+  border-radius: 999px;
+}
+
 </style>
 
 # Ben Christel&rsquo;s Website
 
-<div style="width:200px;height:200px;margin:1em auto 3em;background-image:url('tree-resized.jpg');background-position:1px -20px;background-color:#fec;background-blend-mode:multiply;border:2px solid #0004;border-radius:100px;"></div>
+<div id="tree"></div>
 
 <script defer type="module" src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.1.0"></script>
 <input data-hypersearch type="search" placeholder="Search" style="display: block; max-width: 300px; margin-inline: auto;"/>
@@ -80,3 +93,20 @@ div.wwwebring-widget {
   data-wwwebring-theme="default"
   data-wwwebring-you-are-here="https://ben.waywardweb.org"
 ></div>
+
+## Settings
+
+- <label><input type="checkbox" id="autofocus-checkbox" /> Automatically focus the search field on page load.</label>
+
+<script>
+const searchInput = document.querySelector("input[type=search]")
+const autofocusCheckbox = document.getElementById("autofocus-checkbox")
+if (localStorage.autofocusSearch === "true") {
+  searchInput.focus()
+  autofocusCheckbox.checked = true
+}
+
+autofocusCheckbox.addEventListener("change", () => {
+  localStorage.autofocusSearch = autofocusCheckbox.checked
+})
+</script>
