@@ -1,42 +1,7 @@
-<style>
-.home-link {
-  display: none;
-}
-
-h1 {
-  border-bottom: none;
-}
-
-div.wwwebring-widget {
-  background: #eee !important;
-  border: outset 2px #fff !important;
-  box-shadow: 1px 1px #0005, 0 0 0 1px #0002;
-}
-
-.webring-container {
-  display: table;
-  margin: 2em auto;
-}
-
-#tree {
-  width: 200px;
-  height: 200px;
-  margin: 1em auto 3em;
-  background-image: url('tree-resized.jpg');
-  background-position: 2px -20px;
-  background-color: #fec;
-  background-blend-mode: multiply;
-  border: 2px solid #0004;
-  border-radius: 999px;
-}
-
-</style>
-
 # Ben Christel&rsquo;s Website
 
 <div id="tree"></div>
 
-<script defer type="module" src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.1.0"></script>
 <input data-hypersearch type="search" placeholder="Search" style="display: block; max-width: 300px; margin-inline: auto;"/>
 
 <div data-hypersearch-start></div>
@@ -97,6 +62,7 @@ div.wwwebring-widget {
 
 - <label><input type="checkbox" id="autofocus-checkbox" /> Automatically focus the search field on page load.</label>
 
+<script defer type="module" src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.1.0"></script>
 <script>
 const searchInput = document.querySelector("input[type=search]")
 const autofocusCheckbox = document.getElementById("autofocus-checkbox")
@@ -109,3 +75,37 @@ autofocusCheckbox.addEventListener("change", () => {
   localStorage.autofocusSearch = autofocusCheckbox.checked
 })
 </script>
+
+<style>
+.home-link {
+  display: none;
+}
+
+h1 {
+  border-bottom: none;
+}
+
+div.wwwebring-widget {
+  background: #eee !important;
+  border: outset 2px #fff !important;
+  box-shadow: 1px 1px #0005, 0 0 0 1px #0002;
+}
+
+.webring-container {
+  display: table;
+  margin: 2em auto;
+}
+
+#tree {
+  width: 200px;
+  height: 200px;
+  margin: 1em auto 3em;
+  background-image: url('tree-resized.jpg');
+  background-position: 2px -20px;
+  background-color: #fec;
+  background-blend-mode: multiply;
+  border: 2px solid #0004;
+  border-radius: 999px;
+}
+
+</style>
