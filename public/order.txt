@@ -2,5 +2,7 @@
 !unspecified
 archiving.html
 heroes4
+recipes
+shopping-list.html
 software.html
 techhist.html
