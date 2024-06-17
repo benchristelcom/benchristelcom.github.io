@@ -22,7 +22,8 @@ body {
 }
 
 h1 { font-size: 175%; text-align: center; border-bottom: 1px solid #0004; padding-block: 0.5em; margin-bottom: 1em; }
-h2 { font-size: 150%; }
+h2 { font-size: 150%; border-bottom: 1px solid #0005; }
+h2:not(:first-of-type) { margin-top: 2em; }
 h3 { font-size: 110%; }
 h4 { font-size: 100%; }
 
@@ -53,6 +54,15 @@ table, td, th {
 
 td, th {
   padding: 0.1em 0.2em;
+}
+
+blockquote {
+  color: #333;
+  font-style: italic;
+}
+
+blockquote :is(em, i) {
+  font-style: normal;
 }
 
     </style>
