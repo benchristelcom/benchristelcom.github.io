@@ -2,6 +2,7 @@
 !unspecified
 archiving.html
 heroes4
+portal.html
 recipes
 shopping-list.html
 software.html
