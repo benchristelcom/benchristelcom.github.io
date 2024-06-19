@@ -8,6 +8,7 @@
     ]
   },
   "files.exclude": {
+    "docs": true,
     "public": true
   }
 }
