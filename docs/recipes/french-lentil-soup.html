@@ -12,6 +12,10 @@
 html {
   background: #fec;
   font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 0.875rem;
+  letter-spacing: 0.015em;
+  text-align: justify;
+  hyphens: manual;
   line-height: 1.4;
 }
 
@@ -29,7 +33,11 @@ h4 { font-size: 100%; }
 
 a:not(.webring-container *) {
   text-decoration: none;
-  box-shadow: inset 0 -1px #0006;
+  box-shadow: inset 0 -1px #0004;
+}
+
+a:hover {
+  background: #fff6;
 }
 
 li a:first-of-type {
@@ -69,10 +77,11 @@ blockquote :is(em, i) {
   text-align: center;
 }
 
-.centered-text ul, li {
+.centered-text :is(ul, li) {
   list-style-type: none;
   margin-inline: 0;
   padding-inline: 0;
+  text-indent: 0;
 }
 
     </style>
