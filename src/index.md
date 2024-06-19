@@ -2,23 +2,18 @@
 
 <div id="tree"></div>
 
-<div class="centered-list">
+<div class="centered-text">
 
+- [GitHub](https://github.com/benchristel)
+- [Newsletter](https://bensguide.substack.com/)
+- [Bliki](https://github.com/benchristel/benchristel.github.io/wiki)
+- [Blog (defunct)](https://benchristel.github.io/)
+- [email](mailto:ben.christel@gmail.com)
 - [Web Portal](portal.html)
 
 </div>
 
 <style>
-
-.centered-list {
-  text-align: center;
-}
-
-.centered-list ul, li {
-  list-style-type: none;
-  margin-inline: 0;
-  padding-inline: 0;
-}
 
 .home-link {
   display: none;
