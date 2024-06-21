@@ -6,10 +6,11 @@
 
 - [GitHub](https://github.com/benchristel)
 - [Newsletter](https://bensguide.substack.com/)
-- [Bliki](https://github.com/benchristel/benchristel.github.io/wiki)
+- [Personal Wiki](https://github.com/benchristel/benchristel.github.io/wiki)
 - [Blog (defunct)](https://benchristel.github.io/)
-- [email](mailto:ben.christel@gmail.com)
 - [Web Portal](portal.html)
+- [Résumé](/resumes/latest.pdf)
+- [email](mailto:ben.christel@gmail.com)
 
 </div>
 
