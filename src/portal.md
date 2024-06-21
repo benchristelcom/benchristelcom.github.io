@@ -18,6 +18,8 @@
 
 ### Niche Software
 
+- [The Cave](http://benchristel.github.io/the-cave/) - Helps you keep track of short-term tasks with deep dependencies.
+- [Auracle](benchristel.github.io/auracle) - A word generator for conlangs. Give it some examples of your desired aesthetic, and get more in return.
 - [Audition](https://github.com/benchristel/audition) - A command-line tool that keeps the prose description of your conlang up to date with its morphology and lexicon.
 - [The One Grammar to Rule Them All](https://github.com/benchristel/OGTRTA) - The Lisp of conlangs. A syntax template for people who don't want to think about syntax anymore.
 - [wwwebring](https://www.npmjs.com/package/wwwebring) - A fully clientside webring widget for static sites. Powers [the Wayward Web](https://waywardweb.org).
@@ -83,6 +85,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 - [Pattern Monster](https://pattern.monster/) - even more tiling SVG patterns for your website background
 - [nnnoise - SVG Noise Generator](https://www.fffuel.co/nnnoise/) - create fractal noise or turbulence dynamically with SVG. A very network-efficient replacement for PNG or JPEG textures.
 - [Grainy Gradient Playground](https://grainy-gradients.vercel.app/) - dithered gradients for a retro (or is it futuristic?) look
+- [TinyPNG](https://tinypng.com/) - Reduces image filesizes.
 
 ### Tools I Use
 
