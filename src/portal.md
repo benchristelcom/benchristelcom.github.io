@@ -1,5 +1,11 @@
 # Web Portal
 
+<div class="centered-text">
+
+This page aims to be a comprehensive directory of my most-loved and most-used web resources. It's not quite done yet.
+
+</div>
+
 <input data-hypersearch type="search" placeholder="Search" style="display: block; max-width: 300px; margin-inline: auto;"/>
 
 <div data-hypersearch-start></div>
@@ -15,6 +21,7 @@
 - [Taste](https://npmjs.com/package/@benchristel/taste) - Simple, speedy JavaScript test framework
 - [yt](https://benchristel.github.io/yt/) - Watch YouTube without ads or tracking. Pairs great with [LeechBlock](https://www.proginosko.com/leechblock/).
 - [hypersearch](https://www.npmjs.com/package/@benchristel/hypersearch) - Powers the searchbar on this page!
+- [Bastion](https://bastionhome.github.io/) - A big directory of links. The predecessor of this page.
 
 ### Niche Software
 
@@ -189,6 +196,13 @@ ul > li {
   list-style-type: none;
   text-indent: -1em;
   margin-block: 0.5em;
+}
+
+/* ensure scrollbar tracks are displayed even if the page content
+ * does not need to scroll, to prevent horizontal jitter when
+ * searching */
+html {
+  overflow-y: scroll;
 }
 
 </style>

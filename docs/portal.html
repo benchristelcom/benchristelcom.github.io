@@ -89,6 +89,11 @@ blockquote :is(em, i) {
 	<body>
     <div class="home-link"><a href="index.html">Home</a></div>
 		<h1 id="web-portal">Web Portal</h1>
+<div class="centered-text">
+
+<p>This page aims to be a comprehensive directory of my most-loved and most-used web resources. It&#39;s not quite done yet.</p>
+</div>
+
 <input data-hypersearch type="search" placeholder="Search" style="display: block; max-width: 300px; margin-inline: auto;"/>
 
 <div data-hypersearch-start></div>
@@ -103,6 +108,7 @@ blockquote :is(em, i) {
 <li><a href="https://npmjs.com/package/@benchristel/taste">Taste</a> - Simple, speedy JavaScript test framework</li>
 <li><a href="https://benchristel.github.io/yt/">yt</a> - Watch YouTube without ads or tracking. Pairs great with <a href="https://www.proginosko.com/leechblock/">LeechBlock</a>.</li>
 <li><a href="https://www.npmjs.com/package/@benchristel/hypersearch">hypersearch</a> - Powers the searchbar on this page!</li>
+<li><a href="https://bastionhome.github.io/">Bastion</a> - A big directory of links. The predecessor of this page.</li>
 </ul>
 <h3 id="niche-software">Niche Software</h3>
 <ul>
@@ -269,6 +275,13 @@ ul > li {
   list-style-type: none;
   text-indent: -1em;
   margin-block: 0.5em;
+}
+
+/* ensure scrollbar tracks are displayed even if the page content
+ * does not need to scroll, to prevent horizontal jitter when
+ * searching */
+html {
+  overflow-y: scroll;
 }
 
 </style>
