@@ -79,6 +79,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 
 #### Theory
 
+- [Ask Tog](https://asktog.com/) - Bruce Tognazzini (early employee at Apple)'s thoughts on UX design.
 - [Laws of UX](https://lawsofux.com/) - Facts about humans that every designer should keep in mind!
 
 #### Turpentine
