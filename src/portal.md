@@ -68,6 +68,8 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 - [UnicodePlus.com](https://unicodeplus.com) - search for unicode characters.
 - [man7.org](https://man7.org/) - Unix manual pages
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - on [css-tricks.com](https://css-tricks.com)
+- [json.org](https://json.org/)
+- [jwt.io](https://jwt.io/)
 
 ### Web Hosting
 
@@ -94,8 +96,18 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 - [nnnoise - SVG Noise Generator](https://www.fffuel.co/nnnoise/) - create fractal noise or turbulence dynamically with SVG. A very network-efficient replacement for PNG or JPEG textures.
 - [Grainy Gradient Playground](https://grainy-gradients.vercel.app/) - dithered gradients for a retro (or is it futuristic?) look
 - [TinyPNG](https://tinypng.com/) - Reduces image filesizes.
+- [IconsDB](https://www.iconsdb.com/)
 
-### Tools I Use
+### Tools I Currently Use
+
+#### Services
+
+- [GitHub](https://github.com) - Hosts Git repositories. Owned by Microsoft.
+- [GitLab](https://gitlab.com) - Hosts Git repositories.
+- [NPM](https://npmjs.com) - Hosts NodeJS packages. Owned by Microsoft.
+- [Rubygems](https://rubygems.org/) - Hosts Ruby gems.
+- [jsdelivr](https://jsdelivr.com/) - CDN that distributes code from NPM and GitHub, with neat features like automatic minification.
+- [Namecheap](https://namecheap.com/) - Domain registrar
 
 #### Web / JavaScript Developer Tools
 
@@ -104,21 +116,36 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 - [Bun](https://bun.sh/) - blazing fast, but somewhat crash-prone replacement for `node` and `npm` that also implements some web APIs (but no DOM). I use Bun to run [`mdsite`](https://benchristel.github.io/mdsite) and [Taste](https://npmjs.com/package/@benchristel/taste) tests.
 - [ESLint](https://eslint.org/) - I am experimenting with [eslint.style](https://eslint.style/) as a JavaScript/TypeScript formatter, replacing [Prettier](https://prettier.io/). See also [Anthony Fu's post "Why I don't use Prettier"](https://antfu.me/posts/why-not-prettier).
 - [Prettier](https://prettier.io) - because it's still the easiest formatter to set up, and I agree with 95% of its choices.
+- [TypeScript](https://typescriptlang.org/) - Statically-typed superset of JavaScript. Owned by Microsoft.
 
 #### JavaScript Libraries
 
-- [Preact](https://preactjs.com/)
+- [Preact](https://preactjs.com/) - Lightweight reactive UI library. Keeps the DOM up to date when your application state changes.
 - [Marked](https://marked.js.org/) - Markdown-to-HTML converter for NodeJS
+- [CodeMirror](https://codemirror.net/) - Code editor by [Marijn Haverbeke](https://marijnhaverbeke.nl/)
 
 #### Editors
 
 - [Visual Studio Code](https://code.visualstudio.com/) (vscode) - Pretty good out of the box, configurable, versatile, and free.
 - [JetBrains](https://www.jetbrains.com/) - Expensive, but they come with pretty incredible code intelligence and refactoring tools. Lots of stuff you'd have to configure yourself or use plugins for in other editors "just works" in JetBrains.
 
+### Tools I Have Used
+
+- [Flow](https://flow.org/)
+
 ### Tools I Might Use Someday
 
+- [Deno](https://deno.com/) - see also the [documentation](https://docs.deno.com/)
 - [pnpm](https://pnpm.io/) - Replaces `npm`.
+- [daisyUI](https://daisyui.com/)
+- [SQLite](https://sqlite.org/)
 - [zed](https://zed.dev/) - An editor designed for remote pair programming. Unfortunately, there's no Linux support yet, though one can [build from source](https://zed.dev/docs/development/linux) on Linux.
+
+## Web-based Tools
+
+### Transforming
+
+- [jsonpath.com](https://jsonpath.com/)
 
 ## List of Lists of Links
 
