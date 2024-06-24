@@ -10,10 +10,11 @@ This page aims to be a comprehensive directory of my most-loved and most-used we
 
 <div data-hypersearch-start></div>
 
-## Projects
+## My Projects
 
-### Usable Software
-
+- [_Process to Processes_](https://benchristel.github.io/process-to-processes) - A draft of my upcoming book about software development
+- [Ben's Guide to Software Development](https://bensguide.substack.com) - A newsletter about the book
+- [Bliki](https://github.com/benchristel/benchristel.github.io/wiki) - My personal blog/wiki about software, with 250+ topic-focused pages on everything from [abstraction](https://github.com/benchristel/benchristel.github.io/wiki/Abstraction) to [wholeness](https://github.com/benchristel/benchristel.github.io/wiki/Wholeness).
 - [The Wayward Web](https://waywardweb.org) - A webring. A collaborative effort to map the useful, human parts of the web.
 - [Druthers](https://druthers.app) - Instantly grok your group's priorities with ranked-choice voting. A collaboration with [Gavin Morgan](https://gavmor.com). 
 - [Culture Machine](https://benchristel.github.io/tv) - The app I wrote to break my YouTube addiction (it worked). Emotionally-stabilizing videos played continuously in an unskippable random sequence.
@@ -22,9 +23,6 @@ This page aims to be a comprehensive directory of my most-loved and most-used we
 - [yt](https://benchristel.github.io/yt/) - Watch YouTube without ads or tracking. Pairs great with [LeechBlock](https://www.proginosko.com/leechblock/).
 - [hypersearch](https://www.npmjs.com/package/@benchristel/hypersearch) - Powers the searchbar on this page!
 - [Bastion](https://bastionhome.github.io/) - A big directory of links. The predecessor of this page.
-
-### Niche Software
-
 - [The Cave](http://benchristel.github.io/the-cave/) - Helps you keep track of short-term tasks with deep dependencies.
 - [Auracle](benchristel.github.io/auracle) - A word generator for conlangs. Give it some examples of your desired aesthetic, and get more in return.
 - [Audition](https://github.com/benchristel/audition) - A command-line tool that keeps the prose description of your conlang up to date with its morphology and lexicon.
@@ -34,19 +32,15 @@ This page aims to be a comprehensive directory of my most-loved and most-used we
 - [autokeyconf](https://github.com/benchristel/autokeyconf) - Rebinds shortcut keys system-wide on Linux.
 - ["Frost" theme for Docky](https://github.com/benchristel/docky-frost) - An OSX-style dock for Linux.
 
-### Writing
-
-- [_Process to Processes_](https://benchristel.github.io/process-to-processes) - A draft of my upcoming book about software development
-- [Ben's Guide to Software Development](https://bensguide.substack.com) - A newsletter about the book
-- [Bliki](https://github.com/benchristel/benchristel.github.io/wiki) - My personal blog/wiki about software, with 250+ topic-focused pages on everything from [abstraction](https://github.com/benchristel/benchristel.github.io/wiki/Abstraction) to [wholeness](https://github.com/benchristel/benchristel.github.io/wiki/Wholeness).
-
 ## Food
-
-- [Shopping List](shopping-list.html)
 
 ### Favorite Recipes
 
 {{toc /recipes}}
+
+### On Other Sites
+
+- [Cedar Down Farm](https://cedardownfarm.ca/)
 
 ## Music
 
@@ -70,6 +64,12 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - on [css-tricks.com](https://css-tricks.com)
 - [json.org](https://json.org/)
 - [jwt.io](https://jwt.io/)
+- [caniuse.com](https://caniuse.com) - Find out which browsers support a given feature (in JavaScript, CSS, HTML, or SVG).
+
+### Q&A
+
+- [Stack Overflow](https://stackoverflow.com)
+- [Ask Ubuntu](https://askubuntu.com)
 
 ### Web Hosting
 
@@ -79,55 +79,33 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 
 ### UI/UX Design
 
-#### Theory
-
 - [Ask Tog](https://asktog.com/) - Bruce Tognazzini (early employee at Apple)'s thoughts on UX design.
 - [Laws of UX](https://lawsofux.com/) - Facts about humans that every designer should keep in mind!
 
-#### Turpentine
-
-> When art critics get together they talk about form and structure and meaning. When artists get together they talk about where you can buy cheap turpentine.
->
-> — <cite>[Garson Kanin, attributed to Pablo Picasso](https://quoteinvestigator.com/2016/10/20/turpentine/)</cite>
-
-- [GifCities](https://gifcities.org/) - Archived gifs from Geocities websites.
-- [Hero Patterns](https://heropatterns.com/) - tiling SVG patterns for your website background
-- [Pattern Monster](https://pattern.monster/) - even more tiling SVG patterns for your website background
-- [nnnoise - SVG Noise Generator](https://www.fffuel.co/nnnoise/) - create fractal noise or turbulence dynamically with SVG. A very network-efficient replacement for PNG or JPEG textures.
-- [Grainy Gradient Playground](https://grainy-gradients.vercel.app/) - dithered gradients for a retro (or is it futuristic?) look
-- [TinyPNG](https://tinypng.com/) - Reduces image filesizes.
-- [IconsDB](https://www.iconsdb.com/)
-
 ### Tools I Currently Use
 
-#### Services
-
+- [Framework Laptops](https://frame.work) - I use a 13-inch Framework running Linux Mint.
+- [WASD Keyboards](https://www.wasdkeyboards.com)
+- [Linux (kernel.org)](https://kernel.org)
+- [Linux Mint](https://www.linuxmint.com/) - see also the [forums](https://forums.linuxmint.com/)
 - [GitHub](https://github.com) - Hosts Git repositories. Owned by Microsoft.
 - [GitLab](https://gitlab.com) - Hosts Git repositories.
+- [Visual Studio Code](https://code.visualstudio.com/) (vscode) - Pretty good out of the box, configurable, versatile, and free.
+- [JetBrains](https://www.jetbrains.com/) - Expensive, but they come with pretty incredible code intelligence and refactoring tools. Lots of stuff you'd have to configure yourself or use plugins for in other editors "just works" in JetBrains.
 - [NPM](https://npmjs.com) - Hosts NodeJS packages. Owned by Microsoft.
 - [Rubygems](https://rubygems.org/) - Hosts Ruby gems.
 - [jsdelivr](https://jsdelivr.com/) - CDN that distributes code from NPM and GitHub, with neat features like automatic minification.
 - [Namecheap](https://namecheap.com/) - Domain registrar
-
-#### Web / JavaScript Developer Tools
-
 - [Vite](https://vitejs.dev/) - Fast, easy-to-use dev server for single-page apps. Built-in hot-reloading and TypeScript compilation, among other features.
 - [Yarn](https://yarnpkg.com/) - package manager for NodeJS. Replaces `npm`.
 - [Bun](https://bun.sh/) - blazing fast, but somewhat crash-prone replacement for `node` and `npm` that also implements some web APIs (but no DOM). I use Bun to run [`mdsite`](https://benchristel.github.io/mdsite) and [Taste](https://npmjs.com/package/@benchristel/taste) tests.
 - [ESLint](https://eslint.org/) - I am experimenting with [eslint.style](https://eslint.style/) as a JavaScript/TypeScript formatter, replacing [Prettier](https://prettier.io/). See also [Anthony Fu's post "Why I don't use Prettier"](https://antfu.me/posts/why-not-prettier).
 - [Prettier](https://prettier.io) - because it's still the easiest formatter to set up, and I agree with 95% of its choices.
 - [TypeScript](https://typescriptlang.org/) - Statically-typed superset of JavaScript. Owned by Microsoft.
-
-#### JavaScript Libraries
-
 - [Preact](https://preactjs.com/) - Lightweight reactive UI library. Keeps the DOM up to date when your application state changes.
 - [Marked](https://marked.js.org/) - Markdown-to-HTML converter for NodeJS
 - [CodeMirror](https://codemirror.net/) - Code editor by [Marijn Haverbeke](https://marijnhaverbeke.nl/)
-
-#### Editors
-
-- [Visual Studio Code](https://code.visualstudio.com/) (vscode) - Pretty good out of the box, configurable, versatile, and free.
-- [JetBrains](https://www.jetbrains.com/) - Expensive, but they come with pretty incredible code intelligence and refactoring tools. Lots of stuff you'd have to configure yourself or use plugins for in other editors "just works" in JetBrains.
+- [Cloudflare](https://cloudflare.com)
 
 ### Tools I Have Used
 
@@ -141,11 +119,34 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 - [SQLite](https://sqlite.org/)
 - [zed](https://zed.dev/) - An editor designed for remote pair programming. Unfortunately, there's no Linux support yet, though one can [build from source](https://zed.dev/docs/development/linux) on Linux.
 
+## Image Repositories
+
+- [GifCities](https://gifcities.org/) - Archived gifs from Geocities websites.
+- [Hero Patterns](https://heropatterns.com/) - tiling SVG patterns for your website background
+- [Pattern Monster](https://pattern.monster/) - even more tiling SVG patterns for your website background
+- [nnnoise - SVG Noise Generator](https://www.fffuel.co/nnnoise/) - create fractal noise or turbulence dynamically with SVG. A very network-efficient replacement for PNG or JPEG textures.
+- [Grainy Gradient Playground](https://grainy-gradients.vercel.app/) - dithered gradients for a retro (or is it futuristic?) look
+- [IconsDB](https://www.iconsdb.com/)
+- [Wikimedia Commons](https://commons.wikimedia.org)
+- [Public Domain Pictures](https://www.publicdomainpictures.net)
+
 ## Web-based Tools
 
-### Transforming
-
+- [TinyPNG](https://tinypng.com/) - Reduces image filesizes.
 - [jsonpath.com](https://jsonpath.com/)
+
+## Commerce
+
+- [Venmo](https://venmo.com)
+
+## Gaming
+
+- [Zero-K](https://zero-k.info)
+- [Age of Empires (fandom.com)](https://ageofempires.fandom.com) - Unit stats etc.
+
+## Languages and Linguistics
+
+- [Ardalambion](https://ardalambion.org)
 
 ## List of Lists of Links
 
@@ -161,6 +162,13 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 ## General Reference
 
 - [Quote Investigator](https://quoteinvestigator.com)
+- [arxiv.org](https://arxiv.org)
+- [ResearchGate](https://www.researchgate.net/)
+
+## Other Web Curators
+
+- [ytoo.org](https://ytoo.org)
+- [www.bruh.ltd](https://www.bruh.ltd)
 
 ## DuckDuckGo Bang Cheatsheet
 
