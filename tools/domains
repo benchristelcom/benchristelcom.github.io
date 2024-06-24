@@ -1,0 +1,8 @@
+#!/bin/bash
+
+ag -o 'href="[^"]+"' docs \
+  | cut -d\" -f2 \
+  | cut -d/ -f3 \
+  | sort \
+  | uniq \
+  | ag -v '\.html$'
