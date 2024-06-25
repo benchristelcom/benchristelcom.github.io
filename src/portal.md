@@ -18,13 +18,13 @@ This page aims to be a comprehensive directory of my most-loved and most-used we
 - [The Wayward Web](https://waywardweb.org) - A webring. A collaborative effort to map the useful, human parts of the web.
 - [Druthers](https://druthers.app) - Instantly grok your group's priorities with ranked-choice voting. A collaboration with [Gavin Morgan](https://gavmor.com). 
 - [Culture Machine](https://benchristel.github.io/tv) - The app I wrote to break my YouTube addiction (it worked). Emotionally-stabilizing videos played continuously in an unskippable random sequence.
-- [mdsite](https://benchristel.github.io/mdsite) - A modern generator for old-school static sites. It turns any tree of Markdown files into a website, complete with auto-generated navigation links. It's also the tool I used to create this webpage!
+- [mdsite](https://benchristel.github.io/mdsite) - A modern generator for old-school static sites. It turns any tree of [Markdown](https://daringfireball.net/projects/markdown/) files into a website, complete with auto-generated navigation links. It's also the tool I used to create this webpage!
 - [Taste](https://npmjs.com/package/@benchristel/taste) - Simple, speedy JavaScript test framework
 - [yt](https://benchristel.github.io/yt/) - Watch YouTube without ads or tracking. Pairs great with [LeechBlock](https://www.proginosko.com/leechblock/).
 - [hypersearch](https://www.npmjs.com/package/@benchristel/hypersearch) - Powers the searchbar on this page!
 - [Bastion](https://bastionhome.github.io/) - A big directory of links. The predecessor of this page.
-- [The Cave](http://benchristel.github.io/the-cave/) - Helps you keep track of short-term tasks with deep dependencies.
-- [Auracle](benchristel.github.io/auracle) - A word generator for conlangs. Give it some examples of your desired aesthetic, and get more in return.
+- [The Cave](https://benchristel.github.io/the-cave/) - Helps you keep track of short-term tasks with deep dependencies.
+- [Auracle](https://benchristel.github.io/auracle) - A word generator for conlangs. Give it some examples of your desired aesthetic, and get more in return.
 - [Audition](https://github.com/benchristel/audition) - A command-line tool that keeps the prose description of your conlang up to date with its morphology and lexicon.
 - [The One Grammar to Rule Them All](https://github.com/benchristel/OGTRTA) - The Lisp of conlangs. A syntax template for people who don't want to think about syntax anymore.
 - [wwwebring](https://www.npmjs.com/package/wwwebring) - A fully clientside webring widget for static sites. Powers [the Wayward Web](https://waywardweb.org).
@@ -92,7 +92,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 - [GitLab](https://gitlab.com) - Hosts Git repositories.
 - [Visual Studio Code](https://code.visualstudio.com/) (vscode) - Pretty good out of the box, configurable, versatile, and free.
 - [JetBrains](https://www.jetbrains.com/) - Expensive, but they come with pretty incredible code intelligence and refactoring tools. Lots of stuff you'd have to configure yourself or use plugins for in other editors "just works" in JetBrains.
-- [NPM](https://npmjs.com) - Hosts NodeJS packages. Owned by Microsoft.
+- [NPM](https://npmjs.com) - Hosts NodeJS packages. Owned by Microsoft. See also the [NPM documentation](https://docs.npmjs.com).
 - [Rubygems](https://rubygems.org/) - Hosts Ruby gems.
 - [jsdelivr](https://jsdelivr.com/) - CDN that distributes code from NPM and GitHub, with neat features like automatic minification.
 - [Namecheap](https://namecheap.com/) - Domain registrar
@@ -102,10 +102,13 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 - [ESLint](https://eslint.org/) - I am experimenting with [eslint.style](https://eslint.style/) as a JavaScript/TypeScript formatter, replacing [Prettier](https://prettier.io/). See also [Anthony Fu's post "Why I don't use Prettier"](https://antfu.me/posts/why-not-prettier).
 - [Prettier](https://prettier.io) - because it's still the easiest formatter to set up, and I agree with 95% of its choices.
 - [TypeScript](https://typescriptlang.org/) - Statically-typed superset of JavaScript. Owned by Microsoft.
+- [Markdown](https://daringfireball.net/projects/markdown/) - Lightweight markup syntax that bridges the gap between plain text and HTML. Designed by [John Gruber](https://daringfireball.net).
 - [Preact](https://preactjs.com/) - Lightweight reactive UI library. Keeps the DOM up to date when your application state changes.
-- [Marked](https://marked.js.org/) - Markdown-to-HTML converter for NodeJS
+- [Marked](https://marked.js.org/) - [Markdown](https://daringfireball.net/projects/markdown/)-to-HTML converter for NodeJS
 - [CodeMirror](https://codemirror.net/) - Code editor by [Marijn Haverbeke](https://marijnhaverbeke.nl/)
-- [Cloudflare](https://cloudflare.com)
+- [Cloudflare](https://cloudflare.com) - Static/serverless web host and CDN.
+- [Render.com](https://render.com) - Web app hosting
+- [Gimp](https://gimp.org) - the GNU Image Manipulation Program. An open source image editor similar to Photoshop. See also the [Gimp documentation](https://docs.gimp.org)
 
 ### Tools I Have Used
 
@@ -134,6 +137,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 
 - [TinyPNG](https://tinypng.com/) - Reduces image filesizes.
 - [jsonpath.com](https://jsonpath.com/)
+- [Dillinger.io](https://dillinger.io) - Online [Markdown](https://daringfireball.net/projects/markdown/) editor
 
 ## Commerce
 
@@ -146,7 +150,10 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 
 ## Languages and Linguistics
 
-- [Ardalambion](https://ardalambion.org)
+- [Ardalambion](https://ardalambion.org) - Resources on J.R.R. Tolkien's elvish languages, by Helge Kåre Fauskanger.
+- [Eldamo.org](https://eldamo.org) - the ELvish DAta MOdel. Paul Strack's project to collect every word of Elvish in Tolkien's works into one searchable, cross-referenced database.
+- [English-Cornish Dictionary](https://cornishdictionary.org.uk/) - Gerlyver Kernewek
+- [The Conlang.org Database](https://database.conlang.org)
 
 ## List of Lists of Links
 
@@ -164,11 +171,14 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 - [Quote Investigator](https://quoteinvestigator.com)
 - [arxiv.org](https://arxiv.org)
 - [ResearchGate](https://www.researchgate.net/)
+- [U.S. Bureau of Labor Statistics](https://data.bls.gov)
 
 ## Other Web Curators
 
+- [Bookmark Beat](https://bookmarkbeat.substack.com/) by [Dani Sandoval](https://dreamindani.com/) (software-focused)
+- [Interestings for Iterators](https://dwf.bigpencil.net/posts/) by [Davis W. Frank](https://dwf.bigpencil.net) (software-focused)
 - [ytoo.org](https://ytoo.org)
-- [www.bruh.ltd](https://www.bruh.ltd)
+- [www.bruh.ltd](https://www.bruh.ltd) by Ruby Klover
 
 ## DuckDuckGo Bang Cheatsheet
 
