@@ -32,8 +32,11 @@ h3 { font-size: 110%; }
 h4 { font-size: 100%; }
 
 a:not(.webring-container *) {
-  text-decoration: none;
-  box-shadow: inset 0 -1px #0004;
+  text-decoration: underline;
+  text-decoration-color: #999;
+  text-decoration-skip-ink: none;
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 1px;
 }
 
 a:hover {
@@ -84,10 +87,16 @@ blockquote :is(em, i) {
   text-indent: 0;
 }
 
+.mdsite-breadcrumb > a::after {
+  display: inline-block;
+  padding-inline: 0.25em;
+  content: '/';
+}
+
     </style>
 	</head>
 	<body>
-    <div class="home-link"><a href="../index.html">Home</a></div>
+    <nav><nav aria-label="Breadcrumb" class="mdsite-breadcrumb"><a href="../index.html">Ben Christel’s Homepage</a></nav></nav>
 		<h1 id="heroes-of-might-and-magic-iv">Heroes of Might and Magic IV</h1>
 <ul>
 <li><a href="https://www.maps4heroes.com/heroes4/maps.php">maps4heroes.com</a> - A huge collection of high-quality player-made maps. See also my own <a href="https://github.com/benchristel/heroes-iv-map-archive">map archive</a>.</li>
@@ -102,8 +111,8 @@ blockquote :is(em, i) {
 <li><p><a href="https://www.youtube.com/watch?v=dCplc44r-LU">Dryante Zan&#39;s cover of &quot;Floating Across Water&quot;</a></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dCplc44r-LU" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></li>
 </ul>
-    <div class="home-link footer-home-link">
+    <nav class="home-link footer-home-link">
       <a href="../index.html">Home</a>
-    </div>
+    </nav>
 	</body>
 </html>

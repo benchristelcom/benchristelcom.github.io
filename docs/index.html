@@ -32,8 +32,11 @@ h3 { font-size: 110%; }
 h4 { font-size: 100%; }
 
 a:not(.webring-container *) {
-  text-decoration: none;
-  box-shadow: inset 0 -1px #0004;
+  text-decoration: underline;
+  text-decoration-color: #999;
+  text-decoration-skip-ink: none;
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 1px;
 }
 
 a:hover {
@@ -84,10 +87,16 @@ blockquote :is(em, i) {
   text-indent: 0;
 }
 
+.mdsite-breadcrumb > a::after {
+  display: inline-block;
+  padding-inline: 0.25em;
+  content: '/';
+}
+
     </style>
 	</head>
 	<body>
-    <div class="home-link"><a href="index.html">Home</a></div>
+    <nav><nav aria-label="Breadcrumb" class="mdsite-breadcrumb"></nav></nav>
 		<h1 id="ben-christels-homepage">Ben Christel’s Homepage</h1>
 <div id="tree"></div>
 
@@ -106,7 +115,7 @@ blockquote :is(em, i) {
 
 <style>
 
-.home-link {
+.home-link, .breadcrumb {
   display: none;
 }
 
@@ -138,8 +147,8 @@ div.wwwebring-widget {
 }
 
 </style>
-    <div class="home-link footer-home-link">
+    <nav class="home-link footer-home-link">
       <a href="index.html">Home</a>
-    </div>
+    </nav>
 	</body>
 </html>

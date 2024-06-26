@@ -16,7 +16,7 @@
 
 <style>
 
-.home-link {
+.home-link, .breadcrumb {
   display: none;
 }
 

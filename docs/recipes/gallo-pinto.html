@@ -32,8 +32,11 @@ h3 { font-size: 110%; }
 h4 { font-size: 100%; }
 
 a:not(.webring-container *) {
-  text-decoration: none;
-  box-shadow: inset 0 -1px #0004;
+  text-decoration: underline;
+  text-decoration-color: #999;
+  text-decoration-skip-ink: none;
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 1px;
 }
 
 a:hover {
@@ -84,10 +87,16 @@ blockquote :is(em, i) {
   text-indent: 0;
 }
 
+.mdsite-breadcrumb > a::after {
+  display: inline-block;
+  padding-inline: 0.25em;
+  content: '/';
+}
+
     </style>
 	</head>
 	<body>
-    <div class="home-link"><a href="../index.html">Home</a></div>
+    <nav><nav aria-label="Breadcrumb" class="mdsite-breadcrumb"><a href="../index.html">Ben Christel’s Homepage</a><a href="index.html">Favorite Recipes</a></nav></nav>
 		<h1 id="gallo-pinto">Gallo Pinto</h1>
 <h2 id="ingredients">Ingredients</h2>
 <ul>
@@ -115,8 +124,8 @@ blockquote :is(em, i) {
 <h2 id="notes">Notes</h2>
 <p>It&#39;s amazing how good rice and beans can be. Even if you&#39;re like me and don&#39;t like cilantro, I recommend trying it out in this recipe. Cooked cilantro is much more mild than fresh.</p>
 <p>You&#39;ll need a very large pan to cook all the beans and rice in Act 2. Fortunately, this is the kind of thing where you can quickly cook small batches as you need them.</p>
-    <div class="home-link footer-home-link">
+    <nav class="home-link footer-home-link">
       <a href="../index.html">Home</a>
-    </div>
+    </nav>
 	</body>
 </html>

@@ -32,8 +32,11 @@ h3 { font-size: 110%; }
 h4 { font-size: 100%; }
 
 a:not(.webring-container *) {
-  text-decoration: none;
-  box-shadow: inset 0 -1px #0004;
+  text-decoration: underline;
+  text-decoration-color: #999;
+  text-decoration-skip-ink: none;
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 1px;
 }
 
 a:hover {
@@ -84,10 +87,16 @@ blockquote :is(em, i) {
   text-indent: 0;
 }
 
+.mdsite-breadcrumb > a::after {
+  display: inline-block;
+  padding-inline: 0.25em;
+  content: '/';
+}
+
     </style>
 	</head>
 	<body>
-    <div class="home-link"><a href="../index.html">Home</a></div>
+    <nav><nav aria-label="Breadcrumb" class="mdsite-breadcrumb"><a href="../index.html">Ben Christel’s Homepage</a><a href="index.html">Favorite Recipes</a></nav></nav>
 		<h1 id="apple-pide">Apple Pide</h1>
 <p>Serves 4. Dough recipe is adapted from <a href="https://binnurturkishcookbook.blogspot.com/">https://binnurturkishcookbook.blogspot.com/</a></p>
 <h2 id="hardware">Hardware</h2>
@@ -139,8 +148,8 @@ blockquote :is(em, i) {
 <p>Place the dough on a lightly floured board and press the air out of it. Cut into 4 pieces, cover with a damp towel, and put aside for  15 minutes. Roll the pieces out on the floured board, and transfer to an oven tray covered with parchment paper. Spread the apples and grated cheese in the middle. Fold and pinch the edges of the dough to make a boat-shaped crust. Brush the yogurt onto the crust. Sprinkle the crust with sesame seeds.</p>
 <p>Place the tray on the middle rack and bake for 12-15 minutes.</p>
 <p>Garnish with parsley, lemon wedges (for juice), and maple syrup.</p>
-    <div class="home-link footer-home-link">
+    <nav class="home-link footer-home-link">
       <a href="../index.html">Home</a>
-    </div>
+    </nav>
 	</body>
 </html>

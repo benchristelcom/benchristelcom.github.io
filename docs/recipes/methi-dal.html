@@ -32,8 +32,11 @@ h3 { font-size: 110%; }
 h4 { font-size: 100%; }
 
 a:not(.webring-container *) {
-  text-decoration: none;
-  box-shadow: inset 0 -1px #0004;
+  text-decoration: underline;
+  text-decoration-color: #999;
+  text-decoration-skip-ink: none;
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 1px;
 }
 
 a:hover {
@@ -84,10 +87,16 @@ blockquote :is(em, i) {
   text-indent: 0;
 }
 
+.mdsite-breadcrumb > a::after {
+  display: inline-block;
+  padding-inline: 0.25em;
+  content: '/';
+}
+
     </style>
 	</head>
 	<body>
-    <div class="home-link"><a href="../index.html">Home</a></div>
+    <nav><nav aria-label="Breadcrumb" class="mdsite-breadcrumb"><a href="../index.html">Ben Christel’s Homepage</a><a href="index.html">Favorite Recipes</a></nav></nav>
 		<h1 id="methi-dal">Methi Dal</h1>
 <p>Red lentils with fenugreek. Serves 10.</p>
 <h2 id="ingredients">Ingredients</h2>
@@ -138,8 +147,8 @@ Be careful not to overcook the lentils. They should take about 20 minutes.</p>
 <p>When the tempering is done, add it to the lentils so the flavors have time to blend.</p>
 <h2 id="serving-suggestions">Serving suggestions</h2>
 <p><a href="brown-rice.html">Brown Rice</a></p>
-    <div class="home-link footer-home-link">
+    <nav class="home-link footer-home-link">
       <a href="../index.html">Home</a>
-    </div>
+    </nav>
 	</body>
 </html>

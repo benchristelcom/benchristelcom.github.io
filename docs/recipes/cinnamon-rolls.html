@@ -32,8 +32,11 @@ h3 { font-size: 110%; }
 h4 { font-size: 100%; }
 
 a:not(.webring-container *) {
-  text-decoration: none;
-  box-shadow: inset 0 -1px #0004;
+  text-decoration: underline;
+  text-decoration-color: #999;
+  text-decoration-skip-ink: none;
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 1px;
 }
 
 a:hover {
@@ -84,10 +87,16 @@ blockquote :is(em, i) {
   text-indent: 0;
 }
 
+.mdsite-breadcrumb > a::after {
+  display: inline-block;
+  padding-inline: 0.25em;
+  content: '/';
+}
+
     </style>
 	</head>
 	<body>
-    <div class="home-link"><a href="../index.html">Home</a></div>
+    <nav><nav aria-label="Breadcrumb" class="mdsite-breadcrumb"><a href="../index.html">Ben Christel’s Homepage</a><a href="index.html">Favorite Recipes</a></nav></nav>
 		<h1 id="cinnamon-rolls">Cinnamon Rolls</h1>
 <p>A Christmas tradition! Adapted from the Tassajara Bread Book. Serves 18. If you don&#39;t have 18 people coming over, great! You&#39;ll have leftovers for New Year&#39;s!</p>
 <p>Takes about 4 hours, partly &#39;cause I&#39;m slow, but also because there&#39;s about 2:40 of rising and baking time.</p>
@@ -189,8 +198,8 @@ blockquote :is(em, i) {
 <ul>
 <li>Dec 25, 2018: We made two pans of 7 rolls each and they ended up kind of huge. They were slightly underdone after 35 minutes, and there were no gaps between the rolls in the pan so the expanding honey just overflowed into the oven. I have increased the recommended number of rolls from 14 to 18.</li>
 </ul>
-    <div class="home-link footer-home-link">
+    <nav class="home-link footer-home-link">
       <a href="../index.html">Home</a>
-    </div>
+    </nav>
 	</body>
 </html>

@@ -32,8 +32,11 @@ h3 { font-size: 110%; }
 h4 { font-size: 100%; }
 
 a:not(.webring-container *) {
-  text-decoration: none;
-  box-shadow: inset 0 -1px #0004;
+  text-decoration: underline;
+  text-decoration-color: #999;
+  text-decoration-skip-ink: none;
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 1px;
 }
 
 a:hover {
@@ -84,10 +87,16 @@ blockquote :is(em, i) {
   text-indent: 0;
 }
 
+.mdsite-breadcrumb > a::after {
+  display: inline-block;
+  padding-inline: 0.25em;
+  content: '/';
+}
+
     </style>
 	</head>
 	<body>
-    <div class="home-link"><a href="../index.html">Home</a></div>
+    <nav><nav aria-label="Breadcrumb" class="mdsite-breadcrumb"><a href="../index.html">Ben Christel’s Homepage</a><a href="index.html">Favorite Recipes</a></nav></nav>
 		<h1 id="ethiopian-lentils">Ethiopian Lentils</h1>
 <p>Serves: a bunch</p>
 <h2 id="ingredients">Ingredients</h2>
@@ -118,8 +127,8 @@ blockquote :is(em, i) {
 <li>Bring to a boil and simmer 30 minutes or until sweet potatoes are just cooked through.</li>
 <li>Stir in chopped kale and simmer 5 minutes or until kale is cooked.</li>
 </ol>
-    <div class="home-link footer-home-link">
+    <nav class="home-link footer-home-link">
       <a href="../index.html">Home</a>
-    </div>
+    </nav>
 	</body>
 </html>

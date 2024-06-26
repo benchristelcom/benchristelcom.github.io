@@ -8,3 +8,4 @@ recipes
 shopping-list.html
 software.html
 techhist.html
+thoughts-on

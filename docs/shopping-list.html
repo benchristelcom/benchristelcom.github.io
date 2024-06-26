@@ -32,8 +32,11 @@ h3 { font-size: 110%; }
 h4 { font-size: 100%; }
 
 a:not(.webring-container *) {
-  text-decoration: none;
-  box-shadow: inset 0 -1px #0004;
+  text-decoration: underline;
+  text-decoration-color: #999;
+  text-decoration-skip-ink: none;
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 1px;
 }
 
 a:hover {
@@ -84,10 +87,16 @@ blockquote :is(em, i) {
   text-indent: 0;
 }
 
+.mdsite-breadcrumb > a::after {
+  display: inline-block;
+  padding-inline: 0.25em;
+  content: '/';
+}
+
     </style>
 	</head>
 	<body>
-    <div class="home-link"><a href="index.html">Home</a></div>
+    <nav><nav aria-label="Breadcrumb" class="mdsite-breadcrumb"><a href="index.html">Ben Christel’s Homepage</a></nav></nav>
 		<h1 id="the-one-shopping-list-to-rule-them-all">The One Shopping List... TO RULE THEM ALL!</h1>
 <h2 id="breakfast">Breakfast</h2>
 <ul>
@@ -135,8 +144,8 @@ blockquote :is(em, i) {
 <li>Bulgar</li>
 <li>Sriracha</li>
 </ul>
-    <div class="home-link footer-home-link">
+    <nav class="home-link footer-home-link">
       <a href="index.html">Home</a>
-    </div>
+    </nav>
 	</body>
 </html>
