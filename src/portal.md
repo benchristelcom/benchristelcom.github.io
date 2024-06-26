@@ -38,9 +38,10 @@ This page aims to be a comprehensive directory of my most-loved and most-used we
 
 {{toc /recipes}}
 
-### On Other Sites
+### Recipes Elsewhere
 
 - [Cedar Down Farm](https://cedardownfarm.ca/)
+- [Greg Lehey's Recipes](http://www.lemis.com/grog/recipes/recipes.php)
 
 ## Music
 
@@ -49,6 +50,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 ## Software Development
 
 - [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/), by Eric S. Raymond. Comprehensive, eloquent, and mind-expanding. If you only read one book on software design and development, this should be it.
+- [John Lions' "Commentary on the Sixth Edition Unix Operating System"](http://www.lemis.com/grog/Documentation/Lions/)
 - [Beautiful Software](https://www.buildingbeauty.org/beautiful-software) - a course in Christopher Alexander's methods and philosophy, for software people.
 - [Refactoring.com](https://refactoring.com/) - Martin Fowler's site with descriptions of the refactorings from his book _Refactoring: Improving the Design of Existing Code_.
 - [Dreamsongs.com](https://dreamsongs.com) - Richard P. Gabriel's personal site, containing his poetry and essays about Lisp, Christopher Alexander, and software.
