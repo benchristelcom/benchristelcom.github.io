@@ -243,7 +243,6 @@ div.wwwebring-widget {
 ul > li {
   list-style-type: none;
   text-indent: -1em;
-  margin-block: 0.5em;
 }
 
 /* ensure scrollbar tracks are displayed even if the page content
