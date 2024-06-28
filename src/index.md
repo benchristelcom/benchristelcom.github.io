@@ -9,7 +9,7 @@
 - [Personal Wiki](https://github.com/benchristel/benchristel.github.io/wiki)
 - [Blog (defunct)](https://benchristel.github.io/)
 - [Web Portal](portal.html)
-- [Résumé](/resumes/latest.pdf)
+- [Résumé](/resumes/Ben_Christel_Resume_2024.pdf)
 - [email](mailto:ben.christel@gmail.com)
 
 </div>
