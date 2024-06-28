@@ -49,7 +49,29 @@ li a:first-of-type {
 }
 
 li {
-  margin-block: 0.75em;
+  margin-block-end: 0.75em;
+  break-inside: avoid-column;
+}
+
+.col-2 + * {
+  column-count: 2;
+  column-gap: 4em;
+}
+
+.col-3 + * {
+  column-count: 3;
+  column-gap: 4em;
+}
+
+@media (max-width: 760px) {
+  .col-2 + * {
+    column-count: 1;
+    column-gap: 4em;
+  }
+
+  .col-3 + * {
+    column-count: 1;
+  }
 }
 
 .footer-home-link {
@@ -108,6 +130,8 @@ blockquote :is(em, i) {
 <div data-hypersearch-start></div>
 
 <h2 id="my-projects">My Projects</h2>
+<div class="col-2"></div>
+
 <ul>
 <li><a href="https://benchristel.github.io/process-to-processes"><em>Process to Processes</em></a> - A draft of my upcoming book about software development</li>
 <li><a href="https://bensguide.substack.com">Ben&#39;s Guide to Software Development</a> - A newsletter about the book</li>
@@ -131,7 +155,9 @@ blockquote :is(em, i) {
 </ul>
 <h2 id="food">Food</h2>
 <h3 id="favorite-recipes">Favorite Recipes</h3>
-<p><ul><li><a href="recipes/apple-pide.html">Apple Pide</a></li><li><a href="recipes/quinoa-black-bean-chili.html">Black Bean Chili</a></li><li><a href="recipes/brazilian-black-bean-soup.html">Brazilian Black Bean Soup</a></li><li><a href="recipes/butter-icing.html">Butter Icing</a></li><li><a href="recipes/butternut-squash-soup.html">Butternut Squash Soup</a></li><li><a href="recipes/cardamom-steamed-milk.html">Cardamom Steamed Milk</a></li><li><a href="recipes/chana-masala.html">Chana Masala</a></li><li><a href="recipes/cinnamon-rolls.html">Cinnamon Rolls</a></li><li><a href="recipes/dal-makhani.html">Dal Makhani</a></li><li><a href="recipes/ethiopian-lentils.html">Ethiopian Lentils</a></li><li><a href="recipes/farro.html">Farro</a></li><li><a href="recipes/french-lentil-soup.html">French Lentil Soup</a></li><li><a href="recipes/lentil-soup.html">French Lentil Soup</a></li><li><a href="recipes/firinda-sebzeli-nohutlu-turlu.html">Fırında Sebzeli Nohutlu Türlü</a></li><li><a href="recipes/gallo-pinto.html">Gallo Pinto</a></li><li><a href="recipes/ghormeh-sabzi.html">Ghormeh Sabzi</a></li><li><a href="recipes/hummus.html">Hummus</a></li><li><a href="recipes/impossible-meatballs.html">Impossible Meatballs</a></li><li><a href="recipes/japanese-eggplant-curry.html">Japanese Curry with Fried Eggplant</a></li><li><a href="recipes/lembas.html">Lembas (Coimas)</a></li><li><a href="recipes/mediterranean-lentils.html">Mediterranean Lentil Soup</a></li><li><a href="recipes/methi-dal.html">Methi Dal</a></li><li><a href="recipes/oatmeal-and-coffee.html">Oatmeal and Coffee</a></li><li><a href="recipes/peanut-soup.html">Peanut Soup</a></li><li><a href="recipes/brown-rice.html">Perfect Brown Rice Without a Rice Cooker</a></li><li><a href="recipes/pumpkin-muffins.html">Pumpkin Muffins</a></li><li><a href="recipes/purple-lentil-soup.html">Purple Lentil Soup</a></li><li><a href="recipes/queen-of-sheba-chocolate-cake.html">Queen of Sheba Chocolate Cake</a></li><li><a href="recipes/quinoa-mint-salad.html">Quinoa Mint Salad</a></li><li><a href="recipes/ribollita.html">Ribollita</a></li><li><a href="recipes/soy-sauce-lentil-soup.html">Soy Sauce Lentil Soup</a></li><li><a href="recipes/sundubu-jjigae.html">Sundubu Jjigae (soft tofu soup)</a></li><li><a href="recipes/thai-red-curry.html">Thai Red Curry</a></li><li><a href="recipes/thai-stir-fry-with-peanut-sauce.html">Thai Stir-Fry with Peanut Sauce</a></li><li><a href="recipes/shopping-list.html">The One Shopping List... TO RULE THEM ALL!</a></li><li><a href="recipes/tofu-bibimbap.html">Tofu Bibimbap</a></li><li><a href="recipes/tortilla-casserole.html">Tortilla Casserole</a></li><li><a href="recipes/spinach-pide.html">Turkish Spinach Pide</a></li></ul></p>
+<div class="col-3"></div>
+<ul><li><a href="recipes/apple-pide.html">Apple Pide</a></li><li><a href="recipes/quinoa-black-bean-chili.html">Black Bean Chili</a></li><li><a href="recipes/brazilian-black-bean-soup.html">Brazilian Black Bean Soup</a></li><li><a href="recipes/butter-icing.html">Butter Icing</a></li><li><a href="recipes/butternut-squash-soup.html">Butternut Squash Soup</a></li><li><a href="recipes/cardamom-steamed-milk.html">Cardamom Steamed Milk</a></li><li><a href="recipes/chana-masala.html">Chana Masala</a></li><li><a href="recipes/cinnamon-rolls.html">Cinnamon Rolls</a></li><li><a href="recipes/dal-makhani.html">Dal Makhani</a></li><li><a href="recipes/ethiopian-lentils.html">Ethiopian Lentils</a></li><li><a href="recipes/farro.html">Farro</a></li><li><a href="recipes/french-lentil-soup.html">French Lentil Soup</a></li><li><a href="recipes/lentil-soup.html">French Lentil Soup</a></li><li><a href="recipes/firinda-sebzeli-nohutlu-turlu.html">Fırında Sebzeli Nohutlu Türlü</a></li><li><a href="recipes/gallo-pinto.html">Gallo Pinto</a></li><li><a href="recipes/ghormeh-sabzi.html">Ghormeh Sabzi</a></li><li><a href="recipes/hummus.html">Hummus</a></li><li><a href="recipes/impossible-meatballs.html">Impossible Meatballs</a></li><li><a href="recipes/japanese-eggplant-curry.html">Japanese Curry with Fried Eggplant</a></li><li><a href="recipes/lembas.html">Lembas (Coimas)</a></li><li><a href="recipes/mediterranean-lentils.html">Mediterranean Lentil Soup</a></li><li><a href="recipes/methi-dal.html">Methi Dal</a></li><li><a href="recipes/oatmeal-and-coffee.html">Oatmeal and Coffee</a></li><li><a href="recipes/peanut-soup.html">Peanut Soup</a></li><li><a href="recipes/brown-rice.html">Perfect Brown Rice Without a Rice Cooker</a></li><li><a href="recipes/pumpkin-muffins.html">Pumpkin Muffins</a></li><li><a href="recipes/purple-lentil-soup.html">Purple Lentil Soup</a></li><li><a href="recipes/queen-of-sheba-chocolate-cake.html">Queen of Sheba Chocolate Cake</a></li><li><a href="recipes/quinoa-mint-salad.html">Quinoa Mint Salad</a></li><li><a href="recipes/ribollita.html">Ribollita</a></li><li><a href="recipes/soy-sauce-lentil-soup.html">Soy Sauce Lentil Soup</a></li><li><a href="recipes/sundubu-jjigae.html">Sundubu Jjigae (soft tofu soup)</a></li><li><a href="recipes/thai-red-curry.html">Thai Red Curry</a></li><li><a href="recipes/thai-stir-fry-with-peanut-sauce.html">Thai Stir-Fry with Peanut Sauce</a></li><li><a href="recipes/shopping-list.html">The One Shopping List... TO RULE THEM ALL!</a></li><li><a href="recipes/tofu-bibimbap.html">Tofu Bibimbap</a></li><li><a href="recipes/tortilla-casserole.html">Tortilla Casserole</a></li><li><a href="recipes/spinach-pide.html">Turkish Spinach Pide</a></li></ul>
+
 <h3 id="recipes-elsewhere">Recipes Elsewhere</h3>
 <ul>
 <li><a href="https://cedardownfarm.ca/">Cedar Down Farm</a></li>
@@ -140,6 +166,8 @@ blockquote :is(em, i) {
 <h2 id="music">Music</h2>
 <p>See Channel 3 of <a href="https://benchristel.github.io/tv/">Culture Machine</a></p>
 <h2 id="software-development">Software Development</h2>
+<div class="col-2"></div>
+
 <ul>
 <li><a href="http://www.catb.org/esr/writings/taoup/html/">The Art of Unix Programming</a>, by Eric S. Raymond. Comprehensive, eloquent, and mind-expanding. If you only read one book on software design and development, this should be it.</li>
 <li><a href="http://www.lemis.com/grog/Documentation/Lions/">John Lions&#39; &quot;Commentary on the Sixth Edition Unix Operating System&quot;</a></li>
@@ -177,6 +205,8 @@ blockquote :is(em, i) {
 <li><a href="https://lawsofux.com/">Laws of UX</a> - Facts about humans that every designer should keep in mind!</li>
 </ul>
 <h3 id="tools-i-currently-use">Tools I Currently Use</h3>
+<div class="col-2"></div>
+
 <ul>
 <li><a href="https://frame.work">Framework Laptops</a> - I use a 13-inch Framework running Linux Mint.</li>
 <li><a href="https://www.wasdkeyboards.com">WASD Keyboards</a></li>

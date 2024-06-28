@@ -12,6 +12,8 @@ This page aims to be a comprehensive directory of my most-loved and most-used we
 
 ## My Projects
 
+<div class="col-2"></div>
+
 - [_Process to Processes_](https://benchristel.github.io/process-to-processes) - A draft of my upcoming book about software development
 - [Ben's Guide to Software Development](https://bensguide.substack.com) - A newsletter about the book
 - [Bliki](https://github.com/benchristel/benchristel.github.io/wiki) - My personal blog/wiki about software, with 250+ topic-focused pages on everything from [abstraction](https://github.com/benchristel/benchristel.github.io/wiki/Abstraction) to [wholeness](https://github.com/benchristel/benchristel.github.io/wiki/Wholeness).
@@ -36,6 +38,7 @@ This page aims to be a comprehensive directory of my most-loved and most-used we
 
 ### Favorite Recipes
 
+<div class="col-3"></div>
 {{toc /recipes}}
 
 ### Recipes Elsewhere
@@ -48,6 +51,8 @@ This page aims to be a comprehensive directory of my most-loved and most-used we
 See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 
 ## Software Development
+
+<div class="col-2"></div>
 
 - [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/), by Eric S. Raymond. Comprehensive, eloquent, and mind-expanding. If you only read one book on software design and development, this should be it.
 - [John Lions' "Commentary on the Sixth Edition Unix Operating System"](http://www.lemis.com/grog/Documentation/Lions/)
@@ -85,6 +90,8 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 - [Laws of UX](https://lawsofux.com/) - Facts about humans that every designer should keep in mind!
 
 ### Tools I Currently Use
+
+<div class="col-2"></div>
 
 - [Framework Laptops](https://frame.work) - I use a 13-inch Framework running Linux Mint.
 - [WASD Keyboards](https://www.wasdkeyboards.com)
