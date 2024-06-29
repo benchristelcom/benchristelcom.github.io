@@ -50,6 +50,11 @@ This page aims to be a comprehensive directory of my most-loved and most-used we
 
 See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 
+## Reviving Civilization
+
+- [Diome](https://diome.xyz/0+%F0%9F%8C%9E+About/0.0+Technology+for+a+Regenerative+Civilization) - Technology for a regenerative civilization. By Andrea Farias.
+- [Life Itself](https://lifeitself.org/)
+
 ## Software Development
 
 <div class="col-2"></div>
