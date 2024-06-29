@@ -1,6 +1,6 @@
 # Apple Pide
 
-Serves 4. Dough recipe is adapted from [https://binnurturkishcookbook.blogspot.com/](https://binnurturkishcookbook.blogspot.com/)
+Serves 4. Dough recipe is adapted from <https://binnurturkishcookbook.blogspot.com/>.
 
 ## Hardware
 

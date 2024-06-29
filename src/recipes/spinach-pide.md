@@ -1,6 +1,6 @@
 # Turkish Spinach Pide
 
-Serves 4. Adapted from [www.turkishcookbook.com](http://www.turkishcookbook.com/)
+Serves 4. Adapted from <https://binnurturkishcookbook.blogspot.com/>.
 
 ## Hardware
 
