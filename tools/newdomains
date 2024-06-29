@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# This script prints domains that are in the given file ($1) but are not
+# listed by the `domains` script (i.e. not in src/).
+
+REPO_ROOT="$(cd "$(dirname "$0")" && pwd)"/..
+
+FILE="$1"
+if [ -z "$FILE" ]; then
+  >&2 echo "Usage: tools/newdomains history.txt"
+  >&2 echo "The history.txt file should contain one URL per line"
+  exit 1
+fi
+
+diff <(
+  cat "$FILE" \
+    | cut -d/ -f3 \
+    | cut -d: -f1 \
+    | sort \
+    | uniq
+) <("$REPO_ROOT/tools/domains") | ag '< ' | sed -e 's/< /https:\/\//'
