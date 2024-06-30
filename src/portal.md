@@ -90,6 +90,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 - [caniuse.com](https://caniuse.com) - Find out which browsers support a given feature (in JavaScript, CSS, HTML, or SVG).
 - [C++ Reference](https://en.cppreference.com/w/)
 - [MemoryManagement.org](https://www.memorymanagement.org/) - Approaches to garbage collection and more.
+- [RSS 2.0 Specification](https://cyber.harvard.edu/rss/rss.html)
 
 ### Q&A
 
