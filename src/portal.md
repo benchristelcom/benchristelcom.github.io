@@ -53,6 +53,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 ## Meditation
 
 - [Rational Dharma](https://rationaldharma.com/) - no-nonsense explanations of how meditation works.
+- [Effects of Two Online Positive Psychology and Meditation Programs on Persistent Self-Transcendence](https://psycnet.apa.org/fulltext/2021-81896-001.html) - research on enlightenment
 
 ## Reviving Civilization
 
