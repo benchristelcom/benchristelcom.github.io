@@ -91,6 +91,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 - [C++ Reference](https://en.cppreference.com/w/)
 - [MemoryManagement.org](https://www.memorymanagement.org/) - Approaches to garbage collection and more.
 - [RSS 2.0 Specification](https://cyber.harvard.edu/rss/rss.html)
+- [Atom Syndication Format Specification](https://www.rfc-editor.org/rfc/rfc4287)
 
 ### Q&A
 
@@ -157,6 +158,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 - [zed](https://zed.dev/) - An editor designed for remote pair programming. Unfortunately, there's no Linux support yet, though one can [build from source](https://zed.dev/docs/development/linux) on Linux.
 - [Fly.io](https://fly.io) - web server hosting
 - [Gource](https://gource.io/) - visualize Git repo history as an animated graph
+- [Milkdown](https://milkdown.dev/) - a framework for WYSIWYG/markdown combo editors. Write markdown that converts to rich text as you type. Made by [Mirone](https://mirone.me/).
 
 ## Image Repositories
 
