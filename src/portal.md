@@ -2,7 +2,7 @@
 
 <div class="centered-text">
 
-This page aims to be a comprehensive directory of my most-loved and most-used web resources. It's not quite done yet.
+This page aims to be a comprehensive directory of my most-loved and most-used web resources. As of June 30, 2024, it links to approximately 162 domains.
 
 </div>
 
@@ -48,7 +48,11 @@ This page aims to be a comprehensive directory of my most-loved and most-used we
 
 ## Music
 
-See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
+See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
+
+### Buy Music
+
+- [Qobuz](https://www.qobuz.com) - High-quality MP3 downloads. They have an extensive catalog (including every obscure album I've searched for so far).
 
 ## Meditation
 
@@ -75,6 +79,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/)
 - [Pivotal Alumni Codex](https://alumni-codex.github.io/) - Resources compiled by former Pivots, including lists of [recommended tech videos](https://alumni-codex.github.io/engineering/tech-videos/), [Pivotal Labs-like consultancies](https://alumni-codex.github.io/consultancies/), [developer tools](https://alumni-codex.github.io/tools/) and [newsletters](https://alumni-codex.github.io/newsletters/). Maintained by [Davis W. Frank](https://dwf.bigpencil.net/).
 - [The C2 Wiki](https://wiki.c2.com/) - the original Wiki. Code by Ward Cunningham, text by many contributors.
 - [Eloquent Javascript](https://eloquentjavascript.net/) - web book by [Marijn Haverbeke](https://marijnhaverbeke.nl/)
+- [Crafting Interpreters](https://craftinginterpreters.com/) - If you've ever wanted to make your own programming language, this is the book for you. By Robert Nystrom. Available in print and (free!) HTML.
 - [The Beautiful Mess](https://cutlefish.substack.com) - John Cutler's newsletter on product management and software development.
 
 ### Reference
