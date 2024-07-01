@@ -1,0 +1,17 @@
+#!/bin/bash
+
+REPO_ROOT="$(cd "$(dirname "$0")" && pwd)"/..
+
+"$REPO_ROOT"/tools/domains | while read domain; do
+  if [ "$domain" == "" ]; then
+    continue
+  fi
+
+  echo "+$domain"
+  if [ "$(<<<"$domain" tr -cd .)" == . ] || <<<"$domain" grep -q '^www\.'; then
+    # this is an apex domain
+    <<<"$domain" sed -E 's/^(www\.)?/+*./'
+  fi
+done
+
+cat "$REPO_ROOT"/tools/leechblock-allowlist.txt

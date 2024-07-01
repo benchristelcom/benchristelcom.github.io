@@ -1,0 +1,6 @@
++youtube.com/@*
++youtube.com/channel*
++youtube.com/playlist*
++youtube.com/results
++youtube.com/results*
++youtube.com/watch*
