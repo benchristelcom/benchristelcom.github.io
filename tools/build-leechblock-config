@@ -2,6 +2,10 @@
 
 REPO_ROOT="$(cd "$(dirname "$0")" && pwd)"/..
 
+# block all URLs by default
+echo "*"
+
+# generate allowlist from links
 "$REPO_ROOT"/tools/domains | while read domain; do
   if [ "$domain" == "" ]; then
     continue
@@ -14,4 +18,5 @@ REPO_ROOT="$(cd "$(dirname "$0")" && pwd)"/..
   fi
 done
 
+# append explicit allowlist
 cat "$REPO_ROOT"/tools/leechblock-allowlist.txt
