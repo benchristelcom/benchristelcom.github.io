@@ -2,23 +2,30 @@
 
 REPO_ROOT="$(cd "$(dirname "$0")" && pwd)"/..
 
-# block all URLs by default
-echo "*"
+# some domains are "quarantined" - we allow links to specific pages
+# within them, but not links to that domain in general. Specific
+# allowed pages are listed in leechblock-allowlist.txt
+QUARANTINED_REGEX='youtube.com'
 
-# generate allowlist from links
-"$REPO_ROOT"/tools/domains \
-  | (while read domain; do
-    if [ "$domain" == "" ]; then
-      continue
-    fi
+(
+  # block all URLs by default
+  echo "*"
 
-    echo "+$domain"
-    if [ "$(<<<"$domain" tr -cd .)" == . ] || <<<"$domain" grep -q '^www\.'; then
-      # this is an apex domain
-      <<<"$domain" sed -E 's/^(www\.)?/+*./'
-    fi
-  done) \
-  | grep -v "youtube.com"
+  # generate allowlist from links
+  "$REPO_ROOT"/tools/domains \
+    | (while read domain; do
+      if [ "$domain" == "" ]; then
+        continue
+      fi
 
-# append explicit allowlist
-cat "$REPO_ROOT"/tools/leechblock-allowlist.txt
+      echo "+$domain"
+      if [ "$(<<<"$domain" tr -cd .)" == . ] || <<<"$domain" grep -q '^www\.'; then
+        # this is an apex domain
+        <<<"$domain" sed -E 's/^(www\.)?/+*./'
+      fi
+    done) \
+    | grep -v "$QUARANTINED_REGEX"
+
+  # append explicit allowlist
+  cat "$REPO_ROOT"/tools/leechblock-allowlist.txt
+) > "$REPO_ROOT"/src/leechblock.txt
