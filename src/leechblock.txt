@@ -291,6 +291,8 @@
 +datatracker.ietf.org
 +datawiz.io
 +*.datawiz.io
++date-fns.org
++*.date-fns.org
 +davemcnally.com
 +*.davemcnally.com
 +davereedme.substack.com
@@ -298,6 +300,7 @@
 +*.daverupert.com
 +davewest.us
 +*.davewest.us
++day.js.org
 +decisionmatrix.app
 +*.decisionmatrix.app
 +dedalvs.com
@@ -646,6 +649,8 @@
 +*.json.org
 +jsonpath.com
 +*.jsonpath.com
++js.org
++*.js.org
 +jsxgraph.org
 +*.jsxgraph.org
 +junit.sourceforge.net
@@ -946,6 +951,7 @@
 +pablo.rauzy.name
 +packagehub.suse.com
 +packages.fedoraproject.org
++pages.github.com
 +paint.toys
 +*.paint.toys
 +paloalto.bibliocommons.com

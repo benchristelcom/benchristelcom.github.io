@@ -109,6 +109,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [EU.org](https://nic.eu.org/) - Free subdomain names for individuals and nonprofits.
 - [surge.sh](https://surge.sh) - Put any folder of HTML files on the web instantly.
 - [codeberg.org](https://codeberg.org/) - Free indie git hosting.
+- [js.org](https://js.org) - Free subdomains for JavaScript projects using [GitHub Pages](https://pages.github.com/).
 
 ### UI/UX Design
 
@@ -164,6 +165,8 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Fly.io](https://fly.io) - web server hosting
 - [Gource](https://gource.io/) - visualize Git repo history as an animated graph
 - [Milkdown](https://milkdown.dev/) - a framework for WYSIWYG/markdown combo editors. Write markdown that converts to rich text as you type. Made by [Mirone](https://mirone.me/).
+- [day.js](https://day.js.org/) - a JavaScript library for date/time calculations.
+- [date-fns](https://date-fns.org/) - another JavaScript library for date/time calculations.
 
 ## Image Repositories
 
