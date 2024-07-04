@@ -1668,6 +1668,8 @@
 +*.htmlsymbol.com
 +www.hungarianreference.com
 +*.hungarianreference.com
++www.hyrumslaw.com
++*.hyrumslaw.com
 +www.ibm.com
 +*.ibm.com
 +www.iconsdb.com

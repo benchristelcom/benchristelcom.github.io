@@ -1,0 +1,21 @@
+#!/bin/bash
+
+HISTORY="${1:-/tmp/history.txt}"
+
+if ! [ -f "$HISTORY" ]; then
+  >&2 echo "History file not found: $HISTORY"
+  exit 1
+fi
+
+MOSTLY_HARMLESS='bastionhome\.github\.io|benchristel\.github\.io/meditation|benchristel\.com/portal\.html'
+
+echo -n "Pages visited:   "
+<"$HISTORY" \
+  ag -v "$MOSTLY_HARMLESS" \
+  | wc -l
+
+echo -n "Google searches: "
+<"$HISTORY" ag 'https://(www\.)?google.com/search' | wc -l
+
+echo -n "DDG searches:    "
+<"$HISTORY" ag duckduckgo.com  | sed -e 's/&ia=web//' | uniq | wc -l

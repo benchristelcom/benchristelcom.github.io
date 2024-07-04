@@ -241,10 +241,10 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 ## Concepts I Have Named
 
-- [Corollary to Hyrum's Law](https://github.com/benchristel/benchristel.github.io/wiki/KranzsLaw) - A.K.A. Kranz's Law, A.K.A. Scrappy's Law. By whatever name, the idea is that tools inevitably get repurposed for off-label uses.
+- [Corollary to Hyrum's Law](https://github.com/benchristel/benchristel.github.io/wiki/KranzsLaw) - A.K.A. Kranz's Law, A.K.A. Scrappy's Law. By whatever name, the idea is that tools inevitably get repurposed for off-label uses. See also [Hyrum's Law](https://www.hyrumslaw.com/).
 - [Garblehooping](https://github.com/benchristel/benchristel.github.io/wiki/Garblehoop) - When someone says something they don't understand, in the hope that the person or machine they're talking to _will_ understand and will magically do what they wanted.
 - **Infobesity** - The idea that abundant information makes people and organizations stupid.
-- **Personality Security** - The art and discipline of defending one's values against colonization by globalized capitalism.
+- **Personality Security** - The art and discipline of defending one's values against colonization by globalized capitalism. The worst thing you can do, from a personality security perspective, is accept the defaults.
 
 ## List of Lists of Links
 
@@ -339,6 +339,11 @@ div.wwwebring-widget {
 ul > li {
   list-style-type: none;
   text-indent: -1em;
+}
+
+li a:first-of-type {
+  text-shadow: 0.03em 0;
+  letter-spacing: 0.03em;
 }
 
 /* this file uses asides to tag items with search keywords */
