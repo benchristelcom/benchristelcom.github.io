@@ -50,6 +50,10 @@ This page aims to be a comprehensive directory of my most-loved and most-used we
 
 See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
+- [Album of the Year](https://www.albumoftheyear.org/) - browse music by release year, going back to the early 1900s. [Here's 1920](https://www.albumoftheyear.org/1920/releases/).
+- [Butterchurn](https://butterchurnviz.com/) - online music visualizer.
+- [Deezer](https://deezer.com)
+
 ### Buy Music
 
 - [Qobuz](https://www.qobuz.com) - High-quality MP3 downloads. They have an extensive catalog (including every obscure album I've searched for so far).
@@ -179,11 +183,13 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Wikimedia Commons](https://commons.wikimedia.org)
 - [Public Domain Pictures](https://www.publicdomainpictures.net)
 - [Flickr](https://flickr.com)
+- [Cliparts.co](https://cliparts.co) - give your website, flyer, or email that ultimate kitschy look.
 
-## Web-based Tools
+## Web-based Tools <aside>online</aside>
 
 - [TinyPNG](https://tinypng.com/) - Reduces image filesizes.
-- [jsonpath.com](https://jsonpath.com/)
+- [JSONPath Online Evaluator](https://jsonpath.com/) - Evaluate JSONPath expressions against data.
+- [Regex 101](https://regex101.com/) - Evaluate and debug regular expressions. Supports many regex dialects including PCRE and JavaScript.
 - [Dillinger.io](https://dillinger.io) - Online [Markdown](https://daringfireball.net/projects/markdown/) editor
 
 ## Commerce
@@ -202,6 +208,10 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Google Books](https://books.google.com/)
 - [Evertype](https://evertype.com) - Public domain books translated into many languages. A [Michael Everson](https://evertype.com/misc/bio.html) production (I think).
 - [LibreTexts](https://commons.libretexts.org/) - Library of free online textbooks.
+- [Better World Books](https://www.betterworldbooks.com/) - Save a tree! Buy used books!
+- [Ex-Classics](https://exclassics.com/) - Books that were once favorites, and are now public domain.
+- [Terebess Asia Online (TAO)](https://terebess.hu/english/tao.html) - Asian (and other) philosophy works, in many translations.
+- [Sacred-Texts.com](https://sacred-texts.com/) - Religious texts, legends, and myths. Here's [The Kalevala](https://sacred-texts.com/neu/kveng/).
 
 ## Games & Gaming
 
@@ -210,9 +220,12 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 ## Languages and Linguistics
 
+### Conlangs
+
 - [Ardalambion](https://ardalambion.org) - Resources on J.R.R. Tolkien's elvish languages, by Helge Kåre Fauskanger.
 - [Eldamo.org](https://eldamo.org) - the ELvish DAta MOdel. Paul Strack's project to collect every word of Elvish in Tolkien's works into one searchable, cross-referenced database.
 - [The Conlang.org Database](https://database.conlang.org)
+- [Dedalvs.com](https://dedalvs.com/) - David J. Peterson's site. You might have heard of his language [Dothraki](http://www.dothraki.com/).
 
 ### Cornish - Kernewek
 
@@ -320,6 +333,11 @@ div.wwwebring-widget {
 ul > li {
   list-style-type: none;
   text-indent: -1em;
+}
+
+/* this file uses asides to tag items with search keywords */
+aside {
+  font-size: 0;
 }
 
 /* ensure scrollbar tracks are displayed even if the page content

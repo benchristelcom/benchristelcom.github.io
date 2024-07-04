@@ -94,6 +94,8 @@
 +*.atlassian.net
 +audacious-media-player.org
 +*.audacious-media-player.org
++audiodharma.org
++*.audiodharma.org
 +automation.lambdatest.com
 +bandcamp.com
 +*.bandcamp.com
@@ -1110,6 +1112,8 @@
 +ru.khanacademy.org
 +ryftgame.com
 +*.ryftgame.com
++sacred-texts.com
++*.sacred-texts.com
 +sandimetz.com
 +*.sandimetz.com
 +scifi.stackexchange.com
@@ -1552,6 +1556,8 @@
 +*.digitalphotomentor.com
 +www.dll-files.com
 +*.dll-files.com
++www.dothraki.com
++*.dothraki.com
 +www.dreamsongs.com
 +*.dreamsongs.com
 +www.drlinkcheck.com
