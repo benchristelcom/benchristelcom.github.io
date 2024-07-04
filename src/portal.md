@@ -239,6 +239,13 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 - [Folklore.org](https://folklore.org/0-index.html) - the history of the Apple Macintosh
 
+## Concepts I Have Named
+
+- [Corollary to Hyrum's Law](https://github.com/benchristel/benchristel.github.io/wiki/KranzsLaw) - A.K.A. Kranz's Law, A.K.A. Scrappy's Law. By whatever name, the idea is that tools inevitably get repurposed for off-label uses.
+- [Garblehooping](https://github.com/benchristel/benchristel.github.io/wiki/Garblehoop) - When someone says something they don't understand, in the hope that the person or machine they're talking to _will_ understand and will magically do what they wanted.
+- **Infobesity** - The idea that abundant information makes people and organizations stupid.
+- **Personality Security** - The art and discipline of defending one's values against colonization by globalized capitalism.
+
 ## List of Lists of Links
 
 - [Software Development](software.html)
@@ -259,7 +266,6 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Wikipedia](https://en.wikipedia.org)
 - [Wikiquote](https://en.wikiquote.org)
 - [Wiktionary](https://en.wiktionary.org)
-
 
 ## Web Curators
 
