@@ -257,6 +257,10 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [History of Technology](techhist.html)
 - [Web Archives and Archiving Tools](archiving.html)
 
+## Publicly Available Data
+
+- [FAA Registry N-Number Search](https://registry.faa.gov/AircraftInquiry/Search/NNumberInquiry) - look up public data on aircraft by n-number (tail number).
+
 ## General Reference
 
 - [Quote Investigator](https://quoteinvestigator.com)

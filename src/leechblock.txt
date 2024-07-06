@@ -1086,6 +1086,7 @@
 +regex101.com
 +*.regex101.com
 +registerspill.thorstenball.com
++registry.faa.gov
 +remix.run
 +*.remix.run
 +render.com
