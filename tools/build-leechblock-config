@@ -2,9 +2,11 @@
 
 REPO_ROOT="$(cd "$(dirname "$0")" && pwd)"/..
 
-# some domains are "quarantined" - we allow links to specific pages
+# Some domains are "quarantined" - we allow links to specific pages
 # within them, but not links to that domain in general. Specific
-# allowed pages are listed in leechblock-allowlist.txt
+# allowed pages are listed in leechblock-allowlist.txt.
+# The following regex is passed to Perl-mode grep, so '|' can be used
+# to separate alternatives.
 QUARANTINED_REGEX='youtube.com'
 
 (
@@ -24,7 +26,7 @@ QUARANTINED_REGEX='youtube.com'
         <<<"$domain" sed -E 's/^(www\.)?/+*./'
       fi
     done) \
-    | grep -v "$QUARANTINED_REGEX"
+    | grep -vP "$QUARANTINED_REGEX"
 
   # append explicit allowlist
   cat "$REPO_ROOT"/tools/leechblock-allowlist.txt
