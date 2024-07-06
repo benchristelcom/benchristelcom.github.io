@@ -101,6 +101,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [MemoryManagement.org](https://www.memorymanagement.org/) - Approaches to garbage collection and more.
 - [RSS 2.0 Specification](https://cyber.harvard.edu/rss/rss.html)
 - [Atom Syndication Format Specification](https://www.rfc-editor.org/rfc/rfc4287)
+- [HTML Specification](https://html.spec.whatwg.org)
 
 ### Q&A
 
@@ -185,7 +186,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Flickr](https://flickr.com)
 - [Cliparts.co](https://cliparts.co) - give your website, flyer, or email that ultimate kitschy look.
 
-## Web-based Tools <aside>online</aside>
+## Web-based Tools <hs-meta keywords="online browser-based"/>
 
 - [TinyPNG](https://tinypng.com/) - Reduces image filesizes.
 - [JSONPath Online Evaluator](https://jsonpath.com/) - Evaluate JSONPath expressions against data.
@@ -309,7 +310,7 @@ Bangs are shortcuts that let you search a specific site with DuckDuckGo. They st
 
 <div data-hypersearch-end></div>
 
-<script defer type="module" src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.2.1"></script>
+<script defer type="module" src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.3.0"></script>
 <script>
 const searchInput = document.querySelector("input[type=search]")
 const autofocusCheckbox = document.getElementById("autofocus-checkbox")
@@ -348,11 +349,6 @@ ul > li {
 li a:first-of-type {
   text-shadow: 0.03em 0;
   letter-spacing: 0.03em;
-}
-
-/* this file uses asides to tag items with search keywords */
-aside {
-  font-size: 0;
 }
 
 /* ensure scrollbar tracks are displayed even if the page content
