@@ -341,6 +341,10 @@ div.wwwebring-widget {
   margin: 2em auto;
 }
 
+ul {
+  margin-block: 0;
+}
+
 ul > li {
   list-style-type: none;
   text-indent: -1em;

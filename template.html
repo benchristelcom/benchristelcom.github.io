@@ -33,7 +33,7 @@ body {
 
 h1 { font-size: 175%; text-align: center; border-bottom: 1px solid #0004; padding-block: 0.5em; margin-bottom: 1em; }
 h2 { font-size: 150%; border-bottom: 1px solid #0003; }
-h2:not(:first-of-type) { margin-top: 2em; }
+h2 { margin-top: 2em; }
 h3 { font-size: 110%; background: #0001; padding: 0.1em 0.5em; text-shadow: 1px 1px #fff8; }
 h4 { font-size: 100%; }
 
@@ -52,6 +52,10 @@ a:hover {
 li {
   margin-block-end: 0.75em;
   break-inside: avoid-column;
+}
+
+.col-2, .col-3 {
+  display: none;
 }
 
 .col-2 + * {
