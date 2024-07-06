@@ -27,6 +27,8 @@ jobs:
       - uses: actions/setup-node@v3
         with: {node-version: '18'}
 
+      - run: 'tools/build-leechblock-config'
+
       - run: 'npx @benchristel/mdsite'
 
       - uses: actions/configure-pages@v3
