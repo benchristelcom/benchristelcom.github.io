@@ -170,6 +170,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Fly.io](https://fly.io) - web server hosting
 - [Gource](https://gource.io/) - visualize Git repo history as an animated graph
 - [Milkdown](https://milkdown.dev/) - a framework for WYSIWYG/markdown combo editors. Write markdown that converts to rich text as you type. Made by [Mirone](https://mirone.me/).
+- [MDX](https://mdxjs.com/) - A cross between Markdown and JSX. Lets you add React components to Markdown documents and render those documents in a React app.
 - [day.js](https://day.js.org/) - a JavaScript library for date/time calculations.
 - [date-fns](https://date-fns.org/) - another JavaScript library for date/time calculations.
 
@@ -188,10 +189,26 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 ## Web-based Tools <hs-meta keywords="online browser-based"/>
 
+### Sensing
+
+- [Time and Date](https://timeanddate.com/)
+- [Epoch Converter](https://www.epochconverter.com/) - Converts dates to and from Unix epoch timestamps
+- [Accuweather](https://accuweather.com/)
+- [Purple Air](https://map.purpleair.com/) - Crowdsourced monitoring of air quality near you!
+- [Webtrak flight tracker](https://webtrak.emsbk.com/) - Tracks aircraft in your area. Pairs great with [FAA registry search](https://registry.faa.gov/AircraftInquiry/Search/NNumberInquiry). Stupid UI thing, though: if you don't want it to ask for / use your location, click "Cancel" at the initial prompt. Then you'll be able to select an airport from a list. <hs-meta keywords="webtrack planes"/>
+
+### Creating
+
+- [Dillinger.io](https://dillinger.io) - Online [Markdown](https://daringfireball.net/projects/markdown/) editor
+
+### Transforming
+
 - [TinyPNG](https://tinypng.com/) - Reduces image filesizes.
 - [JSONPath Online Evaluator](https://jsonpath.com/) - Evaluate JSONPath expressions against data.
+
+### Prototyping
+
 - [Regex 101](https://regex101.com/) - Evaluate and debug regular expressions. Supports many regex dialects including PCRE and JavaScript.
-- [Dillinger.io](https://dillinger.io) - Online [Markdown](https://daringfireball.net/projects/markdown/) editor
 
 ## Commerce
 
