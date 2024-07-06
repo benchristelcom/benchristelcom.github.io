@@ -2,7 +2,7 @@
 
 REPO_ROOT="$(cd "$(dirname "$0")" && pwd)"/..
 
-ag -o --nofilename 'https?://[^\]\)"\s]+' "$REPO_ROOT/src" \
+grep -ro --no-filename -P 'https?://[^\]\)"\s]+' "$REPO_ROOT/src" \
   | cut -d/ -f3 \
   | cut -d: -f1 \
   | sort \
