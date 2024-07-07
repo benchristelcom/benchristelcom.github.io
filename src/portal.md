@@ -1,12 +1,38 @@
 # Web Portal
 
-<div class="centered-text">
+<div class="lr-split">
+<div>
 
 This page aims to be a comprehensive directory of my most-loved and most-used web resources. As of June 30, 2024, it links to approximately 162 domains.
 
-</div>
-
 <input data-hypersearch type="search" placeholder="Search" style="display: block; max-width: 300px; margin-inline: auto;"/>
+
+</div>
+<nav class="toc">
+
+## Table of Contents
+
+- [My Projects](#my-projects)
+- [Food](#food)
+- [Music](#music)
+- [Meditation](#meditation)
+- [Civilization](#reviving-civilization)
+- [Software Dev](#software-development)
+- [Free Images](#image-repositories)
+- [Web-based Tools](#web-based-tools)
+- [Commerce](#commerce)
+- [Architecture](#architecture)
+- [Books](#books)
+- [Games](#games--gaming)
+- [Languages](#languages-and-linguistics)
+- [History of Tech](#history-of-technology)
+- [Databases](#publicly-available-data)
+- [General](#general-reference)
+- [Web Curators](#web-curators)
+- [Webring](#webring)
+
+</nav>
+</div>
 
 <div data-hypersearch-start></div>
 
@@ -196,7 +222,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Flickr](https://flickr.com)
 - [Cliparts.co](https://cliparts.co) - give your website, flyer, or email that ultimate kitschy look.
 
-## Web-based Tools <hs-meta keywords="online browser-based"/>
+## Web-based Tools<hs-meta keywords="online browser-based"/>
 
 ### Sensing
 
@@ -352,9 +378,39 @@ autofocusCheckbox.addEventListener("change", () => {
 </script>
 
 <style>
+.lr-split {
+  display: flex;
+  gap: 2em;
+}
 
-h1 {
-  border-bottom: none;
+@media (max-width: 760px) {
+  .lr-split {
+    display: block;
+  }
+}
+
+.lr-split > * {
+  flex-basis: 50%;
+  flex-shrink: 1;
+}
+
+.toc ul {
+  padding: 0;
+  text-align: start;
+}
+
+.toc li {
+  display: inline-block;
+  text-indent: 0;
+  margin: 0.5em;
+}
+
+.toc h2 {
+  font-size: 1.1rem;
+  margin-block: 1rem;
+  border: none;
+  background: #0001;
+  padding-inline: 0.5em;
 }
 
 div.wwwebring-widget {
