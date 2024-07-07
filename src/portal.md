@@ -1,11 +1,17 @@
 # Web Portal
 
+<div class="centered-text">
+<p>A comprehensive directory of my most-loved and most-used web resources.</p>
+</div>
+
 <div class="lr-split">
 <div>
 
-This page aims to be a comprehensive directory of my most-loved and most-used web resources. As of June 30, 2024, it links to approximately 162 domains.
+<input data-hypersearch type="search" placeholder="Search"/>
 
-<input data-hypersearch type="search" placeholder="Search" style="display: block; max-width: 300px; margin-inline: auto;"/>
+<div class="centered-text">
+<button id="ddg">DuckDuckGo</button><button id="yt">YouTube</button><button id="npm">NPM</button><button id="openverse">Openverse</button><button id="wikipedia">Wikipedia</button><button id="cornish">Cornish Dict.</button>
+</div>
 
 </div>
 <nav class="toc">
@@ -378,7 +384,12 @@ autofocusCheckbox.addEventListener("change", () => {
 })
 
 const providers = {
-  ddg: "https://html.duckduckgo.com/html?q=%s"
+  ddg: "https://html.duckduckgo.com/html?q=%s",
+  yt: "https://youtube.com/results?search_query=%s",
+  npm: "https://www.npmjs.com/search?q=%s",
+  openverse: "https://openverse.org/search/?q=%s",
+  wikipedia: "https://en.wikipedia.org/w/index.php?search=%s",
+  cornish: "https://cornishdictionary.org.uk/#%s",
 }
 
 searchInput.addEventListener("keypress", (e) => {
@@ -391,12 +402,21 @@ function search(url) {
   window.location = url.replace("%s", encodeURIComponent(searchInput.value))
 }
 
+for (let id in providers) {
+  elById(id).addEventListener("click", () => search(providers[id]))
+}
+
 </script>
 
 <style>
 .lr-split {
   display: flex;
   gap: 2em;
+  align-items: center;
+  background: #f2f2f2;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  padding: 1em;
 }
 
 @media (max-width: 760px) {
@@ -418,15 +438,48 @@ function search(url) {
 .toc li {
   display: inline-block;
   text-indent: 0;
-  margin: 0.5em;
+  margin: 0.25em 0.5em;
 }
 
 .toc h2 {
   font-size: 1.1rem;
-  margin-block: 1rem;
+  margin-block: 0 1rem;
   border: none;
   background: #0001;
   padding-inline: 0.5em;
+}
+
+input[type=search] {
+  margin: 0 auto 0.8rem;
+  display: block;
+  width: 100%;
+  max-width: 300px;
+  border-radius: 99px;
+  border: 1px solid #666;
+  border-color: #666 #888 #aaa #888;
+  padding: 6px 12px 4px;
+}
+
+button {
+  margin: 3px;
+  min-height: 24px;
+  min-width: 60px;
+  background: #ddd;
+  border: 1px solid #0007;
+  border-radius: 5px;
+  box-shadow: inset 0px 2px #fffc, inset 2px 0px #0001, inset -2px 0px #0001, inset 0px -2px #0002;
+  padding: 2px 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #d6d6d6;
+}
+
+button:active {
+  background: #d6d6d6;
+  box-shadow: inset 2px 0px #0002, inset 0px 2px #0002,
+    inset -2px 0px #fff8, inset 0px -2px #fff8;
 }
 
 div.wwwebring-widget {
