@@ -50,13 +50,22 @@ This page aims to be a comprehensive directory of my most-loved and most-used we
 
 See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
-- [Album of the Year](https://www.albumoftheyear.org/) - browse music by release year, going back to the early 1900s. [Here's 1920](https://www.albumoftheyear.org/1920/releases/).
-- [Butterchurn](https://butterchurnviz.com/) - online music visualizer.
-- [Deezer](https://deezer.com)
+### Discovery
 
-### Buy Music
+- [Every Noise at Once](https://everynoise.com) <hs-meta keywords="everynoise.com"/> - A catalog of all music on Spotify by algorithmically-inferred genre. An incredible work of data science by [Glenn McDonald](https://www.furia.com)
+- [Album of the Year](https://www.albumoftheyear.org/) - browse music by release year, going back to the early 1900s. [Here's 1920](https://www.albumoftheyear.org/1920/releases/).
+
+### Buying / Downloading
 
 - [Qobuz](https://www.qobuz.com) - High-quality MP3 downloads. They have an extensive catalog (including every obscure album I've searched for so far).
+
+### Streaming
+
+- [Deezer](https://deezer.com)
+
+### Visualizers
+
+- [Butterchurn](https://butterchurnviz.com/) - online music visualizer.
 
 ## Meditation
 
@@ -295,6 +304,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Interestings for Iterators](https://dwf.bigpencil.net/posts/) by [Davis W. Frank](https://dwf.bigpencil.net) (software-focused)
 - [ytoo.org](https://ytoo.org)
 - [www.bruh.ltd](https://www.bruh.ltd) by Ruby Klover
+- [Website Review](https://websitereview.neocities.org/) - a virtual library of deepweb and www sites.
 - [garlic.garden](https://garlic.garden/) by [allium house](https://allium.house/)
 - [candle's website](https://kool.tools/) - a collection of tools focused on making tiny, minimalist games
 - [Curation is Creation](https://camdez.com/blog/2016/03/30/curation-is-creation/) by Cameron Desautels
