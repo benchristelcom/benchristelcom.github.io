@@ -365,8 +365,9 @@ Bangs are shortcuts that let you search a specific site with DuckDuckGo. They st
 
 <script defer type="module" src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.3.0"></script>
 <script>
+const elById = document.getElementById.bind(document)
 const searchInput = document.querySelector("input[type=search]")
-const autofocusCheckbox = document.getElementById("autofocus-checkbox")
+const autofocusCheckbox = elById("autofocus-checkbox")
 if (localStorage.autofocusSearch === "true") {
   searchInput.focus()
   autofocusCheckbox.checked = true
@@ -375,6 +376,21 @@ if (localStorage.autofocusSearch === "true") {
 autofocusCheckbox.addEventListener("change", () => {
   localStorage.autofocusSearch = autofocusCheckbox.checked
 })
+
+const providers = {
+  ddg: "https://html.duckduckgo.com/html?q=%s"
+}
+
+searchInput.addEventListener("keypress", (e) => {
+  if (e.key === "Enter") {
+    search(providers.ddg)
+  }
+})
+
+function search(url) {
+  window.location = url.replace("%s", encodeURIComponent(searchInput.value))
+}
+
 </script>
 
 <style>
