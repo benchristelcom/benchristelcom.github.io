@@ -5,6 +5,10 @@
 		<meta charset="utf-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
     <style>
+:root {
+  --body-bg: hsl(49, 100%, 99%);
+}
+
 * {
   box-sizing: border-box;
 }
@@ -23,8 +27,8 @@ body {
   max-width: 72rem;
   min-height: 100vh;
   margin: 0 auto;
-  border-inline: 1px solid #ccc;
-  background: #fffdf4;
+  border-inline: 1px solid #8a9;
+  background: var(--body-bg);
   padding: 2rem 4rem;
 }
 @media (max-width: 760px) {
