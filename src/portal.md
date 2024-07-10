@@ -109,6 +109,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Diome](https://diome.xyz/0+%F0%9F%8C%9E+About/0.0+Technology+for+a+Regenerative+Civilization) - Technology for a regenerative civilization. By Andrea Farias.
 - [Meaningness](https://meaningness.com/) by [David Chapman](https://meaningness.com/about-my-sites). A work-in-progress philosophy book.
 - [Life Itself](https://lifeitself.org/)
+- [Liberation Computing](https://www.libcomp.org/) - an organization exploring how we might liberate computers and software from capitalism. As of July 2024, there's not much on the site but some placeholder posts and rough drafts.
 
 ## Software Development
 
