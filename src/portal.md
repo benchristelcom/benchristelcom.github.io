@@ -356,7 +356,7 @@ Bangs are shortcuts that let you search a specific site with DuckDuckGo. They st
 
 ## Webring
 
-<script defer src="https://cdn.jsdelivr.net/npm/wwwebring@0.1.0"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/wwwebring@0.2.0"></script>
 <p
   class="webring-container"
   data-wwwebring="https://waywardweb.org/ring.json"
