@@ -17,6 +17,11 @@ echo -n "Pages visited:   "
   ag -v "$MOSTLY_HARMLESS" \
   | wc -l
 
+echo -n "Domains visited: "
+<"$HISTORY" ag -v "$MOSTLY_HARMLESS" \
+  | grep -o --no-filename -P 'https?://[^/]+' \
+  | sort | uniq | wc -l
+
 echo -n "Google searches: "
 <"$HISTORY" ag 'https://(www\.)?google.com/search' | wc -l
 
