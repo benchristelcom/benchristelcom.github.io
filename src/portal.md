@@ -323,6 +323,11 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 - [FAA Registry N-Number Search](https://registry.faa.gov/AircraftInquiry/Search/NNumberInquiry) - look up public data on aircraft by n-number (tail number).
 
+## Archives and Archiving Tools
+
+- [The Internet Archive](https://archive.org/) - A.K.A. the Wayback Machine.
+- [archive.today](https://archive.today/) - A.K.A. [archive.is](https://archive.is/), [archive.ph](https://archive.ph/). Circumvents many paywalls.
+
 ## General Reference
 
 - [Quote Investigator](https://quoteinvestigator.com)
