@@ -51,7 +51,7 @@
 - [Bliki](https://github.com/benchristel/benchristel.github.io/wiki) - My personal blog/wiki about software, with 250+ topic-focused pages on everything from [abstraction](https://github.com/benchristel/benchristel.github.io/wiki/Abstraction) to [wholeness](https://github.com/benchristel/benchristel.github.io/wiki/Wholeness).
 - [The Wayward Web](https://waywardweb.org) - A webring. A collaborative effort to map the useful, human parts of the web.
 - [Druthers](https://druthers.app) - Instantly grok your group's priorities with ranked-choice voting. A collaboration with [Gavin Morgan](https://gavmor.com). 
-- [Culture Machine](https://benchristel.github.io/tv) - The app I wrote to break my YouTube addiction (it worked). Emotionally-stabilizing videos played continuously in an unskippable random sequence.
+- [Culture Machine](https://benchristel.github.io/tv) - The app I wrote to break my YouTube addiction (it worked). Emotionally-stabilizing videos played continuously in an unskippable random sequence.<hs-meta keywords="tv"/>
 - [mdsite](https://benchristel.github.io/mdsite) - A modern generator for old-school static sites. It turns any tree of [Markdown](https://daringfireball.net/projects/markdown/) files into a website, complete with auto-generated navigation links. It's also the tool I used to create this webpage!
 - [Taste](https://npmjs.com/package/@benchristel/taste) - Simple, speedy JavaScript test framework
 - [yt](https://benchristel.github.io/yt/) - Watch YouTube without ads or tracking. Pairs great with [LeechBlock](https://www.proginosko.com/leechblock/).
@@ -395,16 +395,27 @@ const providers = {
 
 searchInput.addEventListener("keypress", (e) => {
   if (e.key === "Enter") {
-    search(providers.ddg)
+    const shortcutUrl = shortcuts[searchInput.value]
+    if (shortcutUrl) {
+      window.location = shortcutUrl
+    } else {
+      search(providers.ddg, searchInput.value)
+    }
   }
 })
 
-function search(url) {
-  window.location = url.replace("%s", encodeURIComponent(searchInput.value))
+const shortcuts = {
+  "tv": "https://benchristel.github.io/tv/",
+  "zen": "https://benchristel.github.io/meditation/",
+  "bliki": "https://github.com/benchristel/benchristel.github.io/wiki",
+}
+
+function search(url, query) {
+  window.location = url.replace("%s", encodeURIComponent(query))
 }
 
 for (let id in providers) {
-  elById(id).addEventListener("click", () => search(providers[id]))
+  elById(id).addEventListener("click", () => search(providers[id], searchInput.value))
 }
 
 </script>
