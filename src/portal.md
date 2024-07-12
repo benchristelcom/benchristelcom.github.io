@@ -117,7 +117,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 <div class="col-2"></div>
 
-- [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/), by [Eric S. Raymond](http://catb.org/). Comprehensive, eloquent, and mind-expanding. If you only read one book on software design and development, this should be it. Available as HTML at the above link, but please consider supporting the author by buying the [print edition](https://www.informit.com/store/art-of-unix-programming-9780131429017).
+- [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/), by [Eric S. Raymond](http://catb.org/). Compre&shy;hensive, eloquent, and mind-expanding. If you only read one book on software design and development, this should be it. Available as HTML at the above link, but please consider supporting the author by buying the [print edition](https://www.informit.com/store/art-of-unix-programming-9780131429017).
 - [How Complex Systems Fail](https://how.complexsystems.fail/) - A short treatise by Richard I. Cook, MD. A must-read for any manager in a software organization.
 - [John Lions' "Commentary on the Sixth Edition Unix Operating System"](http://www.lemis.com/grog/Documentation/Lions/)
 - [Beautiful Software](https://www.buildingbeauty.org/beautiful-software) - a course in Christopher Alexander's methods and philosophy, for software people. See also the reading list at [beautiful.software](https://beautiful.software/)
@@ -414,7 +414,7 @@ for (let id in providers) {
   display: flex;
   gap: 2em;
   align-items: center;
-  background: #f2f2f2;
+  background: #f5f3f0;
   border: 1px solid #aaa;
   border-radius: 5px;
   padding: 1em;

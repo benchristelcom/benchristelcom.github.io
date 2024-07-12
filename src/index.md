@@ -24,17 +24,6 @@ h1 {
   border-bottom: none;
 }
 
-div.wwwebring-widget {
-  background: #eee !important;
-  border: outset 2px #fff !important;
-  box-shadow: 1px 1px #0005, 0 0 0 1px #0002;
-}
-
-.webring-container {
-  display: table;
-  margin: 2em auto;
-}
-
 #tree {
   width: 206px;
   height: 206px;
@@ -43,7 +32,7 @@ div.wwwebring-widget {
   background-position: 0px -22px;
   background-color: var(--body-bg);
   background-blend-mode: multiply;
-  border: 5px double #ccc;
+  border: 5px double #888;
   border-radius: 999px;
 }
 
