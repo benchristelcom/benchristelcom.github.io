@@ -18,6 +18,7 @@ A few webpages that I consider mostly harmless are excluded from this metric. Th
 - the [Web Portal](/portal.html) itself
 - [Bastion](https://bastionhome.github.io/)
 - my [meditation timer](https://benchristel.github.io/meditation/)
+- my email inbox
 
 I might add to this list in the future.
 
@@ -25,7 +26,7 @@ The metric for **Goal 2** is **"number of web searches performed per month."** G
 
 ## How to gather metrics
 
-Run `tools/metrics`
+Run `tools/metrics HISTORYFILE`
 
 ## Historical Data
 
@@ -33,4 +34,4 @@ Run `tools/metrics`
 
 | Month    | Webpages | Google searches | DDG searches |
 | -------- | -------- | --------------- | ------------ |
-| Jun 2024 | 2028     | 6               | 217          |
+| Jun 2024 | 1974     | 6               | 217          |

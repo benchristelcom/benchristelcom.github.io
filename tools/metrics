@@ -7,7 +7,10 @@ if ! [ -f "$HISTORY" ]; then
   exit 1
 fi
 
-MOSTLY_HARMLESS='bastionhome\.github\.io|benchristel\.github\.io/meditation|benchristel\.com/portal\.html'
+MOSTLY_HARMLESS='bastionhome\.github\.io'\
+'|benchristel\.github\.io/meditation'\
+'|benchristel\.com/portal\.html'\
+'|mail\.google\.com'
 
 echo -n "Pages visited:   "
 <"$HISTORY" \
