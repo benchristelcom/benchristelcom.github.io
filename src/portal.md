@@ -210,7 +210,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Neutralino](https://neutralino.js.org/) - Build lightweight cross-platform desktop apps with HTML, JavaScript, and CSS.
 - [daisyUI](https://daisyui.com/)
 - [SQLite](https://sqlite.org/)
-- [zed](https://zed.dev/) - An editor designed for remote pair programming. Unfortunately, there's no Linux support yet, though one can [build from source](https://zed.dev/docs/development/linux) on Linux.
+- [zed](https://zed.dev/) - An editor designed for remote pair programming.
 - [Fly.io](https://fly.io) - web server hosting
 - [Gource](https://gource.io/) - visualize Git repo history as an animated graph
 - [Milkdown](https://milkdown.dev/) - a framework for WYSIWYG/markdown combo editors. Write markdown that converts to rich text as you type. Made by [Mirone](https://mirone.me/).
