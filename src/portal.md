@@ -51,7 +51,7 @@
 - [Bliki](https://github.com/benchristel/benchristel.github.io/wiki) - My personal blog/wiki about software, with 250+ topic-focused pages on everything from [abstraction](https://github.com/benchristel/benchristel.github.io/wiki/Abstraction) to [wholeness](https://github.com/benchristel/benchristel.github.io/wiki/Wholeness).
 - [The Wayward Web](https://waywardweb.org) - A webring. A collaborative effort to map the useful, human parts of the web.
 - [Druthers](https://druthers.app) - Instantly grok your group's priorities with ranked-choice voting. A collaboration with [Gavin Morgan](https://gavmor.com). 
-- [Culture Machine](https://benchristel.github.io/tv) - The app I wrote to break my YouTube addiction (it worked). Emotionally-stabilizing videos played continuously in an unskippable random sequence.<hs-meta keywords="tv"/>
+- [Culture Machine](https://benchristel.github.io/tv) - The app I wrote to break my YouTube addiction (it worked). Emotionally-stabilizing videos played continuously in an unskippable random sequence.<hs-meta keywords="tv"></hs-meta>
 - [mdsite](https://benchristel.github.io/mdsite) - A modern generator for old-school static sites. It turns any tree of [Markdown](https://daringfireball.net/projects/markdown/) files into a website, complete with auto-generated navigation links. It's also the tool I used to create this webpage!
 - [Taste](https://npmjs.com/package/@benchristel/taste) - Simple, speedy JavaScript test framework
 - [yt](https://benchristel.github.io/yt/) - Watch YouTube without ads or tracking. Pairs great with [LeechBlock](https://www.proginosko.com/leechblock/).
@@ -84,7 +84,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 ### Discovery
 
-- [Every Noise at Once](https://everynoise.com) <hs-meta keywords="everynoise.com"/> - A catalog of all music on Spotify by algorithmically-inferred genre. An incredible work of data science by [Glenn McDonald](https://www.furia.com)
+- [Every Noise at Once](https://everynoise.com) <hs-meta keywords="everynoise.com"></hs-meta> - A catalog of all music on Spotify by algorithmically-inferred genre. An incredible work of data science by [Glenn McDonald](https://www.furia.com)
 - [Album of the Year](https://www.albumoftheyear.org/) - browse music by release year, going back to the early 1900s. [Here's 1920](https://www.albumoftheyear.org/1920/releases/).
 
 ### Buying / Downloading
@@ -232,7 +232,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Flickr](https://flickr.com)
 - [Cliparts.co](https://cliparts.co) - give your website, flyer, or email that ultimate kitschy look.
 
-## Web-based Tools<hs-meta keywords="online browser-based"/>
+## Web-based Tools<hs-meta keywords="online browser-based"></hs-meta>
 
 ### Sensing
 
@@ -240,7 +240,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Epoch Converter](https://www.epochconverter.com/) - Converts dates to and from Unix epoch timestamps
 - [Accuweather](https://accuweather.com/)
 - [Purple Air](https://map.purpleair.com/) - Crowdsourced monitoring of air quality near you!
-- [Webtrak flight tracker](https://webtrak.emsbk.com/) - Tracks aircraft in your area. Pairs great with [FAA registry search](https://registry.faa.gov/AircraftInquiry/Search/NNumberInquiry). Stupid UI thing, though: if you don't want it to ask for / use your location, click "Cancel" at the initial prompt. Then you'll be able to select an airport from a list. <hs-meta keywords="webtrack planes"/>
+- [Webtrak flight tracker](https://webtrak.emsbk.com/) - Tracks aircraft in your area. Pairs great with [FAA registry search](https://registry.faa.gov/AircraftInquiry/Search/NNumberInquiry). Stupid UI thing, though: if you don't want it to ask for / use your location, click "Cancel" at the initial prompt. Then you'll be able to select an airport from a list. <hs-meta keywords="webtrack planes"></hs-meta>
 
 ### Creating
 
