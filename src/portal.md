@@ -275,6 +275,8 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Ex-Classics](https://exclassics.com/) - Books that were once favorites, and are now public domain.
 - [Terebess Asia Online (TAO)](https://terebess.hu/english/tao.html) - Asian (and other) philosophy works, in many translations.
 - [Sacred-Texts.com](https://sacred-texts.com/) - Religious texts, legends, and myths. Here's [The Kalevala](https://sacred-texts.com/neu/kveng/).
+- [Indie Bound](https://www.indiebound.org/) - Find local independent bookstores!
+- [Bookshop](https://bookshop.org/)
 
 ## Games & Gaming
 
