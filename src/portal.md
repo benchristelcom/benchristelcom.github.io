@@ -283,6 +283,13 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Zero-K](https://zero-k.info)
 - [Age of Empires (fandom.com)](https://ageofempires.fandom.com) - Unit stats etc.
 
+### Heroes of Might and Magic IV
+
+- [maps4heroes.com](https://www.maps4heroes.com/heroes4/maps.php) - A huge collection of high-quality player-made maps. See also my own [map archive](https://github.com/benchristel/heroes-iv-map-archive).
+- [heroesofmightandmagic.com](http://www.heroesofmightandmagic.com/heroes4/heroesofmightandmagic4iv.shtml) - The official website, with descriptions of every hero, creature, spell, artifact, and building.
+- [Heroes Community Forums](http://heroescommunity.com)
+- Ever wonder how many berserkers it takes to beat a phoenix? My [Creature Ratings](/heroes4/creature-ratings.md) page has got you covered.
+
 ## Languages and Linguistics
 
 ### Conlangs
