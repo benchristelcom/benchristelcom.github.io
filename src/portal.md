@@ -300,6 +300,10 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Radyo an Gernewegva](https://anradyo.com/) - Radio of the Cornish Language Community. See also [Pellwolok an Gernewegva](https://www.youtube.com/user/KernowPods) on YouTube.
 - [Kernewegva.com](https://kernewegva.com/) - A website about Cornish, in Cornish.
 
+### Linguistics
+
+- [Leipzig Glossing Rules](https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf) - see also Wikipedia's [List of Glossing Abbreviations](https://en.wikipedia.org/wiki/List_of_glossing_abbreviations)
+
 ## History of Technology
 
 - [Folklore.org](https://folklore.org/0-index.html) - the history of the Apple Macintosh
