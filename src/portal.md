@@ -308,24 +308,6 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 - [Folklore.org](https://folklore.org/0-index.html) - the history of the Apple Macintosh
 
-## Concepts I Have Named
-
-- [Corollary to Hyrum's Law](https://github.com/benchristel/benchristel.github.io/wiki/KranzsLaw) - A.K.A. Kranz's Law, A.K.A. Scrappy's Law. By whatever name, the idea is that tools inevitably get repurposed for off-label uses. See also [Hyrum's Law](https://www.hyrumslaw.com/).
-- [Garblehooping](https://github.com/benchristel/benchristel.github.io/wiki/Garblehoop) - When someone says something they don't understand, in the hope that the person or machine they're talking to _will_ understand and will magically do what they wanted.
-- **Infobesity** - The idea that abundant information makes people and organizations stupid.
-- **Personality Security** - The art and discipline of defending one's values against colonization by globalized capitalism. The worst thing you can do, from a personality security perspective, is accept the defaults.
-
-## List of Lists of Links
-
-- [Software Development](software.html)
-- Life De-FAANGed
-- Languages and Linguistics
-- J.R.R. Tolkien
-- Alexandrian Architecture and Philosophy
-- [Heroes of Might and Magic IV](heroes4) - Maps and documentation for the classic computer strategy game.
-- [History of Technology](techhist.html)
-- [Web Archives and Archiving Tools](archiving.html)
-
 ## Publicly Available Data
 
 - [FAA Registry N-Number Search](https://registry.faa.gov/AircraftInquiry/Search/NNumberInquiry) - look up public data on aircraft by n-number (tail number).
@@ -356,17 +338,6 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [candle's website](https://kool.tools/) - a collection of tools focused on making tiny, minimalist games
 - [Curation is Creation](https://camdez.com/blog/2016/03/30/curation-is-creation/) by Cameron Desautels
 - [Ben Christel](https://benchristel.com) - this website. [Source code on GitHub](https://github.com/benchristelcom/benchristelcom.github.io/).
-
-## DuckDuckGo Bang Cheatsheet
-
-Bangs are shortcuts that let you search a specific site with DuckDuckGo. They start with an exclamation point, like `!yt` for YouTube. Just include one in your search to use it.
-
-- `!mdn` - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
-- `!yt` - YouTube
-- `!npm` - [NPMJS.com](https://www.npmjs.com/)
-- `!g` - Google
-- `!gh` - [GitHub](https://github.com/)
-- `!cc` - [Creative Commons](https://creativecommons.org/) image & audio search
 
 ## Webring
 
