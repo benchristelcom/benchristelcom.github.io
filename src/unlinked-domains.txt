@@ -152,6 +152,7 @@ https://community.playstarbound.com
 https://conclave-team.github.io
 https://contentdetector.ai
 https://content.minetest.net
+https://convertkit.com
 https://cooking.nytimes.com
 https://copyleaks.com
 https://cornishdictionary.org.uk
@@ -164,6 +165,7 @@ https://csspiffle.com
 https://cssreference.io
 https://cs.stanford.edu
 https://css-tricks.com
+https://curiousduck.io
 https://curseforge.com
 https://curseforge.overwolf.com
 https://cutlefish.substack.com
