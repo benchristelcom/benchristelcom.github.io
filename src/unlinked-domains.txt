@@ -640,6 +640,7 @@ https://sedano.org
 https://seek-oss.github.io
 https://selfsufficientme.com
 https://semver.org
+https://sendowl.com
 https://sentry.io
 https://server.pro
 https://sfcu.org
