@@ -17,7 +17,6 @@ https://about.gitlab.com
 https://academia.edu
 https://accountmaint.fidelity.com
 https://account.proton.me
-https://accounts.firefox.com
 https://account.squarespace.com
 https://account.venmo.com
 https://accuweather.com
@@ -263,7 +262,6 @@ https://exclassics.com
 https://exercism.org
 https://expensify.com
 https://experiments.withgoogle.com
-https://external-content.duckduckgo.com
 https://fabricmc.net
 https://favicon.io
 https://feather.surge.sh
@@ -274,8 +272,8 @@ https://fffuel.co
 https://fidelity.com
 https://filebase.com
 https://finance.zacks.com
+https://firefox.com
 https://fivethirtyeight.com
-https://fixedincome.fidelity.com
 https://flathub.org
 https://fly.io
 https://fonts.googleapis.com
@@ -323,7 +321,6 @@ https://hackmd.io
 https://handeyeco.github.io
 https://harvesttotable.com
 https://helia.io
-https://help.archive.org
 https://help.figma.com
 https://help.medium.com
 https://help.obsidian.md
@@ -347,13 +344,9 @@ https://hotlinewebring.club
 https://hpmor.com
 https://href.li
 https://htmlcheatsheet.com
-https://html.duckduckgo.com
 https://htmx.org
 https://huggingface.co
 https://husin.dev
-https://ia600309.us.archive.org
-https://ia800303.us.archive.org
-https://ia902300.us.archive.org
 https://iconsdb.com
 https://id.venmo.com
 https://images.freeimages.com
@@ -482,6 +475,7 @@ https://modelweb.net
 https://moderncss.dev
 https://monodraw.helftone.com
 https://mosscomic.wordpress.com
+https://mozilla.org
 https://mpgedit.org
 https://mrshll.com
 https://msrc.microsoft.com
@@ -781,7 +775,6 @@ https://waywardweb-gitlab-io-waywardweb-9296cdc516bd9e52951d51ec0cd893c.gitlab.i
 https://waywardweb.org
 https://weather.com
 https://webaim.org
-https://web.archive.org
 https://web.dev
 https://webflow.com
 https://websitesetup.org
