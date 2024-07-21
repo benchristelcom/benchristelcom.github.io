@@ -10,7 +10,7 @@ Red lentils with fenugreek. Serves 10.
 - 3 jalapeños, diced
 - 1 28oz can diced tomatoes
 - 1 bunch chard, stems removed and diced, leaves chopped
-- 1/2 tsp tumeric
+- 1/2 tsp turmeric
 - 2 Tbsp ground fenugreek seed
 - 5 Tbsp butter or ghee
 - 2 1/2 tsp whole cumin seeds

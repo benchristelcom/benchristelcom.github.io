@@ -9,10 +9,10 @@
 
 ## Procedure
 
-1. Rinse the rice two or three times in cold water in a saucepan. Pour out the excess water.
+1. Rinse the rice two or three times in cold water in a saucepan. Drain off the water.
 2. Boil 11 ounces of water per cup of rice in an electric kettle.
-3. Pour the water over the rice, cover, and bring to a boil.
-4. If you want yellow rice, add a pinch of tumeric now. A little goes a long way.
+3. Pour the water over the rice, cover, and bring to a boil on the stove.
+4. If you want yellow rice, add a pinch of turmeric now. A little goes a long way.
 5. Reduce to a simmer and cook, covered, for 35 minutes.
 
 ## Notes

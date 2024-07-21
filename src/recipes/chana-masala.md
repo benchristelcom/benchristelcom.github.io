@@ -18,7 +18,7 @@
 - 1 1/2" piece of ginger root
 - 4-5 jalapeño or serrano peppers
 - 8 cloves garlic
-- 3/4 tsp tumeric
+- 3/4 tsp turmeric
 - 5 tsp coriander
 - 1 Tbsp cumin
 - 1 Tbsp garam masala
