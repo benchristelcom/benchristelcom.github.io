@@ -219,6 +219,12 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [day.js](https://day.js.org/) - a JavaScript library for date/time calculations.
 - [date-fns](https://date-fns.org/) - another JavaScript library for date/time calculations.
 
+### Tips and Tricks, How Tos
+
+- [Exclude commits from "git blame"](https://www.stefanjudis.com/today-i-learned/how-to-exclude-commits-from-git-blame/)
+  - `git config blame.ignoreRevsFile .git-blame-ignore-revs`
+  - useful if you have formatting commits that touch tons of code but make no functional changes.
+
 ## Image Repositories
 
 - [GifCities](https://gifcities.org/) - Archived gifs from Geocities websites.
@@ -280,15 +286,23 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 ## Games & Gaming
 
-- [Zero-K](https://zero-k.info)
-- [Age of Empires (fandom.com)](https://ageofempires.fandom.com) - Unit stats etc.
-
 ### Heroes of Might and Magic IV
 
 - [maps4heroes.com](https://www.maps4heroes.com/heroes4/maps.php) - A huge collection of high-quality player-made maps. See also my own [map archive](https://github.com/benchristel/heroes-iv-map-archive).
 - [heroesofmightandmagic.com](http://www.heroesofmightandmagic.com/heroes4/heroesofmightandmagic4iv.shtml) - The official website, with descriptions of every hero, creature, spell, artifact, and building.
 - [Heroes Community Forums](http://heroescommunity.com)
 - Ever wonder how many berserkers it takes to beat a phoenix? My [Creature Ratings](/heroes4/creature-ratings.md) page has got you covered.
+
+### Other Computer Games
+
+- [Zero-K](https://zero-k.info)
+- [Age of Empires (fandom.com)](https://ageofempires.fandom.com) - Unit stats etc.
+
+### 52-Card Games
+
+A.K.A. the lost art of amusing yourself without electricity.
+
+- [Card Game Rules at Pagat.com](https://www.pagat.com/) - A huge collection of game rules, maintained by John McLeod.
 
 ## Languages and Linguistics
 
