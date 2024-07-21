@@ -250,6 +250,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 ### Creating
 
+- [Flaming Text](https://flamingtext.com/) - Creates logos and typemarks. Not just flaming text, but glowing text, drop shadows, reflections, leopard print... the sky's the limit!
 - [Dillinger.io](https://dillinger.io) - Online [Markdown](https://daringfireball.net/projects/markdown/) editor
 
 ### Transforming
