@@ -86,6 +86,8 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 - [Every Noise at Once](https://everynoise.com) <hs-meta keywords="everynoise.com"></hs-meta> - A catalog of all music on Spotify by algorithmically-inferred genre. An incredible work of data science by [Glenn McDonald](https://www.furia.com)
 - [Album of the Year](https://www.albumoftheyear.org/) - browse music by release year, going back to the early 1900s. [Here's 1920](https://www.albumoftheyear.org/1920/releases/).
+- [The Roud Folksong Index](https://archives.vwml.org/search/roud)<hs-meta keywords="song"></hs-meta> - a database of around 25,000 English and Scottish folk songs, compiled by Steve Roud. See also the [List of Folk Songs by Roud Number on Wikipedia](https://en.wikipedia.org/wiki/List_of_folk_songs_by_Roud_number).
+- [List of the Child Ballads on Wikipedia](https://en.wikipedia.org/wiki/List_of_the_Child_Ballads) - another list of English and Scottish folk songs.
 
 ### Buying / Downloading
 
