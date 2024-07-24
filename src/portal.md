@@ -192,6 +192,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [ESLint](https://eslint.org/) - I am experimenting with [eslint.style](https://eslint.style/) as a JavaScript/TypeScript formatter, replacing [Prettier](https://prettier.io/). See also [Anthony Fu's post "Why I don't use Prettier"](https://antfu.me/posts/why-not-prettier).
 - [Prettier](https://prettier.io) - because it's still the easiest formatter to set up, and I agree with 95% of its choices.
 - [TypeScript](https://typescriptlang.org/) - Statically-typed superset of JavaScript. Owned by Microsoft.
+- [Husky](https://typicode.github.io/husky/) - Git hooks framework.
 - [Markdown](https://daringfireball.net/projects/markdown/) - Lightweight markup syntax that bridges the gap between plain text and HTML. Designed by [John Gruber](https://daringfireball.net).
 - [Preact](https://preactjs.com/) - Lightweight reactive UI library. Keeps the DOM up to date when your application state changes.
 - [ExpressJS](https://expressjs.com/) - Popular REST server framework for NodeJS.
