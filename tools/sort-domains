@@ -1,0 +1,7 @@
+#!/bin/bash -e
+
+# Sorts domains reverse-lexicographically; i.e. the last character is the most
+# significant. This ensures all subdomains of the same apex domain are grouped
+# together.
+rev src/unlinked-domains.txt | sort | rev > /tmp/sorted-domains.txt
+mv /tmp/sorted-domains.txt src/unlinked-domains.txt
