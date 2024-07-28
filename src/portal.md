@@ -236,6 +236,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [nnnoise - SVG Noise Generator](https://www.fffuel.co/nnnoise/) - create fractal noise or turbulence dynamically with SVG. A very network-efficient replacement for PNG or JPEG textures.
 - [Grainy Gradient Playground](https://grainy-gradients.vercel.app/) - dithered gradients for a retro (or is it futuristic?) look
 - [IconsDB](https://www.iconsdb.com/)
+- [Heroicons](https://heroicons.com/) - copy these SVG icons directly into your HTML. Nothing to download. Outline, solid, mini, and micro variants. (h/t [JT Archie](https://jtarchie.com/))
 - [Wikimedia Commons](https://commons.wikimedia.org)
 - [Public Domain Pictures](https://www.publicdomainpictures.net)
 - [Flickr](https://flickr.com)
