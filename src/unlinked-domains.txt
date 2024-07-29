@@ -915,6 +915,7 @@ https://railway.app
 https://use-gesture.netlify.app
 https://react-typescript-cheatsheet.netlify.app
 https://bsky.app
+https://professional-blog-prod.vercel.app
 https://pattern.monster
 http://khanacademy.systems
 https://www.egui.rs
