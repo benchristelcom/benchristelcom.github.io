@@ -5,7 +5,6 @@ Hello! I'm Ben. Welcome to my collection of stuff.
 ## Highlights
 
 - [Web Portal](/portal.html) - A searchable catalog of some links I've bookmarked.
-- [Metrics](/metrics.html) - What "success" means for this website.
 
 ### Writing Projects
 
@@ -17,7 +16,7 @@ Hello! I'm Ben. Welcome to my collection of stuff.
 
 <div class="col-2"></div>
 
-- [Culture Machine](https://benchristel.github.io/tv) - Plays my eclectic collection of videos in an unskippable random sequence.
+- [Culture Machine](https://benchristel.github.io/tv) - TV / Radio, DJed by my digital ghost. Thousands of hand-picked videos to amuse, delight, and perplex you, played in a neverending random sequence.
 - [Druthers](https://druthers.app) - Instantly grok your group's priorities with ranked-choice voting. A collaboration with [Gavin Morgan](https://gavmor.com).
 - [mdsite](https://benchristel.github.io/mdsite) - A modern generator for old-school static sites and HTML books. It turns any tree of [Markdown](https://daringfireball.net/projects/markdown/) files into a website, complete with auto-generated navigation links.
 - [marss](https://benchristel.github.io/marss) - A soon-to-be-released markdown-to-RSS generator. Turns your microblog or changelog into an RSS feed.
@@ -43,3 +42,7 @@ Hello! I'm Ben. Welcome to my collection of stuff.
 
 - [The Wayward Web](https://waywardweb.org) - A webring. An aspirationally collaborative effort to map the useful, human parts of the web.
 - [Cookbook](/recipes) - Hearty one-pot vegetarian meals.
+
+### Miscellany
+
+- [Metrics](/metrics.html) - What "success" means for this website.
