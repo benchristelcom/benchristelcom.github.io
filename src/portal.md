@@ -269,6 +269,10 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 - [Regex 101](https://regex101.com/) - Evaluate and debug regular expressions. Supports many regex dialects including PCRE and JavaScript.
 
+### Other Lists of Tools
+
+- [Dan's Tools](https://www.danstools.com/) - mostly data-converters
+
 ## Commerce
 
 - [Venmo](https://venmo.com)
@@ -365,6 +369,7 @@ A.K.A. the lost art of amusing yourself without electricity.
 - [Website Review](https://websitereview.neocities.org/) - a virtual library of deepweb and www sites.
 - [garlic.garden](https://garlic.garden/) by [allium house](https://allium.house/)
 - [candle's website](https://kool.tools/) - a collection of tools focused on making tiny, minimalist games
+- [Dan's Tools](https://www.danstools.com/) - a collection of simple browser-based utilities for web development and data conversion, plus a database of [user manuals](https://www.cleancss.com/user-manuals/) for physical products.
 - [Curation is Creation](https://camdez.com/blog/2016/03/30/curation-is-creation/) by Cameron Desautels
 - [Ben Christel](https://benchristel.com) - this website. [Source code on GitHub](https://github.com/benchristelcom/benchristelcom.github.io/).
 
