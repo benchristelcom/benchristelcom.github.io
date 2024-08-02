@@ -34,6 +34,7 @@ Run `tools/metrics HISTORYFILE`
 
 | Month    | Webpages | Google searches | DDG searches |
 | -------- | -------- | --------------- | ------------ |
+| Jul 2024 | 1072     | 1               | 101          |
 | Jun 2024 | 1974     | 6               | 217          |
 | May 2024 | 2122     | 30              | 168          |
 | Apr 2024 | 1221     | 0               | 136          |
