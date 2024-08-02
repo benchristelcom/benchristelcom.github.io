@@ -198,6 +198,8 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [ExpressJS](https://expressjs.com/) - Popular REST server framework for NodeJS.
 - [Marked](https://marked.js.org/) - [Markdown](https://daringfireball.net/projects/markdown/)-to-HTML converter for NodeJS
 - [CodeMirror](https://codemirror.net/) - Code editor by [Marijn Haverbeke](https://marijnhaverbeke.nl/)
+- [@regosen/gapless-5](https://www.npmjs.com/package/@regosen/gapless-5) - gapless and looped audio playback on the web. Essential if you're building a music player.
+- [tiny-invariant](https://www.npmjs.com/package/tiny-invariant) - TypeScript assertion library that does type narrowing.
 - [Cloudflare](https://cloudflare.com) - Static/serverless web host and CDN.
 - [Render.com](https://render.com) - Web app hosting
 - [Gimp](https://gimp.org) - the GNU Image Manipulation Program. An open source image editor similar to Photoshop. See also the [Gimp documentation](https://docs.gimp.org)
