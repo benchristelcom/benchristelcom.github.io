@@ -167,6 +167,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Ask Tog](https://asktog.com/) - Bruce Tognazzini (early employee at Apple)'s thoughts on UX design.
 - [Laws of UX](https://lawsofux.com/) - Facts about humans that every designer should keep in mind!
 - [Contrast Rebellion](https://contrastrebellion.com/) - A manifesto against low-contrast websites.
+- [CSS Fonts (cssfontstack.com)](https://www.cssfontstack.com/) - lists commonly installed on Windows and macOS, so you can craft `font-family` values that will look good cross-platform.
 - [David Jonathan Ross Fonts](https://djr.com/)
 - [Google Fonts](https://fonts.google.com/) - Free downloadable fonts for your website. You can also hotlink them, but that will let Google surveil your users.
 
