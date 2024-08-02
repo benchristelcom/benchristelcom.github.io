@@ -2,6 +2,10 @@
   "emeraldwalk.runonsave": {
     "commands": [
       {
+        "match": "src/log.md",
+        "cmd": "marss src/log.md src/feed.rss && cp src/feed.rss dist/feed.rss"
+      },
+      {
         "match": ".*",
         "cmd": "./build"
       },
