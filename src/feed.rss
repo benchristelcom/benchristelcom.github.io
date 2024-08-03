@@ -15,9 +15,9 @@
 <h3 id="regosengapless-5-tiny-invariant">@regosen/gapless-5, tiny-invariant</h3>
 <p>I&apos;ve listed two new JavaScript libraries I use on the <a href="https://benchristel.com/portal.html">Web Portal</a> page:</p>
 <ul>
-<li><a href="https://www.npmjs.com/package/@regosen/gapless-5">@regosen/gapless-5</a> - gapless and looped audio playback on the web. Essential if you&apos;re building a music player.</li>
+<li><a href="https://www.npmjs.com/package/@regosen/gapless-5">@regosen/gapless-5</a> - gapless and looped audio playback on the web. Essential if you&apos;re building a music player. I&apos;m using it in my <a href="https://benchristel.github.io/meditation">meditation timer</a> to loop the audio.</li>
 <li><a href="https://www.npmjs.com/package/tiny-invariant">tiny-invariant</a> - a TypeScript assertion library that does <a href="https://www.typescriptlang.org/docs/handbook/2/narrowing.html">type narrowing</a>. Handy for those cases where <em>you</em> know what type something is,
-but TypeScript doesn&apos;t, and you just want to throw an error in the (presumably impossible) case where the thing is the wrong type and move on with your life.</li>
+but TypeScript doesn&apos;t, and you just want to throw an error in the (presumably impossible) case where the thing is the wrong type and move on with your life. I learned about tiny-invariant by contributing to <a href="https://mafs.dev/">Mafs</a>, <a href="https://stevenpetryk.com/">Steven Petryk</a>&apos;s ReactJS library for math visualization.</li>
 </ul>
 <h3 id="end-of-july">End of July</h3>
 <p>Today being the last day of the month, I&apos;ve updated the <a href>metrics page</a> with the latest data.</p>]]></description>

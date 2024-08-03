@@ -1,6 +1,11 @@
 # Web Log
 
-This page is a reverse-chronology of recent updates, news, missives, and questions.
+This page is a reverse chronology of what I've been doing and thinking about. You can subscribe to its RSS feed by pasting this link into your
+favorite feed reader:
+
+```
+https://benchristel.com/feed.xml
+```
 
 <!--
 @marss
@@ -34,6 +39,13 @@ I feel like this is an important resource for anyone who wants to keep their web
 I also feel like I've seen such a resource within the last few years, but sadly I don't have it bookmarked.
 Can anyone in the audience help me out? Send email to benchristel at gmail.com. I'll give you a backlink.
 
+### Georgia Lacks Lining Numerals
+
+Related to the above.
+
+It seems like a bizarre omission, but I cannot get my web browser to display anything other than oldstyle numerals when Georgia is set as the font. I think I'm going to switch to Trebuchet MS for headings and Tahoma for body text. The
+only question is, what to use as the fallback for Linux...
+
 -->
 
 ## 2024-07-31: Site Updates
@@ -48,9 +60,9 @@ Today I learned that you can install a NodeJS package you're developing without 
 
 I've listed two new JavaScript libraries I use on the [Web Portal](https://benchristel.com/portal.html) page:
 
-- [@regosen/gapless-5](https://www.npmjs.com/package/@regosen/gapless-5) - gapless and looped audio playback on the web. Essential if you're building a music player.
+- [@regosen/gapless-5](https://www.npmjs.com/package/@regosen/gapless-5) - gapless and looped audio playback on the web. Essential if you're building a music player. I'm using it in my [meditation timer](https://benchristel.github.io/meditation) to loop the audio.
 - [tiny-invariant](https://www.npmjs.com/package/tiny-invariant) - a TypeScript assertion library that does [type narrowing](https://www.typescriptlang.org/docs/handbook/2/narrowing.html). Handy for those cases where _you_ know what type something is,
-but TypeScript doesn't, and you just want to throw an error in the (presumably impossible) case where the thing is the wrong type and move on with your life.
+but TypeScript doesn't, and you just want to throw an error in the (presumably impossible) case where the thing is the wrong type and move on with your life. I learned about tiny-invariant by contributing to [Mafs](https://mafs.dev/), [Steven Petryk](https://stevenpetryk.com/)'s ReactJS library for math visualization.
 
 ### End of July
 
