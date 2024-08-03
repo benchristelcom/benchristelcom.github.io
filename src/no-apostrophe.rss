@@ -2,11 +2,13 @@
 <rss version="2.0">
     <channel>
         <title>The Web Journal of Ben Christel</title>
-        <description>The changelog / microblog of benchristel.com</description>
+        <description>The Web Journal of Ben Christel</description>
         <link>https://benchristel.com/log.html</link>
         <language>en-us</language>
         <managingEditor>benchristel@gmail.com (Ben Christel)</managingEditor>
         <webMaster>benchristel@gmail.com (Ben Christel)</webMaster>
+        <lastBuildDate>Sat, 03 Aug 2024 23:20:25 GMT</lastBuildDate>
+        <atom:link href="https://benchristel.com/no-apostrophe.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title>2024-07-31: Site Updates</title>
             <description><![CDATA[<h3 id="globally-install-a-package-youre-developing">Globally install a package you&apos;re developing</h3>
