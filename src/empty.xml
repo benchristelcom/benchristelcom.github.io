@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>The Web Journal of Ben Christel</title>
+        <description>The changelog / microblog of benchristel.com</description>
+        <link>https://benchristel.com/log.html</link>
+        <language>en-us</language>
+        <managingEditor>benchristel@gmail.com (Ben Christel)</managingEditor>
+        <webMaster>benchristel@gmail.com (Ben Christel)</webMaster>
+    </channel>
+</rss>
