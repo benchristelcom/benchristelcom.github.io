@@ -145,7 +145,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [caniuse.com](https://caniuse.com) - Find out which browsers support a given feature (in JavaScript, CSS, HTML, or SVG).
 - [C++ Reference](https://en.cppreference.com/w/)
 - [MemoryManagement.org](https://www.memorymanagement.org/) - Approaches to garbage collection and more.
-- [RSS 2.0 Specification](https://cyber.harvard.edu/rss/rss.html)
+- [RSS 2.0 Specification](https://www.rssboard.org/rss-specification). Also mirrored [at Harvard.edu](https://cyber.harvard.edu/rss/rss.html).
 - [Atom Syndication Format Specification](https://www.rfc-editor.org/rfc/rfc4287)
 - [HTML Specification](https://html.spec.whatwg.org)
 
