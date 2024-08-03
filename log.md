@@ -7,6 +7,7 @@ This page is a reverse-chronology of recent updates, news, missives, and questio
 title: Ben Christel's Web Journal
 description: The changelog / microblog of benchristel.com
 link: https://benchristel.com/log.html
+htmlUrl: https://benchristel.com/log.html
 language: en-us
 webMaster: benchristel@gmail.com (Ben Christel)
 managingEditor: benchristel@gmail.com (Ben Christel)
