@@ -1,4 +1,6 @@
-# 2024-08-04: The Mess We're In
+# The Mess We're In
+
+August 4, 2024
 
 In this next series of posts, I'm going to try to explain a) what I've been working on for the past couple of months, and b) why. But in the opposite order. This post will start to unpack the "why," beginning with the problem I'm trying to address.
 
