@@ -11,6 +11,7 @@
 
 <div class="centered-text">
 <button id="ddg">DuckDuckGo</button><button id="yt">YouTube</button><button id="npm">NPM</button><button id="openverse">Openverse</button><button id="wikipedia">Wikipedia</button><button id="cornish">Cornish Dict.</button>
+<button id="etymonline">Etymonline</button><button id="wiktionary">Wiktionary</button>
 </div>
 
 </div>
@@ -333,6 +334,12 @@ A.K.A. the lost art of amusing yourself without electricity.
 - [Radyo an Gernewegva](https://anradyo.com/) - Radio of the Cornish Language Community. See also [Pellwolok an Gernewegva](https://www.youtube.com/user/KernowPods) on YouTube.
 - [Kernewegva.com](https://kernewegva.com/) - A website about Cornish, in Cornish.
 
+### English & Multilingual Dictionaries
+
+- [Etymonline](https://www.etymonline.com/) - An etymological dictionary of English.
+- [Wiktionary](https://en.wiktionary.org/) - A collaborative multilingual dictionary. Extremely comprehensive.
+- [Merriam-Webster](https://www.merriam-webster.com) - English dictionary and thesaurus.
+
 ### Linguistics
 
 - [Leipzig Glossing Rules](https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf) - see also Wikipedia's [List of Glossing Abbreviations](https://en.wikipedia.org/wiki/List_of_glossing_abbreviations)
@@ -370,6 +377,7 @@ A.K.A. the lost art of amusing yourself without electricity.
 - [garlic.garden](https://garlic.garden/) by [allium house](https://allium.house/)
 - [candle's website](https://kool.tools/) - a collection of tools focused on making tiny, minimalist games
 - [Dan's Tools](https://www.danstools.com/) - a collection of simple browser-based utilities for web development and data conversion, plus a database of [user manuals](https://www.cleancss.com/user-manuals/) for physical products.
+- [Krazydad](https://krazydad.com) - Sudoku! Mazes! Printable Puzzles!
 - [Curation is Creation](https://camdez.com/blog/2016/03/30/curation-is-creation/) by Cameron Desautels
 - [Ben Christel](https://benchristel.com) - this website. [Source code on GitHub](https://github.com/benchristelcom/benchristelcom.github.io/).
 
@@ -410,6 +418,8 @@ const providers = {
   openverse: "https://openverse.org/search/?q=%s",
   wikipedia: "https://en.wikipedia.org/w/index.php?search=%s",
   cornish: "https://cornishdictionary.org.uk/#%s",
+  etymonline: "https://www.etymonline.com/search?q=%s",
+  wiktionary: "https://en.wiktionary.org/wiki/%s",
 }
 
 searchInput.addEventListener("keypress", (e) => {
