@@ -8,6 +8,34 @@
         <managingEditor>benchristel@gmail.com (Ben Christel)</managingEditor>
         <webMaster>benchristel@gmail.com (Ben Christel)</webMaster>
         <item>
+            <title>2024-08-04: The Mess We&apos;re In</title>
+            <description><![CDATA[<h3 id="writings">Writings</h3>
+<p>Published: <a href="https://benchristel.com/posts/0000-the-mess-we-are-in.html">&quot;The Mess We&apos;re In&quot;</a></p>
+<h3 id="quotes">Quotes</h3>
+<blockquote>
+<p>Philosophy is a battle against the bewitchment of our intelligence by means of language.</p>
+<p>&#x2014;Ludwig Wittgenstein</p>
+</blockquote>
+<h3 id="currently-stuck-in-my-head">Currently stuck in my head</h3>
+<p><a href="https://benchristel.github.io/yt/#nT6XeItIGlU">J&apos;aim la flour de valour</a> by Guillaume de Machaut</p>
+<p><a href="https://benchristel.github.io/yt/#nT6XeItIGlU"><img src="https://benchristel.com/assets/jaim-la-flour.jpeg" alt></a></p>
+<h3 id="wanted">Wanted</h3>
+<p>I want a list of cross-platform <code>font-family</code> values, using only fonts that ship with operating systems.
+E.g. if I want to use a humanist sans-serif typeface on my website, and I don&apos;t want my users to have
+to download fonts, what are some <code>font-family</code> settings that will result in good-looking, consistent
+typography across Windows, macOS, Ubuntu, iOS, and Android?</p>
+<p>I feel like this is an important resource for anyone who wants to keep their website ultra-lean (as I do).
+I also feel like I&apos;ve seen such a resource within the last few years, but sadly I don&apos;t have it bookmarked.
+Can anyone in the audience help me out? Send email to benchristel at gmail.com. I&apos;ll give you a backlink.</p>
+<h3 id="working-on">Working On</h3>
+<ul>
+<li><a href="https://github.com/benchristel/marss">marss</a>, a Markdown-to-RSS converter. It&apos;s not quite ready for release, but I&apos;m already using it to generate the RSS feed for this page.</li>
+</ul>]]></description>
+            <guid isPermaLink="false">2024-08-04-the-mess-were-in</guid>
+            <link>https://benchristel.com/log.html#2024-08-04-the-mess-were-in</link>
+            <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+        </item>
+        <item>
             <title>2024-07-31: Site Updates</title>
             <description><![CDATA[<h3 id="globally-install-a-package-youre-developing">Globally install a package you&apos;re developing</h3>
 <p>Today I learned that you can install a NodeJS package you&apos;re developing without first publishing it to a package registry like NPM. <code>yarn global add &quot;file:/absolute/path/to/repo&quot;</code> will do the trick.</p>

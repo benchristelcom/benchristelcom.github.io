@@ -29,15 +29,23 @@ webMaster: benchristel@gmail.com (Ben Christel)
 managingEditor: benchristel@gmail.com (Ben Christel)
 -->
 
-<!--
+## 2024-08-04: The Mess We're In
 
-## Weeknotes, 2024-08-04
+### Writings
+
+Published: ["The Mess We're In"](https://benchristel.com/posts/0000-the-mess-we-are-in.html)
 
 ### Quotes
 
 > Philosophy is a battle against the bewitchment of our intelligence by means of language.
 >
 > —Ludwig Wittgenstein
+
+### Currently stuck in my head
+
+[J'aim la flour de valour](https://benchristel.github.io/yt/#nT6XeItIGlU) by Guillaume de Machaut
+
+[![](https://benchristel.com/assets/jaim-la-flour.jpeg)](https://benchristel.github.io/yt/#nT6XeItIGlU)
 
 ### Wanted
 
@@ -50,14 +58,9 @@ I feel like this is an important resource for anyone who wants to keep their web
 I also feel like I've seen such a resource within the last few years, but sadly I don't have it bookmarked.
 Can anyone in the audience help me out? Send email to benchristel at gmail.com. I'll give you a backlink.
 
-### Georgia Lacks Lining Numerals
+### Working On
 
-Related to the above.
-
-It seems like a bizarre omission, but I cannot get my web browser to display anything other than oldstyle numerals when Georgia is set as the font. I think I'm going to switch to Trebuchet MS for headings and Tahoma for body text. The
-only question is, what to use as the fallback for Linux...
-
--->
+- [marss](https://github.com/benchristel/marss), a Markdown-to-RSS converter. It's not quite ready for release, but I'm already using it to generate the RSS feed for this page.
 
 ## 2024-07-31: Site Updates
 
