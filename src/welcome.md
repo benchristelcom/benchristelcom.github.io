@@ -4,6 +4,7 @@ Hello! I'm Ben. Welcome to my collection of stuff.
 
 ## Highlights
 
+- [Web Log](/log.html) - What I've been doing on the web recently, on this site and elsewhere
 - [Web Portal](/portal.html) - A searchable catalog of some links I've bookmarked.
 
 ### Writing Projects
