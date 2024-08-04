@@ -3,7 +3,7 @@
     "commands": [
       {
         "match": "log.md",
-        "cmd": "marss log.md src/feed.rss src/feed.xml src/log.html"
+        "cmd": "marss log.md src/feed.rss src/log.html"
       },
       {
         "match": ".*",

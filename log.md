@@ -1,11 +1,22 @@
 # Web Log
 
-This page is a reverse chronology of what I've been doing and thinking about. You can subscribe to its RSS feed by pasting this link into your
+This page is a reverse chronology of what I've been doing and thinking about. You can subscribe to its RSS feed by pasting the URL of this website into your
 favorite feed reader:
 
 ```
-https://benchristel.com/feed.xml
+https://benchristel.com
 ```
+
+<details>
+<summary>RSS Troubleshooting</summary>
+
+If that URL doesn't work, this one might:
+
+```
+https://benchristel.com/feed.rss
+```
+
+</details>
 
 <!--
 @marss
