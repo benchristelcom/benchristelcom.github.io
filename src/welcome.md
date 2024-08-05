@@ -4,8 +4,8 @@ Hello! I'm Ben. Welcome to my collection of stuff.
 
 ## Highlights
 
-- [Web Log](/log.html) - What I've been doing on the web recently, on this site and elsewhere
 - [Web Portal](/portal.html) - A searchable catalog of some links I've bookmarked.
+- [Web Log](/log.html) - What I've been doing on the web recently, on this site and elsewhere
 
 ### Writing Projects
 
@@ -23,7 +23,7 @@ Hello! I'm Ben. Welcome to my collection of stuff.
 - [marss](https://benchristel.github.io/marss) - A soon-to-be-released markdown-to-RSS generator. Turns your microblog or changelog into an RSS feed.
 - [Taste](https://npmjs.com/package/@benchristel/taste) - Simple, speedy JavaScript test framework
 - [hypersearch](https://www.npmjs.com/package/@benchristel/hypersearch) - Powers the searchbar on this page!
-- [Bastion](https://bastionhome.github.io/) - A big directory of links. The predecessor of this page.
+- [Bastion](https://bastionhome.github.io/) - A big directory of links. The predecessor of my [web portal](/portal.html) page.
 - [Audition](https://github.com/benchristel/audition) - A command-line tool that keeps the prose description of your conlang up to date with its morphology and lexicon.
 - [The One Grammar to Rule Them All](https://github.com/benchristel/OGTRTA) - The Lisp of conlangs. A syntax template for people who don't want to think about syntax anymore.
 - [wwwebring](https://www.npmjs.com/package/wwwebring) - A fully clientside webring widget for static sites. Powers [the Wayward Web](https://waywardweb.org).

@@ -378,8 +378,17 @@ A.K.A. the lost art of amusing yourself without electricity.
 - [candle's website](https://kool.tools/) - a collection of tools focused on making tiny, minimalist games
 - [Dan's Tools](https://www.danstools.com/) - a collection of simple browser-based utilities for web development and data conversion, plus a database of [user manuals](https://www.cleancss.com/user-manuals/) for physical products.
 - [Krazydad](https://krazydad.com) - Sudoku! Mazes! Printable Puzzles!
-- [Curation is Creation](https://camdez.com/blog/2016/03/30/curation-is-creation/) by Cameron Desautels
+- [Richard Kennaway's List of Constructed Languages](http://www2.cmp.uea.ac.uk/~jrk/conlang.html)
 - [Ben Christel](https://benchristel.com) - this website. [Source code on GitHub](https://github.com/benchristelcom/benchristelcom.github.io/).
+
+### Inspiration
+
+- [Hypertext Gardens: Delightful Vistas](http://www.eastgate.com/garden/Enter.html) by Mark Bernstein. 1998.
+- ["The Garden and the Stream: A Technopastoral"](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/) by Mike Caulfield. 2015.
+- ["Curation is Creation"](https://camdez.com/blog/2016/03/30/curation-is-creation/) by Cameron Desautels. 2016. If you're decreasing local entropy, you're doing good work.
+- ["How Blogs Broke the Web"](https://stackingthebricks.com/how-blogs-broke-the-web/) by Amy Hoy. Circa 2017.
+- [Maggie Appleton on Digital Gardens](https://maggieappleton.com/garden-history). 2021.
+- ["We Can Have a Different Web"](https://www.citationneeded.news/we-can-have-a-different-web/) by Molly White. 2024. A hopeful look at the web's problems.
 
 ## Webring
 
