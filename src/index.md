@@ -8,12 +8,13 @@
 
 ## Elsewhere:
 
-- [Newsletter](https://bensguide.substack.com/)
-- [Personal Wiki](https://github.com/benchristel/benchristel.github.io/wiki)
-- [Blog (defunct)](https://benchristel.github.io/)
-- [Web Portal](portal.html)
-- [Webring](https://waywardweb.org)
 - [GitHub](https://github.com/benchristel)
+- [Newsletter](https://bensguide.substack.com/)
+- [Digital Garden](https://github.com/benchristel/benchristel.github.io/wiki)
+<!-- - [Web Portal](portal.html) -->
+- <a href="https://waywardweb.org" style="letter-spacing:0;font-size:92%">WaywardWeb.org</a>
+- [Blog (defunct)](https://benchristel.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/ben-christel-17a26829/)
 - [email](mailto:ben.christel@gmail.com)
 
 </div>
@@ -39,7 +40,8 @@ h2 {
 
 .enter-link {
   font-size: 1.2rem;
-  letter-spacing: 0.08em;
+  text-shadow: 0.5px 0;
+  letter-spacing: 0.13em;
 }
 
 #tree {
