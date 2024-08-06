@@ -4,23 +4,23 @@ Hello! I'm Ben. Welcome to my collection of stuff.
 
 ## Highlights
 
-- [Web Portal](/portal.html) - A searchable catalog of some links I've bookmarked.
-- [Web Log](/log.html) - What I've been doing on the web recently, on this site and elsewhere
+- [Web Portal](/portal.html) - A searchable catalog of links I've bookmarked.
+- [Web Log](/log.html) - What I've been doing on the web recently, on this site and elsewhere. You can [subscribe to updates](/subscribe.html) via email and RSS.
 
 ### Writing Projects
 
 - [_Process to Processes_](https://benchristel.github.io/process-to-processes) - A draft of my upcoming book about software development
-- [Ben's Guide to Software Development](https://bensguide.substack.com) - A newsletter about the book
-- [Bliki](https://github.com/benchristel/benchristel.github.io/wiki) - My personal blog/wiki about software, with 250+ topic-focused pages on everything from [abstraction](https://github.com/benchristel/benchristel.github.io/wiki/Abstraction) to [wholeness](https://github.com/benchristel/benchristel.github.io/wiki/Wholeness).
+- [Ben's Guide to Software Development](https://bensguide.substack.com) - A newsletter about software, and, let's be real, a bunch of other stuff too.
+- [Bliki](https://github.com/benchristel/benchristel.github.io/wiki) - My personal blog / wiki / digital garden about software, with 250+ topic-focused pages on everything from [abstraction](https://github.com/benchristel/benchristel.github.io/wiki/Abstraction) to [wholeness](https://github.com/benchristel/benchristel.github.io/wiki/Wholeness).
 
 ### Major Artifacts
 
 <div class="col-2"></div>
 
-- [Culture Machine](https://benchristel.github.io/tv) - TV / Radio, DJed by my digital ghost. Thousands of hand-picked videos to amuse, delight, and perplex you, played in a neverending random sequence.
-- [Druthers](https://druthers.app) - Instantly grok your group's priorities with ranked-choice voting. A collaboration with [Gavin Morgan](https://gavmor.com).
+- [Culture Machine](https://benchristel.github.io/tv) - TV / Radio, DJed by my digital ghost. Thousands of hand-picked videos to amuse, confuse, and delight you, played in a neverending random sequence.
+- [Druthers](https://druthers.app) - Instantly grok your group's priorities with a ranked-choice poll. A collaboration with [Gavin Morgan](https://gavmor.com).
 - [mdsite](https://benchristel.github.io/mdsite) - A modern generator for old-school static sites and HTML books. It turns any tree of [Markdown](https://daringfireball.net/projects/markdown/) files into a website, complete with auto-generated navigation links.
-- [marss](https://benchristel.github.io/marss) - A soon-to-be-released markdown-to-RSS generator. Turns your microblog or changelog into an RSS feed.
+- [marss](https://github.com/benchristel/marss) - A soon-to-be-released markdown-to-RSS generator. Turns your microblog or changelog into an RSS feed.
 - [Taste](https://npmjs.com/package/@benchristel/taste) - Simple, speedy JavaScript test framework
 - [hypersearch](https://www.npmjs.com/package/@benchristel/hypersearch) - Powers the searchbar on this page!
 - [Bastion](https://bastionhome.github.io/) - A big directory of links. The predecessor of my [web portal](/portal.html) page.
