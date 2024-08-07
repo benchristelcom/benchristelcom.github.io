@@ -351,6 +351,7 @@ A.K.A. the lost art of amusing yourself without electricity.
 ## Publicly Available Data
 
 - [FAA Registry N-Number Search](https://registry.faa.gov/AircraftInquiry/Search/NNumberInquiry) - look up public data on aircraft by n-number (tail number).
+- [Macrotrends](https://macrotrends.net) - economic and financial data over time
 
 ## Archives and Archiving Tools
 
