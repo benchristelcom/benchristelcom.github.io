@@ -1,11 +1,13 @@
 # Welcome!
 
-Hello! I'm Ben. Welcome to my collection of stuff.
+Hello! I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); by night I write everything else. This website is the gateway to my many projects.
 
 ## Highlights
 
 - [Web Portal](/portal.html) - A searchable catalog of links I've bookmarked.
-- [Web Log](/log.html) - What I've been doing on the web recently, on this site and elsewhere. You can [subscribe to updates](/subscribe.html) via email and RSS.
+- [Web Log](/log.html) - What I've been doing on the web recently, on this site and elsewhere.
+
+  [Subscribe to updates](/subscribe.html) via email or RSS.
 
 ### Writing Projects
 
