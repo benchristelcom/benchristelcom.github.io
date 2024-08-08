@@ -1,6 +1,6 @@
 # Ben Christel’s Homepage
 
-<a href="welcome.html" id="tree"></a>
+<a href="welcome.html" id="tree" aria-hidden="true" tabIndex="-1"></a>
 
 <div class="centered-text">
 
