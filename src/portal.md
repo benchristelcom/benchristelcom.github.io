@@ -265,15 +265,16 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 ### Transforming
 
 - [TinyPNG](https://tinypng.com/) - Reduces image filesizes.
-- [JSONPath Online Evaluator](https://jsonpath.com/) - Evaluate JSONPath expressions against data.
+- [JSONPath Online Evaluator](https://jsonpath.com/) - Evaluates JSONPath expressions against data.
+- [Atmos.Style CSS Color Converter](https://atmos.style/color-converter/hsl-to-lch) - Converts between hex, RGB, HSL, and LCH. Also names the colors, which is a nice touch.
 
 ### Prototyping
 
-- [Regex 101](https://regex101.com/) - Evaluate and debug regular expressions. Supports many regex dialects including PCRE and JavaScript.
+- [Regex 101](https://regex101.com/) - Evaluates and debugs regular expressions. Supports many regex dialects including PCRE and JavaScript.
 
 ### Other Lists of Tools
 
-- [Dan's Tools](https://www.danstools.com/) - mostly data-converters
+- [Dan's Tools](https://www.danstools.com/) - A list of web tools, most of which are data-converters.
 
 ## Commerce
 
