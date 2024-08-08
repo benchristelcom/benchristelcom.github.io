@@ -378,6 +378,7 @@ A.K.A. the lost art of amusing yourself without electricity.
 - [Interestings for Iterators](https://dwf.bigpencil.net/posts/) by [Davis W. Frank](https://dwf.bigpencil.net) (software-focused)
 - [ytoo.org](https://ytoo.org)
 - [www.bruh.ltd](https://www.bruh.ltd) by Ruby Klover
+- [Brandon's Journal](https://brandons-journal.com/links/) - a collection of blogs and websites about internet history, film, comics, pop culture, and Buddhism. There's also a [recipe book](https://scribbles.page/fj78s9ca#new_tab) compiled by the author's great-grandmother.
 - [Website Review](https://websitereview.neocities.org/) - a virtual library of deepweb and www sites.
 - [garlic.garden](https://garlic.garden/) by [allium house](https://allium.house/)
 - [candle's website](https://kool.tools/) - a collection of tools focused on making tiny, minimalist games
