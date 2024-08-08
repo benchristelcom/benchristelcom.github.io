@@ -205,7 +205,8 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Cloudflare](https://cloudflare.com) - Static/serverless web host and CDN.
 - [Render.com](https://render.com) - Web app hosting
 - [Gimp](https://gimp.org) - the GNU Image Manipulation Program. An open source image editor similar to Photoshop. See also the [Gimp documentation](https://docs.gimp.org)
-- [WCAG Contrast Checker Extension (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/)<hs-meta keywords="add-ons addons plugin"></hs-meta> - Tells you about any elements on your webpage that don't have WCAG AA or AAA-compliant contrast. See also the [Chrome](https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf) and [Edge](https://microsoftedge.microsoft.com/addons/detail/wcag-color-contrast-check/idahaggnlnekelhgplklhfpchbfdmkjp) versions.
+- [WCAG Contrast Checker Extension (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/)<hs-meta keywords="add-ons addons plugin a11y accessibility"></hs-meta> - Tells you about any elements on your webpage that don't have WCAG AA or AAA-compliant contrast. See also the [Chrome](https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf) and [Edge](https://microsoftedge.microsoft.com/addons/detail/wcag-color-contrast-check/idahaggnlnekelhgplklhfpchbfdmkjp) versions.
+- **axe DevTools for Web Accessibility Testing** - check any webpage for accessibility problems. Extensions for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/), [Chrome](https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd), and [Edge](https://microsoftedge.microsoft.com/addons/detail/axe-devtools-web-access/kcenlimkmjjkdfcaleembgmldmnnlfkn).<hs-meta keywords="add-ons addons plugin a11y accessibility"></hs-meta>
 
 ### Tools I Have Used
 
