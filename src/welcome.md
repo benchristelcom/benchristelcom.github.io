@@ -70,8 +70,8 @@ Hello! I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.o
 a.out {
   display: table;
   margin: 3em auto;
-  box-shadow: 0 1px 5px #0004;
-  border: 1px solid #fffc;
+  box-shadow: inset 0 1px 5px #0004;
+  border: 1px solid #bbb;
   padding: 1em 3em;
   text-align: center;
 }
