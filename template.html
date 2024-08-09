@@ -134,19 +134,15 @@ pre {
   text-indent: 0;
 }
 
-.mdsite-breadcrumb > a::after {
-  display: inline-block;
-  padding-inline: 0.25em;
-  content: '/';
-}
-
     </style>
 	</head>
 	<body>
-		{{breadcrumb}}
+    <nav class="home-link">
+      <a href="/welcome.html">Home</a>
+    </nav>
 		{{content}}
     <nav class="home-link footer-home-link">
-      {{home}}
+      <a href="/welcome.html">Home</a>
     </nav>
 	</body>
 </html>
