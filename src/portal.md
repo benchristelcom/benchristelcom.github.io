@@ -223,6 +223,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 ### Tools I Might Use Someday
 
+- [The Old Reader](https://theoldreader.com/) - An RSS feed reader modeled after the now-defunct Google Reader.
 - [Deno](https://deno.com/) - see also the [documentation](https://docs.deno.com/)
 - [pnpm](https://pnpm.io/) - Replaces `npm`.
 - [Neutralino](https://neutralino.js.org/) - Build lightweight cross-platform desktop apps with HTML, JavaScript, and CSS.
