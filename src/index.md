@@ -21,12 +21,20 @@
 
 <style>
 
+:root {
+  --line-height: 1.4;
+}
+
 .home-link, .breadcrumb {
   display: none;
 }
 
+h1 {
+  margin-block-start: 0;
+}
+
 h1, h2 {
-  border-bottom: none;
+  border: none;
 }
 
 h2 {

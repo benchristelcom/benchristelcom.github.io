@@ -7,6 +7,12 @@
     <link rel="alternate" type="application/rss+xml" title="RSS" href="https://benchristel.com/feed.rss">
     <style>
 :root {
+  --body-width: 60em;
+  --align: justify;
+  --hyphens: auto;
+  --font-size: 0.875rem;
+  --line-height: 1.6;
+
   --global-bg: hsl(40, 90%, 93%);
   --burgundy: hsl(340, 100%, 25%);
   --brown: hsl(340, 15%, 15%);
@@ -22,15 +28,15 @@
 html {
   background: var(--global-bg);
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 0.875rem;
+  font-size: var(--font-size);
   letter-spacing: 0.015em;
-  text-align: justify;
-  hyphens: auto;
-  line-height: 1.4;
+  text-align: var(--align);
+  hyphens: var(--hyphens);
+  line-height: var(--line-height);
 }
 
 body {
-  max-width: 72rem;
+  max-width: var(--body-width);
   min-height: 100vh;
   margin: 0 auto;
   background: var(--body-bg);
@@ -72,14 +78,18 @@ li {
   display: none;
 }
 
+:is(.col-2, .col-3) + * {
+  text-align: start;
+  hyphens: manual;
+  column-gap: 4em;
+}
+
 .col-2 + * {
   column-count: 2;
-  column-gap: 4em;
 }
 
 .col-3 + * {
   column-count: 3;
-  column-gap: 4em;
 }
 
 @media (max-width: 760px) {

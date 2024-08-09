@@ -59,6 +59,10 @@ Hello! I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.o
 
 <style>
 
+:root {
+  --font-size: 0.9375rem;
+}
+
 .home-link {
   display: none;
 }

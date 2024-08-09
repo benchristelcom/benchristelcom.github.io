@@ -1,5 +1,12 @@
 # Web Portal
 
+<style>
+:root {
+  --body-width: 72em;
+  --line-height: 1.4;
+}
+</style>
+
 <div class="centered-text">
 <p>A comprehensive directory of my most-loved and most-used web resources.</p>
 </div>
