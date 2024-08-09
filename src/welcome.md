@@ -9,13 +9,13 @@ Hello! I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.o
 
   <img src="/assets/rss.png" alt="RSS icon" width="18"> [Subscribe to updates](/subscribe.html) via email or RSS.
 
-### Writing Projects
+## Writing Projects
 
 - [_Process to Processes_](https://benchristel.github.io/process-to-processes) - A draft of my upcoming book about software development
 - [Ben's Guide to Software Development](https://bensguide.substack.com) - A newsletter about software, and, let's be real, a bunch of other stuff too.
 - [Bliki](https://github.com/benchristel/benchristel.github.io/wiki) - My personal blog / wiki / digital garden about software, with 250+ topic-focused pages on everything from [abstraction](https://github.com/benchristel/benchristel.github.io/wiki/Abstraction) to [wholeness](https://github.com/benchristel/benchristel.github.io/wiki/Wholeness).
 
-### Major Artifacts
+## Major Artifacts
 
 <div class="col-2"></div>
 
@@ -33,7 +33,7 @@ Hello! I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.o
 - [autokeyconf](https://github.com/benchristel/autokeyconf) - Rebinds shortcut keys system-wide on Linux.
 - ["Frost" theme for Docky](https://github.com/benchristel/docky-frost) - An OSX-style dock for Linux.
 
-### Minor Artifacts
+## Minor Artifacts
 
 - [yt](https://benchristel.github.io/yt/) - Watch YouTube without ads or tracking. Pairs great with [LeechBlock](https://www.proginosko.com/leechblock/).
 - [Meditation Timer](https://benchristel.github.io/meditation/) with background noise, and bells at 5-minute intervals.
@@ -41,12 +41,12 @@ Hello! I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.o
 - [Auracle](https://benchristel.github.io/auracle) - A word generator for conlangs. Give it some examples of your desired aesthetic, and get more in return.
 - [Aether Author](http://benchristel.github.io/aether-author/) - Stream-of-consciousness writing tool. Hides everything but the last few characters, so you can write without your writing getting in the way.
 
-### Other Projects
+## Other Projects
 
 - [The Wayward Web](https://waywardweb.org) - A webring. An aspirationally collaborative effort to map the useful, human parts of the web.
 - [Cookbook](/recipes) - Hearty one-pot vegetarian meals.
 
-### Miscellany
+## Miscellany
 
 - [Metrics](/metrics.html) - What "success" means for this website.
 
