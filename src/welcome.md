@@ -24,8 +24,8 @@ Hello! I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.o
 - [mdsite](https://benchristel.github.io/mdsite) - A modern generator for old-school static sites and HTML books. It turns any tree of [Markdown](https://daringfireball.net/projects/markdown/) files into a website, complete with auto-generated navigation links.
 - [marss](https://github.com/benchristel/marss) - A soon-to-be-released markdown-to-RSS generator. Turns your microblog or changelog into an RSS feed.
 - [Taste](https://npmjs.com/package/@benchristel/taste) - Simple, speedy JavaScript test framework
-- [hypersearch](https://www.npmjs.com/package/@benchristel/hypersearch) - Powers the searchbar on this page!
-- [Bastion](https://bastionhome.github.io/) - A big directory of links. The predecessor of my [web portal](/portal.html) page.
+- [hypersearch](https://www.npmjs.com/package/@benchristel/hypersearch) - Powers the searchbar on the [web portal](/portal.html) page.
+- [Bastion](https://bastionhome.github.io/) - A big directory of links. The predecessor of the [web portal](/portal.html).
 - [Audition](https://github.com/benchristel/audition) - A command-line tool that keeps the prose description of your conlang up to date with its morphology and lexicon.
 - [The One Grammar to Rule Them All](https://github.com/benchristel/OGTRTA) - The Lisp of conlangs. A syntax template for people who don't want to think about syntax anymore.
 - [wwwebring](https://www.npmjs.com/package/wwwebring) - A fully clientside webring widget for static sites. Powers [the Wayward Web](https://waywardweb.org).
