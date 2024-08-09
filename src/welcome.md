@@ -43,7 +43,7 @@ Hello! I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.o
 
 ## Other Projects
 
-- [The Wayward Web](https://waywardweb.org) - A webring. An aspirationally collaborative effort to map the useful, human parts of the web.
+- [The Wayward Web](https://waywardweb.org) - A webring. A collaborative effort to map the useful, human parts of the web.
 - [Cookbook](/recipes) - Hearty one-pot vegetarian meals.
 
 ## Miscellany
