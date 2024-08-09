@@ -29,7 +29,7 @@ Hello! I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.o
 - [Audition](https://github.com/benchristel/audition) - A command-line tool that keeps the prose description of your conlang up to date with its morphology and lexicon.
 - [The One Grammar to Rule Them All](https://github.com/benchristel/OGTRTA) - The Lisp of conlangs. A syntax template for people who don't want to think about syntax anymore.
 - [wwwebring](https://www.npmjs.com/package/wwwebring) - A fully clientside webring widget for static sites. Powers [the Wayward Web](https://waywardweb.org).
-- [LynX](https://github.com/benchristel/LynX) - My Linux "distro." Re-skins Linux Mint to look and feel like vintage Mac OSX.
+- [LynX](https://github.com/benchristel/LynX) - My Linux Mint theme. Re-skins Linux to look and feel like "big cat"-era Mac OSX. Don't ask me how it's pronounced.
 - [autokeyconf](https://github.com/benchristel/autokeyconf) - Rebinds shortcut keys system-wide on Linux.
 - ["Frost" theme for Docky](https://github.com/benchristel/docky-frost) - An OSX-style dock for Linux.
 
