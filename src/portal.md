@@ -405,9 +405,9 @@ A.K.A. the lost art of amusing yourself without electricity.
 
 ## Web Curators
 
-- [Bookmark Beat](https://bookmarkbeat.substack.com/) by [Dani Sandoval](https://dreamindani.com/) (software-focused)
-- [Interestings for Iterators](https://dwf.bigpencil.net/posts/) by [Davis W. Frank](https://dwf.bigpencil.net) (software-focused)
-- [ytoo.org](https://ytoo.org)
+- [Bookmark Beat](https://bookmarkbeat.substack.com/) by [Dani Sandoval](https://dreamindani.com/) - Software development and UX design.
+- [Interestings for Iterators](https://dwf.bigpencil.net/posts/) by [Davis W. Frank](https://dwf.bigpencil.net) - A collaborative repository of resources for software product development, consulting, and Extreme Programming.
+- [ytoo.org](https://ytoo.org) - Retro, indie search engines, social networks, memes, and browser-based games.
 - [www.bruh.ltd](https://www.bruh.ltd) by Ruby Klover
 - [Brandon's Journal](https://brandons-journal.com/links/) - a collection of blogs and websites about internet history, film, comics, pop culture, and Buddhism. There's also a [recipe book](https://scribbles.page/fj78s9ca#new_tab) compiled by the author's great-grandmother.
 - [Website Review](https://websitereview.neocities.org/) - a virtual library of deepweb and www sites.
