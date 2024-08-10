@@ -99,7 +99,13 @@
 - [Maangchi](https://maangchi.com/) - Korean recipes
 - [Korean Bapsang](https://koreanbapsang.com/)
 - [My Korean Kitchen](https://mykoreankitchen.com/)
+- [Pardon Your French](https://www.pardonyourfrench.com/)
 - [Cedar Down Farm](https://cedardownfarm.ca/)
+
+### Merchants
+
+- [Sunridge Farms](https://shopsunridgefarms.com/) - Organic bulk goods, including grains and beans. <hs-meta keywords="bulk wholesale"></hs-meta>
+- [Monterey Bay Herb Company](https://herbco.com/) <hs-meta keywords="herbco bulk wholesale"></hs-meta> - Tea, herbs, and spices for very competitive prices.
 
 ## Music
 
