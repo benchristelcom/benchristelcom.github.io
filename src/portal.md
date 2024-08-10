@@ -19,6 +19,13 @@
 <div class="centered-text">
 <button id="ddg">DuckDuckGo</button><button id="yt">YouTube</button><button id="npm">NPM</button><button id="openverse">Openverse</button><button id="wikipedia">Wikipedia</button><button id="cornish">Cornish Dict.</button>
 <button id="etymonline">Etymonline</button><button id="wiktionary">Wiktionary</button>
+
+<div class="space-8"></div>
+
+<div><small><a href="/portal/search-docs.html">Help with Search</a></small></div>
+
+<div class="space-8"></div>
+
 </div>
 
 </div>
@@ -516,8 +523,8 @@ for (let id in providers) {
 input[type=search] {
   margin: 0 auto 0.8rem;
   display: block;
-  width: 100%;
-  max-width: 300px;
+  width: 80%;
+  max-width: 360px;
   border-radius: 99px;
   border: 1px solid #666;
   border-color: #666 #888 #aaa #888;
