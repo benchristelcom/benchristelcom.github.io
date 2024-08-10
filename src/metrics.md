@@ -6,7 +6,7 @@ July 4, 2023
 
 The goal of the [web portal](/portal.html) page is twofold:
 
-- **Goal 1:** Contain my internet addiction. The analogy is to wildfire containment: the idea is to define a perimeter around the bad thing, so it can't expand, and then rachet it slowly inwards. To that end, I generate a [LeechBlock NG](https://www.proginosko.com/leechblock/) [configuration file](/leechblock.txt) that I use to block all sites not in the web portal.
+- **Goal 1:** Contain my internet addiction. The analogy is to wildfire containment: the idea is to define a perimeter around the bad thing, so it can't expand, and then ratchet it slowly inwards. To that end, I generate a [LeechBlock NG](https://www.proginosko.com/leechblock/) [configuration file](/leechblock.txt) that I use to block all sites not in the web portal.
 - **Goal 2:** Preserve links to the websites I use, in case web search [becomes unusable](https://waywardweb.org/why.html). A side effect / subgoal is that the portal can serve as a starting point for a web crawler, which will come in handy if/when I want to build my own search engine.
 
 ## Data collected
