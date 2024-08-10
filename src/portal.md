@@ -4,6 +4,8 @@
 :root {
   --body-width: 72em;
   --line-height: 1.4;
+  --align: left;
+  --hyphens: manual;
 }
 </style>
 
