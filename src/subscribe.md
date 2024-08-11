@@ -1,5 +1,17 @@
 # Subscribe
 
+<style>
+:root {
+  --body-width: 46em;
+  font-size: 16px;
+  letter-spacing: 0.01;
+}
+
+h1, h2, h3 {
+  font-family: Cantarell, Tahoma, system-ui;
+}
+</style>
+
 Thanks for your interest in subscribing to my website! (I'll assume that's why you're on this page.) I think you're pretty cool, too.
 
 You have a couple options for how to subscribe. You can either do it...
