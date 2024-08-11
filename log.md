@@ -2,7 +2,30 @@
 
 This page is a reverse chronology of what I've been doing and thinking about. You can [subscribe to updates here](/subscribe.html).
 
-</details>
+<style>
+:root {
+  --body-width: 46em;
+  font-size: 16px;
+  letter-spacing: 0.01;
+}
+
+h1, h2, h3 {
+  font-family: Cantarell, 'Lucida Grande', Tahoma, system-ui;
+}
+
+hr {
+  border: none;
+}
+hr::after {
+  display: block;
+  text-align: center;
+  content: '—ɔOc—'
+}
+
+a[href*='subscribe.html'] {
+  text-shadow: 0 0 8px #ff8;
+}
+</style>
 
 <!--
 @marss
