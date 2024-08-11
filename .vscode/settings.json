@@ -13,6 +13,7 @@
   },
   "files.exclude": {
     "docs": true,
-    "public": true
+    "public": true,
+    "src/log.html": true,
   }
 }
