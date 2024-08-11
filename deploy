@@ -1,0 +1,4 @@
+#!/bin/bash -ex
+
+git push origin main
+./build && cd docs && neocities push .
