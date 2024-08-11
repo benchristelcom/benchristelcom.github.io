@@ -428,7 +428,7 @@ A.K.A. the lost art of amusing yourself without electricity.
 - [Maggie Appleton on Digital Gardens](https://maggieappleton.com/garden-history). 2021.
 - ["We Can Have a Different Web"](https://www.citationneeded.news/we-can-have-a-different-web/) by Molly White. 2024. A hopeful look at the web's problems.
 
-## Webring
+## Webring <hs-meta keywords="ring wayward"></hs-meta>
 
 <script defer src="https://cdn.jsdelivr.net/npm/wwwebring@0.2.0"></script>
 <p
