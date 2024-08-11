@@ -1,6 +1,6 @@
 # Subscribe
 
-Thanks for your interest in subscribing to my website (I'll assume that's why you're on this page). I think you're pretty cool, too.
+Thanks for your interest in subscribing to my website! (I'll assume that's why you're on this page.) I think you're pretty cool, too.
 
 You have a couple options for how to subscribe. You can either do it...
 
