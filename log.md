@@ -38,6 +38,36 @@ webMaster: benchristel@gmail.com (Ben Christel)
 managingEditor: benchristel@gmail.com (Ben Christel)
 -->
 
+## 2024-08-11: Site Tidying
+
+I am still working out how best to organize pages on this site. This week, the [welcome](https://benchristel.com/welcome.html) page came into its own as the _de facto_ index page for this site (The true `/index.html` being a list of links to my other web presences). Concretely, what this means is that links labeled "Home" go to the welcome page. The only way to navigate back to `/index.html` is to use the "Out Again" link at the bottom of the welcome page.
+
+This is essentially an instance of the [**Entrance Transition** pattern](https://github.com/software-patterns/workshop/blob/master/patterns/entrance-transition.md), which I've seen on a lot of personal sites — especially older and retro-themed ones.
+
+---
+
+I'm not big on the idea of "standardizing" websites that are ostensibly personal, but that said, I think the indieweb community has developed some good standard patterns that I'd like to adopt. Specifically, I'd like to have a [`/uses` page](https://uses.tech/) that's separate from the main [portal](https://benchristel.com/portal.html). I think the way I've organized my links to tools is not going to scale; a lot of them are lumped under "Software Development," but some are in their own "Web-based tools" section. In reality, the tools in both sections run the gamut from "extremely geeky" (Bun, Regex 101) to "something everyone should know about" (uBlock Origin, Purple Air). So a reorg is probably in order.
+
+Speaking of indieweb, a post in [#indieweb IRC](https://chat.indieweb.org/) led me to [Brandon's Journal](https://brandons-journal.com/), which led to a conversation, which led to Brandon joining the [Wayward Webring](https://waywardweb.org). Welcome, Brandon!
+
+---
+
+I also discovered [Maggie Appleton's deep dive on the history of digital gardening](https://maggieappleton.com/garden-history) and realized not only that my ["bliki"](https://github.com/benchristel/benchristel.github.io/wiki) is really a digital garden, but that I independently [reinvented](https://github.com/benchristel/benchristel.github.io/wiki#levels-of-polish) the concept of "epistemic status." This could be taken as evidence that [civilization is forgetful and fragmented](https://benchristel.com/posts/0000-the-mess-we-are-in.html), but more likely, I'm just out of touch. Fine, Ward Cunningham [called it a bliki in 2003](https://martinfowler.com/bliki/WhatIsaBliki.html), but the kids these days call it a digital garden. I can adapt. It is interesting though, that Appleton doesn't mention the bliki concept as a forerunner of digital gardening, so maybe there really are two distinct lineages — or maybe the connection between them has just been lost to history.
+
+---
+
+I spent a lot of time this week tinkering with various little features and quality-of-life improvements to the site. For example, the searchbar on the [portal page](https://benchristel.com/portal.html) now has [documentation](https://benchristel.com/portal/search-docs.html), and I added some knobs to the CSS so that multi-column pages can be wider than single-column articles.
+
+---
+
+Finally, a meta-note on how I wrote this log entry. I went into it thinking I accomplished nothing this week and had nothing to write about. Then I ran:
+
+```
+git log --since 2024-08-04 --name-only
+```
+
+This lists the commits I made since the previous entry, along with the files changed by each commit. That was enough to jog my memory. Turns out I did stuff!
+
 ## 2024-08-04: The Mess We're In
 
 ### Writings
