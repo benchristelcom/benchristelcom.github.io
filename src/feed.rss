@@ -8,6 +8,26 @@
         <managingEditor>benchristel@gmail.com (Ben Christel)</managingEditor>
         <webMaster>benchristel@gmail.com (Ben Christel)</webMaster>
         <item>
+            <title>2024-08-11: Site Tidying</title>
+            <description><![CDATA[<p>I am still working out how best to organize pages on this site. This week, the <a href="https://benchristel.com/welcome.html">welcome</a> page came into its own as the <em>de facto</em> index page for this site (The true <code>/index.html</code> being a list of links to my other web presences). Concretely, what this means is that links labeled &quot;Home&quot; go to the welcome page. The only way to navigate back to <code>/index.html</code> is to use the &quot;Out Again&quot; link at the bottom of the welcome page.</p>
+<p>This is essentially an instance of the <a href="https://github.com/software-patterns/workshop/blob/master/patterns/entrance-transition.md"><strong>Entrance Transition</strong> pattern</a>, which I&apos;ve seen on a lot of personal sites &#x2014; especially older and retro-themed ones.</p>
+<hr>
+<p>I&apos;m not big on the idea of &quot;standardizing&quot; websites that are ostensibly personal, but that said, I think the indieweb community has developed some good standard patterns that I&apos;d like to adopt. Specifically, I&apos;d like to have a <a href="https://uses.tech/"><code>/uses</code> page</a> that&apos;s separate from the main <a href="https://benchristel.com/portal.html">portal</a>. I think the way I&apos;ve organized my links to tools is not going to scale; a lot of them are lumped under &quot;Software Development,&quot; but some are in their own &quot;Web-based tools&quot; section. In reality, the tools in both sections run the gamut from &quot;extremely geeky&quot; (Bun, Regex 101) to &quot;something everyone should know about&quot; (uBlock Origin, Purple Air). So a reorg is probably in order.</p>
+<p>Speaking of indieweb, a post in <a href="https://chat.indieweb.org/">#indieweb IRC</a> led me to <a href="https://brandons-journal.com/">Brandon&apos;s Journal</a>, which led to a conversation, which led to Brandon joining the <a href="https://waywardweb.org">Wayward Webring</a>. Welcome, Brandon!</p>
+<hr>
+<p>I also discovered <a href="https://maggieappleton.com/garden-history">Maggie Appleton&apos;s deep dive on the history of digital gardening</a> and realized not only that my <a href="https://github.com/benchristel/benchristel.github.io/wiki">&quot;bliki&quot;</a> is really a digital garden, but that I independently <a href="https://github.com/benchristel/benchristel.github.io/wiki#levels-of-polish">reinvented</a> the concept of &quot;epistemic status.&quot; This could be taken as evidence that <a href="https://benchristel.com/posts/0000-the-mess-we-are-in.html">civilization is forgetful and fragmented</a>, but more likely, I&apos;m just out of touch. Fine, Ward Cunningham <a href="https://martinfowler.com/bliki/WhatIsaBliki.html">called it a bliki in 2003</a>, but the kids these days call it a digital garden. I can adapt. It is interesting though, that Appleton doesn&apos;t mention the bliki concept as a forerunner of digital gardening, so maybe there really are two distinct lineages &#x2014; or maybe the connection between them has just been lost to history.</p>
+<hr>
+<p>I spent a lot of time this week tinkering with various little features and quality-of-life improvements to the site. For example, the searchbar on the <a href="https://benchristel.com/portal.html">portal page</a> now has <a href="https://benchristel.com/portal/search-docs.html">documentation</a>, and I added some knobs to the CSS so that multi-column pages can be wider than single-column articles.</p>
+<hr>
+<p>Finally, a meta-note on how I wrote this log entry. I went into it thinking I accomplished nothing this week and had nothing to write about. Then I ran:</p>
+<pre><code>git log --since 2024-08-04 --name-only
+</code></pre>
+<p>This lists the commits I made since the previous entry, along with the files changed by each commit. That was enough to jog my memory. Turns out I did stuff!</p>]]></description>
+            <guid isPermaLink="false">2024-08-11-site-tidying</guid>
+            <link>https://benchristel.com/log.html#2024-08-11-site-tidying</link>
+            <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+        </item>
+        <item>
             <title>2024-08-04: The Mess We&apos;re In</title>
             <description><![CDATA[<h3 id="writings">Writings</h3>
 <p>Published: <a href="https://benchristel.com/posts/0000-the-mess-we-are-in.html">&quot;The Mess We&apos;re In&quot;</a></p>
