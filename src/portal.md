@@ -442,6 +442,10 @@ A.K.A. the lost art of amusing yourself without electricity.
 
 - <label><input type="checkbox" id="autofocus-checkbox" /> Automatically focus the search field on page load.</label>
 
+<div class="space-32"></div>
+
+<p class="centered-text">There are <noscript>approximately 270</noscript><span id="number-of-links"></span> external links on this page.</p>
+
 <div data-hypersearch-end></div>
 
 <script defer type="module" src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.3.0"></script>
@@ -493,6 +497,9 @@ function search(url, query) {
 for (let id in providers) {
   elById(id).addEventListener("click", () => search(providers[id], searchInput.value))
 }
+
+const numLinks = [...document.querySelectorAll("a[href^='http']")].length
+document.getElementById("number-of-links").innerText = numLinks
 
 </script>
 
