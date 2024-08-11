@@ -4,6 +4,10 @@
 
 The searchbar on the [Web Portal](/portal.html) page has multiple uses and some hidden functionality. This is admittedly not ideal for software designed for general consumption, but the web portal is only partly intended for general consumption. I figure I'm probably the only person who would care about the hidden features. I'm going to document them here anyway, though, for my own benefit and perhaps for yours.
 
+## Autofocusing the search bar
+
+You can make the searchbar focus automatically when the page loads, so you don't have to click it before you type your query. Check the box under [Settings](/portal.html#settings).
+
 ## Filtering
 
 The first function of the searchbar is to filter the portal page. You've probably discovered this if you've ever typed anything into the search bar.

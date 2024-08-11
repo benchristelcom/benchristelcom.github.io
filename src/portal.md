@@ -53,6 +53,7 @@
 - [General](#general-reference)
 - [Web Curators](#web-curators)
 - [Webring](#webring)
+- [Settings](#settings)
 
 </nav>
 </div>
