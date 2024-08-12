@@ -4,7 +4,6 @@
 :root {
   --body-width: 46em;
   font-size: 16px;
-  letter-spacing: 0.01;
 }
 
 h1, h2, h3 {
