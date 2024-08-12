@@ -247,6 +247,9 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 ### Tools I Might Use Someday
 
+<div class="col-2"></div>
+
+- [Taskwarrior](https://taskwarrior.org) - Manages todo lists from the command line.
 - [The Old Reader](https://theoldreader.com/) - An RSS feed reader modeled after the now-defunct Google Reader.
 - [Deno](https://deno.com/) - see also the [documentation](https://docs.deno.com/)
 - [pnpm](https://pnpm.io/) - Replaces `npm`.
