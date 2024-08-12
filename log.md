@@ -6,7 +6,6 @@ This page is a reverse chronology of what I've been doing and thinking about. Yo
 :root {
   --body-width: 46em;
   font-size: 16px;
-  letter-spacing: 0.01;
 }
 
 h1, h2, h3 {
@@ -36,6 +35,16 @@ htmlUrl: https://benchristel.com/log.html
 language: en-us
 webMaster: benchristel@gmail.com (Ben Christel)
 managingEditor: benchristel@gmail.com (Ben Christel)
+-->
+
+<!--
+
+## 2024-08-18: NEXT POST
+
+> Every time i look at what sites are linking to me in my analytics i get faintly sad. I gotta ward off the “Making A Smol Old Indie Yester Free Web Personal Garden Commonplace Book Is A Revolutionary Act” crowd somehow, if someone’s linking to me and their site’s only other page is a manifesto about how Mark Zuckerberg personally smashed every Geocities server they’ve severely misunderstood why i tend to my website
+>
+> —Xanthe Tynehorne
+
 -->
 
 ## 2024-08-11: Site Tidying
