@@ -269,6 +269,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Exclude commits from "git blame"](https://www.stefanjudis.com/today-i-learned/how-to-exclude-commits-from-git-blame/)
   - `git config blame.ignoreRevsFile .git-blame-ignore-revs`
   - useful if you have formatting commits that touch tons of code but make no functional changes.
+- [How to get RSS URLs from YouTube channels and playlists](https://chriswere.wales/articles/rss-youtube) by Chris Were.
 
 ## Image Repositories
 
