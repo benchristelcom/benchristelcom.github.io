@@ -270,6 +270,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
   - `git config blame.ignoreRevsFile .git-blame-ignore-revs`
   - useful if you have formatting commits that touch tons of code but make no functional changes.
 - [How to get RSS URLs from YouTube channels and playlists](https://chriswere.wales/articles/rss-youtube) by Chris Were.
+  - It seems you can also paste YouTube channel URLs directly into at least some feed readers (tested with QuiteRSS). E.g. try this one: <https://www.youtube.com/@simonroper9218>.
 
 ## Image Repositories
 
