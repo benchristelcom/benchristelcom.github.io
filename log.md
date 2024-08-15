@@ -39,7 +39,7 @@ managingEditor: benchristel@gmail.com (Ben Christel)
 
 <!--
 
-## 2024-08-18: NEXT POST
+## August 18, 2024: NEXT POST
 
 > Every time i look at what sites are linking to me in my analytics i get faintly sad. I gotta ward off the “Making A Smol Old Indie Yester Free Web Personal Garden Commonplace Book Is A Revolutionary Act” crowd somehow, if someone’s linking to me and their site’s only other page is a manifesto about how Mark Zuckerberg personally smashed every Geocities server they’ve severely misunderstood why i tend to my website
 >
