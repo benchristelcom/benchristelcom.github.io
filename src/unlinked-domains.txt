@@ -807,6 +807,7 @@ https://sandimetz.com
 https://stackblitz.com
 https://deque.com
 https://manuelmoreale.com
+https://githubstatus.com
 https://remix.run
 https://www.run.town
 https://taylor.town
@@ -1003,6 +1004,7 @@ https://sites.psu.edu
 https://www.minemaps.psu.edu
 https://www.medieval.eu
 https://www.worldstandards.eu
+https://satyrs.eu
 https://terebess.hu
 https://learnwelsh.cymru
 https://refactoring.guru
