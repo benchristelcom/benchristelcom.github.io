@@ -180,6 +180,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [RSS 2.0 Specification](https://www.rssboard.org/rss-specification). Also mirrored [at Harvard.edu](https://cyber.harvard.edu/rss/rss.html).
 - [Atom Syndication Format Specification](https://www.rfc-editor.org/rfc/rfc4287)
 - [HTML Specification](https://html.spec.whatwg.org)
+- [URL Specification](https://url.spec.whatwg.org) - "The URL Standard defines URLs, domains, IP addresses, the `application/x-www-form-urlencoded` format, and their API."
 
 ### Q&A
 

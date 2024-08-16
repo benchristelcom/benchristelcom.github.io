@@ -183,6 +183,7 @@ https://dewey.org
 https://khanacademy.org
 https://jwz.org
 https://newsboat.org
+https://whatwg.org
 https://conclave.tech
 https://dataannotation.tech
 https://ipfs.tech
