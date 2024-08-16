@@ -46,15 +46,15 @@ managingEditor: benchristel@gmail.com (Ben Christel)
 -->
 
 <h2 id="2024-08-11-site-tidying">2024-08-11: Site Tidying</h2>
-<p>I am still working out how best to organize pages on this site. This week, the <a href="https://benchristel.com/welcome.html">welcome</a> page came into its own as the <em>de facto</em> index page for this site (The true <code>/index.html</code> being a list of links to my other web presences). Concretely, what this means is that links labeled &quot;Home&quot; go to the welcome page. The only way to navigate back to <code>/index.html</code> is to use the &quot;Out Again&quot; link at the bottom of the welcome page.</p>
+<p>I am still working out how best to organize pages on this site. This week, the <a href="/welcome.html">welcome</a> page came into its own as the <em>de facto</em> index page for this site (The true <code>/index.html</code> being a list of links to my other web presences). Concretely, what this means is that links labeled &quot;Home&quot; go to the welcome page. The only way to navigate back to <code>/index.html</code> is to use the &quot;Out Again&quot; link at the bottom of the welcome page.</p>
 <p>This is essentially an instance of the <a href="https://github.com/software-patterns/workshop/blob/master/patterns/entrance-transition.md"><strong>Entrance Transition</strong> pattern</a>, which I&#39;ve seen on a lot of personal sites — especially older and retro-themed ones. I like it because it makes the site feel like more of a place: it has a distinct inside and a distinct outside.</p>
 <hr>
-<p>I&#39;m not big on the idea of &quot;standardizing&quot; websites that are ostensibly personal, but that said, I think the indieweb community has developed some good standard patterns that I&#39;d like to adopt. Specifically, I&#39;d like to have a <a href="https://uses.tech/"><code>/uses</code> page</a> that&#39;s separate from the main <a href="https://benchristel.com/portal.html">portal</a>. I think the way I&#39;ve organized my links to tools is not going to scale; a lot of them are lumped under &quot;Software Development,&quot; but some are in their own &quot;Web-based tools&quot; section. In reality, the tools in both sections run the gamut from &quot;extremely geeky&quot; (Bun, Regex 101) to &quot;something everyone should know about&quot; (uBlock Origin, Purple Air). So a reorg is probably in order.</p>
+<p>I&#39;m not big on the idea of &quot;standardizing&quot; websites that are ostensibly personal, but that said, I think the indieweb community has developed some good standard patterns that I&#39;d like to adopt. Specifically, I&#39;d like to have a <a href="https://uses.tech/"><code>/uses</code> page</a> that&#39;s separate from the main <a href="/portal.html">portal</a>. I think the way I&#39;ve organized my links to tools is not going to scale; a lot of them are lumped under &quot;Software Development,&quot; but some are in their own &quot;Web-based tools&quot; section. In reality, the tools in both sections run the gamut from &quot;extremely geeky&quot; (Bun, Regex 101) to &quot;something everyone should know about&quot; (uBlock Origin, Purple Air). So a reorg is probably in order.</p>
 <p>Speaking of indieweb, a post in <a href="https://chat.indieweb.org/">#indieweb IRC</a> led me to <a href="https://brandons-journal.com/">Brandon&#39;s Journal</a> and his awesome <a href="https://brandons-journal.com/links/">links page</a>. That led to a conversation, which led to Brandon joining the <a href="https://waywardweb.org">Wayward Webring</a>. Welcome, Brandon!</p>
 <hr>
-<p>I also discovered <a href="https://maggieappleton.com/garden-history">Maggie Appleton&#39;s deep dive on the history of digital gardening</a> and realized not only that my <a href="https://github.com/benchristel/benchristel.github.io/wiki">&quot;bliki&quot;</a> is really a digital garden, but that I independently <a href="https://github.com/benchristel/benchristel.github.io/wiki#levels-of-polish">reinvented</a> the idea of labeling &quot;epistemic status.&quot; This could be taken as evidence that <a href="https://benchristel.com/posts/0000-the-mess-we-are-in.html">civilization is forgetful and fragmented</a>, but more likely, I&#39;m just out of touch. Fine, Ward Cunningham <a href="https://martinfowler.com/bliki/WhatIsaBliki.html">called it a bliki in 2003</a>, but the kids these days call it a digital garden. I can adapt. It is interesting though, that Appleton doesn&#39;t mention the bliki concept as a forerunner of digital gardening, so maybe there really are two distinct lineages — or maybe the connection between them has just been lost to history.</p>
+<p>I also discovered <a href="https://maggieappleton.com/garden-history">Maggie Appleton&#39;s deep dive on the history of digital gardening</a> and realized not only that my <a href="https://github.com/benchristel/benchristel.github.io/wiki">&quot;bliki&quot;</a> is really a digital garden, but that I independently <a href="https://github.com/benchristel/benchristel.github.io/wiki#levels-of-polish">reinvented</a> the idea of labeling &quot;epistemic status.&quot; This could be taken as evidence that <a href="/posts/0000-the-mess-we-are-in.html">civilization is forgetful and fragmented</a>, but more likely, I&#39;m just out of touch. Fine, Ward Cunningham <a href="https://martinfowler.com/bliki/WhatIsaBliki.html">called it a bliki in 2003</a>, but the kids these days call it a digital garden. I can adapt. It is interesting though, that Appleton doesn&#39;t mention the bliki concept as a forerunner of digital gardening, so maybe there really are two distinct lineages — or maybe the connection between them has just been lost to history.</p>
 <hr>
-<p>I spent a lot of time this week tinkering with various little features and quality-of-life improvements to the site. For example, the searchbar on the <a href="https://benchristel.com/portal.html">portal page</a> now has <a href="https://benchristel.com/portal/search-docs.html">documentation</a>, and I added some knobs to the CSS so that multi-column pages can be wider than single-column articles.</p>
+<p>I spent a lot of time this week tinkering with various little features and quality-of-life improvements to the site. For example, the searchbar on the <a href="/portal.html">portal page</a> now has <a href="/portal/search-docs.html">documentation</a>, and I added some knobs to the CSS so that multi-column pages can be wider than single-column articles.</p>
 <hr>
 <p>Finally, a meta-note on how I wrote this log entry. I went into it thinking I accomplished nothing this week and had nothing to write about. Then I ran:</p>
 <pre><code>git log --since 2024-08-04 --name-only
@@ -62,7 +62,7 @@ managingEditor: benchristel@gmail.com (Ben Christel)
 <p>This lists the commits I made since the previous entry, along with the files changed by each commit. That was enough to jog my memory. Turns out I did stuff!</p>
 <h2 id="2024-08-04-the-mess-were-in">2024-08-04: The Mess We&#39;re In</h2>
 <h3 id="writings">Writings</h3>
-<p>Published: <a href="https://benchristel.com/posts/0000-the-mess-we-are-in.html">&quot;The Mess We&#39;re In&quot;</a></p>
+<p>Published: <a href="/posts/0000-the-mess-we-are-in.html">&quot;The Mess We&#39;re In&quot;</a></p>
 <h3 id="quotes">Quotes</h3>
 <blockquote>
 <p>Philosophy is a battle against the bewitchment of our intelligence by means of language.</p>
@@ -70,7 +70,7 @@ managingEditor: benchristel@gmail.com (Ben Christel)
 </blockquote>
 <h3 id="currently-stuck-in-my-head">Currently stuck in my head</h3>
 <p><a href="https://benchristel.github.io/yt/#nT6XeItIGlU">J&#39;aim la flour de valour</a> by Guillaume de Machaut</p>
-<p><a href="https://benchristel.github.io/yt/#nT6XeItIGlU"><img src="https://benchristel.com/assets/jaim-la-flour.jpeg" alt=""></a></p>
+<p><a href="https://benchristel.github.io/yt/#nT6XeItIGlU"><img src="/assets/jaim-la-flour.jpeg" alt=""></a></p>
 <h3 id="wanted">Wanted</h3>
 <p>I want a list of cross-platform <code>font-family</code> values, using only fonts that ship with operating systems.
 E.g. if I want to use a humanist sans-serif typeface on my website, and I don&#39;t want my users to have
@@ -86,9 +86,9 @@ Can anyone in the audience help me out? Send email to benchristel at gmail.com. 
 <h2 id="2024-07-31-site-updates">2024-07-31: Site Updates</h2>
 <h3 id="globally-install-a-package-youre-developing">Globally install a package you&#39;re developing</h3>
 <p>Today I learned that you can install a NodeJS package you&#39;re developing without first publishing it to a package registry like NPM. <code>yarn global add &quot;file:/absolute/path/to/repo&quot;</code> will do the trick.</p>
-<p><a href="https://benchristel.com/tricks/yarn.html#globally-install-a-package-youre-developing">Read more...</a></p>
+<p><a href="/tricks/yarn.html#globally-install-a-package-youre-developing">Read more...</a></p>
 <h3 id="regosengapless-5-tiny-invariant">@regosen/gapless-5, tiny-invariant</h3>
-<p>I&#39;ve listed two new JavaScript libraries I use on the <a href="https://benchristel.com/portal.html">Web Portal</a> page:</p>
+<p>I&#39;ve listed two new JavaScript libraries I use on the <a href="/portal.html">Web Portal</a> page:</p>
 <ul>
 <li><a href="https://www.npmjs.com/package/@regosen/gapless-5">@regosen/gapless-5</a> - gapless and looped audio playback on the web. Essential if you&#39;re building a music player. I&#39;m using it in my <a href="https://benchristel.github.io/meditation">meditation timer</a> to loop the audio.</li>
 <li><a href="https://www.npmjs.com/package/tiny-invariant">tiny-invariant</a> - a TypeScript assertion library that does <a href="https://www.typescriptlang.org/docs/handbook/2/narrowing.html">type narrowing</a>. Handy for those cases where <em>you</em> know what type something is,

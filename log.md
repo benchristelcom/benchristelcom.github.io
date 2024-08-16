@@ -49,23 +49,23 @@ managingEditor: benchristel@gmail.com (Ben Christel)
 
 ## 2024-08-11: Site Tidying
 
-I am still working out how best to organize pages on this site. This week, the [welcome](https://benchristel.com/welcome.html) page came into its own as the _de facto_ index page for this site (The true `/index.html` being a list of links to my other web presences). Concretely, what this means is that links labeled "Home" go to the welcome page. The only way to navigate back to `/index.html` is to use the "Out Again" link at the bottom of the welcome page.
+I am still working out how best to organize pages on this site. This week, the [welcome](/welcome.html) page came into its own as the _de facto_ index page for this site (The true `/index.html` being a list of links to my other web presences). Concretely, what this means is that links labeled "Home" go to the welcome page. The only way to navigate back to `/index.html` is to use the "Out Again" link at the bottom of the welcome page.
 
 This is essentially an instance of the [**Entrance Transition** pattern](https://github.com/software-patterns/workshop/blob/master/patterns/entrance-transition.md), which I've seen on a lot of personal sites — especially older and retro-themed ones. I like it because it makes the site feel like more of a place: it has a distinct inside and a distinct outside.
 
 ---
 
-I'm not big on the idea of "standardizing" websites that are ostensibly personal, but that said, I think the indieweb community has developed some good standard patterns that I'd like to adopt. Specifically, I'd like to have a [`/uses` page](https://uses.tech/) that's separate from the main [portal](https://benchristel.com/portal.html). I think the way I've organized my links to tools is not going to scale; a lot of them are lumped under "Software Development," but some are in their own "Web-based tools" section. In reality, the tools in both sections run the gamut from "extremely geeky" (Bun, Regex 101) to "something everyone should know about" (uBlock Origin, Purple Air). So a reorg is probably in order.
+I'm not big on the idea of "standardizing" websites that are ostensibly personal, but that said, I think the indieweb community has developed some good standard patterns that I'd like to adopt. Specifically, I'd like to have a [`/uses` page](https://uses.tech/) that's separate from the main [portal](/portal.html). I think the way I've organized my links to tools is not going to scale; a lot of them are lumped under "Software Development," but some are in their own "Web-based tools" section. In reality, the tools in both sections run the gamut from "extremely geeky" (Bun, Regex 101) to "something everyone should know about" (uBlock Origin, Purple Air). So a reorg is probably in order.
 
 Speaking of indieweb, a post in [#indieweb IRC](https://chat.indieweb.org/) led me to [Brandon's Journal](https://brandons-journal.com/) and his awesome [links page](https://brandons-journal.com/links/). That led to a conversation, which led to Brandon joining the [Wayward Webring](https://waywardweb.org). Welcome, Brandon!
 
 ---
 
-I also discovered [Maggie Appleton's deep dive on the history of digital gardening](https://maggieappleton.com/garden-history) and realized not only that my ["bliki"](https://github.com/benchristel/benchristel.github.io/wiki) is really a digital garden, but that I independently [reinvented](https://github.com/benchristel/benchristel.github.io/wiki#levels-of-polish) the idea of labeling "epistemic status." This could be taken as evidence that [civilization is forgetful and fragmented](https://benchristel.com/posts/0000-the-mess-we-are-in.html), but more likely, I'm just out of touch. Fine, Ward Cunningham [called it a bliki in 2003](https://martinfowler.com/bliki/WhatIsaBliki.html), but the kids these days call it a digital garden. I can adapt. It is interesting though, that Appleton doesn't mention the bliki concept as a forerunner of digital gardening, so maybe there really are two distinct lineages — or maybe the connection between them has just been lost to history.
+I also discovered [Maggie Appleton's deep dive on the history of digital gardening](https://maggieappleton.com/garden-history) and realized not only that my ["bliki"](https://github.com/benchristel/benchristel.github.io/wiki) is really a digital garden, but that I independently [reinvented](https://github.com/benchristel/benchristel.github.io/wiki#levels-of-polish) the idea of labeling "epistemic status." This could be taken as evidence that [civilization is forgetful and fragmented](/posts/0000-the-mess-we-are-in.html), but more likely, I'm just out of touch. Fine, Ward Cunningham [called it a bliki in 2003](https://martinfowler.com/bliki/WhatIsaBliki.html), but the kids these days call it a digital garden. I can adapt. It is interesting though, that Appleton doesn't mention the bliki concept as a forerunner of digital gardening, so maybe there really are two distinct lineages — or maybe the connection between them has just been lost to history.
 
 ---
 
-I spent a lot of time this week tinkering with various little features and quality-of-life improvements to the site. For example, the searchbar on the [portal page](https://benchristel.com/portal.html) now has [documentation](https://benchristel.com/portal/search-docs.html), and I added some knobs to the CSS so that multi-column pages can be wider than single-column articles.
+I spent a lot of time this week tinkering with various little features and quality-of-life improvements to the site. For example, the searchbar on the [portal page](/portal.html) now has [documentation](/portal/search-docs.html), and I added some knobs to the CSS so that multi-column pages can be wider than single-column articles.
 
 ---
 
@@ -81,7 +81,7 @@ This lists the commits I made since the previous entry, along with the files cha
 
 ### Writings
 
-Published: ["The Mess We're In"](https://benchristel.com/posts/0000-the-mess-we-are-in.html)
+Published: ["The Mess We're In"](/posts/0000-the-mess-we-are-in.html)
 
 ### Quotes
 
@@ -93,7 +93,7 @@ Published: ["The Mess We're In"](https://benchristel.com/posts/0000-the-mess-we-
 
 [J'aim la flour de valour](https://benchristel.github.io/yt/#nT6XeItIGlU) by Guillaume de Machaut
 
-[![](https://benchristel.com/assets/jaim-la-flour.jpeg)](https://benchristel.github.io/yt/#nT6XeItIGlU)
+[![](/assets/jaim-la-flour.jpeg)](https://benchristel.github.io/yt/#nT6XeItIGlU)
 
 ### Wanted
 
@@ -116,11 +116,11 @@ Can anyone in the audience help me out? Send email to benchristel at gmail.com. 
 
 Today I learned that you can install a NodeJS package you're developing without first publishing it to a package registry like NPM. `yarn global add "file:/absolute/path/to/repo"` will do the trick.
 
-[Read more...](https://benchristel.com/tricks/yarn.html#globally-install-a-package-youre-developing)
+[Read more...](/tricks/yarn.html#globally-install-a-package-youre-developing)
 
 ### @regosen/gapless-5, tiny-invariant
 
-I've listed two new JavaScript libraries I use on the [Web Portal](https://benchristel.com/portal.html) page:
+I've listed two new JavaScript libraries I use on the [Web Portal](/portal.html) page:
 
 - [@regosen/gapless-5](https://www.npmjs.com/package/@regosen/gapless-5) - gapless and looped audio playback on the web. Essential if you're building a music player. I'm using it in my [meditation timer](https://benchristel.github.io/meditation) to loop the audio.
 - [tiny-invariant](https://www.npmjs.com/package/tiny-invariant) - a TypeScript assertion library that does [type narrowing](https://www.typescriptlang.org/docs/handbook/2/narrowing.html). Handy for those cases where _you_ know what type something is,
