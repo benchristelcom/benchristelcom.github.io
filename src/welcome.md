@@ -22,7 +22,7 @@ Hello! I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.o
 - [Culture Machine](https://benchristel.github.io/tv) - TV / Radio, DJed by my digital ghost. Thousands of hand-picked videos to amuse, confuse, and delight you, played in a neverending random sequence.
 - [Druthers](https://druthers.app) - Instantly grok your group's priorities with a ranked-choice poll. A collaboration with [Gavin Morgan](https://gavmor.com).
 - [mdsite](https://benchristel.github.io/mdsite) - A modern generator for old-school static sites and HTML books. It turns any tree of [Markdown](https://daringfireball.net/projects/markdown/) files into a website, complete with auto-generated navigation links.
-- [marss](https://github.com/benchristel/marss) - A soon-to-be-released markdown-to-RSS generator. Turns your microblog or changelog into an RSS feed.
+- [marss](https://www.npmjs.com/package/marss) - A markdown-to-RSS converter. Turns your microblog or changelog into an RSS feed.
 - [Taste](https://npmjs.com/package/@benchristel/taste) - Simple, speedy JavaScript test framework
 - [hypersearch](https://www.npmjs.com/package/@benchristel/hypersearch) - Powers the searchbar on the [web portal](/portal.html) page.
 - [Bastion](https://bastionhome.github.io/) - A big directory of links. The predecessor of the [web portal](/portal.html).
