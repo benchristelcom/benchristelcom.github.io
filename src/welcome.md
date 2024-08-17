@@ -55,7 +55,9 @@ Hello! I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.o
   Out Again
 </a>
 
-</div>
+<p class="centered-text" style="margin-top: 12em;">
+Best viewed with <a href="https://lynx.browser.org/"><img alt="Lynx 2.6" src="/assets/lynx.gif" style="vertical-align: middle;"></a>
+</p>
 
 <style>
 
