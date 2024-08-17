@@ -45,6 +45,10 @@ managingEditor: benchristel@gmail.com (Ben Christel)
 >
 > —Xanthe Tynehorne
 
+### Random thoughts
+
+Programming is the art of accounting for the possible and ruling out the impossible.
+
 -->
 
 ## 2024-08-11: Site Tidying
