@@ -12,15 +12,6 @@ h1, h2, h3 {
   font-family: Cantarell, 'Lucida Grande', Tahoma, system-ui;
 }
 
-hr {
-  border: none;
-}
-hr::after {
-  display: block;
-  text-align: center;
-  content: '—ɔOc—'
-}
-
 a[href*='subscribe.html'] {
   text-shadow: 0 0 8px #ff8;
 }
