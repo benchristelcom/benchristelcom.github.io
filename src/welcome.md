@@ -17,9 +17,11 @@ Hello! I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.o
 
 ## Major Artifacts
 
+Projects I actively use and maintain.
+
 <div class="col-2"></div>
 
-- [Culture Machine](https://benchristel.github.io/tv) - TV / Radio, DJed by my digital ghost. Thousands of hand-picked videos to amuse, confuse, and delight you, played in a neverending random sequence.
+- [Culture Machine](https://benchristel.github.io/tv) - The digital equivalent of touching grass. Thousands of hand-picked YouTube videos to amuse, confuse, and delight you, played in a neverending random sequence.
 - [Druthers](https://druthers.app) - Instantly grok your group's priorities with a ranked-choice poll. A collaboration with [Gavin Morgan](https://gavmor.com).
 - [mdsite](https://benchristel.github.io/mdsite) - A modern generator for old-school static sites and HTML books. It turns any tree of [Markdown](https://daringfireball.net/projects/markdown/) files into a website, complete with auto-generated navigation links.
 - [marss](https://www.npmjs.com/package/marss) - A markdown-to-RSS converter. Turns your microblog or changelog into an RSS feed.
@@ -32,14 +34,18 @@ Hello! I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.o
 - [LynX](https://github.com/benchristel/LynX) - My Linux Mint theme. Re-skins Linux to look and feel like "big cat"-era Mac OSX. Don't ask me how it's pronounced.
 - [autokeyconf](https://github.com/benchristel/autokeyconf) - Rebinds shortcut keys system-wide on Linux.
 - ["Frost" theme for Docky](https://github.com/benchristel/docky-frost) - An OSX-style dock for Linux.
+- [yt](https://benchristel.github.io/yt/) - Watch YouTube without ads or tracking. Pairs great with [LeechBlock](https://www.proginosko.com/leechblock/).
+- [Meditation Timer](https://benchristel.github.io/meditation/) with background noise, and bells at 5-minute intervals.
 
 ## Minor Artifacts
 
-- [yt](https://benchristel.github.io/yt/) - Watch YouTube without ads or tracking. Pairs great with [LeechBlock](https://www.proginosko.com/leechblock/).
-- [Meditation Timer](https://benchristel.github.io/meditation/) with background noise, and bells at 5-minute intervals.
+Projects I haven't done anything with in a while.
+
+- [Dunmanifestin](https://github.com/gavmor/dunmanifestin) - Recursive madlib engine, designed for generating D&D characters and settings. Made in collaboration with [Gavin Morgan](https://gavmor.com).
 - [The Cave](https://benchristel.github.io/the-cave/) - Helps you keep track of short-term tasks with deep dependencies.
 - [Auracle](https://benchristel.github.io/auracle) - A word generator for conlangs. Give it some examples of your desired aesthetic, and get more in return.
 - [Aether Author](http://benchristel.github.io/aether-author/) - Stream-of-consciousness writing tool. Hides everything but the last few characters, so you can write without your writing getting in the way.
+- [Hashema](https://github.com/benchristel/hashema) - a Ruby gem for checking if a data structure conforms to a schema / type definition. Designed to be more ergonomic and flexible than [JSON Schema](https://json-schema.org/).
 
 ## Other Projects
 
