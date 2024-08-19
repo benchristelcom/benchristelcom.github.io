@@ -20,7 +20,7 @@
 
 <div class="centered-text">
 <button id="ddg">DuckDuckGo</button><button id="yt">YouTube</button><button id="npm">NPM</button><button id="openverse">Openverse</button><button id="wikipedia">Wikipedia</button><button id="cornish">Cornish Dict.</button>
-<button id="etymonline">Etymonline</button><button id="wiktionary">Wiktionary</button>
+<button id="etymonline">Etymonline</button><button id="wiktionary">Wiktionary</button><button id="unicode">Unicode</button>
 
 <div class="space-8"></div>
 
@@ -203,6 +203,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [CSS Fonts (cssfontstack.com)](https://www.cssfontstack.com/) - lists web-safe fonts that most computers have installed, so you can craft `font-family` values that will look good cross-platform.
 - [David Jonathan Ross Fonts](https://djr.com/)
 - [Google Fonts](https://fonts.google.com/) - Free downloadable fonts for your website. You can also hotlink them, but that will let Google surveil your users.
+- [Practical Typography](https://practicaltypography.com/) by Matthew Butterick (h/t [Ruby](https://www.bruh.ltd/))
 
 ### Tools I Currently Use
 
@@ -415,9 +416,8 @@ A.K.A. the lost art of amusing yourself without electricity.
 
 - [Bookmark Beat](https://bookmarkbeat.substack.com/) by [Dani Sandoval](https://dreamindani.com/) - Software development and UX design.
 - [Interestings for Iterators](https://dwf.bigpencil.net/posts/) by [Davis W. Frank](https://dwf.bigpencil.net) - A collaborative repository of resources for software product development, consulting, and Extreme Programming.
-- [ytoo.org](https://ytoo.org) - Retro, indie search engines, social networks, memes, and browser-based games.
-- [www.bruh.ltd](https://www.bruh.ltd) by Ruby Klover
-- [Brandon's Journal](https://brandons-journal.com/links/) - a collection of blogs and websites about internet history, film, comics, pop culture, and Buddhism. There's also a [recipe book](https://scribbles.page/fj78s9ca#new_tab) compiled by the author's great-grandmother.
+- [Ruby Klover's website](https://www.bruh.ltd), which includes a [list of lists](https://www.bruh.ltd/lists) curated by the author.
+- [Brandon's Journal](https://brandons-journal.com/links/) - includes a collection of blogs and websites about internet history, film, comics, pop culture, and Buddhism. There's also a [recipe book](https://scribbles.page/fj78s9ca#new_tab) compiled by the author's great-grandmother.
 - [Mike Grindle](https://mikegrindle.com) - writing about retro technology and internet culture, plus a [links page](https://mikegrindle.com/blogroll) with a bunch of cool sites.
 - [Website Review](https://websitereview.neocities.org/) - a virtual library of deepweb and www sites.
 - [garlic.garden](https://garlic.garden/) by [allium house](https://allium.house/)
@@ -425,6 +425,7 @@ A.K.A. the lost art of amusing yourself without electricity.
 - [Dan's Tools](https://www.danstools.com/) - a collection of simple browser-based utilities for web development and data conversion, plus a database of [user manuals](https://www.cleancss.com/user-manuals/) for physical products.
 - [Krazydad](https://krazydad.com) - Sudoku! Mazes! Printable Puzzles!
 - [Richard Kennaway's List of Constructed Languages](http://www2.cmp.uea.ac.uk/~jrk/conlang.html)
+- [Ytoo!](https://ytoo.org) - Retro, indie search engines, social networks, memes, and browser-based games.
 - [Ben Christel](https://benchristel.com) - this website. [Source code on GitHub](https://github.com/benchristelcom/benchristelcom.github.io/).
 
 ### Inspiration
@@ -479,6 +480,7 @@ const providers = {
   cornish: "https://cornishdictionary.org.uk/#%s",
   etymonline: "https://www.etymonline.com/search?q=%s",
   wiktionary: "https://en.wiktionary.org/wiki/%s",
+  unicode: "https://unicodeplus.com/search?q=%s",
 }
 
 searchInput.addEventListener("keypress", (e) => {
