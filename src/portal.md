@@ -103,6 +103,7 @@
 - [Korean Bapsang](https://koreanbapsang.com/)
 - [My Korean Kitchen](https://mykoreankitchen.com/)
 - [Pardon Your French](https://www.pardonyourfrench.com/)
+- [Gode Cookery](http://www.godecookery.com/) - A webring of medieval cooking sites (h/t [Cidoku](https://cidoku.net/links/))
 - [Cedar Down Farm](https://cedardownfarm.ca/)
 
 ### Merchants
@@ -419,6 +420,7 @@ A.K.A. the lost art of amusing yourself without electricity.
 - [Ruby Klover's website](https://www.bruh.ltd), which includes a [list of lists](https://www.bruh.ltd/lists) curated by the author.
 - [Brandon's Journal](https://brandons-journal.com/links/) - includes a collection of blogs and websites about internet history, film, comics, pop culture, and Buddhism. There's also a [recipe book](https://scribbles.page/fj78s9ca#new_tab) compiled by the author's great-grandmother.
 - [Mike Grindle](https://mikegrindle.com) - writing about retro technology and internet culture, plus a [links page](https://mikegrindle.com/blogroll) with a bunch of cool sites.
+- [The Cidoku Network](https://cidoku.net/links/)
 - [Website Review](https://websitereview.neocities.org/) - a virtual library of deepweb and www sites.
 - [garlic.garden](https://garlic.garden/) by [allium house](https://allium.house/)
 - [candle's website](https://kool.tools/) - a collection of tools focused on making tiny, minimalist games
