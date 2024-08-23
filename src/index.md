@@ -33,11 +33,8 @@ h1 {
   margin-block-start: 0;
 }
 
-h1, h2 {
-  border: none;
-}
-
 h2 {
+  border: none;
   font-size: 1rem;
   font-style: italic;
   font-weight: normal;
