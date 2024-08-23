@@ -7,6 +7,9 @@
   --align: left;
   --hyphens: manual;
 }
+li {
+  margin-block-end: 0.75em;
+}
 </style>
 
 <div class="centered-text">

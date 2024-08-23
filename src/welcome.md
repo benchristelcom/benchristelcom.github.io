@@ -12,6 +12,7 @@ Hello! I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.o
 ## Writing Projects
 
 - [_Process to Processes_](https://benchristel.github.io/process-to-processes) - A draft of my upcoming book about software development
+
 - [Ben's Guide to Software Development](https://bensguide.substack.com) - A newsletter about software, and, let's be real, a bunch of other stuff too.
 - [Bliki](https://github.com/benchristel/benchristel.github.io/wiki) - My personal blog / wiki / digital garden about software, with 250+ topic-focused pages on everything from [abstraction](https://github.com/benchristel/benchristel.github.io/wiki/Abstraction) to [wholeness](https://github.com/benchristel/benchristel.github.io/wiki/Wholeness).
 
@@ -22,6 +23,7 @@ Projects I actively use and maintain.
 <div class="col-2"></div>
 
 - [Culture Machine](https://benchristel.github.io/tv) - The digital equivalent of touching grass. Thousands of hand-picked YouTube videos to amuse, confuse, and delight you, played in a neverending random sequence.
+
 - [Druthers](https://druthers.app) - Instantly grok your group's priorities with a ranked-choice poll. A collaboration with [Gavin Morgan](https://gavmor.com).
 - [mdsite](https://benchristel.github.io/mdsite) - A modern generator for old-school static sites and HTML books. It turns any tree of [Markdown](https://daringfireball.net/projects/markdown/) files into a website, complete with auto-generated navigation links.
 - [marss](https://www.npmjs.com/package/marss) - A markdown-to-RSS converter. Turns your microblog or changelog into an RSS feed.
@@ -42,6 +44,7 @@ Projects I actively use and maintain.
 Projects I haven't done anything with in a while.
 
 - [Dunmanifestin](https://github.com/gavmor/dunmanifestin) - Recursive madlib engine, designed for generating D&D characters and settings. Made in collaboration with [Gavin Morgan](https://gavmor.com).
+
 - [The Cave](https://benchristel.github.io/the-cave/) - Helps you keep track of short-term tasks with deep dependencies.
 - [Auracle](https://benchristel.github.io/auracle) - A word generator for conlangs. Give it some examples of your desired aesthetic, and get more in return.
 - [Aether Author](http://benchristel.github.io/aether-author/) - Stream-of-consciousness writing tool. Hides everything but the last few characters, so you can write without your writing getting in the way.
@@ -50,6 +53,7 @@ Projects I haven't done anything with in a while.
 ## Other Projects
 
 - [The Wayward Web](https://waywardweb.org) - A webring. A collaborative effort to map the useful, human parts of the web.
+
 - [Cookbook](/recipes) - Hearty one-pot vegetarian meals.
 
 ## Miscellany

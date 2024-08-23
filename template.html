@@ -6,12 +6,19 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
     <link rel="alternate" type="application/rss+xml" title="RSS" href="https://benchristel.com/feed.rss">
     <style>
+
+* {
+  box-sizing: border-box;
+}
+
 :root {
   --body-width: 60em;
   --align: justify;
   --hyphens: auto;
   --font-size: 0.875rem;
-  --line-height: 1.6;
+  --font-family: Georgia;
+  --line-height: 160%;
+  --font: var(--font-size) / var(--line-height) var(--font-family), 'Times New Roman', Times, serif;
 
   --global-bg: hsl(40, 90%, 96%);
   --burgundy: hsl(340, 100%, 25%);
@@ -19,17 +26,9 @@
   --blue: hsl(220, 100%, 25%);
   --body-bg: var(--global-bg);
   --border-color: hsl(40, 20%, 70%);
-}
 
-* {
-  box-sizing: border-box;
-}
-
-html {
   background: var(--global-bg);
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: var(--font-size);
-  letter-spacing: 0.015em;
+  font: var(--font);
   text-align: var(--align);
   hyphens: var(--hyphens);
   line-height: var(--line-height);
@@ -46,10 +45,26 @@ body {
   body {padding-inline: 1rem}
 }
 
-h1 { color: var(--brown); font-size: 150%; border-block-end: 1px solid var(--border-color); text-align: center; margin-bottom: 1em; }
-h2 { color: var(--brown); font-size: 125%; border-bottom: 1px solid var(--border-color); }
-h2 { margin-top: 2em; }
-h3 { font-size: 110%; background: #0001; padding: 0.1em 0.5em; text-shadow: 1px 1px #fff8; }
+h1 {
+  font-size: 150%;
+  border-block-end: 1px solid var(--border-color);
+  text-align: center;
+  margin-block-end: 1em;
+}
+
+h2 {
+  font-size: 125%;
+  border-block-end: 1px solid var(--border-color);
+  margin-block-start: 2em;
+}
+
+h3 {
+  font-size: 110%;
+  background: #0001;
+  padding: 0.1em 0.5em;
+  text-shadow: 1px 1px #fff8;
+}
+
 h4 { font-size: 100%; }
 
 a:not(.webring-container *) {
@@ -65,17 +80,17 @@ a:not(.webring-container *) {
 a { color: var(--blue); }
 a:visited { color: var(--burgundy); }
 
-a:hover {
-  background: #0000000d;
-}
-
 ul {
   padding-inline-start: 1.1em;
 }
 
 li {
-  margin-block-end: 0.75em;
   break-inside: avoid-column;
+}
+
+li > p {
+  /* prevent the first list item in a column from being shifted down */
+  margin-block-start: 0;
 }
 
 .col-2, .col-3 {
