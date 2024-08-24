@@ -46,6 +46,8 @@ Programming is the art of accounting for the possible and ruling out the impossi
 
 An optimistic vision of the future: Instead of your friends sarcastically saying "let me Google that for you," Google's AI would sarcastically say "let me ask your friends for you." And then it actually _would_ ask your friends, or at least, their web presences. Of course, _Google_ won't do this, because where's the money? But _someone_ might.
 
+The worldview of consumerism says the world is made of _things_. Creating value, in this system, equates to creating _things_. Christopher Alexander's worldview says the world is made of _structure_, and that value is created by giving order to that structure.
+
 -->
 
 ## 2024-08-11: Site Tidying
