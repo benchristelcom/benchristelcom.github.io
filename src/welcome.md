@@ -31,6 +31,7 @@ I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); b
 - [_Process to Processes_](https://benchristel.github.io/process-to-processes) - A draft of my upcoming book about software development
 
 - [Ben's Guide to Software Development](https://bensguide.substack.com) - A newsletter about software, and, let's be real, a bunch of other stuff too.
+- [Essays](posts) on this site.
 - [Bliki](https://github.com/benchristel/benchristel.github.io/wiki) - My personal blog / wiki / digital garden about software, with 250+ topic-focused pages on everything from [abstraction](https://github.com/benchristel/benchristel.github.io/wiki/Abstraction) to [wholeness](https://github.com/benchristel/benchristel.github.io/wiki/Wholeness).
 
 ## Major Artifacts

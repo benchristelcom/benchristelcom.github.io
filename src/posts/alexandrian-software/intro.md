@@ -1,14 +1,3 @@
-<style>
-:root {
-  --body-width: 50em;
-  --align: left;
-  --hyphens: manual;
-}
-.footer-home-link {
-  display: none;
-}
-</style>
-
 # Introduction
 
 It is the spring of 2024, and I am facing a perplexing problem.

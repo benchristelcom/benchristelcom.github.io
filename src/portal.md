@@ -8,6 +8,9 @@
   --align: left;
   --hyphens: manual;
 }
+h1 {
+  margin-block: 0.25em;
+}
 li {
   margin-block-end: 0.75em;
 }
