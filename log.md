@@ -46,6 +46,42 @@ The worldview of consumerism says the world is made of _things_. Creating value,
 
 -->
 
+## August 24, 2024: Just say no to Chronos
+
+I've released a couple improvements to the tools I use to build this website. Those tools are:
+
+- [**mdsite**](https://benchristel.github.io/mdsite), a simple static site generator that can turn any tree of Markdown files into HTML. If you want to write an HTML book like [_The Art of Unix Programming_](http://www.catb.org/esr/writings/taoup/html/), or just put your [digital garden]() on the web, `mdsite` has got your back.
+- [**marss**](https://www.npmjs.com/package/marss), which turns a Markdown changelog or microblog into an RSS feed.
+
+### mdsite
+
+mdsite 0.6.0 improves on the previous release, 0.5.1, by adding support for GitHub-Flavored Markdown footnotes. You can see those in action in my [Christopher Alexander series](/posts/alexandrian-software/alexander.html), which I'm in the middle of migrating from [Substack](https://bensguide.substack.com).
+
+### marss
+
+Marss is actually getting its _first_ release, so there isn't much to say about it that's not covered by [the documentation](https://github.com/benchristel/marss/blob/v0.0.0/README.md).
+
+I wrote marss because I couldn't find a markdown-to-RSS generator that took a _single_ changelog file as input. All the existing ones seem oriented toward blogs: they read a directory of posts, and generate a feed entry for each post. Contrary to what you might assume from its name, my _web log_ is not a blog. It is neither a series of standalone articles, nor a stream-of-consciousness social media feed. I think of it more as a unified changelog for all of my web presences — and crucially, one that includes only _notable_ changes that I think are worth emailing people about. In order for this to work, the web log has to be decoupled from the changes to actual content (prose and software), because I update that stuff all the time in fairly insignificant ways. I'm also constantly [writing drafts in public](https://github.com/benchristel/benchristel.github.io/wiki) — for my own convenience, because they're easier to find that way. So an RSS feed that notified people of every file I created or updated would be obnoxiously frequent.
+
+Tangent time: I've been musing about our society's tendency to order everything by recency or in-the-moment relevance, and whether this might be harming us (gee, Ben, ya think?) Some of my favorite websites ([Dreamsongs](https://dreamsongs.com/), [Every Noise at Once](https://everynoise.com/), [Ardalambion](http://ardalambion.org/)) do not order their content chronologically. I like the timeless quality this imparts. Such websites often have changelogs — e.g. here's  [Dreamsongs'](https://dreamsongs.com/SiteHistory.html) and [Ardalambion's](http://ardalambion.org/new.htm), so returning visitors can see what's new if they want. But the chronological ordering is strictly secondary.
+
+Frequently-updated chronologies and feeds always feel vaguely stressful to me. That might be because we most often consult Chronos when things have gone terribly wrong. Examples:
+
+- Programmers don't dig through the commit history when the code is self-explanatory and doing what they expect. They only do it when the number of [WTFs per minute](https://www.reddit.com/r/ProgrammerHumor/comments/1f9df7/the_only_valid_measurement_of_code_quality/) spikes, and they need to figure out how the code got so bad in order to understand what it even does.
+- If you see a bunch of people in a conference room poring over a timeline, you can bet they're in an incident postmortem, reconstructing the sequence of events that led up to some disaster.
+- The news is mostly bad news because people want to know what's urgent, and positive developments, though they may be recent, are not urgent. No one needs up-to-the-minute information when all is well, but we demand it in a crisis.
+
+We call on chronologies to understand present problems and trace their causes. These are important things to be able to do, but they aren't the _only_ things we need to do. Forcing everything we do into a chonological stream of updates (the default on the modern web) imparts a false sense of urgency to those updates, even as it skews the information we consume toward ephemera that we'll have forgotten in a month.
+
+I need to stop writing lest this become a _blog post_, but if you want to read more, here's a link to [How Blogs Broke the Web](https://stackingthebricks.com/how-blogs-broke-the-web/) by Amy Hoy. Amy's post explains, more clearly than I can right now, a big part of what motivated me to write [mdsite](https://benchristel.github.io/mdsite/) from scratch instead of using an off-the-shelf blogging tool. And if you're looking for something more recent and with less CSS, Mike Grindle's been writing about [the woes of timeline-based social media](https://mikegrindle.com/newsletter/itm-1) and [the limits of novelty and fun](https://mikegrindle.com/posts/novelty).
+
+And oh, that reminds me: The [Wayward Webring](https://waywardweb.org/) welcomed _four_ new members since my last update! You should definitely check out all their sites:
+
+- [EGGRAMEN](https://eggramen.neocities.org/elsewhere/links)
+- [Mike Grindle](https://mikegrindle.com/)
+- [imladris](https://braigwen.neocities.org/linklist)
+- [Tom's Homepage](https://ttntm.me/bookmarks/)
+
 <h2 id="2024-08-11-site-tidying">August 11, 2024: Site Tidying</h2>
 
 I am still working out how best to organize pages on this site. This week, the [welcome](/welcome.html) page came into its own as the _de facto_ index page for this site (The true `/index.html` being a list of links to my other web presences). Concretely, what this means is that links labeled "Home" go to the welcome page. The only way to navigate back to `/index.html` is to use the "Out Again" link at the bottom of the welcome page.
