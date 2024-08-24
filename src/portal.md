@@ -612,7 +612,7 @@ ul > li {
   text-indent: -1em;
 }
 
-li a:first-of-type {
+li > a:first-child, li > p:first-child > a:first-child {
   text-shadow: 0.03em 0;
   letter-spacing: 0.03em;
 }

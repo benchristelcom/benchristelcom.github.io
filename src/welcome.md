@@ -1,15 +1,32 @@
-# Welcome!
+# Hello!
 
-Hello! I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); by night I write everything else. This website is the gateway to my many projects.
+<div style="max-width:42rem;text-align:center;margin-inline:auto">
 
-## Highlights
+I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); by night I write everything else. This website is the gateway to my many projects.
 
-- [Web Portal](/portal.html) - A searchable catalog of links I've bookmarked.
-- [Web Log](/log.html) - What I've been doing on the web recently, on this site and elsewhere.
+</div>
 
-  <img src="/assets/rss.png" alt="RSS icon" width="18"> [Subscribe to updates](/subscribe.html) via email or RSS.
+<hr>
+
+<dl>
+  <dt><a href="/portal.html">Web Portal</a></dt>
+  <dd>A searchable catalog of links I've bookmarked.</dd>
+  
+  <dt><a href="/log.html">Web Log</a></dt>
+  <dd>
+    What I've been doing on the web recently, on this site and elsewhere.
+    <p><a href="/subscribe.html">Subscribe to updates</a> via email or RSS. <img src="/assets/rss.png" alt="RSS icon" width="18"></p>
+  </dd>
+
+  <dt>
+    <a href="https://waywardweb.org">The Wayward Web</a>
+  </dt>
+  <dd>A webring. A collaborative effort to map the useful, human parts of the web.</dd>
+</dl>
 
 ## Writing Projects
+
+<div class="col-2"></div>
 
 - [_Process to Processes_](https://benchristel.github.io/process-to-processes) - A draft of my upcoming book about software development
 
@@ -18,7 +35,7 @@ Hello! I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.o
 
 ## Major Artifacts
 
-Projects I actively use and maintain.
+<p class="centered-text">Projects I actively use and maintain.</p>
 
 <div class="col-2"></div>
 
@@ -30,6 +47,7 @@ Projects I actively use and maintain.
 - [Taste](https://npmjs.com/package/@benchristel/taste) - Simple, speedy JavaScript test framework
 - [hypersearch](https://www.npmjs.com/package/@benchristel/hypersearch) - Powers the searchbar on the [web portal](/portal.html) page.
 - [Bastion](https://bastionhome.github.io/) - A big directory of links. The predecessor of the [web portal](/portal.html).
+- [Cookbook](/recipes) - Hearty one-pot vegetarian meals.
 - [Audition](https://github.com/benchristel/audition) - A command-line tool that keeps the prose description of your conlang up to date with its morphology and lexicon.
 - [The One Grammar to Rule Them All](https://github.com/benchristel/OGTRTA) - The Lisp of conlangs. A syntax template for people who don't want to think about syntax anymore.
 - [wwwebring](https://www.npmjs.com/package/wwwebring) - A fully clientside webring widget for static sites. Powers [the Wayward Web](https://waywardweb.org).
@@ -41,7 +59,7 @@ Projects I actively use and maintain.
 
 ## Minor Artifacts
 
-Projects I haven't done anything with in a while.
+<p class="centered-text">Projects I haven't done anything with in a while.</p>
 
 - [Dunmanifestin](https://github.com/gavmor/dunmanifestin) - Recursive madlib engine, designed for generating D&D characters and settings. Made in collaboration with [Gavin Morgan](https://gavmor.com).
 
@@ -50,15 +68,14 @@ Projects I haven't done anything with in a while.
 - [Aether Author](http://benchristel.github.io/aether-author/) - Stream-of-consciousness writing tool. Hides everything but the last few characters, so you can write without your writing getting in the way.
 - [Hashema](https://github.com/benchristel/hashema) - a Ruby gem for checking if a data structure conforms to a schema / type definition. Designed to be more ergonomic and flexible than [JSON Schema](https://json-schema.org/).
 
-## Other Projects
-
-- [The Wayward Web](https://waywardweb.org) - A webring. A collaborative effort to map the useful, human parts of the web.
-
-- [Cookbook](/recipes) - Hearty one-pot vegetarian meals.
-
 ## Miscellany
 
-- [Metrics](/metrics.html) - What "success" means for this website.
+<dl>
+<dt><a href="/metrics.html">Metrics</a></dt>
+<dd>What "success" means for this website.</dd>
+</dl>
+
+---
 
 <a class="out" href="/index.html">
   <span id="tree"></span>
@@ -73,6 +90,14 @@ Best viewed with <a href="https://lynx.browser.org/"><img alt="Lynx 2.6" src="/a
 
 :root {
   --font-size: 0.9375rem;
+  --align: left;
+  --hyphens: manual;
+}
+
+h2 {
+  text-align: center;
+  max-width: 30rem;
+  margin: 3em auto;
 }
 
 .home-link {
@@ -82,10 +107,31 @@ Best viewed with <a href="https://lynx.browser.org/"><img alt="Lynx 2.6" src="/a
 a.out {
   display: table;
   margin: 3em auto;
-  box-shadow: inset 0 1px 5px #0004;
-  border: 1px solid #bbb;
   padding: 1em 3em;
   text-align: center;
+}
+
+ul > li {
+  list-style-type: none;
+  text-indent: -1em;
+}
+li > a:first-child, li > p:first-child > a:first-child {
+  text-shadow: 0.03em 0;
+  letter-spacing: 0.03em;
+}
+
+dl {
+  text-align: center;
+  max-width: 42em;
+  margin-inline: auto;
+}
+dt {
+  font-size: 105%;
+  font-weight: bold;
+  margin-block-start: 2em;
+}
+dd {
+  margin-inline: 0;
 }
 
 #tree {

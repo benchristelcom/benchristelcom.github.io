@@ -54,14 +54,13 @@ h1 {
 h2 {
   font-size: 125%;
   border-block-end: 1px solid var(--border-color);
-  margin-block-start: 2em;
+  margin-block-start: 3em;
 }
 
 h3 {
-  font-size: 110%;
+  font-size: 100%;
   background: #0001;
   padding: 0.1em 0.5em;
-  text-shadow: 1px 1px #fff8;
 }
 
 h4 { font-size: 100%; }
@@ -84,7 +83,10 @@ ul {
 }
 
 li {
-  break-inside: avoid-column;
+  break-inside: avoid;
+}
+dt {
+  break-after: avoid;
 }
 
 li > p {
