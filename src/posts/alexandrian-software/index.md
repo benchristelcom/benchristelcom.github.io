@@ -1,9 +1,3 @@
-<style>
-:root {
-  --body-width: 50em;
-}
-</style>
-
 # Christopher Alexander's Fifteen Properties of Living Structure in Software
 
 <div class="centered-text">

@@ -1,21 +1,5 @@
 # Web Portal
 
-<style>
-:root {
-  --body-width: 72em;
-  --font-size: 0.875rem;
-  --line-height: 1.4;
-  --align: left;
-  --hyphens: manual;
-}
-h1 {
-  margin-block: 0.25em;
-}
-li {
-  margin-block-end: 0.75em;
-}
-</style>
-
 <div class="centered-text">
 <p>A comprehensive directory of my most-loved and most-used web resources.</p>
 </div>
@@ -526,6 +510,22 @@ document.getElementById("number-of-links").innerText = numLinks
 </script>
 
 <style>
+:root {
+  --body-width: 72em;
+  --font-size: 0.875rem;
+  --line-height: 1.4;
+  --align: left;
+  --hyphens: manual;
+}
+
+h1 {
+  margin-block: 0.25em;
+}
+
+li {
+  margin-block-end: 0.75em;
+}
+
 .lr-split {
   display: flex;
   gap: 2em;
