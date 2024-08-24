@@ -141,13 +141,16 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 - [Rational Dharma](https://rationaldharma.com/) - no-nonsense explanations of how meditation works.
 - [Effects of Two Online Positive Psychology and Meditation Programs on Persistent Self-Transcendence](https://psycnet.apa.org/fulltext/2021-81896-001.html) - research on enlightenment
+- [Meditation and Going Beyond Mindfulness - A Secular Perspective | Mingyur Rinpoche](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=ukTaodQfYRQ)
+- [Happiest Man on Earth | Mingyur Rinpoche](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=kaNO09cPS6c)
+- [From Panic Attacks to Meditation](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=k1tw5sowFyM)
+- [Meditate Better | Swami Sarvapriyananda](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=GGYGxdcdE40)
 
 ## Reviving Civilization
 
 - [Diome](https://diome.xyz/0+%F0%9F%8C%9E+About/0.0+Technology+for+a+Regenerative+Civilization) - Technology for a regenerative civilization. By Andrea Farias.
 - [Meaningness](https://meaningness.com/) by [David Chapman](https://meaningness.com/about-my-sites). A work-in-progress philosophy book.
 - [Life Itself](https://lifeitself.org/)
-- [Liberation Computing](https://www.libcomp.org/) - an organization exploring how we might liberate computers and software from capitalism. As of July 2024, there's not much on the site but some placeholder posts and rough drafts.
 
 ## Software Development
 
@@ -288,10 +291,10 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [IconsDB](https://www.iconsdb.com/)
 - [Heroicons](https://heroicons.com/) - copy these SVG icons directly into your HTML. Nothing to download. Outline, solid, mini, and micro variants. (h/t [JT Archie](https://jtarchie.com/))
 - [Wikimedia Commons](https://commons.wikimedia.org)
-- [Public Domain Pictures](https://www.publicdomainpictures.net)
 - [Flickr](https://flickr.com)
 - [Cliparts.co](https://cliparts.co) - give your website, flyer, or email that ultimate kitschy look.
-- [Old Book Illustrations](https://www.oldbookillustrations.com/)
+- [Old Book Illustrations](https://www.oldbookillustrations.com/) - If you like [Wondermark](https://wondermark.com/), you'll love this.
+- [Public Domain Pictures](https://www.publicdomainpictures.net) - constantly tries to trick you into clicking on ads for paid stock images, but nevertheless there _are_ public domain pictures on this site.
 
 ## Web-based Tools<hs-meta keywords="online browser-based"></hs-meta>
 
