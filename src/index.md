@@ -12,7 +12,7 @@
 - [Newsletter](https://bensguide.substack.com/)
 - [Digital Garden](https://github.com/benchristel/benchristel.github.io/wiki)
 <!-- - [Web Portal](portal.html) -->
-- <a href="https://waywardweb.org" style="letter-spacing:0;font-size:92%">WaywardWeb.org</a>
+- <a href="https://waywardweb.org" style="letter-spacing:-0.01em;">WaywardWeb.org</a>
 - [Blog (defunct)](https://benchristel.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/ben-christel-17a26829/)
 - [email](mailto:ben.christel@gmail.com)
@@ -45,6 +45,7 @@ h2 {
 
 li {
   margin-block-end: 0.75em;
+  letter-spacing: 0.03em;
 }
 
 .enter-link {

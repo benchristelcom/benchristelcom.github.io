@@ -15,7 +15,7 @@ I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); b
   <dt><a href="/log.html">Web Log</a></dt>
   <dd>
     What I've been doing on the web recently, on this site and elsewhere.
-    <p><a href="/subscribe.html">Subscribe to updates</a> via email or RSS. <a href="/feed.rss"><img src="/assets/rss.png" alt="RSS icon" width="18"></a></p>
+    <p><a href="/subscribe.html">Subscribe to updates</a> via email or RSS. <a href="/feed.xml"><img src="/assets/rss.png" alt="RSS icon" width="18"></a></p>
   </dd>
 
   <dt>
