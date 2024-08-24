@@ -1,5 +1,6 @@
 #!/bin/bash -ex
 
+rm ~/.config/neocities/config
 git push origin main
 ./build && cd docs && neocities push .
 neocities logout -y
