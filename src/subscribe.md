@@ -5,10 +5,6 @@
   --body-width: 46em;
   font-size: 16px;
 }
-
-h1, h2, h3 {
-  font-family: Cantarell, Tahoma, system-ui;
-}
 </style>
 
 Thanks for your interest in subscribing to my website! (I'll assume that's why you're on this page.) I think you're pretty cool, too.
