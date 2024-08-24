@@ -3,6 +3,7 @@
 <style>
 :root {
   --body-width: 72em;
+  --font-size: 0.875rem;
   --line-height: 1.4;
   --align: left;
   --hyphens: manual;
