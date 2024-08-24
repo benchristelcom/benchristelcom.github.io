@@ -8,10 +8,6 @@ This page is a reverse chronology of what I've been doing and thinking about. Yo
   font-size: 16px;
 }
 
-h1, h2, h3 {
-  font-family: Cantarell, 'Lucida Grande', Tahoma, system-ui;
-}
-
 a[href*='subscribe.html'] {
   text-shadow: 0 0 8px #ff8;
 }
@@ -50,7 +46,7 @@ The worldview of consumerism says the world is made of _things_. Creating value,
 
 -->
 
-## 2024-08-11: Site Tidying
+<h2 id="2024-08-11-site-tidying">August 11, 2024: Site Tidying</h2>
 
 I am still working out how best to organize pages on this site. This week, the [welcome](/welcome.html) page came into its own as the _de facto_ index page for this site (The true `/index.html` being a list of links to my other web presences). Concretely, what this means is that links labeled "Home" go to the welcome page. The only way to navigate back to `/index.html` is to use the "Out Again" link at the bottom of the welcome page.
 
@@ -80,7 +76,7 @@ git log --since 2024-08-04 --name-only
 
 This lists the commits I made since the previous entry, along with the files changed by each commit. That was enough to jog my memory. Turns out I did stuff!
 
-## 2024-08-04: The Mess We're In
+<h2 id="2024-08-04-the-mess-were-in">August 4, 2024: The Mess We're In</h2>
 
 ### Writings
 
