@@ -4,27 +4,24 @@
 
 - Oats
 - Coffee
-- Coffee Filters
+- Coffee filters
 - Half & Half
-- Brown Sugar
+- Brown sugar
 - Buttermilk
 - Bananas
 - Eggs
 - Butter
-- Sunflower Seeds
-- Pumpkin Seeds
 
 ## Lunch
 
 - Pita
 - Cucumbers
-- Garbanzo Beans
-- Olive Oil
+- Garbanzo beans
+- Olive oil
 - Tahini
 - Lemon
 - Cheese
 - Lettuce
-- Pickles
 - Mayo
 - Mustard
 
@@ -32,16 +29,16 @@
 
 - Salt
 - Milk
+- Oil
 - Carrots
 - Celery
 - Onion
 - Lentils
 - Rice
-- Soy Sauce
+- Soy sauce
 - Mirin
-- Hot Sauce
-- Whole Wheat 4
-- Bread 4
+- Hot sauce
+- Whole wheat flour
+- Bread flour
 - Chocolate raisins
 - Bulgar
-- Sriracha
