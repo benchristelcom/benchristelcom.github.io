@@ -12,7 +12,7 @@
             <title>August 24, 2024: Just say no to Chronos</title>
             <guid isPermaLink="false">august-24-2024-just-say-no-to-chronos</guid>
             <link>https://benchristel.com/log.html#august-24-2024-just-say-no-to-chronos</link>
-            <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
+            <pubDate>Sat, 24 Aug 2024 12:00:00 +0000</pubDate>
             <description><![CDATA[<p>I&apos;ve released a couple improvements to the tools I use to build this website. Those tools are:</p>
 <ul>
 <li><a href="https://benchristel.github.io/mdsite"><strong>mdsite</strong></a>, a simple static site generator that can turn any tree of Markdown files into HTML. If you want to write an HTML book like <a href="http://www.catb.org/esr/writings/taoup/html/"><em>The Art of Unix Programming</em></a>, or just put your <a href>digital garden</a> on the web, <code>mdsite</code> has got your back.</li>
@@ -44,7 +44,7 @@
             <title>August 11, 2024: Site Tidying</title>
             <guid isPermaLink="false">2024-08-11-site-tidying</guid>
             <link>https://benchristel.com/log.html#2024-08-11-site-tidying</link>
-            <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+            <pubDate>Sun, 11 Aug 2024 12:00:00 +0000</pubDate>
             <description><![CDATA[<p>I am still working out how best to organize pages on this site. This week, the <a href="https://benchristel.com/welcome.html">welcome</a> page came into its own as the <em>de facto</em> index page for this site (The true <code>/index.html</code> being a list of links to my other web presences). Concretely, what this means is that links labeled &quot;Home&quot; go to the welcome page. The only way to navigate back to <code>/index.html</code> is to use the &quot;Out Again&quot; link at the bottom of the welcome page.</p>
 <p>This is essentially an instance of the <a href="https://github.com/software-patterns/workshop/blob/master/patterns/entrance-transition.md"><strong>Entrance Transition</strong> pattern</a>, which I&apos;ve seen on a lot of personal sites &#x2014; especially older and retro-themed ones. I like it because it makes the site feel like more of a place: it has a distinct inside and a distinct outside.</p>
 <hr>
@@ -64,7 +64,7 @@
             <title>August 4, 2024: The Mess We&apos;re In</title>
             <guid isPermaLink="false">2024-08-04-the-mess-were-in</guid>
             <link>https://benchristel.com/log.html#2024-08-04-the-mess-were-in</link>
-            <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+            <pubDate>Sun, 04 Aug 2024 12:00:00 +0000</pubDate>
             <description><![CDATA[<h3 id="writings">Writings</h3>
 <p>Published: <a href="https://benchristel.com/posts/0000-the-mess-we-are-in.html">&quot;The Mess We&apos;re In&quot;</a></p>
 <h3 id="quotes">Quotes</h3>
@@ -92,7 +92,7 @@ Can anyone in the audience help me out? Send email to benchristel at gmail.com. 
             <title>2024-07-31: Site Updates</title>
             <guid isPermaLink="false">2024-07-31-site-updates</guid>
             <link>https://benchristel.com/log.html#2024-07-31-site-updates</link>
-            <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 31 Jul 2024 12:00:00 +0000</pubDate>
             <description><![CDATA[<h3 id="globally-install-a-package-youre-developing">Globally install a package you&apos;re developing</h3>
 <p>Today I learned that you can install a NodeJS package you&apos;re developing without first publishing it to a package registry like NPM. <code>yarn global add &quot;file:/absolute/path/to/repo&quot;</code> will do the trick.</p>
 <p><a href="https://benchristel.com/tricks/yarn.html#globally-install-a-package-youre-developing">Read more...</a></p>
