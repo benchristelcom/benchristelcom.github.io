@@ -2,6 +2,8 @@
 
 ## Breakfast
 
+<div class="col-3"></div>
+
 - Oats
 - Coffee
 - Coffee filters
@@ -13,6 +15,8 @@
 - Butter
 
 ## Lunch
+
+<div class="col-3"></div>
 
 - Pita
 - Cucumbers
@@ -26,6 +30,8 @@
 - Mustard
 
 ## Staples
+
+<div class="col-3"></div>
 
 - Salt
 - Milk
