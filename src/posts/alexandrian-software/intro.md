@@ -45,6 +45,6 @@ But no. It doesn’t work for computers. A work of art is not a user interface. 
 
 The disconnect continues to stymie me.
 
-I begin to write an essay in the hope of resolving it, or at least explaining it to myself. The pages that follow are the result.
+I begin to write down my thoughts in the hope of resolving my confusion, or at least explaining it to myself. The pages that follow are the result.
 
 <nav class="centered-text">{{next}}</nav>

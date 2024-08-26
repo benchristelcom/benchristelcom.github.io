@@ -29,9 +29,6 @@ This bit of JavaScript is made of eight independent functions, the most complica
 > 
 > —Ward Cunningham
 
+Bonus example: [watch Brian Kernighan write a spell-checker in one line of shell](https://www.youtube.com/watch/tc4ROCJYbm0?t=5m) (demo starting ~5 minutes in).
+
 <nav class="centered-text">{{prev}} | {{next}}</nav>
-<br><br><br>
-
-Bonus example: watch Brian Kernighan write a spell-checker in one line of shell (demo starting ~5 minutes in):
-
-<iframe src="https://www.youtube.com/embed/tc4ROCJYbm0" title="AT&amp;T Archives: The UNIX Operating System" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

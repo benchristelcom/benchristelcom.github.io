@@ -1,4 +1,4 @@
-# Interlude
+# Interlude 1
 
 these 15 properties are derived from Christopher Alexander’s study of structures that have the quality he called **life**. This lifelike quality connects to biological life in at least three ways:
 
@@ -20,7 +20,7 @@ This is not a hypothetical: the quality of life in software _has_ been reached, 
 
 The problem with good software is that it fits us so well, its quality is unnoticeable. We rarely think of it, or realize how much it’s doing for us, until it is gone. As Zhuangzi said, a comfortable belt is one you forget you’re wearing.[^1]
 
-[^1]: This doesn’t mean it’s impossible to notice or appreciate good software, just that it takes a bit more effort to notice than bad software. E.g. web browsers are very good these days — so good that I bet you rarely think about how much they’re doing for you.
+[^1]: This doesn’t mean it’s impossible to notice or appreciate good software, just that it takes a bit more effort to notice than bad software. E.g. web browsers are very good these days — so good that I bet you rarely think about how much they’re doing for you. I also do not mean to imply that every program or app is either all-good or all-bad. Obviously some parts and features of a program can be better than others. The problem I see is that we seem just as eager to replace good features with bad ones as vice versa.
 
 As humanity exits the railgun of progress that was the twentieth century, one of our many challenges will be to create economic systems that allow us to let things be, when we don’t yet know how to improve them further. Maybe I’ll write more about this someday. At present, I don’t really have any concrete suggestions.
 
