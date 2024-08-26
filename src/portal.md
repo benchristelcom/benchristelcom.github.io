@@ -304,6 +304,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [TinyPNG](https://tinypng.com/) - Reduces image filesizes.
 - [JSONPath Online Evaluator](https://jsonpath.com/) - Evaluates JSONPath expressions against data.
 - [Atmos.Style CSS Color Converter](https://atmos.style/color-converter/hsl-to-lch) - Converts between hex, RGB, HSL, and LCH. Also names the colors, which is a nice touch.
+- [HTML to Markdown converter](https://htmlmarkdown.com)
 
 ### Prototyping
 

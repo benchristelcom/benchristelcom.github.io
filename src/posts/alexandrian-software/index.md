@@ -1,3 +1,5 @@
+<nav class="centered-text">{{up}}</nav>
+
 # Christopher Alexander's Fifteen Properties of Living Structure in Software
 
 <div class="centered-text">
@@ -10,5 +12,3 @@ _This essay was originally published [on Substack](https://bensguide.substack.co
 </div>
 
 <div style="display:table;margin-inline:auto">{{toc}}</div>
-
-<nav class="centered-text">{{up}}</nav>

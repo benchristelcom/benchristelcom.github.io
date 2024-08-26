@@ -47,6 +47,10 @@ The worldview of consumerism says the world is made of _things_. Creating value,
 
 -->
 
+## August 25, 2024: Christopher Alexander essay migrated from Substack
+
+Earlier this year I wrote a serial essay about how Christopher Alexander's work applies to software. I just finished copying it from my Substack newsletter to this site. You can [read the whole thing here](/posts/alexandrian-software).
+
 ## August 24, 2024: Just say no to Chronos
 
 I've released a couple improvements to the tools I use to build this website. Those tools are:
