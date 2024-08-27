@@ -337,6 +337,10 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Indie Bound](https://www.indiebound.org/) - Find local independent bookstores!
 - [Bookshop](https://bookshop.org/)
 
+### Specific Titles
+
+- [The Canterbury Tales](https://chaucer.fas.harvard.edu/pages/text-and-translations) in Middle English
+
 ## Games & Gaming
 
 ### Heroes of Might and Magic IV

@@ -186,6 +186,7 @@ https://khanacademy.org
 https://jwz.org
 https://newsboat.org
 https://whatwg.org
+https://poetryfoundation.org
 https://conclave.tech
 https://dataannotation.tech
 https://ipfs.tech
@@ -814,6 +815,8 @@ https://githubstatus.com
 https://mikegrindle.com
 https://websitecarbon.com
 https://discogs.com
+https://librarius.com
+https://britannica.com
 https://remix.run
 https://www.run.town
 https://taylor.town
@@ -988,6 +991,7 @@ https://www.bitview.net
 https://mathoverflow.net
 https://www.tampermonkey.net
 https://patterns.architexturez.net
+https://medievalists.net
 https://pca.st
 http://localhost
 https://localhost
@@ -1008,6 +1012,8 @@ https://www.cs.cmu.edu
 https://www.ndsu.edu
 https://sites.psu.edu
 https://www.minemaps.psu.edu
+https://harvard.edu
+https://umich.edu
 https://www.medieval.eu
 https://www.worldstandards.eu
 https://satyrs.eu
