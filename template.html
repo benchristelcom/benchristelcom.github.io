@@ -23,13 +23,14 @@ p, li, figcaption, blockquote, h1, h2, h3, h4, h5, h6, a {
   --font-family: Georgia;
   --line-height: 160%;
   --font: var(--font-size) / var(--line-height) var(--font-family), 'Times New Roman', Times, serif;
-
-  --global-bg: hsl(40, 90%, 96%);
-  --burgundy: hsl(340, 100%, 25%);
-  --brown: hsl(340, 15%, 15%);
-  --blue: hsl(220, 100%, 25%);
+  --fg: #000;
+  --light-fg: #555;
+  --global-bg: hsl(34 58% 85%);
+  --burgundy: hsl(334, 80%, 16%);
+  --brown: hsl(334, 15%, 10%);
+  --blue: hsl(214, 100%, 20%);
   --body-bg: var(--global-bg);
-  --border-color: hsl(40, 20%, 70%);
+  --border-color: hsl(33, 15%, 70%);
 
   background: var(--global-bg);
   font: var(--font);
@@ -45,6 +46,7 @@ body {
   margin: 0 auto;
   background: var(--body-bg);
   padding: 2rem 4rem 8rem;
+  color: var(--fg);
 }
 @media (max-width: 760px) {
   body {padding-inline: 1rem}
@@ -157,13 +159,13 @@ td, th {
 }
 
 blockquote {
-  color: #333;
+  color: var(--light-fg);
   font-style: italic;
 }
 
 blockquote :is(em, i) {
   font-style: normal;
-  color: #000;
+  color: var(--fg);
 }
 
 pre {
