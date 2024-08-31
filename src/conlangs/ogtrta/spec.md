@@ -21,7 +21,7 @@ OGTRTA is not right for every language. For example, if you want a language with
 
 OGTRTA comprises two parts: a syntax, and a set of glosses for about 50 morphemes. This document describes both parts, beginning with the syntax.
 
-## Syntax
+## Overview of Syntax
 
 ### Parts of speech
 
@@ -47,19 +47,179 @@ OGTRTA aims to provide languages with a complete set of determiners, pronouns, a
 
 ### Word order
 
-The basic word order in declarative sentences in OGTRTA is **VOS** or verb-object-subject. Wait, come back! The subject is usually fronted via a transformation, so **SVO** word order is more common in actual sentences. Additionally, OGTRTA is a reversible syntax: the right-hand side of all the syntax production rules can be reversed, producing an **SOV** language. Backing the subject of an SOV sentence produces **OVS**.
+The basic word order in declarative sentences in OGTRTA is head-initial **VO** or verb-object. "Head-initial" means a word's modifiers typically follow it, and **VO** means the verb and its objects are always adjacent, with the verb first. The subject of a sentence can be placed before or after the verb phrase, yielding **SVO** and **VOS** word orders.
 
-The other possible word orders, **VSO** and **OSV**, are not directly supported. If you really want to make a VSO language with OGTRTA, you can probably figure something out, but this guide will not describe how to do it.
+Additionally, OGTRTA is a reversible syntax: individual languages can reverse the right-hand side of all the syntax production rules, producing a head-final **OV** language.
+
+**VSO** and **OSV** word orders are not directly supported. If you really want to make a VSO language with OGTRTA, you can probably figure something out, but this guide will not describe how to do it.
 
 To keep things straightforward, this guide assumes a verb-object word order, and all the examples will use that syntax.
+
+### Examples
+
+As stated above, noun phrases in VO OGTRTA are head-initial; modifiers follow the noun.
+
+- **anar carnë**<br>
+  `sun red`<br>
+  _a red sun_
+
+Multiple modifiers may be chained together:
+
+- **anar carnë púrëa**<br>
+  `sun red bleared`<br>
+  _a bleared red sun_
+
+Determiners precede the noun:
+
+- **i ohtar**<br>
+  `the warrior`<br>
+  _the warrior_
+
+Modifiers may intercede between the determiner and the noun:
+
+- **i maitë ohtar**<br>
+  `the skilled warrior`<br>
+  _the skilled warrior_
+
+Modifiers may have complements (objects). Here the word **mi** "in" requires one complement:
+
+- **anar mi rómen**<br>
+  `sun in east`<br>
+  _the sun in (the) east_
+
+- **i ohtar colë macil**<br>
+  `the warrior carrying sword`<br>
+  _the warrior (who is) carrying a sword_
+
+Complements are noun phrases, so they can have modifiers of their own:
+
+- **i ohtar colë anar mi rómen**<br>
+  `the warrior carrying sun in east`<br>
+  _the warrior (who is) carrying (the) sun in (the) east_
+
+An adjective-like verb can be the predicate of a sentence without any need for a copula like "to be". Depending on the language, the predicate may be marked as finite (`FIN`).
+
+- **maitëa i ohtar**<br>
+  `skilled-FIN the warrior`<br>
+  _the warrior is skilled_
+
+The subject can come before the predicate:
+
+- **i ohtar maitëa**<br>
+  `the warrior skilled-FIN`<br>
+  _the warrior is skilled_
+
+Preposition-like verbs don't require a copula either.
+
+- **mia rómen i anar**<br>
+  `in-FIN east the sun`<br>
+  _the sun is in the east_
+
+- **i anar mia rómen**<br>
+  `the sun in-FIN east`<br>
+  _the sun is in the east_
+
+However, in order to say that one noun is another, a copula is required:
+
+- **i nér ná ohtar**<br>
+  `the man be-FIN warrior`<br>
+  _the man is a warrior_
+
+The copula can be used to form appositives:
+
+- **Aragorn ne aran**<br>
+  `Aragorn be king`<br>
+  _Aragorn (who is) king_
+
+Then there are verbs that we think of as verbs in English:
+
+- **i ohtar colëa macil**<br>
+  `the warrior carry-FIN sword`<br>
+  _the warrior carries a sword_
+
+- **i ohtar thurëa alda fána**<br>
+  `the warrior seek-FIN tree white`<br>
+  _the warrior seeks a white tree_
+
+Verbs can have adverb-like modifiers:
+
+- **i ohtar colëa maitë macil**<br>
+  `the warrior carry-FIN skillful sword**<br>
+  _the warrior skillfully carries a sword_
+
+Adverbs can also be placed at the beginning of the sentence:
+
+- **maitë i ohtar colëa macil**<br>
+  `skillful the warrior carry-FIN sword`<br>
+  _skillfully the warrior carries a sword_
+
+Some languages mark adverbs, allowing somewhat freer syntax:
+
+- **i ohtar colëa macil omaitë**
+  `the warrior carry-FIN sword ADV-skillful`
+  _the warrior carries a sword skillfully_
+
+Verbs can be nominalized, forming an _infinitive_. The imperative form of a verb is the same as the infinitive form:
+
+- **Thurië i alda fána**<br>
+  `seek-INF the tree white`<br>
+  _seek the white tree_
+
+Nominalized verbs can be the complements of other verbs:
+
+- **Ni merëa thurië i alda fána**<br>
+  `I want-FIN seek-INF the tree white`<br>
+  _I want to seek the white tree_
+
+...and they can be the complements of preposition-like words. Aspectual distinctions can be made this way:
+
+- **Ni mia thurië i alda fána**<br>
+  `I in-FIN seek-INF the tree white`<br>
+  _I am (in the act of) seeking the white tree_
+
+Questions are syntactically noun phrases:
+
+- **Ma elyë cenëa i alda?**<br>
+  `whether you see-FIN the tree`<br>
+  _Do you see the tree?_
+
+- **Man ná i nér tana?**<br>
+  `who be-FIN the man that`<br>
+  _Who is that man?_
+
+As such, they can be the complements of verbs:
+
+- **Ni ala istëa ma ni cenëa i alda.**<br>
+  `I not know-FIN whether I see-FIN the tree`<br>
+  _I do not know if I can see the tree._
+
+- **Ni merëa nyarië le man ná i nér tana.**<br>
+  `I will-FIN tell-INF you who be-FIN the man that`<br>
+  _I will tell you who that man is._ 
+
+A whole sentence can be nominalized:
+
+- **Elyë nyarenë im is cenenë i ohtar**<br>
+  `You tell-PST NZ he see-PST the warrior`<br>
+  _You said (that) he saw the warrior._
+
+When a question word is fronted, a resumptive pronoun can be left in its place:
+
+- **Man elyë nyarenë im is cenenë ce?**<br>
+  `Who you tell-PST NZ he see-PST RES`<br>
+  _Who did you say he saw?_
+
+## Formal Syntax
 
 ### Production rules, level 1
 
 The complete set of production rules for OGTRTA is complex, so rather than dump them on you all at once, they will be introduced in stages. This section describes "level 1" syntax—the most minimal, stripped-down version of the grammar.
 
+#### Sentences
+
 A sentence is either **declarative** (making a statement about _what is the case_), **imperative** (issuing a command or request) or **interrogative** (asking a question). OGTRTA views interrogative sentences as a special case of imperatives, since they're making a request for information. So there are only two types of sentences in the formal grammar: declarative sentences, abbreviated `DS` and interrogative/imperative sentences, abbreviated `IS`.
 
-Here is how we represent the idea that a sentence `S` is either a `DS` or `IS`:
+Here is how we represent the idea that a sentence `S` is either a `DS` or an `IS`:
 
 ```
 S -> DS
@@ -72,7 +232,7 @@ A declarative **sentence** `DS` consists of a **verb phrase** `VP` followed by a
 DS -> VP NP
 ```
 
-The order of nodes in a sentence can also be reversed:
+The subject can also be fronted:
 
 ```
 DS -> NP VP
@@ -81,7 +241,7 @@ DS -> NP VP
 A sentence can be composed of multiple sentences, using a conjunction:
 
 ```
-DS -> S CONJ S
+DS -> DS CONJ DS
 ```
 
 An interrogative or imperative sentence `IS` is a single noun phrase (see the sections on [imperatives](#imperatives) and [interrogatives](#interrogatives) for how this works).
@@ -89,6 +249,8 @@ An interrogative or imperative sentence `IS` is a single noun phrase (see the se
 ```
 IS -> NP
 ```
+
+#### Verb Phrases
 
 A **verb phrase** consists of a **verb** `V` with valence `n` (represented `V/n`), followed by n **complement noun phrases** (represented `NP{n}`).
 
@@ -103,6 +265,8 @@ All words in OGTRTA have a valence. Most nouns have a valence of 0, but nouns de
 Note that _valence is a grammatical concept, not a logical one_. In English, a verb like "eat" can have either valence 1 or valence 0, and that's perfectly fine. You can say "I eat", or "I eat beans" and both are grammatical. In OGTRTA, every word _must_ have a well-defined valence when it is actually used: there is no such thing as an optional complement. However, OGTRTA languages often have [morphological affixes to modify the valence](#valence-changing) of a word, so your language can have both `eat/1` and `eat/0`. The valence-changing affixes can also be realized as [null morphemes](#null-morphemes), so `eat/1` and `eat/0` need not have distinct forms.
 
 In any case, the important thing to understand is that valence is always about what _words_ are required to be there, not about whether the action represented by a verb conceptually has a direct object or not.
+
+#### Noun Phrases
 
 A **noun phrase** consists of a noun `N` with valence `n`, followed by its `n` complements. The noun is optionally preceded by a determiner.
 
