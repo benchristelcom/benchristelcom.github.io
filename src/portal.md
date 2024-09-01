@@ -426,6 +426,7 @@ A.K.A. the lost art of amusing yourself without electricity.
 - [Dan's Tools](https://www.danstools.com/) - a collection of simple browser-based utilities for web development and data conversion, plus a database of [user manuals](https://www.cleancss.com/user-manuals/) for physical products.
 - [Krazydad](https://krazydad.com) - Sudoku! Mazes! Printable Puzzles!
 - [Richard Kennaway's List of Constructed Languages](http://www2.cmp.uea.ac.uk/~jrk/conlang.html)
+- Mark Rosenfelder has compiled a [list of stories and novels that feature languages or linguistics](http://zompist.com/lang15.html) and a [list of websites about linguistics](http://zompist.com/lang17.html#Websites).
 - [Ytoo!](https://ytoo.org) - Retro, indie search engines, social networks, memes, and browser-based games.
 - [Ben Christel](https://benchristel.com) - this website. [Source code on GitHub](https://github.com/benchristelcom/benchristelcom.github.io/).
 
