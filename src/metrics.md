@@ -34,9 +34,18 @@ Run `tools/metrics HISTORYFILE`
 
 | Month    | Webpages | Google searches | DDG searches |
 | -------- | -------- | --------------- | ------------ |
+| Aug 2024 | 1591     | 1               | 87           |
 | Jul 2024 | 1072     | 1               | 101          |
 | Jun 2024 | 1974     | 6               | 217          |
 | May 2024 | 2122     | 30              | 168          |
 | Apr 2024 | 1221     | 0               | 136          |
 | Mar 2024 | 1593     | 0               | 170          |
 | Feb 2024 | 1435     | 6               | 160          |
+
+## Notes
+
+### August 2024
+
+That one Google search doesn't count - I was using Unicode.org's search feature, which I thought was a first-party thing, but it turned out to just be a link to Google. Why the Unicode Consortium can't build a search tool for _Unicode characters, which they presumably already have an exhaustive, in-memory-sized database of,_ is beyond me. But there it is.
+
+I felt like I visited a _lot_ of pages this month, but I guess it wasn't that many. I did discover many new websites through [the Wayward Web](https://waywardweb.org), and had to wait through the 20-second delay that LeechBlock imposes for each one. Maybe the delay made it feel like there were more of them.
