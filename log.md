@@ -47,6 +47,12 @@ The worldview of consumerism says the world is made of _things_. Creating value,
 
 -->
 
+## September 1, 2024: "Code Quality: Hidden Costs, Unexpected Benefits"
+
+I've posted a new article: ["Code Quality: Hidden Costs, Unexpected Benefits"](/posts/code-quality-costs-benefits/)
+
+It being the first day of September, I've also updated the [metrics](/metrics.html) page with August's data.
+
 ## August 25, 2024: Christopher Alexander essay migrated from Substack
 
 Earlier this year I wrote a serial essay about how Christopher Alexander's work applies to software. I just finished copying it from my Substack newsletter to this site. You can [read the whole thing here](/posts/alexandrian-software).
