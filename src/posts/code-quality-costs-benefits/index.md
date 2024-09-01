@@ -21,7 +21,7 @@ Now, here's the thing: if the old computer were faster and easier to use, you'd 
 
 Software companies operate similarly. When a part of the codebase gains a reputation for being {{link terms/legacy-code "legacy code"}}, everyone tries to find ways to avoid touching it. Shims are inserted; substitutes are devised. Whenever possible, behavior is implemented somewhere else.
 
-This leads to a vicious cycle: avoidance of legacy code just causes weird architectural decisions in other parts of the codebase, turning _them_ into legacy code too. But the process is gradual. In the meantime, software development can continue, and the company can keep making money.
+This leads to a vicious cycle: avoidance of legacy code leads to weird architectural decisions in other parts of the codebase, turning _them_ into legacy code too. But the process is gradual. In the meantime, software development can continue, and the company can keep making money.
 
 More perniciously, bad code directs attention and effort away from certain opportunities. If a feature or product doesn't "pencil out" — if the cost of implementing it would be impractically high, due to poor code quality — then it will never get worked on. In this situation, the cost of changing the bad code will never be paid, but the potential value of the feature won't be realized either.
 
