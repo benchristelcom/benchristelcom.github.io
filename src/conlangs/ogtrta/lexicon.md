@@ -1,6 +1,6 @@
 <style>:root {--body-width: 80em}</style>
 
-# Lexicon
+# OGTRTA Lexicon
 
 Now that we have covered syntax, let's move on to the other half of OGTRTA: the lexicon.
 
@@ -79,12 +79,12 @@ always refers to a specific set of things.
 
 ### Words that aren't determiners
 
-Some types of words are determiners in English but not in OGTRTA. These include:
+Some types of words are determiners in English but need not be in OGTRTA. These include:
 
 - possessive pronouns ("my", "your")
 - demonstratives ("this (one)", "that (one)")
 
-These concepts are all expressed by **verbs** in OGTRTA.
+Depending on the individual language, these concepts can all expressed by **verbs**.
 
 ### Semantics
 
@@ -325,6 +325,20 @@ In languages that use the "adverbial particle" strategy, a verb that modifies an
 
 - `1SG DIST see1 3SG ADV thursday` "I saw it on Thursday"
 
-## Modifiers on Conjunctions
+## Conjunction modifiers (adconjunctions)
 
 TODO
+
+## Relative Clauses
+
+Often, a simple verb is used where in English would use a relative clause. But only relative clauses can have tense markers.
+
+A relative clause is formed by subordinating a question to the verb `REL`:
+
+- `DEF bear REL what PROG#DIST chase1#INF 2SG` "the bear that was chasing you"
+
+The question can contain a resumptive pronoun:
+
+- `DEF bear REL what PROG#DIST 2SG chase1#INF RES` "The bear you were chasing"
+
+`REL` is often realized as some other verb, like `GEN1`.

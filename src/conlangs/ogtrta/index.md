@@ -17,6 +17,6 @@ However, in order to arrive at a system that would work, the way I had to develo
 In creating OGTRTA, I had to strike a balance between a maximally-comprehensible system and a maximally-flexible one. As a result,
 OGTRTA is not right for every language. For example, if you want a language with very free word order, tons of noun classes, and head-marking, OGTRTA is probably not a good choice — but then again, you don't _need_ OGTRTA for a language like that, because the main problem OGTRTA solves is syntax. On the other hand, if you want a language with fairly fixed word order, which is either consistently head-initial or consistently head-final, OGTRTA might work well for you.
 
-OGTRTA comprises two parts: a syntax, and a set of glosses for about 50 morphemes. This document describes both parts, beginning with the syntax.
+OGTRTA comprises two parts: a syntax, and a skeletal lexicon with about 100 morphemes. This document describes both parts, beginning with the syntax.
 
 {{toc /conlangs/ogtrta}}
