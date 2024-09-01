@@ -1,29 +1,22 @@
 #!/bin/bash
 
-HISTORY="${1:-/tmp/history.txt}"
-
-if ! [ -f "$HISTORY" ]; then
-  >&2 echo "History file not found: $HISTORY"
-  exit 1
-fi
-
 MOSTLY_HARMLESS='bastionhome\.github\.io'\
 '|benchristel\.github\.io/meditation'\
 '|benchristel\.com/portal\.html'\
 '|mail\.google\.com'
 
 echo -n "Pages visited:   "
-<"$HISTORY" \
+cat "$@" | \
   ag -v "$MOSTLY_HARMLESS" \
   | wc -l
 
 echo -n "Domains visited: "
-<"$HISTORY" ag -v "$MOSTLY_HARMLESS" \
+cat "$@" | ag -v "$MOSTLY_HARMLESS" \
   | grep -o --no-filename -P 'https?://[^/]+' \
   | sort | uniq | wc -l
 
 echo -n "Google searches: "
-<"$HISTORY" ag 'https://(www\.)?google.com/search' | wc -l
+cat "$@" | ag 'https://(www\.)?google.com/search' | wc -l
 
 echo -n "DDG searches:    "
-<"$HISTORY" ag duckduckgo.com  | sed -e 's/&ia=web//' | uniq | wc -l
+cat "$@" | ag duckduckgo.com  | sed -e 's/&ia=web//' | uniq | wc -l
