@@ -99,7 +99,7 @@
 
 ### Merchants
 
-- [Sunridge Farms](https://shopsunridgefarms.com/) - Organic bulk goods, including grains and beans. <hs-meta keywords="bulk wholesale"></hs-meta>
+- [Sunridge Farms](https://sunridgefarms.com/) - Organic bulk goods, including grains and beans. <hs-meta keywords="bulk wholesale"></hs-meta>
 - [Monterey Bay Herb Company](https://herbco.com/) <hs-meta keywords="herbco bulk wholesale"></hs-meta> - Tea, herbs, and spices for very competitive prices.
 
 ## Music
