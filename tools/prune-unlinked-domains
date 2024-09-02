@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# Removes domains from src/unlinked-domains.txt that are actually linked from
+# markdown files in src/.
+
+find src -name '*.md' \
+  | xargs grep -Pro --no-filename 'https?://[^\]\)"\s]+' \
+  | cut -d/ -f3 \
+  | cut -d: -f2 \
+  | sort | uniq \
+  | diff -U9999 - <(
+      cat src/unlinked-domains.txt | \
+      cut -d/ -f3 | \
+      cut -d: -f2 | \
+      sort | uniq
+    ) \
+  | grep '^+' \
+  | sed -e 's|^+|https://|' \
+  | rev | sort | rev
