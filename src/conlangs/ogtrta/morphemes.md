@@ -23,22 +23,28 @@
 - `3ANPL`
 - `3INANPL`
 
-## Demonstratives
-
-- `here0`
-- `there0`
-
 ## Particles
 
 - `NZ` - sentence nominalizer
 
-## Tense/aspect markers
+## Verbs
+
+### Special-purpose verbs
+
+- `REL` introduces a relative clause
+
+### Demonstratives
+
+- `here0`
+- `there0`
+
+### Tense/aspect markers
 
 - `PRF` perfect (&larr; `ELA1` + infinitive)
 - `FUT` future (&larr; `ALL1` + infinitive)
 - `PROG` progressive (&larr; `LOC1` + infinitive)
 
-## Preposition-like verbs
+### Preposition-like verbs
 
 - `at1` or `LOC1` "at" (the basic locative preposition) - "on/upon" can be merged with this.
 - `of1` or `GEN1` "of" (genitive)
@@ -72,7 +78,6 @@
 - `instead_of1`
 - `BEN1` "for the benefit of"
 - `MAL1` "against" / "for the detriment of"
-- `REL` introduces a relative clause
 
 ## Bound Morphemes
 
