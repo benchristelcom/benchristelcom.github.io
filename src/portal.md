@@ -319,6 +319,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 - [Venmo](https://venmo.com)
 - [AlternativeTo](https://alternativeto.net/) - Search for things you don't like, find things you don't know about!
+- [Circular Living](https://circularlivingco.com)
 
 ## Architecture
 
