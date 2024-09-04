@@ -20,3 +20,171 @@ OGTRTA is not right for every language. For example, if you want a language with
 OGTRTA comprises two parts: a syntax, and a skeletal lexicon with about 100 morphemes. This document describes both parts, beginning with the syntax.
 
 {{toc /conlangs/ogtrta}}
+
+<!--
+Sections of the Verdurian reference grammar
+-------------------------------------------
+Phonology                    out of scope
+Consonants                   out of scope
+Vowels                       out of scope
+Phonotactics                 out of scope
+Syllabification              out of scope
+Stress                       out of scope
+The Alphabet                 out of scope
+Diacritics                   out of scope
+Capitalization rules         out of scope
+Punctuation                  out of scope
+Morphology                   -
+Verbal morphology            -
+Infinitive                   DONE
+Person/number endings        DONE
+Tensed forms                 DONE
+Full examples                -
+Irregularities               out of scope
+Present tense                DONE
+Past and past anterior tense DONE
+Future tense                 DONE
+Conditional                  DONE
+Imperative                   DONE
+The classical imperative     DONE
+Participles                  DONE
+Nominal morphology           -
+Cases                        out of scope
+Masculine declension         -
+Feminine declensions         -
+Poetic accusative            -
+Final stress                 -
+Irregularities               -
+Adjectives                   DONE
+Articles                     DONE
+Personal pronouns            DONE
+Relative and interrogative pronouns DONE
+Derivational morphology      -
+Nominalizations              TODO
+Adjectivizations             TODO
+Verbalizations               TODO
+Compounds                    TODO
+Preposition + verb           TODO
+Two-word compounds           TODO
+Sound patterns               -
+Gender adjustment            -
+Diminutives and augmentatives -
+Parts of speech: User manual -
+The verbal system            -
+Time                         -
+Aspect                       -
+Dénuo (habitual)             TODO
+Siča (progressive)           TODO
+Núnece (closeness to present) TODO
+Ya, yatá (completive)        TODO
+Za (inceptive)               TODO
+The conditional              TODO
+Infinitive                   DONE
+Participles                  DONE
+Past and present             DONE
+One who does                 TODO
+Gerund                       DONE
+Reflexives                   TODO
+Valence                      DONE
+Reducing valence             DONE
+Increasing valence           DONE
+Pitfalls                     -
+Ditransitives                -
+All about nouns              -
+Nominative                   -
+Accusative                   -
+Dative                       -
+The dative of relation       -
+Genitive                     DONE
+Partitive                    -
+With locations               TODO
+NP order                     -
+Nouns on nouns               TODO
+Gender mismatches            -
+Anaphora                     TODO
+Personal pronouns            DONE
+Subject position             -
+Predicates                   TODO
+Object position              -
+Pronominal gender            -
+Reflexives                   TODO
+Each other                   TODO
+Impersonal tu                TODO
+The formal you               -
+Indefinite pronouns          TODO
+Determiners                  -
+Articles                     DONE
+Demonstrative prefixes       TODO
+Interrogative kî             TODO
+Quantifiers                  TODO
+Adjectival anaphora          TODO
+Verbal anaphora              TODO
+Kies ‘do what’               TODO
+Fassec ‘do that’             TODO
+Ozë                          TODO
+Prepositions                 DONE
+Case usage                   -
+Prepositional prefixes       -
+Numbers                      -
+Morphology                   -
+Cardinals                    TODO
+Mathematical symbols         -
+Constructions                -
+Sentence order               DONE
+Re-ordering                  TODO
+Negation                     TODO
+Other negative words         TODO
+Questions                    -
+Yes/no questions             DONE
+Interrogative questions      DONE
+Adverbials                   TODO
+Transformations              TODO
+Sentential arguments         DONE
+Sentential objects           DONE
+Sentential subjects          TODO
+Serial verbs and Equi NP deletion -
+Whether                      DONE
+Nominalization               TODO
+Other forms of subordination TODO
+Relative clauses             DONE
+Subordination using ke       TODO
+Other subordinators          TODO
+Headless relatives           TODO
+Indefinite referents         TODO
+Nonrestrictive clauses       TODO
+Conditions                   TODO
+The use of esli ‘if’         TODO
+Implied ‘if’                 TODO
+Comparatives                 TODO
+Superlatives                 TODO
+Fun with esan                TODO
+Esan inversion               TODO
+Existentials                 TODO
+Clefting                     TODO
+Other transformations        TODO
+Constituent dislocation      TODO
+Deletions                    TODO
+Sluicing                     TODO
+Gapping                      TODO
+Stripping                    TODO
+Negative raising             TODO
+Pronoun hopping              TODO
+Že-clefting and raising      TODO
+Semantic fields              -
+Polite expressions           out of scope
+Greetings                    out of scope
+Other polite expressions     out of scope
+Kinship terms                out of scope
+Direct descent               out of scope
+Prefixes                     out of scope
+Notes                        out of scope
+Time                         out of scope
+Telling time                 out of scope
+Days of the week             out of scope
+The year                     out of scope
+Other time expressions       out of scope
+Weather                      out of scope
+Pragmatic particles          TODO
+Dialects                     out of scope
+Samples                      -
+-->
