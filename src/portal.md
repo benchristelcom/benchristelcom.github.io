@@ -302,6 +302,11 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Flaming Text](https://flamingtext.com/) - Creates logos and typemarks. Not just flaming text, but glowing text, drop shadows, reflections, leopard print... the sky's the limit!
 - [Dillinger.io](https://dillinger.io) - Online [Markdown](https://daringfireball.net/projects/markdown/) editor
 
+### Verifying
+
+- [Dr. Link Check](https://www.drlinkcheck.com/) - Test for broken links on your website.
+- [W3C HTML Validator](https://validator.w3.org/) - Check your HTML for problems that could cause it to display incorrectly in some browsers.
+
 ### Transforming
 
 - [TinyPNG](https://tinypng.com/) - Reduces image filesizes.
@@ -373,7 +378,6 @@ A.K.A. the lost art of amusing yourself without electricity.
 - [Eldamo.org](https://eldamo.org) - the ELvish DAta MOdel. Paul Strack's project to collect every word of Elvish in Tolkien's works into one searchable, cross-referenced database.
 - [The Conlang.org Database](https://database.conlang.org)
 - [Dedalvs.com](https://dedalvs.com/) - David J. Peterson's site. You might have heard of his language [Dothraki](http://www.dothraki.com/).
-- [Word Formation in Esperanto: Derivation](https://iupress.istanbul.edu.tr/en/journal/jol/article/word-formation-in-esperanto-derivation) (research article) ([PDF download](https://cdn.istanbul.edu.tr/file/JTA6CLJ8T5/F0A6A98E605A401B90ED04AB770B189B#view=FitW))
 
 ### Cornish - Kernewek
 
