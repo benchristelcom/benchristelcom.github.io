@@ -60,12 +60,12 @@ Articles                     DONE
 Personal pronouns            DONE
 Relative and interrogative pronouns DONE
 Derivational morphology      -
-Nominalizations              TODO
-Adjectivizations             TODO
-Verbalizations               TODO
-Compounds                    TODO
-Preposition + verb           TODO
-Two-word compounds           TODO
+Nominalizations              DONE
+Adjectivizations             DONE
+Verbalizations               DONE
+Compounds                    out of scope
+Preposition + verb           -
+Two-word compounds           -
 Sound patterns               -
 Gender adjustment            -
 Diminutives and augmentatives -
