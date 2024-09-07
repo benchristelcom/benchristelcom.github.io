@@ -32,13 +32,14 @@
 ### Special-purpose verbs
 
 - `REL` introduces a relative clause
+- `COP` copula - equates two nouns
 
 ### Demonstratives
 
 - `here0`
 - `there0`
 
-### Tense/aspect markers
+### Periphrastic Tenses and Aspects
 
 - `PRF` perfect (&larr; `ELA1` + infinitive)
 - `FUT` future (&larr; `ALL1` + infinitive)
@@ -83,11 +84,12 @@
 
 - `#NEG`
 
-### Tense-marking affixes
+### Tense/aspect/mood affixes
 
 - `#PROX` proximal tense, used for events in the present.
 - `#DIST` distal tense, used for the past and for hypotheticals.
 - `#AOR` aorist tense, used for general statements, for timeless truths, and when the speaker does not care to mark tense.
+- `#IMP` imperative - can be realized as `#INF`.
 
 ### Valence-changing affixes
 
