@@ -100,6 +100,27 @@
 
 - `#INF`
 - `#GER` - equivalent to `#MID#INF`
+- `#VBZ` - verbalizer
+- `#AUG` - augmentative
+- `#DIM` - diminutive
+
+For the many other derivational affixes you will probably need, use English words or affixes in lowercase:
+
+- `#ful`
+- `#like`
+- `#able`
+- `#related`
+- `#tool`
+- `#thing`
+- `#subject` (individual languages might split this into `#AN_subject` and `#INAN_subject` for animate and inanimate)
+- `#object1`
+- `#object2`
+- `#professional`
+- `#place`
+- `#result`
+- `#input`
+- `#collection`
+- `#container`
 
 ### Disambiguating affixes
 

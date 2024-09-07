@@ -371,6 +371,7 @@ A.K.A. the lost art of amusing yourself without electricity.
 - [Eldamo.org](https://eldamo.org) - the ELvish DAta MOdel. Paul Strack's project to collect every word of Elvish in Tolkien's works into one searchable, cross-referenced database.
 - [The Conlang.org Database](https://database.conlang.org)
 - [Dedalvs.com](https://dedalvs.com/) - David J. Peterson's site. You might have heard of his language [Dothraki](http://www.dothraki.com/).
+- [Word Formation in Esperanto: Derivation](https://iupress.istanbul.edu.tr/en/journal/jol/article/word-formation-in-esperanto-derivation) (research article) ([PDF download](https://cdn.istanbul.edu.tr/file/JTA6CLJ8T5/F0A6A98E605A401B90ED04AB770B189B#view=FitW))
 
 ### Cornish - Kernewek
 
