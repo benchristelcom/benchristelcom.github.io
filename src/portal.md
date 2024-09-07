@@ -42,6 +42,7 @@
 - [History of Tech](#history-of-technology)
 - [Databases](#publicly-available-data)
 - [General](#general-reference)
+- [Researchers](#information-researchers)
 - [Web Curators](#web-curators)
 - [Webring](#webring)
 - [Settings](#settings)
@@ -94,7 +95,7 @@
 - [Korean Bapsang](https://koreanbapsang.com/)
 - [My Korean Kitchen](https://mykoreankitchen.com/)
 - [Pardon Your French](https://www.pardonyourfrench.com/)
-- [Gode Cookery](http://www.godecookery.com/) - A webring of medieval cooking sites (h/t [Cidoku](https://cidoku.net/links/))
+- [Gode Cookery](http://www.godecookery.com/) - A webring of medieval cooking sites (h/t [Cidoku])
 - [Cedar Down Farm](https://cedardownfarm.ca/)
 
 ### Merchants
@@ -116,6 +117,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 ### Buying / Downloading
 
 - [Qobuz](https://www.qobuz.com) - High-quality MP3 downloads. They have an extensive catalog (including every obscure album I've searched for so far).
+- [Bandcamp](https://bandcamp.com/) - self-publishing for indie artists.
 
 ### Streaming
 
@@ -415,6 +417,21 @@ A.K.A. the lost art of amusing yourself without electricity.
 - [Wikiquote](https://en.wikiquote.org)
 - [Wiktionary](https://en.wiktionary.org)
 
+### Search Tools
+
+- [Wiby](https://wiby.me/)
+- [Marginalia](https://search.marginalia.nu/)
+- [Million Short](https://millionshort.com/) (h/t [Cidoku])
+
+## Information Researchers
+
+Dedicated individuals' comprehensive maps of their chosen domain.
+
+- [Every Noise at Once](https://everynoise.com) <hs-meta keywords="everynoise.com"></hs-meta> - A catalog of all music on Spotify by algorithmically-inferred genre. An incredible work of data science by [Glenn McDonald](https://www.furia.com).
+- [Eldamo.org](https://eldamo.org) - the ELvish DAta MOdel. Paul Strack's project to collect every word of Elvish in Tolkien's works
+into one searchable, cross-referenced database.
+- [David Rumsey Map Collection](https://www.davidrumsey.com/) - Historical and rare maps. (h/t [Cidoku])
+
 ## Web Curators
 
 - [Bookmark Beat](https://bookmarkbeat.substack.com/) by [Dani Sandoval](https://dreamindani.com/) - Software development and UX design.
@@ -431,6 +448,7 @@ A.K.A. the lost art of amusing yourself without electricity.
 - [Richard Kennaway's List of Constructed Languages](http://www2.cmp.uea.ac.uk/~jrk/conlang.html)
 - Mark Rosenfelder has compiled a [list of stories and novels that feature languages or linguistics](http://zompist.com/lang15.html) and a [list of websites about linguistics](http://zompist.com/lang17.html#Websites).
 - [Ytoo!](https://ytoo.org) - Retro, indie search engines, social networks, memes, and browser-based games.
+- [Curlie](https://curlie.org/) - A collaborative web directory with a search engine (h/t [Cidoku])
 - [Ben Christel](https://benchristel.com) - this website. [Source code on GitHub](https://github.com/benchristelcom/benchristelcom.github.io/).
 
 ### Inspiration
@@ -461,6 +479,8 @@ A.K.A. the lost art of amusing yourself without electricity.
 <p class="centered-text">There are <noscript>approximately 270</noscript><span id="number-of-links"></span> external links on this page.</p>
 
 <div data-hypersearch-end></div>
+
+[Cidoku]: https://cidoku.net/links/
 
 <script defer type="module" src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.3.0"></script>
 <script>
