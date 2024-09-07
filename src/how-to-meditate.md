@@ -36,7 +36,7 @@ Drowsiness or mental **dullness** can result if you focus too intensely on the m
 
 Dullness can be hard to notice in its subtler forms. To test for dullness, you can either:
 
-- Wait for a sudden sound to surprise you. If it's distinctly unpleasant, causing a mental buzzing or tingling effect, dullness is present.
+- Wait for a sudden sound to surprise you. If it's distinctly jarring, causing an unpleasant mental buzzing or tingling effect, dullness is present.
 - Open your eyes. If your eyelids feel heavy and inclined to close again, dullness is present.
 
 If you notice dullness, you should:
