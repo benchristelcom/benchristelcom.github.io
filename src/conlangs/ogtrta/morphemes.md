@@ -98,10 +98,13 @@
 - `#MIDPASS` removes the subject and promotes the first complement to subject.
 - `#CAUS` demotes the subject to first complement, increasing valence by 1, and adds a new subject.
 
-### Part-of-speech changing affixes
+### Verb-nominalizing affixes
 
-- `#INF`
+- `#INF` - infinitive
 - `#GER` - equivalent to `#MID#INF`
+
+### Derivational affixes
+
 - `#VBZ` - verbalizer
 - `#AUG` - augmentative
 - `#DIM` - diminutive
@@ -112,17 +115,19 @@ For the many other derivational affixes you will probably need, use English word
 - `#like`
 - `#able`
 - `#related`
+- `#worthy` e.g. _memorandum_ "something to remember"
 - `#tool`
 - `#thing`
-- `#subject` (individual languages might split this into `#AN_subject` and `#INAN_subject` for animate and inanimate)
+- `#subject` e.g. "young" &rarr; "youth, young person"; "see" &rarr; "seer"; perhaps also "war" &rarr; "warrior". Individual languages might split this into `#AN_subject` and `#INAN_subject` for animate and inanimate
 - `#object1`
 - `#object2`
-- `#professional`
-- `#place`
-- `#result`
-- `#input`
-- `#collection`
-- `#container`
+- `#practitioner` e.g. Latin _dens_ "tooth" &rarr; "dentist"; "music" &rarr; "musician"
+- `#place` e.g. "smith" &rarr; "smithy"; "bake" &rarr; "bakery"
+- `#result` e.g. "bake" &rarr; "baked goods"
+- `#input` e.g. "cook" &rarr; "ingredient"
+- `#aggregate` e.g. "bag" &rarr; "baggage"
+- `#array` e.g. Sindarin _certh_ "rune" &rarr; _certhas_ "rune-row"
+- `#container` e.g. "salt" &rarr; "saltshaker"
 
 ### Disambiguating affixes
 
