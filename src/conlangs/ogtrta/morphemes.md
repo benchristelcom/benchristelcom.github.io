@@ -88,7 +88,7 @@
 
 - `#PROX` proximal tense, used for events in the present.
 - `#DIST` distal tense, used for the past and for hypotheticals.
-- `#AOR` aorist tense, used for general statements, for timeless truths, and when the speaker does not care to mark tense.
+- `#GNO` gnomic tense, used for general statements, for timeless truths, and when the speaker does not care to mark tense.
 - `#IMP` imperative - can be realized as `#INF`.
 
 ### Valence-changing affixes

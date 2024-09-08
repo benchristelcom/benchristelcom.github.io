@@ -213,7 +213,7 @@ Prepositions "to" and "from", and variants like "onto" and "from out of" can be 
 
 - `PROX` proximal tense, used for events in the present.
 - `DIST` distal tense, used for the past and for hypotheticals.
-- `AOR` aorist tense, used for general statements, for timeless truths, and when the speaker does not care to mark tense.
+- `GNO` gnomic tense, used for general statements, for timeless truths, and when the speaker does not care to mark tense.
 
 ## Periphrastic Tenses
 
@@ -281,7 +281,7 @@ Interrogative particles:
 
 - `whether`
 - `how_condition` ("How are you?", "How is the course going?")
-- `how_degree` (`how_degree AOR tall0 ^Barack ^Obama` "How tall is Barack Obama?" = "To what degree is Barack Obama tall?")
+- `how_degree` (`how_degree GNO tall0 ^Barack ^Obama` "How tall is Barack Obama?" = "To what degree is Barack Obama tall?")
   - also used for `how_much`/`how_many`
 - `why`
 
