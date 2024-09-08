@@ -44,6 +44,8 @@
 - `PRF` perfect (&larr; `ELA1` + infinitive)
 - `FUT` future (&larr; `ALL1` + infinitive)
 - `PROG` progressive (&larr; `LOC1` + infinitive)
+- `HAB` habitual aspect (&larr; `use1` + infinitive)
+- `EXP` experiential aspect (&larr; `have1` + infinitive or `beyond1` + infinitive)
 
 ### Preposition-like verbs
 
