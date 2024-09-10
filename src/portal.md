@@ -297,6 +297,10 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Purple Air](https://map.purpleair.com/) - Crowdsourced monitoring of air quality near you!
 - [Webtrak flight tracker](https://webtrak.emsbk.com/) - Tracks aircraft in your area. Pairs great with [FAA registry search](https://registry.faa.gov/AircraftInquiry/Search/NNumberInquiry). Stupid UI thing, though: if you don't want it to ask for / use your location, click "Cancel" at the initial prompt. Then you'll be able to select an airport from a list. <hs-meta keywords="webtrack planes"></hs-meta>
 
+### Calculating<hs-meta keywords="calculators calculate"></hs-meta>
+
+- [PVIR Electrical Calculator](https://www.electricaltechnology.org/2014/03/power-voltage-current-resistance-pvir-calculator.html) - calculate power, voltage, current, or resistance.
+
 ### Creating
 
 - [Flaming Text](https://flamingtext.com/) - Creates logos and typemarks. Not just flaming text, but glowing text, drop shadows, reflections, leopard print... the sky's the limit!
@@ -343,6 +347,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Ex-Classics](https://exclassics.com/) - Books that were once favorites, and are now public domain.
 - [Terebess Asia Online (TAO)](https://terebess.hu/english/tao.html) - Asian (and other) philosophy works, in many translations.
 - [Sacred-Texts.com](https://sacred-texts.com/) - Religious texts, legends, and myths. Here's [The Kalevala](https://sacred-texts.com/neu/kveng/).
+- [Folklore and Mythology Electronic Texts](https://sites.pitt.edu/~dash/folktexts.html) collected by D. L. Ashliman. (h/t [Cidoku])
 - [Indie Bound](https://www.indiebound.org/) - Find local independent bookstores!
 - [Bookshop](https://bookshop.org/)
 
@@ -435,6 +440,7 @@ Dedicated individuals' comprehensive maps of their chosen domain.
 - [Eldamo.org](https://eldamo.org) - the ELvish DAta MOdel. Paul Strack's project to collect every word of Elvish in Tolkien's works
 into one searchable, cross-referenced database.
 - [David Rumsey Map Collection](https://www.davidrumsey.com/) - Historical and rare maps. (h/t [Cidoku])
+- [Folklore and Mythology Electronic Texts](https://sites.pitt.edu/~dash/folktexts.html) collected by [D. L. Ashliman](https://sites.pitt.edu/~dash/ashliman.html). (h/t [Cidoku])
 
 ## Web Curators
 
