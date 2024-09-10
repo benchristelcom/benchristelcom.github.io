@@ -73,16 +73,16 @@ Parts of speech: User manual -
 The verbal system            -
 Time                         -
 Aspect                       -
-Dénuo (habitual)             TODO
-Siča (progressive)           TODO
-Núnece (closeness to present) TODO
-Ya, yatá (completive)        TODO
-Za (inceptive)               TODO
+Dénuo (habitual)             DONE
+Siča (progressive)           DONE
+Núnece (closeness to present) DONE
+Ya, yatá (completive)        DONE
+Za (inceptive)               DONE
 The conditional              TODO
 Infinitive                   DONE
 Participles                  DONE
 Past and present             DONE
-One who does                 TODO
+One who does                 DONE
 Gerund                       DONE
 Reflexives                   TODO
 Valence                      DONE
