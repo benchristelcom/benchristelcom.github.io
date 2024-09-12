@@ -34,3 +34,9 @@ empty
 ### Retro
 
 - [Bastion](https://bastionhome.github.io/)
+- [Satyrs.eu](https://satyrs.eu/) - Xanthe is probably one of the best CSS developers out there. I learn something new every time I read their code.
+
+## Generally Pleasant
+
+- [Etymonline](https://www.etymonline.com/word/Georgian#etymonline_v_41014) - nice color scheme and use of Georgia.
+- [Becca Piastrelli](https://beccapiastrelli.com/tea-of-redwood/) - the serif font face is [Winterheath](https://creativemarket.com/avalonrosedesign/4412890-Winterheath-Hand-Drawn-Serif-Font)
