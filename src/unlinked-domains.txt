@@ -812,6 +812,7 @@ https://use-gesture.netlify.app
 https://react-typescript-cheatsheet.netlify.app
 https://bsky.app
 https://flower.codes
+https://foreverliketh.is
 https://khanacademy.systems
 https://www.egui.rs
 https://docs.rs
