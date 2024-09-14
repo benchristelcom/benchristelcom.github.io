@@ -22,6 +22,11 @@ OGTRTA comprises two parts: a syntax, and a skeletal lexicon with about 100 morp
 {{toc /conlangs/ogtrta}}
 
 <!--
+
+Esperanto grammar
+-------------------------------------------
+Correlatives                 TODO
+
 Sections of the Verdurian reference grammar
 -------------------------------------------
 Phonology                    out of scope
@@ -97,24 +102,24 @@ Dative                       -
 The dative of relation       -
 Genitive                     DONE
 Partitive                    -
-With locations               TODO
+With locations               -
 NP order                     -
-Nouns on nouns               TODO
+Nouns on nouns               -
 Gender mismatches            -
 Anaphora                     TODO
 Personal pronouns            DONE
 Subject position             -
-Predicates                   TODO
+Predicates                   -
 Object position              -
 Pronominal gender            -
 Reflexives                   TODO
 Each other                   TODO
 Impersonal tu                TODO
 The formal you               -
-Indefinite pronouns          TODO
+Indefinite pronouns          -
 Determiners                  -
 Articles                     DONE
-Demonstrative prefixes       TODO
+Demonstrative prefixes       -
 Interrogative kî             TODO
 Quantifiers                  TODO
 Adjectival anaphora          TODO
