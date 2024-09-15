@@ -83,7 +83,7 @@ Siča (progressive)           DONE
 Núnece (closeness to present) DONE
 Ya, yatá (completive)        DONE
 Za (inceptive)               DONE
-The conditional              TODO
+The conditional              DONE
 Infinitive                   DONE
 Participles                  DONE
 Past and present             DONE
