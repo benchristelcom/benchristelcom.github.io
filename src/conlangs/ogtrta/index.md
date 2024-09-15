@@ -136,32 +136,32 @@ Cardinals                    DONE
 Mathematical symbols         -
 Constructions                -
 Sentence order               DONE
-Re-ordering                  TODO
-Negation                     TODO
-Other negative words         TODO
+Re-ordering                  -
+Negation                     DONE
+Other negative words         -
 Questions                    -
 Yes/no questions             DONE
 Interrogative questions      DONE
-Adverbials                   TODO
-Transformations              TODO
+Adverbials                   DONE
+Transformations              -
 Sentential arguments         DONE
 Sentential objects           DONE
 Sentential subjects          DONE
 Serial verbs and Equi NP deletion -
 Whether                      DONE
-Nominalization               TODO
-Other forms of subordination TODO
+Nominalization               DONE
+Other forms of subordination -
 Relative clauses             DONE
-Subordination using ke       TODO
-Other subordinators          TODO
-Headless relatives           TODO
-Indefinite referents         TODO
-Nonrestrictive clauses       TODO
-Conditions                   TODO
-The use of esli ‘if’         TODO
-Implied ‘if’                 TODO
-Comparatives                 TODO
-Superlatives                 TODO
+Subordination using ke       DONE
+Other subordinators          DONE
+Headless relatives           DONE
+Indefinite referents         DONE
+Nonrestrictive clauses       DONE
+Conditions                   DONE
+The use of esli ‘if’         DONE
+Implied ‘if’                 DONE
+Comparatives                 DONE
+Superlatives                 DONE
 Fun with esan                TODO
 Esan inversion               TODO
 Existentials                 TODO

@@ -47,6 +47,7 @@
 - `COP` copula - equates two nouns
 - `REFL` reflexive adverb
 - `RECP` reciprocal adverb
+- `if1` the antecedent is the first argument; the consequent is the subject. `if1` may either be the predicate of the sentence, or be an adverb modifying the consequent phrase.
 
 Languages without reflexive or reciprocal pronouns may mark verbs as reflexive/reciprocal with the above (ad)verbs.
 

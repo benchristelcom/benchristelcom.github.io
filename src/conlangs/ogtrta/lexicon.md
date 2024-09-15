@@ -342,3 +342,8 @@ The question can contain a resumptive pronoun:
 - `DEF bear REL what PROG#DIST 2SG chase1#INF RES` "The bear you were chasing"
 
 `REL` is often realized as some other verb, like `GEN1`.
+
+## Comparatives and Superlatives
+
+- `A GNO big0#AUG beyond1 B` "A is bigger than B"
+- `A GNO big0#AUG of1 B` "A is the biggest of the Bs"
