@@ -170,6 +170,7 @@ https://archlinux.org
 https://dewey.org
 https://khanacademy.org
 https://jwz.org
+https://clojuredocs.org
 https://conclave.tech
 https://dataannotation.tech
 https://ipfs.tech
