@@ -13,6 +13,10 @@
 - `what_kind_of`
 - `how_much` (also used for "how many". Optional; can be subsumed by `how_degree`)
 
+## Nouns
+
+- `INDF` - indefinite noun, used for counterfactual and hypothetical things: "I want a wooden snowman, but no one sells _them_." Can often be translated "any", "some", or "one(s)": "I couldn't find _any_", "Show me _some_." Not a pronoun, so it can take modifiers and articles: "I like the blue _ones_."
+
 ## Pronouns
 
 - `1SG`

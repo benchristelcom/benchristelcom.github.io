@@ -122,11 +122,11 @@ Articles                     DONE
 Demonstrative prefixes       -
 Interrogative kî             DONE
 Quantifiers                  DONE
-Adjectival anaphora          TODO
-Verbal anaphora              TODO
-Kies ‘do what’               TODO
-Fassec ‘do that’             TODO
-Ozë                          TODO
+Adjectival anaphora          DONE
+Verbal anaphora              DONE
+Kies ‘do what’               DONE
+Fassec ‘do that’             DONE
+Ozë                          DONE
 Prepositions                 DONE
 Case usage                   -
 Prepositional prefixes       -
