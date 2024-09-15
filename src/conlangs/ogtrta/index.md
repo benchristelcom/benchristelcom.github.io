@@ -89,7 +89,7 @@ Participles                  DONE
 Past and present             DONE
 One who does                 DONE
 Gerund                       DONE
-Reflexives                   TODO
+Reflexives                   DONE
 Valence                      DONE
 Reducing valence             DONE
 Increasing valence           DONE
