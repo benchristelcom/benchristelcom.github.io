@@ -146,7 +146,7 @@ Adverbials                   TODO
 Transformations              TODO
 Sentential arguments         DONE
 Sentential objects           DONE
-Sentential subjects          TODO
+Sentential subjects          DONE
 Serial verbs and Equi NP deletion -
 Whether                      DONE
 Nominalization               TODO
