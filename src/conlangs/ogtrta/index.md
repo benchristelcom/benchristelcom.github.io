@@ -112,8 +112,8 @@ Subject position             -
 Predicates                   -
 Object position              -
 Pronominal gender            -
-Reflexives                   TODO
-Each other                   TODO
+Reflexives                   DONE
+Each other                   DONE
 Impersonal tu                TODO
 The formal you               -
 Indefinite pronouns          -

@@ -33,6 +33,10 @@
 
 - `REL` introduces a relative clause
 - `COP` copula - equates two nouns
+- `REFL` reflexive adverb
+- `RECP` reciprocal adverb
+
+Languages without reflexive or reciprocal pronouns may mark verbs as reflexive/reciprocal with the above (ad)verbs.
 
 ### Demonstratives
 
