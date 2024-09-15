@@ -25,7 +25,7 @@ OGTRTA comprises two parts: a syntax, and a skeletal lexicon with about 100 morp
 
 Esperanto grammar
 -------------------------------------------
-Correlatives                 TODO
+Correlatives                 DONE
 
 Sections of the Verdurian reference grammar
 -------------------------------------------
@@ -114,14 +114,14 @@ Object position              -
 Pronominal gender            -
 Reflexives                   DONE
 Each other                   DONE
-Impersonal tu                TODO
+Impersonal tu                -
 The formal you               -
 Indefinite pronouns          -
 Determiners                  -
 Articles                     DONE
 Demonstrative prefixes       -
-Interrogative kî             TODO
-Quantifiers                  TODO
+Interrogative kî             DONE
+Quantifiers                  DONE
 Adjectival anaphora          TODO
 Verbal anaphora              TODO
 Kies ‘do what’               TODO

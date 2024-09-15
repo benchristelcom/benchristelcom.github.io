@@ -6,11 +6,12 @@
 
 - `DEF` singular definite article
 - `DEFPL` plural definite article
-- `NEGDET` negative quantifier
+- `NEGDET` negative quantifier ("none", "zero")
 - `every` universal quantifier
 - `which`
+- `whose` (languages where possessives aren't determiners might omit this)
 - `what_kind_of`
-- `how_much` (also used for "how many")
+- `how_much` (also used for "how many". Optional; can be subsumed by `how_degree`)
 
 ## Pronouns
 
@@ -25,7 +26,14 @@
 
 ## Particles
 
-- `NZ` - sentence nominalizer
+- `NZ` - sentence nominalizer ("that"). Can also be used for the optative mood, `OPT` (because nominal utterances are pragmatically requests or wishes).
+
+### Interrogatives
+
+- `how_degree`
+- `how_condition`
+- `whether`
+- `why`
 
 ## Verbs
 
