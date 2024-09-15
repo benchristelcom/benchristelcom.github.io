@@ -179,6 +179,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Atom Syndication Format Specification](https://www.rfc-editor.org/rfc/rfc4287)
 - [HTML Specification](https://html.spec.whatwg.org)
 - [URL Specification](https://url.spec.whatwg.org) - "The URL Standard defines URLs, domains, IP addresses, the `application/x-www-form-urlencoded` format, and their API."
+- [GraphQL Specification](http://spec.graphql.org)
 
 ### Q&A
 
