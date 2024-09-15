@@ -106,7 +106,7 @@ With locations               -
 NP order                     -
 Nouns on nouns               -
 Gender mismatches            -
-Anaphora                     TODO
+Anaphora                     DONE
 Personal pronouns            DONE
 Subject position             -
 Predicates                   -
@@ -132,7 +132,7 @@ Case usage                   -
 Prepositional prefixes       -
 Numbers                      -
 Morphology                   -
-Cardinals                    TODO
+Cardinals                    DONE
 Mathematical symbols         -
 Constructions                -
 Sentence order               DONE

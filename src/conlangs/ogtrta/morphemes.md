@@ -153,6 +153,17 @@ For the many other derivational affixes you will probably need, use English word
 - `#ADC` - adconjunction
 - `#M` - nearest modifier
 
+### Numbers
+
+In their basic form, numbers are nouns used for counting and math. Cardinal numbers head their noun phrase: `take1#INF three GEN1 apple` "Take three apples." Ordinals and fractions are verbs.
+
+- `#ORD` - ordinal (first, second, third, etc.)
+- `#FRAC` - fraction (half, third, quarter, etc.)
+
+## Math
+
+Multiplication uses the genitive: "five of three is fifteen." Addition uses "and" or "to." Subtraction uses "from." Division is expressed by combining multiplication with fractions.
+
 ## Derived Lexemes
 
 - `up0` &larr; `above1#MID`
