@@ -162,19 +162,19 @@ The use of esli ‘if’         DONE
 Implied ‘if’                 DONE
 Comparatives                 DONE
 Superlatives                 DONE
-Fun with esan                TODO
-Esan inversion               TODO
-Existentials                 TODO
-Clefting                     TODO
-Other transformations        TODO
-Constituent dislocation      TODO
-Deletions                    TODO
-Sluicing                     TODO
-Gapping                      TODO
-Stripping                    TODO
-Negative raising             TODO
-Pronoun hopping              TODO
-Že-clefting and raising      TODO
+Fun with esan                -
+Esan inversion               DONE
+Existentials                 DONE
+Clefting                     DONE
+Other transformations        -
+Constituent dislocation      DONE
+Deletions                    -
+Sluicing                     DONE
+Gapping                      DONE
+Stripping                    DONE
+Negative raising             DONE
+Pronoun hopping              -
+Že-clefting and raising      DONE
 Semantic fields              -
 Polite expressions           out of scope
 Greetings                    out of scope
