@@ -57,7 +57,7 @@ NP -> DET? V/0* N/n VP* NP{n}  // ...or it may have an optional determiner, zero
 NP -> NP CONJ NP               // Noun phrases may be conjoined.
 NP -> IP DS                    // A noun phrase may consist of an interrogative phrase followed
                                // by a declarative sentence.
-IP -> ID? V/0* N/n VP* NP{n}   // An interrogative phrase may be an NP with an interrogative
+IP -> IDET? V/0* N/n VP* NP{n} // An interrogative phrase may be an NP with an interrogative
                                // determiner.
 IP -> IPRN                     // ...or it may be an interrogative pronoun.
 ```
