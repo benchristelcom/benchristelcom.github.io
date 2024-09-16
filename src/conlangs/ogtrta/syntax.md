@@ -198,7 +198,7 @@ As such, they can be the complements of verbs:
 
 - **Ni ala istëa ma ni cenëa i alda.**<br>
   `I not know-FIN whether I see-FIN the tree`<br>
-  _I do not know if I can see the tree._
+  _I do not know if I see the tree._
 
 - **Ni merëa nyarië le man ná i nér tana.**<br>
   `I will-FIN tell-INF you who be-FIN the man that`<br>
