@@ -6,13 +6,14 @@
 
 ### Parts of speech
 
-OGTRTA recognizes five parts of speech:
+OGTRTA recognizes six parts of speech:
 
 - nouns
 - verbs
 - determiners
 - pronouns
 - conjunctions
+- particles
 
 **Nouns** are straightforward: a noun refers to a person, place, thing, or idea. However, **verbs** in OGTRTA are a little bit different from English verbs. OGTRTA has no adjectives or prepositions, so verbs fill the role of both.
 
@@ -22,9 +23,11 @@ OGTRTA's **determiners** include words like articles (e.g. "the") and some inter
 
 **Conjunctions** connect syntax nodes (phrases and sentences) as peers — i.e. without subordinating one node to the other. Conjunctions include such useful words as "and", "or", "while", "because", "so", and so on.
 
-Of these parts of speech, nouns and verbs are "open classes," meaning that speakers of a language innovate and borrow new ones all the time. Determiners, pronouns, and conjunctions are "closed classes." Innovation in these parts of speech should happen very rarely.
+**Particles** nominalize an entire sentence in various ways.
 
-OGTRTA aims to provide languages with a complete set of determiners, pronouns, and conjunctions at the outset, so the only part of the lexicon you will need to design yourself is the nouns and verbs. OGTRTA also provides a framework for designing preposition-like verbs.
+Of these parts of speech, nouns and verbs are "open classes," meaning that speakers of a language innovate and borrow new ones all the time. Determiners, pronouns, conjunctions, and particles are "closed classes." Innovation in these parts of speech should happen very rarely.
+
+OGTRTA aims to provide languages with a complete set of determiners, pronouns, conjunctions, and particles at the outset, so the only part of the lexicon you will need to design yourself is the nouns and verbs. OGTRTA also provides a framework for designing preposition-like verbs.
 
 ### Word order
 
@@ -36,7 +39,30 @@ Additionally, OGTRTA is a reversible syntax: individual languages can reverse th
 
 To keep things straightforward, this guide assumes a verb-object word order, and all the examples will use that syntax.
 
-### Examples
+## Syntax Summary
+
+```
+S  -> DS                       // A sentence may be a declarative sentence
+S  -> NP                       // ...or it may be a noun phrase.
+DS -> VP NP                    // A declarative sentence has a finite verb phrase and a subject
+DS -> NP VP                    // ...and their order may be reversed.
+DS -> S CONJ S                 // Declarative sentences can be conjoined.
+VP -> V_n VP* NP{n} VP*        // A verb phrase has an n-valent verb, optional modifier VPs,
+                               // n complement noun phrases, and finally some more optional VPs.
+VP -> VP CONJ VP               // Verb phrases may be conjoined.
+NP -> PRN                      // A noun phrase may be a pronoun
+NP -> DET? V_0* N_n VP* NP{n}  // ...or it may have an optional determiner, zero or more 0-valent
+                               // verb modifiers, an n-valent noun, zero or more modifier VPs,
+                               // and n complement noun phrases.
+NP -> NP CONJ NP               // Noun phrases may be conjoined.
+NP -> IP DS                    // A noun phrase may consist of an interrogative phrase followed
+                               // by a declarative sentence.
+IP -> ID? V_0* N_n VP* NP{n}   // An interrogative phrase may be an NP with an interrogative
+                               // determiner.
+IP -> IPRN                     // ...or it may be an interrogative pronoun.
+```
+
+## Examples
 
 As stated above, noun phrases in VO OGTRTA are head-initial; modifiers follow the noun.
 
@@ -369,35 +395,3 @@ NP.x -> IP DS
 ```
 
 Get that printed on a t-shirt. I'm sure it'll be a hit at parties.
-
-### Production rules appendix: agreement tags
-
-As described above, the syntax of OGTRTA can do many things, but it has one major shortcoming: it cannot represent any constraints on _agreement_ between words. That is, the syntax cannot require a verb to agree in plurality with its subject (as in English "he swims" vs. "they swim"), or a modifier to agree in gender with the noun it's modifying (as in Spanish "el poema bonito" vs. "la casa bonita").
-
-All is not lost, however: we can use tags to represent agreement constraints between nodes. It's not possible to fully specify a formal system for doing this, because it's very dependent on the individual language, but I'll give some examples.
-
-First example: perhaps you want your language to have masculine and feminine articles, like Spanish does, and you want to require that nouns must agree in gender with their article. Here's how you might do that with `.m` and `.f` tags:
-
-```
-NP.m -> DET.m N.m VP*
-NP.f -> DET.f N.f VP*
-```
-
-These rules say, basically, that a noun phrase can be either masculine or feminine. Masculine NPs have to have a masculine determiner and a masculine noun, while feminine NPs have to have a feminine determiner and a feminine noun.
-
-Maybe you also want to head-mark the gender of VP constituents on the verb, as in Swahili. Here's how you'd do that, with tags `ms` and `fs` for the gender of the subject and `m1` and `f1` for the gender of the first complement.
-
-```
-S.ms.m1 -> VP.ms.m1 NP.ms
-S.ms.f1 -> VP.ms.f1 NP.ms
-S.fs.m1 -> VP.fs.m1 NP.fs
-S.fs.f1 -> VP.fs.f1 NP.fs
-VP.ms.m1 -> V_1.ms.m1 VP* NP.m1 VP*
-VP.ms.f1 -> V_1.ms.f1 VP* NP.f1 VP*
-VP.fs.m1 -> V_1.fs.m1 VP* NP.m1 VP*
-VP.fs.f1 -> V_1.fs.f1 VP* NP.f1 VP*
-```
-
-As you can see, this gets more complicated the more genders and complements you have to deal with. But in theory, this system is capable of expressing all the possible combinations.
-
-This is a sketch, not a formal description. It's hard to describe agreement tags precisely in any system less powerful than an actual programming language. But hopefully you get the idea. If not, don't worry about it. You don't need to know anything about agreement tags unless you, like me, need the security blanket of formality to keep those evil, messy WORDS safely away from you.
