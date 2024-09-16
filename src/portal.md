@@ -417,6 +417,23 @@ A.K.A. the lost art of amusing yourself without electricity.
 - [The Internet Archive](https://archive.org/) - A.K.A. the Wayback Machine.
 - [archive.today](https://archive.today/) - A.K.A. [archive.is](https://archive.is/), [archive.ph](https://archive.ph/). Circumvents many paywalls.
 
+## Universities
+
+<div class="col-3"></div>
+
+- [Carnegie Mellon](https://cmu.edu)
+- [Foothill College](https://foothill.edu)
+- [Harvard](https://harvard.edu)
+- [MIT](https://mit.edu)
+- [North Dakota State University](https://ndsu.edu)
+- [Penn State](https://psu.edu)
+- [Pitt](https://pitt.edu)
+- [Stanford](https://stanford.edu)
+- [Universitat Politècnica de Catalunya](https://www.upc.edu)
+- [University of Colorado](https://colorado.edu)
+- [University of Michigan](https://umich.edu)
+- [Willamette](https://willamette.edu)
+
 ## General Reference
 
 - [Quote Investigator](https://quoteinvestigator.com)
