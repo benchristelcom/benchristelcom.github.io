@@ -138,6 +138,8 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 ## Reviving Civilization
 
+- [A Solarpunk Manifesto](https://www.re-des.org/es/a-solarpunk-manifesto/). [Mirrored at Skyhold.org](https://skyhold.org/solarpunk/index.html).
+- [Skyhold's list of solarpunk and collapsepunk resources](https://skyhold.org/solarpunk/links.html)
 - [Diome](https://diome.xyz/0+%F0%9F%8C%9E+About/0.0+Technology+for+a+Regenerative+Civilization) - Technology for a regenerative civilization. By Andrea Farias.
 - [Meaningness](https://meaningness.com/) by [David Chapman](https://meaningness.com/about-my-sites). A work-in-progress philosophy book.
 - [Life Itself](https://lifeitself.org/)
