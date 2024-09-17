@@ -39,6 +39,11 @@ Additionally, OGTRTA is a reversible syntax: individual languages can reverse th
 
 To keep things straightforward, this guide assumes a verb-object word order, and all the examples will use that syntax.
 
+
+### Valence
+
+Every noun and verb in OGTRTA has a lexically-determined _valence_. The valence of a word is the number of _complement_ noun phrases that must follow it (in verb-object languages) or precede it (in object-verb languages). Knowing the valence of each word enables the listener to parse OGTRTA sentences.
+
 ## Syntax Summary
 
 ```
@@ -46,18 +51,19 @@ S  -> DS                       // A sentence may be a declarative sentence
 S  -> NP                       // ...or it may be a noun phrase.
 DS -> VP NP                    // A declarative sentence has a finite verb phrase and a subject
 DS -> NP VP                    // ...and their order may be reversed.
-DS -> S CONJ S                 // Declarative sentences can be conjoined.
+DS -> DS CONJ DS               // Declarative sentences can be conjoined...
+DS -> VP* DS VP*               // ...or surrounded by modifier verb phrases.
 VP -> V/n VP* NP{n} VP*        // A verb phrase has an n-valent verb, optional modifier VPs,
                                // n complement noun phrases, and finally some more optional VPs.
 VP -> VP CONJ VP               // Verb phrases may be conjoined.
 NP -> PRN                      // A noun phrase may be a pronoun
-NP -> DET? V/0* N/n VP* NP{n}  // ...or it may have an optional determiner, zero or more 0-valent
+NP -> (DET V/0*)? N/n VP* NP{n}// ...or it may have an optional determiner followed by zero or more 0-valent
                                // verb modifiers, an n-valent noun, zero or more modifier VPs,
                                // and n complement noun phrases.
 NP -> NP CONJ NP               // Noun phrases may be conjoined.
 NP -> IP DS                    // A noun phrase may consist of an interrogative phrase followed
                                // by a declarative sentence.
-IP -> IDET? V/0* N/n VP* NP{n} // An interrogative phrase may be an NP with an interrogative
+IP -> (IDET V/0*)? N/n VP* NP{n}/ An interrogative phrase may be an NP with an interrogative
                                // determiner.
 IP -> IPRN                     // ...or it may be an interrogative pronoun.
 ```
