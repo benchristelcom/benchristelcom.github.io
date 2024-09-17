@@ -134,6 +134,7 @@ For the many other derivational affixes you will probably need, use English word
 - `#like`
 - `#able`
 - `#related`
+- `#made_of` e.g. "wood" &rarr; "wooden"
 - `#worthy` e.g. _memorandum_ "something to remember"
 - `#tool`
 - `#thing`
