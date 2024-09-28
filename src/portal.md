@@ -448,9 +448,10 @@ A.K.A. the lost art of amusing yourself without electricity.
 
 ### Search Tools
 
+- [Search My Site](https://searchmysite.net) - A search engine that only returns results from personal sites. (h/t [C Jackdaw])
 - [Wiby](https://wiby.me/)
 - [Marginalia](https://search.marginalia.nu/)
-- [Million Short](https://millionshort.com/) (h/t [Cidoku])
+- [Million Short](https://millionshort.com/) - Filters out the million (or thousand, or hundred) most popular websites from your search results. Subscription-based. (h/t [Cidoku])
 
 ## Information Researchers
 
@@ -511,6 +512,7 @@ into one searchable, cross-referenced database.
 <div data-hypersearch-end></div>
 
 [Cidoku]: https://cidoku.net/links/
+[C Jackdaw]: https://skyhold.org/
 
 <script defer type="module" src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.3.0"></script>
 <script>
