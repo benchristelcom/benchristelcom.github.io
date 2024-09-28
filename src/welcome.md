@@ -1,28 +1,22 @@
 # Hello!
 
-<div style="max-width:42rem;text-align:center;margin-inline:auto">
-
 I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); by night I write everything else. This website is the gateway to my many projects.
 
-</div>
+## Curation
 
-<hr>
+<div class="col-2"></div>
 
-<dl>
-  <dt><a href="/portal.html">Web Portal</a></dt>
-  <dd>A searchable catalog of links I've bookmarked.</dd>
-  
+- [My Web Portal](/portal.html) - A searchable catalog of links I've bookmarked.
+
+- [The Wayward Web](https://waywardweb.org) - A webring. A collaborative effort to map the useful, human parts of the web.
+
+<!--
   <dt><a href="/log.html">Web Log</a></dt>
   <dd>
     What I've been doing on the web recently, on this site and elsewhere.
     <p><a href="/subscribe.html">Subscribe to updates</a> via RSS. <a href="/feed.rss"><img src="/assets/rss.png" alt="RSS icon" width="18"></a></p>
   </dd>
-
-  <dt>
-    <a href="https://waywardweb.org">The Wayward Web</a>
-  </dt>
-  <dd>A webring. A collaborative effort to map the useful, human parts of the web.</dd>
-</dl>
+-->
 
 ## Writing Projects
 
@@ -36,7 +30,7 @@ I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); b
 
 ## Major Artifacts
 
-<p class="centered-text">Projects I actively use and maintain.</p>
+Projects I actively use and maintain.
 
 <div class="col-2"></div>
 
@@ -60,7 +54,7 @@ I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); b
 
 ## Minor Artifacts
 
-<p class="centered-text">Projects I haven't done anything with in a while.</p>
+Projects I haven't done anything with in a while.
 
 - [Dunmanifestin](https://github.com/gavmor/dunmanifestin) - Recursive madlib engine, designed for generating D&D characters and settings. Made in collaboration with [Gavin Morgan](https://gavmor.com).
 
@@ -71,12 +65,7 @@ I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); b
 
 ## Miscellany
 
-<dl>
-<dt><a href="/metrics.html">Metrics</a></dt>
-<dd>What "success" means for this website.</dd>
-</dl>
-
----
+- [Metrics](/metrics.html) - What "success" means for this website.
 
 <a class="out" href="/index.html">
   <span id="tree"></span>
@@ -96,8 +85,6 @@ Best viewed with <a href="https://lynx.browser.org/"><img alt="Lynx 2.6" src="/a
 }
 
 h2 {
-  text-align: center;
-  max-width: 30rem;
   margin: 3em auto;
 }
 
@@ -121,18 +108,8 @@ li > a:first-child, li > p:first-child > a:first-child {
   letter-spacing: 0.03em;
 }
 
-dl {
-  text-align: center;
-  max-width: 42em;
-  margin-inline: auto;
-}
 dt {
-  font-size: 105%;
   font-weight: bold;
-  margin-block-start: 2em;
-}
-dd {
-  margin-inline: 0;
 }
 
 #tree {

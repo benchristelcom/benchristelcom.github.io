@@ -1,30 +1,26 @@
 # Web Portal
 
-<div class="centered-text">
 <p>A comprehensive directory of my most-loved and most-used web resources.</p>
-</div>
 
 <div class="lr-split">
 <div>
-
-<input data-hypersearch type="search" placeholder="Search"/>
-
-<div class="centered-text">
-<button id="ddg">DuckDuckGo</button><button id="yt">YouTube</button><button id="npm">NPM</button><button id="openverse">Openverse</button><button id="wikipedia">Wikipedia</button><button id="cornish">Cornish Dict.</button>
-<button id="etymonline">Etymonline</button><button id="wiktionary">Wiktionary</button><button id="unicode">Unicode</button>
-
-<div class="space-8"></div>
-
-<div><small><a href="/portal/search-docs.html">Help with Search</a></small></div>
-
-<div class="space-8"></div>
-
-</div>
-
+  <h2>Search</h2>
+  <input data-hypersearch type="search" placeholder="Search"/>
+  <button id="ddg">DuckDuckGo</button>
+  <button id="yt">YouTube</button>
+  <button id="npm">NPM</button>
+  <button id="openverse">Openverse</button>
+  <button id="wikipedia">Wikipedia</button>
+  <button id="cornish">Cornish Dict.</button>
+  <button id="etymonline">Etymonline</button>
+  <button id="wiktionary">Wiktionary</button>
+  <button id="unicode">Unicode</button>
+  <div class="space-8"></div>
+  <div><small><a href="/portal/search-docs.html">Help with Search</a></small></div>
+  <div class="space-8"></div>
 </div>
 <nav class="toc">
-
-## Table of Contents
+<h2 style="margin-bottom:0.5em">Table of Contents</h2>
 
 - [My Projects](#my-projects)
 - [Food](#food)
@@ -608,9 +604,9 @@ li {
 .lr-split {
   display: flex;
   gap: 2em;
-  align-items: center;
   background: #f5f3f0;
   border: 1px solid #aaa;
+  margin-inline: -1em;
   border-radius: 5px;
   padding: 1em;
 }
@@ -618,6 +614,8 @@ li {
 @media (max-width: 760px) {
   .lr-split {
     display: block;
+    border-radius: 0;
+    border-inline: none;
   }
 }
 
@@ -637,7 +635,7 @@ li {
   margin: 0.25em 0.5em;
 }
 
-.toc h2 {
+.lr-split h2 {
   font-size: 1.1rem;
   margin-block: 0 1rem;
   border: none;
@@ -648,8 +646,7 @@ li {
 input[type=search] {
   margin: 0 auto 0.8rem;
   display: block;
-  width: 80%;
-  max-width: 360px;
+  width: 100%;
   border-radius: 99px;
   border: 1px solid #666;
   border-color: #666 #888 #aaa #888;
@@ -657,7 +654,7 @@ input[type=search] {
 }
 
 button {
-  margin: 3px;
+  margin-block: 3px;
   min-height: 24px;
   min-width: 60px;
   background: #ddd;

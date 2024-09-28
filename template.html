@@ -57,9 +57,8 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 150%;
-  text-align: center;
-  margin-block: 2em;
+  font-size: 175%;
+  margin-block: 1em;
 }
 
 h2 {
@@ -139,8 +138,9 @@ img {
 }
 
 .home-link {
-  text-align: center;
-  letter-spacing: 0.05em;
+  margin-block-start: 2rem;
+  border-block-start: 1px solid var(--border-color);
+  padding-block: 1rem;
 }
 .home-link a {
   text-decoration: none;
@@ -243,9 +243,11 @@ iframe[src*='https://www.youtube.com'] {
     </style>
 	</head>
 	<body>
-    <nav class="home-link">
-      <a href="/welcome.html">— Home —</a>
-    </nav>
     <main>{{content}}</main>
+    <footer>
+      <nav class="home-link">
+        <a href="/welcome.html">&larr; Home</a>
+      </nav>
+    </footer>
 	</body>
 </html>
