@@ -275,7 +275,26 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [How to get RSS URLs from YouTube channels and playlists](https://chriswere.wales/articles/rss-youtube) by Chris Were.
   - It seems you can also paste YouTube channel URLs directly into at least some feed readers (tested with QuiteRSS). E.g. try this one: <https://www.youtube.com/@simonroper9218>.
 
-## Image Repositories
+## Image Repositories<hs-meta keywords="free stock images"></hs-meta>
+
+### General
+
+- [Creative Commons Media Search](https://search.creativecommons.org/) - Search engine for images with permissive licenses. Also finds audio, video, and 3D models!
+- [Wikimedia Commons](https://commons.wikimedia.org)
+
+### Photos
+
+- [Public Domain Pictures](https://www.publicdomainpictures.net) - constantly tries to trick you into clicking on ads for paid stock images, but nevertheless there _are_ public domain pictures on this site.
+- [Flickr](https://flickr.com)
+
+### Classic
+
+- [Old Book Illustrations](https://www.oldbookillustrations.com/) - If you like [Wondermark](https://wondermark.com/), you'll love this.
+- [Frugal's Free Image Database](https://www.thefrugalgamer.net/freeimages/) - A database of beautiful public domain book plates!
+
+### Computery
+
+<div class="col-2"></div>
 
 - [GifCities](https://gifcities.org/) - Archived gifs from Geocities websites.
 - [Hero Patterns](https://heropatterns.com/) - tiling SVG patterns for your website background
@@ -284,11 +303,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Grainy Gradient Playground](https://grainy-gradients.vercel.app/) - dithered gradients for a retro (or is it futuristic?) look
 - [IconsDB](https://www.iconsdb.com/)
 - [Heroicons](https://heroicons.com/) - copy these SVG icons directly into your HTML. Nothing to download. Outline, solid, mini, and micro variants. (h/t [JT Archie](https://jtarchie.com/))
-- [Wikimedia Commons](https://commons.wikimedia.org)
-- [Flickr](https://flickr.com)
 - [Cliparts.co](https://cliparts.co) - give your website, flyer, or email that ultimate kitschy look.
-- [Old Book Illustrations](https://www.oldbookillustrations.com/) - If you like [Wondermark](https://wondermark.com/), you'll love this.
-- [Public Domain Pictures](https://www.publicdomainpictures.net) - constantly tries to trick you into clicking on ads for paid stock images, but nevertheless there _are_ public domain pictures on this site.
 
 ## Web-based Tools<hs-meta keywords="online browser-based"></hs-meta>
 
@@ -408,6 +423,7 @@ A.K.A. the lost art of amusing yourself without electricity.
 ## History of Technology
 
 - [Folklore.org](https://folklore.org/0-index.html) - the history of the Apple Macintosh
+- [Every default macOS (and OSX) wallpaper, in glorious 6K resolution](https://512pixels.net/projects/default-mac-wallpapers-in-5k/) courtesy of [512 Pixels](https://512pixels.net).
 
 ## Publicly Available Data
 
