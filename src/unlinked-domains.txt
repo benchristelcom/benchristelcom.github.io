@@ -7,17 +7,20 @@ https://spacemy.acxyz.ca
 https://therecord.media
 https://hotlinewebring.club
 https://blips.club
+https://xandra.cc
 https://sean-parent.stlab.cc
 https://tante.cc
 https://uxdesign.cc
 https://www.favicon.cc
 https://help.obsidian.md
+https://maya.land
 https://bruh.ltd
 https://pinata.cloud
 https://temporal.cloud
 https://owler.cloud
 https://deta.space
 https://bombadillo.colorfield.space
+https://fencraft.leprd.space
 https://www.goethe.de
 https://the402.wertstahl.de
 https://zettelkasten.de
@@ -30,6 +33,7 @@ https://github-wiki-see.page
 https://pablo.rauzy.name
 https://search.me
 https://ttntm.me
+https://numericcitizen.me
 https://proton.me
 https://gptzero.me
 https://blog.izs.me
@@ -39,6 +43,7 @@ https://christine.website
 https://playit.gg
 https://softwaredesign.ing
 https://github.blog
+https://jamesg.blog
 https://stackoverflow.blog
 https://w3.org
 https://the1a.org
@@ -59,8 +64,10 @@ https://udcc.org
 https://subsonic.org
 https://oclc.org
 https://fred.stlouisfed.org
+https://skyhold.org
 https://rand.org
 https://meditationmind.org
+https://gleewood.org
 https://agilealliance.org
 https://amarok.kde.org
 https://rosettacode.org
@@ -113,10 +120,12 @@ https://albumoftheyear.org
 https://semanticscholar.org
 https://eprint.iacr.org
 https://darkreader.org
+https://starbreaker.org
 https://insightmeditationcenter.org
 https://semver.org
 https://audacious-media-player.org
 https://jstor.org
+https://clojuredocs.org
 https://unixgods.org
 https://livingneighborhoods.org
 https://celtic-languages.org
@@ -170,8 +179,6 @@ https://archlinux.org
 https://dewey.org
 https://khanacademy.org
 https://jwz.org
-https://clojuredocs.org
-https://skyhold.org
 https://conclave.tech
 https://dataannotation.tech
 https://ipfs.tech
@@ -192,12 +199,12 @@ https://minecraft.wiki
 https://href.li
 https://omniarchive.uk
 https://akademikernewek.org.uk
+https://marijn.uk
 https://amazon.co.uk
 https://universocantigas.gal
 https://buttondown.email
 https://airborneready.army.mil
 https://webpro.nl
-https://invisible.co
 https://growthbook.auth0.com
 https://c2.com
 https://arstechnica.com
@@ -205,6 +212,7 @@ https://britannica.com
 https://gitea.com
 https://wolframalpha.com
 https://bundlephobia.com
+https://cyberarcadia.com
 https://scribemedia.com
 https://windows-cdn.softpedia.com
 https://vegrecipesofindia.com
@@ -344,6 +352,7 @@ https://www.oldcitypublishing.com
 https://always-a-pivot.creator-spring.com
 https://weirdorconfusing.com
 https://www.southernliving.com
+https://circularliving.com
 https://www.geekbuying.com
 https://www.baeldung.com
 https://pngtosvg.com
@@ -486,6 +495,7 @@ https://weather.com
 https://minimalistbaker.com
 https://pivotaltracker.com
 https://techstacker.com
+https://jessmahler.com
 https://martinfowler.com
 https://www.thebookdesigner.com
 https://anundergroundminer.com
@@ -647,6 +657,7 @@ https://www.renderforest.com
 https://automation.lambdatest.com
 https://www.visualcapitalist.com
 https://devpost.com
+https://ritualdust.com
 https://www.st.com
 https://susanaugustt.com
 https://clagnut.com
@@ -707,12 +718,12 @@ https://bobbyhadz.com
 https://ntietz.com
 https://sandimetz.com
 https://stackblitz.com
-https://circularliving.com
 https://remix.run
 https://www.run.town
 https://taylor.town
 https://domcloud.co
 https://huggingface.co
+https://invisible.co
 https://fffuel.co
 https://www.coscreen.co
 https://jobs.lever.co
@@ -733,6 +744,7 @@ https://wayward-web.github.io
 https://w3c.github.io
 https://matklad.github.io
 https://esbuild.github.io
+https://documentcloud.github.io
 https://mindustrygame.github.io
 https://jonaskruckenberg.github.io
 https://krisatopi.github.io
@@ -747,7 +759,6 @@ https://libp2p.github.io
 https://dougsillars.github.io
 https://seek-oss.github.io
 https://cmus.github.io
-https://documentcloud.github.io
 https://hackmd.io
 https://blend.io
 https://werd.io
@@ -852,10 +863,12 @@ https://boingboing.net
 https://dannorth.net
 https://wevidi.net
 https://jasontank.net
+https://faeriepunk.net
 https://theretrobook.net
 https://www.typescripttutorial.net
 https://geminiprotocol.net
 https://atlassian.net
+https://nefaerien.net
 https://veloren.net
 https://www.fanfiction.net
 https://simonwillison.net
@@ -865,6 +878,7 @@ https://makingpermaculturestronger.net
 https://intertwingler.net
 https://ai-detector.net
 https://jsdelivr.net
+https://kalechips.net
 https://medievalists.net
 https://www.friendproject.net
 https://www.minecraft.net
@@ -896,6 +910,7 @@ https://knip.dev
 https://amp.dev
 https://mafs.dev
 https://softwarecrisis.dev
+https://frills.dev
 https://webtips.dev
 https://moderncss.dev
 https://react.dev
@@ -922,5 +937,8 @@ https://www.irs.gov
 https://www.bart.gov
 https://www.twitch.tv
 https://threltemania.xyz
-https://metacrisis.xyz
+https://jwhighwind.xyz
 https://diff2html.xyz
+https://ocean-waves.xyz
+https://metacrisis.xyz
+https://voicedrew.xyz
