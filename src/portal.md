@@ -297,6 +297,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 <div class="col-2"></div>
 
 - [GifCities](https://gifcities.org/) - Archived gifs from Geocities websites.
+- [TextureTown](https://textures.neocities.org/) - Thousands of textures to use in website backgrounds and 3D worlds.
 - [Hero Patterns](https://heropatterns.com/) - tiling SVG patterns for your website background
 - [Pattern Monster](https://pattern.monster/) - even more tiling SVG patterns for your website background
 - [nnnoise - SVG Noise Generator](https://www.fffuel.co/nnnoise/) - create fractal noise or turbulence dynamically with SVG. A very network-efficient replacement for PNG or JPEG textures.
@@ -481,16 +482,17 @@ into one searchable, cross-referenced database.
 
 ## Web Curators
 
-- [Bookmark Beat](https://bookmarkbeat.substack.com/) by [Dani Sandoval](https://dreamindani.com/) - Software development and UX design.
-- [Interestings for Iterators](https://dwf.bigpencil.net/posts/) by [Davis W. Frank](https://dwf.bigpencil.net) - A collaborative repository of resources for software product development, consulting, and Extreme Programming.
 - [Ruby Klover's website](https://www.bruh.ltd), which includes a [list of lists](https://www.bruh.ltd/lists) curated by the author.
 - [Brandon's Journal](https://brandons-journal.com/links/) - includes a collection of blogs and websites about internet history, film, comics, pop culture, and Buddhism. There's also a [recipe book](https://scribbles.page/fj78s9ca#new_tab) compiled by the author's great-grandmother.
 - [Mike Grindle](https://mikegrindle.com) - writing about retro technology and internet culture, plus a [links page](https://mikegrindle.com/blogroll) with a bunch of cool sites.
 - [The Cidoku Network](https://cidoku.net/links/)
 - [Website Review](https://websitereview.neocities.org/) - a virtual library of deepweb and www sites.
+- [Melon's Fav Hyperlinks](https://melonking.net/melon?z=/links)
 - [garlic.garden](https://garlic.garden/) by [allium house](https://allium.house/)
 - [candle's website](https://kool.tools/) - a collection of tools focused on making tiny, minimalist games
 - [Dan's Tools](https://www.danstools.com/) - a collection of simple browser-based utilities for web development and data conversion, plus a database of [user manuals](https://www.cleancss.com/user-manuals/) for physical products.
+- [Bookmark Beat](https://bookmarkbeat.substack.com/) by [Dani Sandoval](https://dreamindani.com/) - Software development and UX design.
+- [Interestings for Iterators](https://dwf.bigpencil.net/posts/) by [Davis W. Frank](https://dwf.bigpencil.net) - A collaborative repository of resources for software product development, consulting, and Extreme Programming.
 - [Krazydad](https://krazydad.com) - Sudoku! Mazes! Printable Puzzles!
 - [Richard Kennaway's List of Constructed Languages](http://www2.cmp.uea.ac.uk/~jrk/conlang.html)
 - Mark Rosenfelder has compiled a [list of stories and novels that feature languages or linguistics](http://zompist.com/lang15.html) and a [list of websites about linguistics](http://zompist.com/lang17.html#Websites).
