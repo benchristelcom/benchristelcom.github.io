@@ -386,6 +386,7 @@ https://us.cloud.langfuse.com
 https://packagehub.suse.com
 https://www.kongregate.com
 https://lyricstranslate.com
+https://www.greenwaste.com
 https://ethanmarcotte.com
 https://deque.com
 https://www.eatthelove.com
@@ -960,6 +961,7 @@ https://www.adelfaure.net
 https://mineuniverse.net
 https://researchgate.net
 https://www.inspiredtaste.net
+https://melonking.net
 https://boingboing.net
 https://ib.frath.net
 https://dannorth.net
@@ -994,7 +996,6 @@ https://www.bitview.net
 https://mathoverflow.net
 https://www.tampermonkey.net
 https://www.radicalcartography.net
-https://melonking.net
 https://baltic.art
 https://huh.art
 https://pca.st

@@ -390,6 +390,11 @@ A.K.A. the lost art of amusing yourself without electricity.
 
 - [Card Game Rules at Pagat.com](https://www.pagat.com/) - A huge collection of game rules, maintained by John McLeod.
 
+## Model Railroads
+
+- [Gateway NMRA](https://www.gatewaynmra.org) of St. Louis
+- [New Forest Model Railroad Society](http://www.nfmrs.org)
+
 ## Languages and Linguistics
 
 ### Conlangs
