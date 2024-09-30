@@ -32,6 +32,7 @@
 
 h1 {
   margin-block-start: 0;
+  text-align: center;
 }
 
 h2 {
