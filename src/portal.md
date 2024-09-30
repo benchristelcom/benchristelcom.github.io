@@ -58,7 +58,7 @@
 - [The Wayward Web](https://waywardweb.org) - A webring. A collaborative effort to map the useful, human parts of the web.
 - [Druthers](https://druthers.app) - Instantly grok your group's priorities with ranked-choice voting. A collaboration with [Gavin Morgan](https://gavmor.com). 
 - [Culture Machine](https://benchristel.github.io/tv) - The app I wrote to break my YouTube addiction (it worked). Emotionally-stabilizing videos played continuously in an unskippable random sequence.<hs-meta keywords="tv"></hs-meta>
-- [mdsite](https://benchristel.github.io/mdsite) - A modern generator for old-school static sites. It turns any tree of [Markdown](https://daringfireball.net/projects/markdown/) files into a website, complete with auto-generated navigation links. It's also the tool I used to create this webpage!
+- [mdsite](https://benchristel.github.io/mdsite) - A modern generator for old-school static sites. It turns any tree of [Markdown] files into a website, complete with auto-generated navigation links. It's also the tool I used to create this webpage!
 - [Taste](https://npmjs.com/package/@benchristel/taste) - Simple, speedy JavaScript test framework
 - [yt](https://benchristel.github.io/yt/) - Watch YouTube without ads or tracking. Pairs great with [LeechBlock](https://www.proginosko.com/leechblock/).
 - [hypersearch](https://www.npmjs.com/package/@benchristel/hypersearch) - Powers the searchbar on this page!
@@ -225,10 +225,10 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Prettier](https://prettier.io) - because it's still the easiest formatter to set up, and I agree with 95% of its choices.
 - [TypeScript](https://typescriptlang.org/) - Statically-typed superset of JavaScript. Owned by Microsoft.
 - [Husky](https://typicode.github.io/husky/) - Git hooks framework.
-- [Markdown](https://daringfireball.net/projects/markdown/) - Lightweight markup syntax that bridges the gap between plain text and HTML. Designed by [John Gruber](https://daringfireball.net).
+- [Markdown] - Lightweight markup syntax that bridges the gap between plain text and HTML. Designed by [John Gruber](https://daringfireball.net).
 - [Preact](https://preactjs.com/) - Lightweight reactive UI library. Keeps the DOM up to date when your application state changes.
 - [ExpressJS](https://expressjs.com/) - Popular REST server framework for NodeJS.
-- [Marked](https://marked.js.org/) - [Markdown](https://daringfireball.net/projects/markdown/)-to-HTML converter for NodeJS
+- [Marked](https://marked.js.org/) - [Markdown]-to-HTML converter for NodeJS
 - [CodeMirror](https://codemirror.net/) - Code editor by [Marijn Haverbeke](https://marijnhaverbeke.nl/)
 - [@regosen/gapless-5](https://www.npmjs.com/package/@regosen/gapless-5) - gapless and looped audio playback on the web. Essential if you're building a music player.
 - [tiny-invariant](https://www.npmjs.com/package/tiny-invariant) - TypeScript assertion library that does type narrowing.
@@ -239,6 +239,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - **axe DevTools for Web Accessibility Testing** - check any webpage for accessibility problems. Extensions for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/), [Chrome](https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd), and [Edge](https://microsoftedge.microsoft.com/addons/detail/axe-devtools-web-access/kcenlimkmjjkdfcaleembgmldmnnlfkn).<hs-meta keywords="add-ons addons plugin a11y accessibility"></hs-meta>
 - [searchpass](https://github.com/larham/searchpass) - A shell script that checks if your password has been exposed in a data breach, *without* revealing it to anyone. If you're a programmer, you'll appreciate the elegant algorithm. Made by my colleague Larry Hamel.
 - [uBlock Origin](https://ublockorigin.com/) - The ad blocker geeks use. Don't worry, there's nothing particularly geeky about it; it's just an ad blocker that works. Blocks trackers, too! Extensions for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), and [Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak).<hs-meta keywords="add-ons addons plugin adblock"></hs-meta>
+- [MarkDownload](https://github.com/deathau/markdownload) - View and download the main content of most HTML pages as [Markdown]. Made by [Gordon Pedersen](https://death.id.au/). (h/t [Maya] via [Chris Aldrich](https://boffosocko.com/2020/12/29/markdownload-github/))
 
 ### Tools I Have Used
 
@@ -259,7 +260,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Fly.io](https://fly.io) - web server hosting
 - [Gource](https://gource.io/) - visualize Git repo history as an animated graph
 - [Milkdown](https://milkdown.dev/) - a framework for WYSIWYG/markdown combo editors. Write markdown that converts to rich text as you type. Made by [Mirone](https://mirone.me/).
-- [MDX](https://mdxjs.com/) - A cross between Markdown and JSX. Lets you add React components to Markdown documents and render those documents in a React app.
+- [MDX](https://mdxjs.com/) - A cross between [Markdown] and JSX. Lets you add React components to Markdown documents and render those documents in a React app.
 - [day.js](https://day.js.org/) - a JavaScript library for date/time calculations.
 - [date-fns](https://date-fns.org/) - another JavaScript library for date/time calculations.
 
@@ -319,7 +320,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 ### Creating
 
 - [Flaming Text](https://flamingtext.com/) - Creates logos and typemarks. Not just flaming text, but glowing text, drop shadows, reflections, leopard print... the sky's the limit!
-- [Dillinger.io](https://dillinger.io) - Online [Markdown](https://daringfireball.net/projects/markdown/) editor
+- [Dillinger.io](https://dillinger.io) - Online [Markdown] editor
 
 ### Verifying
 
@@ -530,8 +531,16 @@ into one searchable, cross-referenced database.
 
 <div data-hypersearch-end></div>
 
+<!--
+====================================
+HREFS BELOW
+====================================
+-->
+
 [Cidoku]: https://cidoku.net/links/
 [C Jackdaw]: https://skyhold.org/
+[Maya]: https://maya.land/
+[Markdown]: https://daringfireball.net/projects/markdown/
 
 <script defer type="module" src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.3.0"></script>
 <script>
