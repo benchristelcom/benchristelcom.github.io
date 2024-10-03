@@ -73,7 +73,7 @@ PEON = Peasant Equivalent Opponent Number
 | frenzied gnasher    | 4    | 200   |
 | gargantuan          | 4    | 200   |
 | dark champion       | 4    | 250   |
-| black dragon        | 4    | 309   |
+| black dragon        | 4    | 308.25 |
 | megadragon          | 4    | 376   |
 
 ## Random Army Ratings
@@ -100,3 +100,115 @@ Each tier of dwellings built in a town doubles the creature growth rate in PEONS
 ## Hero Strength
 
 A level 1 hero is worth about 18 PEONS without Basic Combat, and 25 PEONS with Basic Combat.
+
+```
+When does an army of peasants flee from an army of 7 level 1 knights?
+
+20 peasants - flees
+21 peasants - flees
+22 peasants - flees
+23 peasants - doesn't flee
+
+Will a single level 1 knight flee from an army of 100 peasants? - yes
+
+conclusions: a level 1 knight's strength is between 15.71 and 16.43 PEONS.
+
+Will 7 level 1 knights flee from 550 peasants? How about 575 peasants?
+
+7 L1Ks don't flee from 550 peasants
+       DO flee from 575 peasants
+       don't flee from 556 peasants
+       DO flee from 562 peasants
+       DO flee from 561
+       DO flee from 560
+       DO flee from 559
+       DO flee from 558
+       don't flee from 557
+
+Conclusion: a level 1 knight is worth between 15.91 and 15.95 PEONS.
+```
+
+Question: does the game try to factor in buffs from hero abilities when computing army strength, or does it just add PEON values?
+
+```
+Hypothesis: If an additive approach is used, 200 peasants should not flee from a level 1 knight + 984 peasants, but will flee from a level 1 knight + 985 peasants.
+
+Results: 200 peasants flee from an L1K and 985 peasants.
+They also flee from an L1K and 984 peasants!
+
+Conclusion: it seems like the game doesn't just add PEON values to decide if a
+neutral army will flee.
+
+200 peasants don't flee from an L1K and 768 peasants.
+             don't flee from an L1K and 960 peasants.
+             don't flee from an L1K and 980 peasants.
+             DO flee from an L1K and 982 peasants.
+             DO flee from an L1K and 981 peasants.
+
+That would seem to indicate that a L1K is worth at least 19 PEONS, and less than 20.
+```
+
+Question: does the class of a level 1 hero influence their army value?
+
+```
+Setup: player attacks 7 level 1 barbarians with 558 peasants.
+
+Hypothesis: If a barbarian is worth significantly more than a knight, the barbarians should not flee. 7 L1Ks flee from 558 peasants.
+
+Results: The barbarians don't flee!
+
+7 barbarians also don't flee from 768 peasants!
+... but do flee from 1024 peasants.
+...     do flee from 896
+        don't flee from 832
+
+This implies that a level 1 barbarian is worth between 23.77 and 25.6 PEONS.
+```
+
+## "The enemy turns to flee at your approach"
+
+A neutral army will flee if its strength is <= 20% of your army's strength. You can expect to lose at most 4% of your troops in such a fight (I say "at most" because the enemy may be weaker than 20% of your strength.)
+
+<details>
+<summary>Show/hide lab notes</summary>
+
+```
+When does this happen?
+
+EXPERIMENTS: 1000 peasants vs....
+- 750 peasants - no
+- 625 peasants - no, and I lost 274 peasants in the fight
+- 500 peasants -
+- 250 peasants - no, and I lost 64 peasants
+- 225 peasants - no, lost 54
+- 206 peasants - no, lost 38
+- 203
+- 201 peasants - no, lost 39
+- 200 peasants - yes, lost 39, second attempt lost 42
+- 188 peasants - yes, lost 40
+- 125 peasants - yes
+
+conclusion: a neutral army will flee if its strength is <= 20% of your army's
+strength. You can expect to lose at most 4% of your troops in such a fight (I
+say "at most" because the enemy may be weaker than 20% of your strength.)
+
+Hypothesis: a black dragon (309 PEONS) will flee if attacked by more than 1545
+ peasants, but will not flee from 1544 peasants.
+
+Results: dragon flees from 1545 peasants AND 1544 peasants! Maybe my PEON
+calculations were off....
+
+100,000 peons worth of black dragons is 324 dragons. That's 308.64 peons per
+dragon. But maybe the true number is 308.
+
+30,800 peons of black dragons is 99 dragons.
+30,850 "                      is 100 "
+30,825 "                      is 100 "
+30,824 "                      is 99 "
+
+so a black dragon appears to be exactly 308.25 PEONS. And the random monster generator appears to round down to a whole number of monsters.
+
+Revised hypothesis: 4 black dragons will flee from 6165 peasants, but not from 6164. CORRECT!
+```
+
+</details>
