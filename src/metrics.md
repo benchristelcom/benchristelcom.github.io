@@ -1,6 +1,7 @@
 # Metrics for benchristel.com
 
-July 4, 2023
+Created: July 4, 2024.<br>
+Updated: October 2, 2024.
 
 ## Background
 
@@ -11,7 +12,7 @@ The goal of the [web portal](/portal.html) page is twofold:
 
 ## Data collected
 
-The metric for **Goal 1** is **"number of webpages visited per month"** as measured by my browser history. This number should remain stable or decrease over time. It's unclear what an ideal value for this metric would be — maybe around 300? As of June 2024, it's around 2000.
+The metric for **Goal 1** is **"number of webpages visited per month"** as measured by my browser history. This number should remain stable or decrease over time. It's unclear what an ideal value for this metric would be — maybe around 300? (EDIT: 900 pages per month feels about right.) As of June 2024, it's around 2000.
 
 A few webpages that I consider mostly harmless are excluded from this metric. Those include:
 
@@ -34,6 +35,7 @@ Run `tools/metrics HISTORYFILE`
 
 | Month    | Webpages | Google searches | DDG searches |
 | -------- | -------- | --------------- | ------------ |
+| Sep 2024 | 902      | 0               | 25           |
 | Aug 2024 | 1591     | 1               | 87           |
 | Jul 2024 | 1072     | 1               | 101          |
 | Jun 2024 | 1974     | 6               | 217          |
@@ -43,6 +45,12 @@ Run `tools/metrics HISTORYFILE`
 | Feb 2024 | 1435     | 6               | 160          |
 
 ## Notes
+
+### September 2024
+
+This month felt balanced. Just over 900 pages. Many of them were personal websites, notably [Skyhold](https://skyhold.org/) and [maya.land](https://maya.land).
+
+Next goal: hold pages per month at 900 while driving web searches to zero.
 
 ### August 2024
 
