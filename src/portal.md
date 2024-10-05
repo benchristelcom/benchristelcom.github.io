@@ -263,6 +263,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [MDX](https://mdxjs.com/) - A cross between [Markdown] and JSX. Lets you add React components to Markdown documents and render those documents in a React app.
 - [day.js](https://day.js.org/) - a JavaScript library for date/time calculations.
 - [date-fns](https://date-fns.org/) - another JavaScript library for date/time calculations.
+- [superstruct](https://docs.superstructjs.org/) - A TypeScript parser combinator library.
 
 ### Tips and Tricks, How Tos
 
