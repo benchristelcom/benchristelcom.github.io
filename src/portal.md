@@ -5,19 +5,21 @@
 <div class="lr-split">
 <div>
   <h2>Search</h2>
-  <input data-hypersearch type="search" placeholder="Search"/>
-  <button id="ddg">DuckDuckGo</button>
-  <button id="yt">YouTube</button>
-  <button id="npm">NPM</button>
-  <button id="openverse">Openverse</button>
-  <button id="wikipedia">Wikipedia</button>
-  <button id="cornish">Cornish Dict.</button>
-  <button id="etymonline">Etymonline</button>
-  <button id="wiktionary">Wiktionary</button>
-  <button id="unicode">Unicode</button>
-  <div class="space-8"></div>
-  <div><small><a href="/portal/search-docs.html">Help with Search</a></small></div>
-  <div class="space-8"></div>
+  <div style="text-align: center">
+    <input data-hypersearch type="search" placeholder="Search the web and this page"/>
+    <button id="ddg">DuckDuckGo</button>
+    <button id="yt">YouTube</button>
+    <button id="npm">NPM</button>
+    <button id="openverse">Openverse</button>
+    <button id="wikipedia">Wikipedia</button>
+    <button id="cornish">Cornish Dict.</button>
+    <button id="etymonline">Etymonline</button>
+    <button id="wiktionary">Wiktionary</button>
+    <button id="unicode">Unicode</button>
+    <div class="space-8"></div>
+    <div><small><a href="/portal/search-docs.html">Help with Search</a></small></div>
+    <div class="space-8"></div>
+  </div>
 </div>
 <nav class="toc">
 <h2 style="margin-bottom:0.5em">Table of Contents</h2>
