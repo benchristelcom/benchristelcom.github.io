@@ -532,7 +532,7 @@ into one searchable, cross-referenced database.
 
 <div class="space-32"></div>
 
-<p class="centered-text">There are <noscript>approximately 270</noscript><span id="number-of-links"></span> external links on this page.</p>
+<p class="centered-text">There are <noscript>approximately 329</noscript><span id="number-of-links"></span> external links on this page.</p>
 
 <div data-hypersearch-end></div>
 
@@ -598,7 +598,7 @@ for (let id in providers) {
   elById(id).addEventListener("click", () => search(providers[id], searchInput.value))
 }
 
-const numLinks = [...document.querySelectorAll("a[href^='http']")].length
+const numLinks = new Set([...document.querySelectorAll("a[href^='http']")].map(a => a.href)).size
 document.getElementById("number-of-links").innerText = numLinks
 
 </script>
