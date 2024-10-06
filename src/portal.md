@@ -125,12 +125,14 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 ## Meditation
 
+- [Meditation and Going Beyond Mindfulness - A Secular Perspective | Mingyur Rinpoche](https://benchristel.github.io/yt/#ukTaodQfYRQ)
+- [Happiest Man on Earth | Mingyur Rinpoche](https://benchristel.github.io/yt/#kaNO09cPS6c)
+- [From Panic Attacks to Meditation | Mingyur Rinpoche](https://benchristel.github.io/yt/#k1tw5sowFyM)
+- [Meditate Better | Swami Sarvapriyananda](https://benchristel.github.io/yt/#GGYGxdcdE40)
+- [Non-dual Meditation: Part 1 | Swami Sarvapriyananda](https://benchristel.github.io/yt/#l3vddQwxA48)
+- [Non-dual Meditation: Part 2 | Swami Sarvapriyananda](https://benchristel.github.io/yt/#dVKS8jhXN2s)
 - [Rational Dharma](https://rationaldharma.com/) - no-nonsense explanations of how meditation works.
 - [Effects of Two Online Positive Psychology and Meditation Programs on Persistent Self-Transcendence](https://psycnet.apa.org/fulltext/2021-81896-001.html) - research on enlightenment
-- [Meditation and Going Beyond Mindfulness - A Secular Perspective | Mingyur Rinpoche](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=ukTaodQfYRQ)
-- [Happiest Man on Earth | Mingyur Rinpoche](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=kaNO09cPS6c)
-- [From Panic Attacks to Meditation](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=k1tw5sowFyM)
-- [Meditate Better | Swami Sarvapriyananda](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=GGYGxdcdE40)
 
 ## Reviving Civilization
 
