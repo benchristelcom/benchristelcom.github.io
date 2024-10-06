@@ -212,3 +212,29 @@ Revised hypothesis: 4 black dragons will flee from 6165 peasants, but not from 6
 ```
 
 </details>
+
+## How many units can you expect to lose in a combat?
+
+### 1024 peasants vs. 768 peasants
+
+- trial 1: lost 408
+- trial 2: lost 379
+- trial 3: lost 441
+- trial 4: lost 408
+- trial 5: lost 464
+
+### 1024 peasants vs. 512 peasants
+
+- trial 1: lost 187
+- trial 2: lost 157
+- trial 3: lost 251
+- trial 4: lost 190
+- trial 5: lost 131
+
+### 1024 peasants vs. 256 peasants
+
+- trial 1: lost 47
+- trial 2: lost 67
+- trial 3: lost 56
+- trial 4: lost 69
+- trial 5: lost 63
