@@ -84,10 +84,6 @@ Best viewed with <a href="https://lynx.browser.org/"><img alt="Lynx 2.6" src="/a
   --hyphens: manual;
 }
 
-h2 {
-  margin: 3em auto;
-}
-
 .home-link {
   display: none;
 }

@@ -19,10 +19,11 @@ p, li, figcaption, blockquote, h1, h2, h3, h4, h5, h6, a {
   --body-width: 50em;
   --align: left;
   --hyphens: manual;
-  --font-size: 0.9375rem;
-  --font-family: Georgia;
+  --font-size: 1rem;
+  --body-font-family: 'Times New Roman', 'Georgia', serif;
+  --heading-font-family: 'Georgia', 'Times New Roman', serif;
   --line-height: 160%;
-  --font: var(--font-size) / var(--line-height) var(--font-family), 'Times New Roman', Times, serif;
+  --font: var(--font-size) / var(--line-height) var(--body-font-family);
 
   --global-bg: hsl(42, 100%, 90%);
   --burgundy: hsl(-18, 100%, 25%);
@@ -52,6 +53,7 @@ body {
 
 h1, h2, h3 {
   font-weight: normal;
+  font-family: var(--heading-font-family);
   letter-spacing: 0.025em;
   text-shadow: 0 0 0.5px;
 }
