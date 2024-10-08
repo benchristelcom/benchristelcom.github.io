@@ -127,6 +127,8 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 ## Meditation
 
+### Theory
+
 - [Meditation and Going Beyond Mindfulness - A Secular Perspective | Mingyur Rinpoche](https://benchristel.github.io/yt/#ukTaodQfYRQ)
 - [Happiest Man on Earth | Mingyur Rinpoche](https://benchristel.github.io/yt/#kaNO09cPS6c)
 - [From Panic Attacks to Meditation | Mingyur Rinpoche](https://benchristel.github.io/yt/#k1tw5sowFyM)
@@ -135,6 +137,18 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Non-dual Meditation: Part 2 | Swami Sarvapriyananda](https://benchristel.github.io/yt/#dVKS8jhXN2s)
 - [Rational Dharma](https://rationaldharma.com/) - no-nonsense explanations of how meditation works.
 - [Effects of Two Online Positive Psychology and Meditation Programs on Persistent Self-Transcendence](https://psycnet.apa.org/fulltext/2021-81896-001.html) - research on enlightenment
+
+### Practice
+
+- **Sit, Breathe, Wake Up! Guided meditations by Culadasa**
+  - [One (40 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=UG-0XGpesgs)
+  - [Two (43 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=IeXWFRs5cGk)
+  - [Three (46 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=SRqXq570Cf0)
+  - [Four (21 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=aNFc4veG61E)
+  - [Five (35 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=gB4_JS4jsb0)
+  - [Seven (52 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=LBDV7jmZL8s)
+  - [Eight (46 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=nbvx7K_Zh0U)
+  - [Nine (25 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=SpTDGyhoFho)
 
 ## Reviving Civilization
 
