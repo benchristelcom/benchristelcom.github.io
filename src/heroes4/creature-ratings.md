@@ -238,3 +238,7 @@ Revised hypothesis: 4 black dragons will flee from 6165 peasants, but not from 6
 - trial 3: lost 56
 - trial 4: lost 69
 - trial 5: lost 63
+
+## "Give starting troops" army setting
+
+The starting troops are worth about 80 PEONS.
