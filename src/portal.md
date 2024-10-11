@@ -172,7 +172,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Beautiful Software](https://www.buildingbeauty.org/beautiful-software) - a course in Christopher Alexander's methods and philosophy, for software people. See also the reading list at [beautiful.software](https://beautiful.software/)
 - [Dreamsongs.com](https://dreamsongs.com) - Richard P. Gabriel's personal site, containing his poetry and essays about Lisp, Christopher Alexander, and software.
 - [Pivotal Alumni Codex](https://alumni-codex.github.io/) - Resources compiled by former Pivots, including lists of [recommended tech videos](https://alumni-codex.github.io/engineering/tech-videos/), [Pivotal Labs-like consultancies](https://alumni-codex.github.io/consultancies/), [developer tools](https://alumni-codex.github.io/tools/) and [newsletters](https://alumni-codex.github.io/newsletters/). Maintained by [Davis W. Frank](https://dwf.bigpencil.net/).
-- [The C2 Wiki](https://wiki.c2.com/) - the original Wiki. Code by Ward Cunningham, text by many contributors.
+- [The C2 Wiki](https://wiki.c2.com/) - the original Wiki. Code by [Ward Cunningham](https://c2.com/), text by many contributors.
 - [Eloquent Javascript](https://eloquentjavascript.net/) - web book by [Marijn Haverbeke](https://marijnhaverbeke.nl/)
 - [Crafting Interpreters](https://craftinginterpreters.com/) - If you've ever wanted to make your own programming language, this is the book for you. By Robert Nystrom. Available in print and (free!) HTML.
 - [The Beautiful Mess](https://cutlefish.substack.com) - John Cutler's newsletter on product management and software development.
