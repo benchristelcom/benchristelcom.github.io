@@ -51,3 +51,11 @@ If you find yourself worrying about whether you're _really_ relaxing your mind, 
 1. Go to <https://benchristel.github.io/meditation>.
 2. Click "Begin" (this will play audio).
 3. Sit and listen to the sound of the water, just as if you were sitting by a stream and had nothing to do.
+
+## Discoveries
+
+Things I've learned, ideas that have helped.
+
+- Attention isn't a mental "arrow" that you point at things. Attention is just something the mind does; it's not an object per se. The way you control attention is by singling out some object of awareness to become more intense. In other words, you control the _mental object_, not your mind.
+- Directing attention feels like becoming interested in something. The more intensely interested you can be, the more attentive you will be. You have to get inside the mental object like it's a puppet. Make it sit up and talk to you. It's possible to do this because that object _is in your mind_. It _is_ you, in the same way that your hand is you. It's like an appendage you never learned to move. Meditation is how you learn to move it.
+- Notice moments in your life when you become interested in seldom-noticed things. Notice what that feels like. For me, the best parallel to [sound meditation](https://benchristel.github.io/meditation) is playing a computer game and becoming interested in some "background" object like the ambient sounds or the skybox. It's a bit like watching a movie you've seen several times, where you pay attention to little details because you have the impression that incredible thought and care was put into every shot, prop, scene, and costume, and they're worth appreciating. If there's a movie you can watch in that way (for me, it's the Lord of the Rings trilogy) notice how it feels. Try to recreate that feeling in meditation.
