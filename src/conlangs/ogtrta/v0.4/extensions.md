@@ -2,7 +2,9 @@
 
 So far, we have not discussed any of the language features you'd likely encounter in a grammar textbook for a typical human language: plurals, verb tenses, pronouns, etc. Those features are not part of OGTRTA proper; they are left up to the individual language designer.
 
-It can be somewhat tricky to figure out how to work some of these features into an OGTRTA language without disrupting the syntactic and lexical architecture that OGTRTA provides. This page aims to solve that problem with how-to guides and examples.
+One of the nice things about OGTRTA is that it provides a consistent backdrop against which to compare different implementations of various language features. Using OGTRTA, we can clearly see how different implementations make tradeoffs between conciseness, flexibility, and ambiguity.
+
+Still, it can be somewhat tricky to figure out how to work some of these features into an OGTRTA language without disrupting the syntactic and lexical architecture that OGTRTA provides. This page aims to solve that problem with how-to guides and examples.
 
 ## General strategies
 
@@ -11,6 +13,24 @@ It can be somewhat tricky to figure out how to work some of these features into 
 ### Subordination
 
 ### Null morphemes
+
+## Subject motion (SVO/OVS word order)
+
+## Subject-as-modifier (VSO/OSV word order)
+
+## Ergative alignment
+
+## Sentence-level modifiers
+
+## Adconjunctions
+
+## Modifier disambiguation
+
+- Marked adverbs and adconjunctions
+- First-modifier marking
+- Last-modifier marking
+- Agreement
+- Head-marking
 
 ## Determiners
 
@@ -36,18 +56,66 @@ It can be somewhat tricky to figure out how to work some of these features into 
 
 ## Questions as NPs
 
-## Relative clauses
-
 ## Trace pronouns
 
+## Relative clauses
+
+Relative clauses can be implemented in terms of nominalized sentences:
+
+- **Go a-consa studior o que li a-fala Latina.**<br>
+  `1SG PRS-know student of  NOM he  PRS-speak Latin`<br>
+  `PRN V/1      N       V/1 NOM PRN V/1       N`<br>
+  _I know a student who speaks Latin._
+
+Here, the pronoun **li** "he," which refers back to **studior** "student," is left in place in the subclause. In this hypothetical language, you'd say, in effect, "I know a student such that he speaks Latin."
+
+This is nice and regular syntactically, but it's a bit wordier than many natural languages.
+
+To get a system closer to how English works, you could do the following:
+
+- Implement questions using special interrogative nominalizers as described [above](#questions-as-nps).
+- Use a [trace pronoun](#trace-pronouns) for the questioned element.
+- Realize the trace pronoun as a [null morpheme](#null-morphemes)
+- Use a special relativizing verb, realized as [null](#null-morphemes), to let questions modify nouns.
+
+That all sounds rather abstract, so let's look at an example:
+
+You'd form the question "Who speaks Latin?" like this:
+
+- **Qui a-fala Latina?**<br>
+  `qui ∅     a-fala    Latina`<br>
+  `who TRACE PRS-speak Latin`<br>
+  `NOM PRN   V/1       N`<br>
+  _Who speaks Latin?_
+
+And you'd turn that into a relative clause like this:
+
+- **Go a-consa studior qui a-fala Latina.**<br>
+  `go  a-consa  studior ∅   qui ∅     a-fala    Latina`<br>
+  `1SG PRS-know student REL who TRACE PRS-speak Latin`<br>
+  `PRN V/1      N       V/1 NOM PRN   V/1       N`<br>
+  _I know a student who speaks Latin._
+
+Two null morphemes in one noun phrase! Is there nothing nothing can't do?
+
 ## Demonstratives
+
+Demonstratives like "this," "that," "these," "those" can be represented in a few ways:
+
+- as [determiners](#determiners)
+- as adjective-like zero-valence verbs
+- as noun affixes.
+
+- **ti domo, ta domo** "this house, that house" (where **ti** and **ta** are determiners)
+- **domo tia, domo toa** ditto (where **tia** and **toa** are verbs)
+- **domito, domato** ditto, **-it-** and **-at-** are deictic infixes
 
 ## Numbers
 
 Cardinal numbers can be expressed in a few ways:
 
 - They can be [determiners](#determiners), as in English.
-- They can be adjective-like verbs.
+- They can be adjective-like zero-valence verbs.
 - They can be nouns,
 
 Example of numbers-as-determiners:
