@@ -4,7 +4,7 @@
 
 ### Reversibility
 
-The syntax described below is that of a head-initial, VOS language. However, OGTRTA is a reversible syntax. The right-hand-side of each expansion rule can be reversed to create a head-final, SOV language (far more typical of human languages). Additionally, various extensions to the basic syntax can create the other four word orders (SVO, OVS, VSO, and OSV).
+The syntax described below is that of a head-initial, VOS language. However, OGTRTA is a reversible syntax. The right-hand-side of each [expansion rule](#ogtrta-syntax-rules) can be reversed to create a head-final, SOV language (far more typical of human languages). Additionally, [various extensions](extensions.html#subject-motion-svoovs-word-order) to the basic syntax can create the other four word orders (SVO, OVS, VSO, and OSV).
 
 ### Extensibility
 
@@ -57,8 +57,6 @@ A | B   // either A or B
 A*      // zero or more As
 A/n     // an A with valence n.
 A{n}    // exactly n As
-A?      // an optional A
-(...)   // grouping
 ```
 
 ## OGTRTA syntax rules
