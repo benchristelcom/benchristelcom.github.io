@@ -14,6 +14,18 @@ Still, it can be somewhat tricky to figure out how to work some of these feature
 
 ### Null morphemes
 
+## Recommended Morphology
+
+OGTRTA proper has no opinions about morphology. However, there are certain morphological patterns that I have found to work well with OGTRTA. Those are outlined here.
+
+### Verbal morphology
+
+- The dictionary form of verbs is the active participle.
+- There is a set of [valence changing affixes](#valence-changing) that mark the passive, middle, and causative voices.
+- Finite verbs (those that are the main verb of a sentence) are marked. They may be marked for tense as well as finiteness.
+- There is some way of nominalizing verbs (creating gerunds or infinitives).
+- There is [some way to disambiguate](#modifier-disambiguation) which head a modifier attaches to.
+
 ## Subject motion (SVO/OVS word order)
 
 ## Subject-as-modifier (VSO/OSV word order)
@@ -96,7 +108,7 @@ And you'd turn that into a relative clause like this:
   `PRN V/1      N       V/1 NOM PRN   V/1       N`<br>
   _I know a student who speaks Latin._
 
-Two null morphemes in one noun phrase! Is there nothing nothing can't do?
+Two null morphemes in one noun phrase! Is there nothing [nothing](#null-morphemes) can't do?
 
 ## Demonstratives
 

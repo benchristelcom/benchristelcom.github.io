@@ -1,6 +1,6 @@
-# OGTRTA
+# OGTRTA v0.4
 
-Version 0.4 (beta)
+(working draft)
 
 OGTRTA is a template for making constructed languages. The idea is that with a short wordlist and a few decisions about grammar, you can create a fully-functioning, self-consistent, complete, and _unique_ conlang, suitable for further elaboration.
 
