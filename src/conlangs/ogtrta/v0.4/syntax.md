@@ -37,7 +37,9 @@ OGTRTA recognizes four parts of speech or _word classes_. These are subdivided i
 
 ### Valence
 
-Every noun and verb has a **valence**, a number which determines the number of _complements_ that follow it in the syntax tree. Knowing the valence of each word enables the listener to parse OGTRTA sentences. In the formal syntax, a word of valence `n` is denoted `N/n` (for nouns) and `V/n` (for verbs).
+Every noun and verb has a **valence**, a number which determines how many _complements_ must follow it in the syntax tree. The complements of a word are always noun phrases, and are similar to _objects_ (e.g. the _direct object_ and _indirect object_ of a verb) in traditional grammar. Knowing the valence of each word enables the listener to parse OGTRTA sentences. In the formal syntax, a word of valence `n` is denoted `N/n` (for nouns) and `V/n` (for verbs).
+
+When viewed in relation to its complements, a noun or verb is called a _complend_.
 
 Valence is comparable to the concept of _transitivity_ from traditional grammar. A transitive verb is one that takes an object, like "poke" or "throw"; an intransitive verb like "swim" or "jump" takes no object. In OGTRTA, a "transitive verb" in OGTRTA would have valence 1 (`V/1`), while an intransitive verb would have valence 0 (`V/0`).
 

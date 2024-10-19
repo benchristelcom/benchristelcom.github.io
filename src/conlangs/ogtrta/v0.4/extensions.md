@@ -8,6 +8,38 @@ Still, it can be somewhat tricky to figure out how to work some of these feature
 
 ## General strategies
 
+### Semantic roles
+
+A noun or verb can be thought of as having a number of _syntactic slots_ which can be filled by complements. Verbs typically also have a syntactic slot for a subject NP. Each syntactic slot is associated with a _semantic role_ which defines how the complement in that slot relates to its complend. The semantic roles are lexically determined by the complend — that is, they are part of the dictionary meaning of the complend.
+
+For example, a verb like `give/2` might have the following syntactic slots:
+
+```
+give/2   __________ __________ _______
+complend complement complement subject
+         gift       recipient  giver
+```
+
+That is, the complement noun phrase in the first slot following `give/2` plays the role of _gift_, the next complement plays the role of _recipient_, and the subject plays the role of _giver_.
+
+As discussed below in the section on [recommended verbal morphology](#verbal-morphology), derivational affixes on a verb can rearrange the semantic roles of its slots. For example, by applying a middle-passive inflection to `give/2`, we might obtain the following structure:
+
+```
+give-MIDPASS/1 __________ _______
+complend       complement subject
+               recipient  gift
+```
+
+The `MIDPASS` inflection causes the subject role to disappear. The first complement's role is moved to the subject slot.
+
+Or, we might use a middle-voice inflection to remove all complements:
+
+```
+give-MID/0 _______
+complend   subject
+           giver
+```
+
 ### Affixation
 
 ### Subordination
