@@ -8,7 +8,38 @@ Still, it can be somewhat tricky to figure out how to work some of these feature
 
 ## General strategies
 
-### Semantic roles
+### Affixation
+
+### Subordination
+
+### Null morphemes
+
+### Post-serialization processing
+
+- contractions, etc.
+
+## Recommended Morphology
+
+OGTRTA proper does not dictate any particular morphology. However, there are certain morphological patterns that I have found to work well with OGTRTA. Those are outlined here.
+
+### Verbal morphology
+
+The dictionary form of verbs is the active participle. This allows adjective-like and preposition-like verbs to modify other words with no special inflection.
+
+A verb used as the predicate (main verb) of a sentence is marked, usually with a morpheme glossed `FIN` (finite), or with a tense marker.
+
+I tend to mark only finite verbs for tense. However, you might want to consider whether participles should also have past, present, and future tenses, as in Esperanto.
+
+The infinitive form of a verb (`INF`) converts it to a noun, keeping its valence the same. The gerund (`GER`) is similar, but has a valence of zero: all complement slots are removed. `GER` is thus equivalent to the composition of `MID` (see below) and `INF`. Since I usually
+
+I usually have a set of [valence changing affixes](#valence-changing) that mark the passive, middle, and causative voices. The active voice is unmarked.
+
+- The middle voice removes all complements and converts the verb to a zero-valence verb. Example: **I pulo cuica pesco** "The boy cooks fish" (active voice) &rarr; **I pulo cuicas** "The boy cooks" (middle voice).
+- The passive voice swaps the subject and complement of a valence-1 verb.
+- The middle-passive voice removes the original subject, and promotes the first complement to subject position.
+- The causative voice demotes the subject to first complement, and adds a new subject (the cause).
+
+A bit more detail on how this works:
 
 A noun or verb can be thought of as having a number of _syntactic slots_ which can be filled by complements. Verbs typically also have a syntactic slot for a subject NP. Each syntactic slot is associated with a _semantic role_ which defines how the complement in that slot relates to its complend. The semantic roles are lexically determined by the complend — that is, they are part of the dictionary meaning of the complend.
 
@@ -40,27 +71,63 @@ complend   subject
            giver
 ```
 
-### Affixation
+### Modifiers
 
-### Subordination
+Because OGTRTA languages tend to be either consistently head-initial or head-final, the modifiers of multiple heads frequently get stacked on top of each other, making it hard to see which modifiers go with which head. I like to have [some way to disambiguate](#modifier-disambiguation) which head a modifier attaches to. There are a few strategies for doing this:
 
-### Null morphemes
+- A morpheme that marks a modifier immediately following its head (a "first modifier") glossed `M1`.
+- An adverbial affix, which marks modifiers of verbs. If your language has [adconjunctions](#adconjunctions), you might mark those too.
 
-## Recommended Morphology
+You could also use some form of noun class agreement, but I find that that creates more problems than it solves.
 
-OGTRTA proper has no opinions about morphology. However, there are certain morphological patterns that I have found to work well with OGTRTA. Those are outlined here.
+[Interfixed modifiers](#interfixed-modifiers) can help solve some ambiguity problems.
 
-### Verbal morphology
+### Numbers
 
-- The dictionary form of verbs is the active participle.
-- There is a set of [valence changing affixes](#valence-changing) that mark the passive, middle, and causative voices.
-- Finite verbs (those that are the main verb of a sentence) are marked. They may be marked for tense as well as finiteness.
-- There is some way of nominalizing verbs (creating gerunds or infinitives).
-- There is [some way to disambiguate](#modifier-disambiguation) which head a modifier attaches to.
+I find it convenient to make numerals **nouns**; this makes elisive phrases like "I ate four" and arithmetic ("three plus two is five") work grammatically with no additional complications.
+
+To express ideas like "three apples" you'd use a preposition-like verb: "three of apples". The same preposition can also naturally be used for multiplication: "five of three of apples makes fifteen apples".
+
+### Summary of morphemes
+
+- `FIN` - finite
+- `INF` - infinitive
+- `GER` - gerund
+- `M1` - first modifier
+- `ADV` - adverb
+- `ADC` - [adconjunction](#adconjunctions)
 
 ## Subject motion (SVO/OVS word order)
 
+To create an SVO language, start from the standard VOS word order described on the [syntax](./syntax.md) page, and add the following syntax rule:
+
+```
+S -> NP VP
+```
+
+That is, a sentence can consist of a subject noun phrase followed by a verb phrase.
+
+To make an OVS language, reverse all the syntax rules as described in the section on [reversibility](./syntax.md#reversibility).
+
 ## Subject-as-modifier (VSO/OSV word order)
+
+To create a VSO language, start from the standard VOS word order described on the [syntax](./syntax.md) page, and replace the expansion rules for `S` nodes with the following:
+
+```
+S -> NP
+   | VP
+   | S CONJ S
+```
+
+The subject of a verb can then be expressed by a modifier phrase attached to the verb. The head of this modifier phrase can be a [null morpheme](#null-morphemes).
+
+- **A-fala go Latina.**<br>
+  `a-fala    ∅   go  latina`<br>
+  `PRS-speak SBJ 1SG Latin`<br>
+  `V/1       V/1 PRN N`<br>
+  _I speak Latin._
+
+To create an OSV language, reverse all the syntax rules as described in the section on [reversibility](./syntax.md#reversibility).
 
 ## Ergative alignment
 
@@ -68,17 +135,9 @@ OGTRTA proper has no opinions about morphology. However, there are certain morph
 
 ## Adconjunctions
 
-## Modifier disambiguation
-
-- Marked adverbs and adconjunctions
-- First-modifier marking
-- Last-modifier marking
-- Agreement
-- Head-marking
-
 ## Determiners
 
-## Grammatical number
+## Interfixed modifiers
 
 ## Adjectives
 
