@@ -129,8 +129,6 @@ The subject of a verb can then be expressed by a modifier phrase attached to the
 
 To create an OSV language, reverse all the syntax rules as described in the section on [reversibility](./syntax.md#reversibility).
 
-## Ergative alignment
-
 ## Sentence-level modifiers
 
 ## Adconjunctions
