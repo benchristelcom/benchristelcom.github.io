@@ -82,6 +82,12 @@ You could also use some form of noun class agreement, but I find that that creat
 
 [Interfixed modifiers](#interfixed-modifiers) can help solve some ambiguity problems.
 
+### Noun morphology
+
+I find that requiring nouns to be marked for number leads to awkward situations where you don't know if something should be singular or plural. (In written English we have constructions like "car(s)" and "child(ren)" to deal with these situations, but there's no convenient equivalent in the spoken language.)
+
+The solution is to let the dictionary form of a noun be [transnumeral](https://en.wikipedia.org/wiki/Grammatical_number#Transnumeral). Number marking is required on definite nouns only. I like to do this by having two definite articles, one for singular and one for plural. Number can optionally be indicated for indefinite nouns with a [numeral](#numbers) ("one") or a modifier ("many", "several").
+
 ### Numbers
 
 I find it convenient to make numerals **nouns**; this makes elisive phrases like "I ate four" and arithmetic ("three plus two is five") work grammatically with no additional complications.
@@ -130,6 +136,22 @@ The subject of a verb can then be expressed by a modifier phrase attached to the
 To create an OSV language, reverse all the syntax rules as described in the section on [reversibility](./syntax.md#reversibility).
 
 ## Sentence-level modifiers
+
+Sentence-level modifiers can provide attitudinal or evidential information: "Supposedly, Hamlet saw the ghost last night"; "Luckily, no one noticed us".
+
+To add sentence-level modifiers to OGTRTA, add the following syntax rule:
+
+```
+S -> VP S
+```
+
+Optionally, you can allow sentence-level modifiers after the main clause, though this will create ambiguity unless you have some kind of [modifier disambiguation](#modifiers).
+
+```
+S -> S VP
+```
+
+To disambiguate modifier attachment, you can mark sentence-level modifiers that follow their modifiee. One way to do this is to separate the clauses with a sentence particle (glossed `SP`). You might also mark sentence-level modifiers with a morpheme `ADS` (adsentence) or `SM` (sentence modifier) (note: these glosses are nonstandard).
 
 ## Adconjunctions
 
