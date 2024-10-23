@@ -137,6 +137,17 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Non-dual Meditation: Part 2 | Swami Sarvapriyananda](https://benchristel.github.io/yt/#dVKS8jhXN2s)
 - [Rational Dharma](https://rationaldharma.com/) - no-nonsense explanations of how meditation works.
 - [Effects of Two Online Positive Psychology and Meditation Programs on Persistent Self-Transcendence](https://psycnet.apa.org/fulltext/2021-81896-001.html) - research on enlightenment
+- [The Meditative Path at a Macro Level | OnThatPath](https://www.youtube.com/watch?v=rjGAh7om7gc)
+- **The Cause of Stress and Dissatisfaction (Dependent Origination) | OnThatPath**: [Part 1](https://benchristel.github.io/yt#i1izrpQqvP4), [Part 2](https://benchristel.github.io/yt#k2T9dxDmsS4)
+- [How To Permanently Be Free From Stress, Suffering & Dissatisfaction: The Prognosis & Prescription](https://benchristel.github.io/yt#bMsTcqtWi1o)
+- **How to Meditate Effectively | OnThatPath**
+  - [Part 1: Mindfulness](https://benchristel.github.io/yt#giDJNVPs014)
+  - [Part 2: Booster Tools](https://benchristel.github.io/yt#B0IJ-f_cnVA)
+  - [Part 3: What Should Your Meditation Feel Like?](https://benchristel.github.io/yt#C1aCu4Cd3tw)
+- **Tracking Meditation Progress (Anapanasati / Mindfulness of Breathing) | OnThatPath**
+  - [Part 1: Steps Overview](https://benchristel.github.io/yt#Swg8vt_t3GI)
+  - [Part 2: Steps in Detail](https://benchristel.github.io/yt#z8Wnm-crf1E)
+  - [Part 3: Vipassana / Insight Meditation Progress](https://benchristel.github.io/yt#KHhesuG9lhA)
 
 ### Practice
 
