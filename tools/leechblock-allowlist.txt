@@ -4,3 +4,4 @@
 +youtube.com/results
 +youtube.com/results*
 +youtube.com/watch*
++substack.com/chat*
