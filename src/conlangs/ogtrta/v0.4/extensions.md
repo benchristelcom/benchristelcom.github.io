@@ -94,15 +94,6 @@ I find it convenient to make numerals **nouns**; this makes elisive phrases like
 
 To express ideas like "three apples" you'd use a preposition-like verb: "three of apples". The same preposition can also naturally be used for multiplication: "five of three of apples makes fifteen apples".
 
-### Summary of morphemes
-
-- `FIN` - finite
-- `INF` - infinitive
-- `GER` - gerund
-- `M1` - first modifier
-- `ADV` - adverb
-- `ADC` - [adconjunction](#adconjunctions)
-
 ## Subject motion (SVO/OVS word order)
 
 To create an SVO language, start from the standard VOS word order described on the [syntax](./syntax.md) page, and add the following syntax rule:
@@ -157,7 +148,29 @@ To disambiguate modifier attachment, you can mark sentence-level modifiers that 
 
 ## Determiners
 
+The core syntax of OGTRTA does not define a part of speech or syntax rules for _determiners_, but you could add them.
+
+Replace the syntax rules for `NP` with:
+
+```
+NP -> DET? N/n VP* NP{n}
+    | NOM S
+    | NP CONJ NP;
+```
+
 ## Interfixed modifiers
+
+If your language has [determiners](#determiners), you might allow "short modifiers" (modifier phrases headed by zero-valence verbs) between a determiner and its noun.
+
+Syntax rules:
+
+```
+NP -> DET? SM* N/n VP* NP{n}
+    | NOM S
+    | NP CONJ NP;
+SM -> V/0 VP*
+    | SM CONJ SM;
+```
 
 ## Adjectives
 
@@ -294,3 +307,24 @@ I don't think ordinals-as-nouns makes sense, but maybe I'm wrong about that.
 ## Inchoative and cessative
 
 Prepositions "to" and "from", and variants like "onto" and "from out of" can be replaced by inchoative and cessastive inflections of other prepositions. E.g. "to" can be `at1#INCH`. "for" (dative) can be `of1#INCH`.
+
+## Glossing abbreviations for morphemes mentioned on this page
+
+- `FIN` - finite
+- `PST` - past tense
+- `INF` - infinitive
+- `GER` - gerund
+- `M1` - first modifier
+- `ADV` - adverb
+- `ADC` - [adconjunction](#adconjunctions)
+- `SM`  - sentence modifier
+- `INCH` - inchoative
+- `CESS` - cessative
+- `DEF` - definite article
+- `DEFPL` - plural definite article
+- `PL` - plural number
+- `1SG` - first-person singular pronoun
+- `PRN` - pronoun
+- `DET` - determiner
+- `NOM` - nominalizer
+- `TRACE` - trace pronoun

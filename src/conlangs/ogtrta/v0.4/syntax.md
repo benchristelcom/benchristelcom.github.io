@@ -57,6 +57,7 @@ A -> B; // an A consists of B
 A B     // A and B in sequence
 A | B   // either A or B
 A*      // zero or more As
+A?      // an optional A
 A/n     // an A with valence n.
 A{n}    // exactly n As
 ```
