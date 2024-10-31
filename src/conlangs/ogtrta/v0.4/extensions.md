@@ -82,6 +82,12 @@ You could also use some form of noun class agreement, but I find that that creat
 
 [Interfixed modifiers](#interfixed-modifiers) can help solve some ambiguity problems.
 
+### Copula
+
+In standard OGTRTA, adjectives and prepositions are verbs and do not require a copula ("to be") to be used as the predicate of a sentence. However, a verb glossed as `be/1` is still needed to form sentences that equate nouns ("a toad is an amphibian").
+
+See [adjectives and prepositions](#adjectives-and-prepositions) for hints on how to make predicative adjectives and prepositions use a copula.
+
 ### Noun morphology
 
 I find that requiring nouns to be marked for number leads to awkward situations where you don't know if something should be singular or plural. (In written English we have constructions like "car(s)" and "child(ren)" to deal with these situations, but there's no convenient equivalent in the spoken language.)
@@ -144,8 +150,6 @@ S -> S VP
 
 To disambiguate modifier attachment, you can mark sentence-level modifiers that follow their modifiee. One way to do this is to separate the clauses with a sentence particle (glossed `SP`). You might also mark sentence-level modifiers with a morpheme `ADS` (adsentence) or `SM` (sentence modifier) (note: these glosses are nonstandard).
 
-## Adconjunctions
-
 ## Determiners
 
 The core syntax of OGTRTA does not define a part of speech or syntax rules for _determiners_, but you could add them.
@@ -172,9 +176,21 @@ SM -> V/0 VP*
     | SM CONJ SM;
 ```
 
-## Adjectives
+## Adjectives and prepositions
 
-## Prepositions
+OGTRTA languages can emulate adjectives and prepositions by dividing verbs into two inflection paradigms, e.g.:
+
+- Class 1 verbs: have an infinitive dictionary form
+- Class 2 verbs: have a participial dictionary form, with tense/aspect/mood affixes that resemble the [copula](#copula).
+
+| Form   | Class 1 | Class 2 |
+| ------ | ------------------------ | ---------------------- |
+| Infinitive    | _**maiten**_ "to eat", _**sen**_ "to be" | _sen-hujo_ "to be red" |
+| Present Tense | _maita_ "eats", _asa_ "is" | _asa-hujo_ "is red"    |
+| Past Tense    | _omais_ "ate", _oas_ "was"     | _oas-hujo_ "was red"   |
+| Active Participle | _maitio_ "eating", _asho_ "being" | _**hujo**_ "red" |
+
+Class 1 verbs are thus similar to what we would call verbs in English, and Class 2 verbs are similar to adjectives and prepositions.
 
 ## Tenses
 
