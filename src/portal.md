@@ -269,6 +269,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [searchpass](https://github.com/larham/searchpass) - A shell script that checks if your password has been exposed in a data breach, *without* revealing it to anyone. If you're a programmer, you'll appreciate the elegant algorithm. Made by my colleague Larry Hamel.
 - [uBlock Origin](https://ublockorigin.com/) - The ad blocker geeks use. Don't worry, there's nothing particularly geeky about it; it's just an ad blocker that works. Blocks trackers, too! Extensions for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), and [Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak).<hs-meta keywords="add-ons addons plugin adblock"></hs-meta>
 - [MarkDownload](https://github.com/deathau/markdownload) - View and download the main content of most HTML pages as [Markdown]. Made by [Gordon Pedersen](https://death.id.au/). (h/t [Maya] via [Chris Aldrich](https://boffosocko.com/2020/12/29/markdownload-github/))
+- [jq](https://jqlang.github.io/jq/manual/) - CLI parser / formatter / stream editor for JSON
 
 ### Tools I Have Used
 
