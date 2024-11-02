@@ -1,7 +1,7 @@
 # Metrics for benchristel.com
 
 Created: July 4, 2024.<br>
-Updated: October 2, 2024.
+Updated: November 2, 2024.
 
 ## Background
 
@@ -31,10 +31,12 @@ Run `tools/metrics HISTORYFILE`
 
 ## Historical Data
 
-**Lower numbers are better.**
+- The target for monthly webpage visits is 900.
+- Lower search counts are better.
 
 | Month    | Webpages | Google searches | DDG searches |
 | -------- | -------- | --------------- | ------------ |
+| Oct 2024 | 604      | 0               | 0            |
 | Sep 2024 | 902      | 0               | 25           |
 | Aug 2024 | 1591     | 1               | 87           |
 | Jul 2024 | 1072     | 1               | 101          |
@@ -45,6 +47,14 @@ Run `tools/metrics HISTORYFILE`
 | Feb 2024 | 1435     | 6               | 160          |
 
 ## Notes
+
+### October 2024
+
+I didn't really work on any projects this month, hence the low traffic. I did, however, successfully "drive web searches to zero" — my stated goal from last month. I didn't have a particular deadline in mind for this goal. I didn't expect it to go so quickly.
+
+Zero searches doesn't seem sustainable with my current setup. The only reason I got away with it last month was because, as I said, I wasn't working on anything. I'm considering trying to _maximize_ the number of searches I do in November — with the rule that anything good I find by searching has to go on the [portal page](/portal.html). Not sure I'll do this yet.
+
+In any case, I think it's time to set up LeechBlock on my work computer as well, to remove the temptation to cheat on these metrics by using it for personal web browsing. I plan to cut off web access on the work machine at 5 PM, and use [my allowlist](/leechblock.txt) during the workday.
 
 ### September 2024
 
