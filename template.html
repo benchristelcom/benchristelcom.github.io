@@ -148,6 +148,25 @@ img {
   text-decoration: none;
 }
 
+/* hide mdsite's top-level breadcrumb link so we can replace it with our own */
+.breadcrumb > a:nth-child(2) {
+  display: none;
+}
+.breadcrumb > a:first-child {
+  vertical-align: -3px;
+}
+.breadcrumb > a:first-child::after {
+  vertical-align: 3px;
+}
+.breadcrumb > a::after {
+  display: inline-block;
+  width: 2em;
+  text-align: center;
+  content: '➤';
+  color: #888c;
+  font-size: 0.9em;
+}
+
 table, td, th {
   text-align: left;
   border: 1px solid #0003;
@@ -230,6 +249,16 @@ sup > a {
   width: 2rem;
 }
 
+.sr-only {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
 hr {
   color: var(--border-color);
   border: none;
@@ -247,6 +276,9 @@ iframe[src*='https://www.youtube.com'] {
     </style>
 	</head>
 	<body>
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/welcome.html"><span class="sr-only">Home</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" style="width:16px;height:16px"><path fill-rule="evenodd" d="M9.293 2.293a1 1 0 0 1 1.414 0l7 7A1 1 0 0 1 17 11h-1v6a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1v-3a1 1 0 0 0-1-1H9a1 1 0 0 0-1 1v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-6H3a1 1 0 0 1-.707-1.707l7-7Z" clip-rule="evenodd" /></svg></a>{{breadcrumb --no-nav}}
+    </nav>
     <main>{{content}}</main>
     <footer>
       <nav class="home-link">

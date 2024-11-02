@@ -1,5 +1,3 @@
-<nav class="centered-text">{{up}}</nav>
-
 # Christopher Alexander's Fifteen Properties of Living Structure in Software
 
 Ben Christel, 2024
