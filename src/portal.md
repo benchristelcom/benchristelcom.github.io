@@ -100,6 +100,7 @@
 
 - [Sunridge Farms](https://sunridgefarms.com/) - Organic bulk goods, including grains and beans. <hs-meta keywords="bulk wholesale"></hs-meta>
 - [Monterey Bay Herb Company](https://herbco.com/) <hs-meta keywords="herbco bulk wholesale"></hs-meta> - Tea, herbs, and spices for very competitive prices.
+- [Rancho Gordo](https://www.ranchogordo.com/) - Beans!
 
 ## Music
 
@@ -302,6 +303,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
   - useful if you have formatting commits that touch tons of code but make no functional changes.
 - [How to get RSS URLs from YouTube channels and playlists](https://chriswere.wales/articles/rss-youtube) by Chris Were.
   - It seems you can also paste YouTube channel URLs directly into at least some feed readers (tested with QuiteRSS). E.g. try this one: <https://www.youtube.com/@simonroper9218>.
+- [Show or hide HTML elements for screenreaders only](https://css-tricks.com/inclusively-hidden/) using CSS.
 
 ## Image Repositories<hs-meta keywords="free stock images"></hs-meta>
 
