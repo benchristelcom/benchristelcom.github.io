@@ -30,7 +30,7 @@ A verb used as the predicate (main verb) of a sentence is marked, usually with a
 
 I tend to mark only finite verbs for tense. However, you might want to consider whether participles should also have past, present, and future tenses, as in Esperanto.
 
-The infinitive form of a verb (`INF`) converts it to a noun, keeping its valence the same. The gerund (`GER`) is similar, but has a valence of zero: all complement slots are removed. `GER` is thus equivalent to the composition of `MID` (see below) and `INF`. Since I usually
+The infinitive form of a verb (`INF`) converts it to a noun, keeping its valence the same. The gerund (`GER`) is similar, but has a valence of zero: all complement slots are removed. `GER` is thus equivalent to the composition of `MID` (see below) and `INF`.
 
 I usually have a set of [valence changing affixes](#valence-changing) that mark the passive, middle, and causative voices. The active voice is unmarked.
 
@@ -191,8 +191,6 @@ OGTRTA languages can emulate adjectives and prepositions by dividing verbs into 
 | Active Participle | _maitio_ "eating", _asho_ "being" | _**hujo**_ "red" |
 
 Class 1 verbs are thus similar to what we would call verbs in English, and Class 2 verbs are similar to adjectives and prepositions.
-
-## Tenses
 
 ## Negation
 
