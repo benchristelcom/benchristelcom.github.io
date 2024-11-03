@@ -3,7 +3,7 @@
 I spend a lot of time thinking about why there's so much bad code in the world, and what we can do about it. I hypothesize two reasons code quality tends to degrade:
 
 - The costs of poor code quality are hard to see, because of how quality shapes decisions at the organizational level.
-- Executives and managers don't have the detailed knowledge they'd need to reap the benefits of good code. A strictly command-and-control organization can't take advantage of code quality; teams and individuals need local agency. Such an organization has little reason to prioritize code quality, and little hope of doing so effectively.
+- Executives and managers don't have the detailed knowledge they'd need to reap the benefits of good code. A strictly command-and-control organization can't take advantage of code quality; teams and individuals need local agency. A command-and-control organization thus has little reason to prioritize code quality, and little hope of doing so effectively.
 
 These certainly aren't the only two causes of bad code, but they're the ones I'll focus on in this post.
 
