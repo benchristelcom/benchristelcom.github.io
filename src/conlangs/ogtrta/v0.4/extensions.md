@@ -10,6 +10,8 @@ Still, it can be somewhat tricky to figure out how to work some of these feature
 
 ### Affixation
 
+### Compounding
+
 ### Subordination
 
 ### Null morphemes
@@ -192,11 +194,34 @@ OGTRTA languages can emulate adjectives and prepositions by dividing verbs into 
 
 Class 1 verbs are thus similar to what we would call verbs in English, and Class 2 verbs are similar to adjectives and prepositions.
 
-## Negation
-
-## Pronouns
-
 ## Possessives
+
+Possessive pronouns can either be [determiners](#determiners) as in English, or verbs.
+
+Example of possessives-as-determiners:
+
+- **mi lemba**<br>
+  `1SGPOSS language`<br>
+  `DET     N`<br>
+  _my language_
+
+Example of possessives-as-modifiers:
+
+- **i lemba mia**<br>
+  `DEF language 1SGPOSS`<br>
+  `DET N        V/0`<br>
+  _my language_
+
+Alternatively, you may not have separate possessive pronouns, and instead use a preposition-like verb to mark the possessive/genitive for both nouns and pronouns:
+
+- **i lemba o go**<br>
+  `DEF language of  1SG`<br>
+  `DET N        V/1 PRN`<br>
+  _my language_
+- **i lemba o awehi**<br>
+  `DEF language of  bird-PL`<br>
+  `DET N        V/1 N`<br>
+  _the language of birds_
 
 ## Valence-changing
 
