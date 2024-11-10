@@ -251,7 +251,6 @@ https://arstechnica.com
 https://britannica.com
 https://gitea.com
 https://wolframalpha.com
-https://bundlephobia.com
 https://cyberarcadia.com
 https://scribemedia.com
 https://windows-cdn.softpedia.com

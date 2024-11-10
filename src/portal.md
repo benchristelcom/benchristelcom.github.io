@@ -245,6 +245,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Visual Studio Code](https://code.visualstudio.com/) (vscode) - Pretty good out of the box, configurable, versatile, and free.
 - [JetBrains](https://www.jetbrains.com/) - Expensive, but they come with pretty incredible code intelligence and refactoring tools. Lots of stuff you'd have to configure yourself or use plugins for in other editors "just works" in JetBrains.
 - [NPM](https://npmjs.com) - Hosts NodeJS packages. Owned by Microsoft. See also the [NPM documentation](https://docs.npmjs.com).
+- [Bundlephobia](https://bundlephobia.com) - View the size and composition of NodeJS / JavaScript packages on NPM. Includes comparisons to similar libraries. Useful for keeping your JS bundles small.
 - [Rubygems](https://rubygems.org/) - Hosts Ruby gems.
 - [jsdelivr](https://jsdelivr.com/) - CDN that distributes code from NPM and GitHub, with neat features like automatic minification.
 - [Namecheap](https://namecheap.com/) - Domain registrar
