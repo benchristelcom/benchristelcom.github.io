@@ -205,7 +205,6 @@ https://librivox.org
 https://archlinux.org
 https://dewey.org
 https://khanacademy.org
-https://jwz.org
 https://conclave.tech
 https://dataannotation.tech
 https://ipfs.tech
@@ -214,12 +213,9 @@ https://src.alexschroeder.ch
 https://cyclic.sh
 https://feather.surge.sh
 https://brew.sh
-https://play.half.earth
 https://random.earth
 https://organism.earth
-https://gandalf.lakera.ai
 https://exa.ai
-https://khanmigo.ai
 https://contentdetector.ai
 https://grammar.intrinsiclabs.ai
 https://autism.archi
@@ -237,7 +233,6 @@ https://amazon.co.uk
 https://maps.nls.uk
 https://universocantigas.gal
 https://buttondown.email
-https://airborneready.army.mil
 https://tenochtitlan.thomaskole.nl
 https://www.exitmundi.nl
 https://webpro.nl
@@ -284,7 +279,6 @@ https://www.superbad.com
 https://forum.agoraroad.com
 https://braziliankitchenabroad.com
 https://simplermachines.gumroad.com
-https://chess.maxmcd.com
 https://indeed.com
 https://steampowered.com
 https://wired.com

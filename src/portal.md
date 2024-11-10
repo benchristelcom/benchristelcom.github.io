@@ -275,7 +275,8 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 ### Tools I Have Used
 
-- [Flow](https://flow.org/) - A type system for JavaScript, similar to [TypeScript](https://typescriptlang.org/). Flow is, IMO, the superior typechecker in several respects, including correctness and performance, but unfortunately no one uses it.
+- [Flow](https://flow.org/) - A type system for JavaScript, similar to [TypeScript](https://typescriptlang.org/). Flow is, IMO, the superior typechecker in several respects, including correctness and performance, but unfortunately few libraries distribute type declarations for it.
+- [Goatcounter](https://www.goatcounter.com) - Free web analytics that won't let Big Tech spy on your users. Stopped using because I don't get enough traffic to care about analytics.
 
 ### Tools I Might Use Someday
 
