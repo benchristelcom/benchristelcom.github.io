@@ -9,7 +9,8 @@
 - [Linux Mint 20.3](https://www.linuxmint.com/)
   - Cinnamon desktop
   - [LynX theme](https://github.com/benchristel/LynX)
-- [WASD 87-key keyboard](https://www.wasdkeyboards.com/) with [Cherry MX brown switches](https://www.wasdkeyboards.com/mechanical-keyboard-guide) and MacOS keycaps
+  - [macOS keybindings](https://github.com/benchristel/autokeyconf)
+- [WASD 87-key keyboard](https://www.wasdkeyboards.com/) with [Cherry MX brown switches](https://www.wasdkeyboards.com/mechanical-keyboard-guide) and Mac keycaps
 
 ## Web browser
 
@@ -34,7 +35,7 @@
 
 - [Namecheap](https://namecheap.com/) - Domain registrar
 - [GitHub Pages](https://pages.github.com/) - Mostly painless hosting for static sites. Works well with Git, obviously. But it was bizarrely difficult to set up a custom domain; the process is riddled with errors and footguns.
-- [Neocities](https://neocities.org) - Free, indie, social web hosting. A spiritual successor to Geocities.
+- [Neocities](https://neocities.org) - Freemium, indie, social web hosting. A spiritual successor to Geocities. Much easier to add a custom domain to than GitHub Pages.
 
 ### My go-to JavaScript tools and libraries
 
