@@ -1,4 +1,4 @@
-# Hello!
+# Ben Christel's Homepage
 
 I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); by night I write everything else. This website is the gateway to my many projects.
 

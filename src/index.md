@@ -1,4 +1,4 @@
-# Ben Christel’s Homepage
+# Ben Christel
 
 <a href="welcome.html" id="tree" aria-hidden="true" tabIndex="-1"></a>
 
