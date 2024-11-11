@@ -20,7 +20,7 @@ p, li, figcaption, blockquote, h1, h2, h3, h4, h5, h6, a {
   --align: left;
   --hyphens: manual;
   --font-size: 1rem;
-  --body-font-family: 'Times New Roman', 'Georgia', serif;
+  --body-font-family: 'Georgia', 'Times New Roman', serif;
   --heading-font-family: 'Georgia', 'Times New Roman', serif;
   --line-height: 160%;
   --font: var(--font-size) / var(--line-height) var(--body-font-family);
@@ -171,6 +171,8 @@ table, td, th {
   text-align: left;
   border: 1px solid #0003;
   background: #fff;
+  /* Georgia doesn't have lining-nums */
+  font-family: 'Times New Roman', serif;
 }
 
 td, th {
@@ -223,7 +225,7 @@ sup, sup > a {
 }
 sup > a {
   /* Georgia doesn't have lining-nums */
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Times New Roman', serif;
   font-weight: bold;
   padding-inline: 0.25em;
 }
