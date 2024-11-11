@@ -5,3 +5,5 @@
 +youtube.com/results*
 +youtube.com/watch*
 +substack.com/chat*
++*.gov/*
++*.edu/*

@@ -345,6 +345,7 @@ https://developer.chrome.com
 https://selfsufficientme.com
 https://off---line.com
 https://etymonline.com
+https://paloaltoonline.com
 https://www.elderscrollsonline.com
 https://login.microsoftonline.com
 https://mattstine.com
@@ -797,7 +798,6 @@ https://ntietz.com
 https://sandimetz.com
 https://stackblitz.com
 https://billwurtz.com
-https://paloaltoonline.com
 https://drawing.garden
 https://postbox.garden
 https://remix.run
@@ -991,9 +991,6 @@ https://baltic.art
 https://huh.art
 https://pca.st
 https://localhost
-https://academia.edu
-https://orbis.stanford.edu
-https://persepolis.getty.edu
 https://www.medieval.eu
 https://www.worldstandards.eu
 https://hanovfond.ru
@@ -1024,20 +1021,6 @@ https://www.argonaut.dev
 https://lorenzofox.dev
 https://www.cassey.dev
 https://node-sqlite-fly.fly.dev
-https://www.epa.gov
-https://climate.nasa.gov
-https://www.ftc.gov
-https://cloud.gov
-https://www.phe.gov
-https://www.whitehouse.gov
-https://techcred.ohio.gov
-https://bensguide.gpo.gov
-https://federalregister.gov
-https://www.bls.gov
-https://www.regulations.gov
-https://apps.irs.gov
-https://www.irs.gov
-https://www.bart.gov
 https://www.twitch.tv
 https://surf.city
 https://threltemania.xyz
