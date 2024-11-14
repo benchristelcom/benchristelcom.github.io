@@ -187,6 +187,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [The C2 Wiki](https://wiki.c2.com/) - the original Wiki. Code by [Ward Cunningham](https://c2.com/), text by many contributors.
 - [Eloquent Javascript](https://eloquentjavascript.net/) - web book by [Marijn Haverbeke](https://marijnhaverbeke.nl/)
 - [Crafting Interpreters](https://craftinginterpreters.com/) - If you've ever wanted to make your own programming language, this is the book for you. By Robert Nystrom. Available in print and (free!) HTML.
+- [Programming as Theory Building](https://pablo.rauzy.name/dev/naur1985programming.pdf) by Peter Naur, 1985.
 - [The Beautiful Mess](https://cutlefish.substack.com) - John Cutler's newsletter on product management and software development.
 - [Manifesto for Agile Software Development](http://agilemanifesto.org/) - Read this before you hate on "Agile."
 
