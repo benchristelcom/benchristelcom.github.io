@@ -231,6 +231,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [CSS Fonts (cssfontstack.com)](https://www.cssfontstack.com/) - lists web-safe fonts that most computers have installed, so you can craft `font-family` values that will look good cross-platform.
 - [David Jonathan Ross Fonts](https://djr.com/)
 - [Google Fonts](https://fonts.google.com/) - Free downloadable fonts for your website. You can also hotlink them, but that will let Google surveil your users.
+- [Recursive](https://www.recursive.design/) - A variable font that blends sans, handwritten, and monospace styles.
 - [Practical Typography](https://practicaltypography.com/) by Matthew Butterick (h/t [Ruby](https://www.bruh.ltd/))
 
 ### Tools I Currently Use
