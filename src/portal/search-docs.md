@@ -2,11 +2,11 @@
 
 ## Introduction
 
-The searchbar on the [Web Portal](/portal.html) page has multiple uses and some hidden functionality. This is admittedly not ideal for software designed for general consumption, but the web portal is only partly intended for general consumption. I figure I'm probably the only person who would care about the hidden features. I'm going to document them here anyway, though, for my own benefit and perhaps for yours.
+The searchbar on the [Web Portal](/portal) page has multiple uses and some hidden functionality. This is admittedly not ideal for software designed for general consumption, but the web portal is only partly intended for general consumption. I figure I'm probably the only person who would care about the hidden features. I'm going to document them here anyway, though, for my own benefit and perhaps for yours.
 
 ## Autofocusing the search bar
 
-You can make the searchbar focus automatically when the page loads, so you don't have to click it before you type your query. Check the box under [Settings](/portal.html#settings).
+You can make the searchbar focus automatically when the page loads, so you don't have to click it before you type your query. Check the box under [Settings](/portal#settings).
 
 ## Filtering
 
@@ -43,6 +43,6 @@ I have hard-coded a few shortcuts into the searchbar for my own use. Typing a sh
 
 <div class="centered-text">
 
-[Back to the Portal Page](/portal.html)
+[Back to the Portal Page](/portal)
 
 </div>

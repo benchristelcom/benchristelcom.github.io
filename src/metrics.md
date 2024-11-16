@@ -5,7 +5,7 @@ Updated: November 2, 2024.
 
 ## Background
 
-The goal of the [web portal](/portal.html) page is twofold:
+The goal of the [web portal](/portal) page is twofold:
 
 - **Goal 1:** Contain my internet addiction. The analogy is to wildfire containment: the idea is to define a perimeter around the bad thing, so it can't expand, and then ratchet it slowly inwards. To that end, I generate a [LeechBlock NG](https://www.proginosko.com/leechblock/) [configuration file](/leechblock.txt) that I use to block all sites not in the web portal.
 - **Goal 2:** Preserve links to the websites I use, in case web search [becomes unusable](https://waywardweb.org/why.html). A side effect / subgoal is that the portal can serve as a starting point for a web crawler, which will come in handy if/when I want to build my own search engine.
@@ -16,7 +16,7 @@ The metric for **Goal 1** is **"number of webpages visited per month"** as measu
 
 A few webpages that I consider mostly harmless are excluded from this metric. Those include:
 
-- the [Web Portal](/portal.html) itself
+- the [Web Portal](/portal) itself
 - [Bastion](https://bastionhome.github.io/)
 - my [meditation timer](https://benchristel.github.io/meditation/)
 - my email inbox
@@ -52,7 +52,7 @@ Run `tools/metrics HISTORYFILE`
 
 I didn't really work on any projects this month, hence the low traffic. I did, however, successfully "drive web searches to zero" — my stated goal from last month. I didn't have a particular deadline in mind for this goal. I didn't expect it to go so quickly.
 
-Zero searches doesn't seem sustainable with my current setup. The only reason I got away with it last month was because, as I said, I wasn't working on anything. I'm considering trying to _maximize_ the number of searches I do in November — with the rule that anything good I find by searching has to go on the [portal page](/portal.html). Not sure I'll do this yet.
+Zero searches doesn't seem sustainable with my current setup. The only reason I got away with it last month was because, as I said, I wasn't working on anything. I'm considering trying to _maximize_ the number of searches I do in November — with the rule that anything good I find by searching has to go on the [portal page](/portal). Not sure I'll do this yet.
 
 In any case, I think it's time to set up LeechBlock on my work computer as well, to remove the temptation to cheat on these metrics by using it for personal web browsing. I plan to cut off web access on the work machine at 5 PM, and use [my allowlist](/leechblock.txt) during the workday.
 

@@ -10,7 +10,6 @@ how-to-meditate.html
 log.html
 metrics.html
 portal
-portal.html
 posts
 recipes
 software.html

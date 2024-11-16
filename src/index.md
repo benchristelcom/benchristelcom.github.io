@@ -11,7 +11,7 @@
 - [GitHub](https://github.com/benchristel)
 - [Newsletter](https://bensguide.substack.com/)
 - [Digital Garden](https://github.com/benchristel/benchristel.github.io/wiki)
-<!-- - [Web Portal](portal.html) -->
+<!-- - [Web Portal](/portal) -->
 - <a href="https://waywardweb.org" style="letter-spacing:-0.01em;">WaywardWeb.org</a>
 - [Blog (defunct)](https://benchristel.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/ben-christel-17a26829/)
