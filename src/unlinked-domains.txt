@@ -3,7 +3,6 @@ https://127.0.0.1
 https://home.cc.umanitoba.ca
 https://jvns.ca
 https://www.chosenplaintext.ca
-https://spacemy.acxyz.ca
 https://therecord.media
 https://hotlinewebring.club
 https://blips.club
@@ -13,7 +12,7 @@ https://sean-parent.stlab.cc
 https://tante.cc
 https://uxdesign.cc
 https://www.favicon.cc
-https://help.obsidian.md
+https://obsidian.md
 https://tixy.land
 https://bruh.ltd
 https://pinata.cloud
@@ -97,7 +96,6 @@ https://ziglang.org
 https://conlang.org
 https://rust-lang.org
 https://onbeing.org
-https://extremeprogramming.org
 https://searxng.org
 https://gutenberg.org
 https://whatwg.org
@@ -936,10 +934,8 @@ https://optical.toys
 https://paint.toys
 https://memory.toys
 https://fraidyc.at
-https://www.wheresyoured.at
 https://www.vintagestory.at
 https://www.windows93.net
-https://modelweb.net
 https://fabricmc.net
 https://devdoc.net
 https://emreed.net
