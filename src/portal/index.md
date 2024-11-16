@@ -646,6 +646,16 @@ h1 {
   margin-block: 0.25em;
 }
 
+h2 {
+  margin-block: 2em 0.5em;
+}
+
+h3 {
+  background: #00000008;
+  margin-inline: -0.33em;
+  padding-inline: 0.33em;
+}
+
 li {
   margin-block-end: 0.75em;
 }
