@@ -31,11 +31,11 @@
 - [JetBrains editors](https://www.jetbrains.com/) - Expensive, but they come with pretty incredible code intelligence and refactoring tools. Lots of stuff you'd have to configure yourself or use plugins for in other editors "just works" in JetBrains.
 - [Visual Studio Code](https://code.visualstudio.com/) - Pretty good out of the box, configurable, versatile, and free.
 
-### Hosting
+### Web Hosting
 
 - [Namecheap](https://namecheap.com/) - Domain registrar
 - [GitHub Pages](https://pages.github.com/) - Mostly painless hosting for static sites. Works well with Git, obviously. But it was bizarrely difficult to set up a custom domain; the process is riddled with errors and footguns.
-- [Neocities](https://neocities.org) - Freemium, indie, social web hosting. A spiritual successor to Geocities. Much easier to add a custom domain to than GitHub Pages.
+- [Neocities](https://neocities.org) - Freemium, indie, social web hosting. A spiritual successor to Geocities. Much easier to add a custom domain to than GitHub Pages. Neocities hosts [The Wayward Webring](https://waywardweb.org) and a [mirror of this site](https://benchristel.neocities.org).
 
 ### My go-to JavaScript tools and libraries
 
@@ -46,8 +46,8 @@
 - [Prettier](https://prettier.io) - On many of my older projects, I use Prettier for code formatting.
 - [ESLint](https://eslint.org/) - On my more recent projects, I've been formatting code with ESLint and the [@stylistic](https://eslint.style/) plugin. It's more flexible than Prettier. [Here is an example of how I've configured it](https://github.com/benchristel/marss/blob/7048cda9e38fcc26578b92d07b73eb0eb3966f5a/eslint.config.js). For the reasons why I switched, see [Anthony Fu's post "Why I don't use Prettier"](https://antfu.me/posts/why-not-prettier).
 - [mdsite](https://benchristel.github.io/mdsite) - My static site generator.
-- [Preact](https://preactjs.com/) - Lightweight reactive UI library. Keeps the DOM up to date when your application state changes.
+- [Preact](https://preactjs.com/) - Lightweight reactive UI library. Implements the React API, so you can use third-party React components.
 - [Husky](https://typicode.github.io/husky/) - Git hooks framework.
-- [Marked](https://marked.js.org/) - [Markdown]-to-HTML converter for NodeJS
+- [Marked](https://marked.js.org/) - Markdown-to-HTML converter for NodeJS.
 - [@regosen/gapless-5](https://www.npmjs.com/package/@regosen/gapless-5) - gapless and looped audio playback on the web. Essential if you're building a music player.
 - [tiny-invariant](https://www.npmjs.com/package/tiny-invariant) - TypeScript assertion library that does type narrowing.

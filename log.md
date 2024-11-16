@@ -47,6 +47,14 @@ The worldview of consumerism says the world is made of _things_. Creating value,
 
 -->
 
+## November 16, 2024
+
+I now have a [/uses page](/uses) listing the hardware and software I currently use.
+
+The [metrics](/metrics.html) page is up to date with the latest data. The project to remove my dependency on web search is going well!
+
+Meanwhile, I am working on the [fourth beta version of OGTRTA](/conlangs/ogtrta/v0.4), a syntax framework for constructed languages.
+
 ## September 1, 2024: "Code Quality: Hidden Costs, Unexpected Benefits"
 
 I've posted a new article: ["Code Quality: Hidden Costs, Unexpected Benefits"](/posts/code-quality-costs-benefits/)
