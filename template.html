@@ -230,6 +230,12 @@ sup > a {
   padding-inline: 0.25em;
 }
 
+num {
+  /* Georgia doesn't have lining-nums */
+  font-family: 'Times New Roman', 'Liberation Serif', serif;
+  font-variant-numeric: lining-nums;
+}
+
 .footnotes {
   margin-block-start: 2rem;
   border-block-start: 1px solid var(--border-color);
@@ -280,6 +286,11 @@ hr::after {
 iframe[src*='https://www.youtube.com'] {
   width: 100%;
   aspect-ratio: 16 / 9;
+}
+
+.mdsite-current-file::after {
+  content: ' (this page)';
+  color: #444;
 }
     </style>
 	</head>

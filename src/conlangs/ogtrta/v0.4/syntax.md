@@ -74,3 +74,11 @@ NP -> N/n VP* NP{n}  // A noun phrase is an n-valence noun, its modifiers, and n
 VP -> V/n VP* NP{n}  // A verb phrase is an n-valence verb, its modifiers, and n complements
     | VP CONJ VP;    // ...or a pair of conjoined verb phrases.
 ```
+
+<nav>
+
+## OGTRTA Table of Contents
+
+{{toc /conlangs/ogtrta/v0.4}}
+
+</nav>

@@ -4,8 +4,6 @@
 
 Derived from Wikipedia's [List of Grammatical Cases](https://en.wikipedia.org/wiki/List_of_grammatical_cases).
 
-<details>
-
 A language should have some way of expressing all of these ideas. Each preposition could probably have its own chapter in a grammar textbook.
 
 - `at1` or `LOC1` "at" (the basic locative preposition) - "on/upon" can be merged with this.
@@ -50,3 +48,11 @@ A language should have some way of expressing all of these ideas. Each prepositi
 - "instead of"
 - `BEN1` "for the benefit of"
 - `MAL1` "against" / "for the detriment of"
+
+<nav>
+
+## OGTRTA Table of Contents
+
+{{toc /conlangs/ogtrta/v0.4}}
+
+</nav>

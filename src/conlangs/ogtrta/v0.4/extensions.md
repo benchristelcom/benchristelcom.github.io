@@ -367,3 +367,11 @@ Prepositions "to" and "from", and variants like "onto" and "from out of" can be 
 - `DET` - determiner
 - `NOM` - nominalizer
 - `TRACE` - trace pronoun
+
+<nav>
+
+## OGTRTA Table of Contents
+
+{{toc /conlangs/ogtrta/v0.4}}
+
+</nav>
