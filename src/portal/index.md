@@ -209,6 +209,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Google Fonts](https://fonts.google.com/) - Free downloadable fonts for your website. You can also hotlink them, but that will let Google surveil your users.
 - [Recursive](https://www.recursive.design/) - A variable font that blends sans, handwritten, and monospace styles.
 - [Practical Typography](https://practicaltypography.com/) by Matthew Butterick (h/t [Ruby](https://www.bruh.ltd/))
+- [Programming Fonts](https://www.programmingfonts.org/) - Online playground for trying out programming fonts. Favorites include [Comic Shanns](https://github.com/shannpersand/comic-shanns), [Mensch](https://robey.lag.net/2010/06/21/mensch-font.html), and [Monaspace Xenon](https://monaspace.githubnext.com/).
 
 ### Tools I Currently Use
 
