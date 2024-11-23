@@ -715,11 +715,6 @@ h1 {
   vertical-align: -0.15em;
 }
 
-h3 {
-  margin-block: 2em 0.5em;
-  font-size: 110%;
-}
-
 a:not(.webring-container *) {
   text-decoration: underline;
   text-decoration-color: var(--border-color);
@@ -865,6 +860,8 @@ h2 {
 }
 
 h3 {
+  margin-block: 2em 0.5em;
+  font-size: 110%;
   background: #00000008;
   margin-inline: -0.33em;
   padding-inline: 0.33em;
