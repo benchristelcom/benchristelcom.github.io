@@ -7,6 +7,7 @@
 <link rel="alternate" type="application/rss+xml" title="RSS" href="https://benchristel.com/feed.rss">
 </head>
 <body>
+<div class="container">
   <header>
     <nav class="breadcrumb" aria-label="Breadcrumb">
       <a href="/welcome.html"><span class="sr-only">Home</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" style="width:16px;height:16px"><path fill-rule="evenodd" d="M9.293 2.293a1 1 0 0 1 1.414 0l7 7A1 1 0 0 1 17 11h-1v6a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1v-3a1 1 0 0 0-1-1H9a1 1 0 0 0-1 1v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-6H3a1 1 0 0 1-.707-1.707l7-7Z" clip-rule="evenodd" /></svg></a>
@@ -659,7 +660,7 @@ p, li, figcaption, blockquote, h1, h2, h3, h4, h5, h6, a {
 }
 
 :root {
-  --body-width: 66em;
+  --body-width: 68em;
   --align: left;
   --hyphens: manual;
   --font-size: 0.9375rem;
@@ -672,7 +673,7 @@ p, li, figcaption, blockquote, h1, h2, h3, h4, h5, h6, a {
   --burgundy: hsl(-29, 100%, 25%);
   --brown: hsl(-29, 15%, 15%);
   --blue: hsl(209.6, 100%, 25%);
-  --body-bg: #fafafa;
+  --container-bg: #fafafa;
   --border-color: hsl(40, 20%, 70%);
 
   background: var(--global-bg);
@@ -686,16 +687,20 @@ p, li, figcaption, blockquote, h1, h2, h3, h4, h5, h6, a {
 
 body {
   max-width: var(--body-width);
-  min-height: 100vh;
-  margin: 1em auto;
+  margin: 1rem auto;
+}
+
+.container {
+  margin: 0 1rem;
   box-shadow: 0 0 10px #0008;
   border-radius: 9px;
-  background: var(--body-bg);
+  background: var(--container-bg);
   padding: 2rem 3rem 8rem;
   color: #112;
 }
 @media (max-width: 760px) {
-  body {padding-inline: 1rem; border-radius: 0; margin-block: 0; }
+  body { margin: 0 }
+  .container {padding-inline: 1rem; border-radius: 0; margin: 0; }
 }
 
 header {
@@ -952,5 +957,6 @@ html {
 }
 
 </style>
+</div>
 </body>
 </html>
