@@ -15,6 +15,7 @@
     <p>A comprehensive directory of my most-loved and most-used web resources.</p>
   </header>
 
+<main>
 <div class="lr-split">
 <div>
   <h2 class="sr-only">Search</h2>
@@ -579,6 +580,7 @@ into one searchable, cross-referenced database.
 <p class="centered-text">There are <noscript>approximately 329</noscript><span id="number-of-links"></span> external links on this page.</p>
 
 <div data-hypersearch-end></div>
+</main>
 
 <!--
 ====================================
@@ -666,14 +668,15 @@ p, li, figcaption, blockquote, h1, h2, h3, h4, h5, h6, a {
   --line-height: 1.4;
   --font: var(--font-size) / var(--line-height) var(--body-font-family);
 
-  --global-bg: #cde;
-  --burgundy: hsl(-18, 100%, 25%);
-  --brown: hsl(-18, 15%, 15%);
-  --blue: hsl(222, 100%, 25%);
+  --global-bg: linear-gradient(to bottom, #7496b7 60%, hsl(-29, 10%, 70%));
+  --burgundy: hsl(-29, 100%, 25%);
+  --brown: hsl(-29, 15%, 15%);
+  --blue: hsl(209.6, 100%, 25%);
   --body-bg: #fafafa;
   --border-color: hsl(40, 20%, 70%);
 
   background: var(--global-bg);
+  background-attachment: fixed;
   font: var(--font);
   text-align: var(--align);
   hyphens: var(--hyphens);
@@ -684,19 +687,19 @@ p, li, figcaption, blockquote, h1, h2, h3, h4, h5, h6, a {
 body {
   max-width: var(--body-width);
   min-height: 100vh;
-  margin: 0 auto;
-  box-shadow: 0 0 16px #0002;
-  border-inline: 1px solid #ccc;
+  margin: 1em auto;
+  box-shadow: 0 0 10px #0008;
+  border-radius: 9px;
   background: var(--body-bg);
   padding: 2rem 4rem 8rem;
   color: #112;
 }
 @media (max-width: 760px) {
-  body {padding-inline: 1rem}
+  body {padding-inline: 1rem; border-radius: 0; margin-block: 0; }
 }
 
 header {
-  margin-bottom: 2em;
+  margin-block-end: 2em;
 }
 
 header > * {
@@ -856,7 +859,7 @@ num {
   display: flex;
   align-items: center;
   gap: 2em;
-  background: #f5f3f0;
+  background: #f0f0f0;
   border: 1px solid #c2c2c2;
   margin-inline: -1em;
   border-radius: 5px;
@@ -904,7 +907,7 @@ input[type=search] {
   border-radius: 99px;
   border: 1px solid #666;
   border-color: #666 #888 #aaa #888;
-  padding: 6px 12px 4px;
+  padding: 7px 12px 5px;
   box-shadow: inset 0 1px 2px #0004;
 }
 
