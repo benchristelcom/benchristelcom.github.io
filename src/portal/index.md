@@ -653,14 +653,14 @@ document.getElementById("number-of-links").innerText = numLinks
 }
 
 p, li, figcaption, blockquote, h1, h2, h3, h4, h5, h6, a {
-  line-height: 160%;
+  line-height: 1.4;
 }
 
 :root {
   --body-width: 72em;
   --align: left;
   --hyphens: manual;
-  --font-size: 0.875rem;
+  --font-size: 0.9375rem;
   --body-font-family: 'Trebuchet MS', 'Verdana', sans-serif;
   --heading-font-family: var(--body-font-family);
   --line-height: 1.4;
@@ -750,7 +750,9 @@ ul {
 }
 
 li {
-  margin-block-end: 0.75em;
+  margin-block-end: 0.33em;
+  padding-inline-start: 1em;
+  text-indent: -1em;
   break-inside: avoid;
 }
 
@@ -830,13 +832,6 @@ num {
   text-align: center;
 }
 
-.centered-text :is(ul, li) {
-  list-style-type: none;
-  margin-inline: 0;
-  padding-inline: 0;
-  text-indent: 0;
-}
-
 .space-8 {
   height: 0.5rem;
   width: 0.5rem;
@@ -888,8 +883,10 @@ num {
 
 .toc li {
   display: inline-block;
+  margin: 0.25em 0.33em;
+  padding: 0;
   text-indent: 0;
-  margin: 0.25em 0.5em;
+  list-style-type: none;
 }
 
 .lr-split h2 {
@@ -942,15 +939,6 @@ div.wwwebring-widget {
 .webring-container {
   display: table;
   margin: 2em auto;
-}
-
-ul > li {
-  list-style-type: none;
-  text-indent: -1em;
-}
-
-li > a:first-child, li > p:first-child > a:first-child {
-  font-weight: bold;
 }
 
 /* ensure scrollbar tracks are displayed even if the page content
