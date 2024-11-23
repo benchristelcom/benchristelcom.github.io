@@ -715,6 +715,20 @@ h1 {
   vertical-align: -0.15em;
 }
 
+h2 {
+  border-block-end: 1px solid var(--border-color);
+  font-size: 150%;
+  margin-block: 2em 0.5em;
+}
+
+h3 {
+  margin-block: 2em 0.5em;
+  font-size: 110%;
+  background: #00000008;
+  margin-inline: -0.33em;
+  padding-inline: 0.33em;
+}
+
 a:not(.webring-container *) {
   text-decoration: underline;
   text-decoration-color: var(--border-color);
@@ -729,6 +743,7 @@ a { color: var(--blue); }
 a:visited { color: var(--burgundy); }
 
 ul {
+  margin-block: 0;
   padding-inline-start: 1.1em;
 }
 
@@ -839,20 +854,6 @@ num {
   width: 1px;
 }
 
-h2 {
-  border-block-end: 1px solid var(--border-color);
-  font-size: 150%;
-  margin-block: 2em 0.5em;
-}
-
-h3 {
-  margin-block: 2em 0.5em;
-  font-size: 110%;
-  background: #00000008;
-  margin-inline: -0.33em;
-  padding-inline: 0.33em;
-}
-
 li {
   margin-block-end: 0.75em;
 }
@@ -940,10 +941,6 @@ div.wwwebring-widget {
 .webring-container {
   display: table;
   margin: 2em auto;
-}
-
-ul {
-  margin-block: 0;
 }
 
 ul > li {
