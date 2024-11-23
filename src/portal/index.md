@@ -659,7 +659,7 @@ p, li, figcaption, blockquote, h1, h2, h3, h4, h5, h6, a {
 }
 
 :root {
-  --body-width: 72em;
+  --body-width: 66em;
   --align: left;
   --hyphens: manual;
   --font-size: 0.9375rem;
@@ -668,7 +668,7 @@ p, li, figcaption, blockquote, h1, h2, h3, h4, h5, h6, a {
   --line-height: 1.4;
   --font: var(--font-size) / var(--line-height) var(--body-font-family);
 
-  --global-bg: linear-gradient(to bottom, #7496b7 60%, hsl(-29, 10%, 70%));
+  --global-bg: linear-gradient(to bottom, #7496b7 66%, hsl(-29, 5%, 62%));
   --burgundy: hsl(-29, 100%, 25%);
   --brown: hsl(-29, 15%, 15%);
   --blue: hsl(209.6, 100%, 25%);
@@ -691,7 +691,7 @@ body {
   box-shadow: 0 0 10px #0008;
   border-radius: 9px;
   background: var(--body-bg);
-  padding: 2rem 4rem 8rem;
+  padding: 2rem 3rem 8rem;
   color: #112;
 }
 @media (max-width: 760px) {
@@ -723,12 +723,12 @@ h1 {
 h2 {
   border-block-end: 1px solid var(--border-color);
   font-size: 150%;
-  margin-block: 2em 0.5em;
+  margin-block: 3rem 1rem;
 }
 
 h3 {
-  margin-block: 2em 0.5em;
-  font-size: 110%;
+  margin-block-start: 1.25rem;
+  font-size: 100%;
   background: #eee;
   margin-inline: -0.33em;
   padding-inline: 0.33em;
