@@ -838,11 +838,6 @@ num {
   white-space: nowrap;
   width: 1px;
 }
-
-iframe[src*='https://www.youtube.com'] {
-  width: 100%;
-  aspect-ratio: 16 / 9;
-}
 </style>
 <style>
 :root {
