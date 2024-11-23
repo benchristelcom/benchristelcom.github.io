@@ -657,13 +657,13 @@ p, li, figcaption, blockquote, h1, h2, h3, h4, h5, h6, a {
 }
 
 :root {
-  --body-width: 50em;
+  --body-width: 72em;
   --align: left;
   --hyphens: manual;
-  --font-size: 1rem;
+  --font-size: 0.875rem;
   --body-font-family: 'Georgia', 'Times New Roman', serif;
   --heading-font-family: 'Georgia', 'Times New Roman', serif;
-  --line-height: 160%;
+  --line-height: 1.4;
   --font: var(--font-size) / var(--line-height) var(--body-font-family);
 
   --global-bg: hsl(42, 50%, 90%);
@@ -837,15 +837,6 @@ num {
   position: absolute;
   white-space: nowrap;
   width: 1px;
-}
-</style>
-<style>
-:root {
-  --body-width: 72em;
-  --font-size: 0.875rem;
-  --line-height: 1.4;
-  --align: left;
-  --hyphens: manual;
 }
 
 h2 {
