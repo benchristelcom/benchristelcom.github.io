@@ -1,6 +1,19 @@
-# Web Portal
-
-<p>A comprehensive directory of my most-loved and most-used web resources.</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>{{title}}</title>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://benchristel.com/feed.rss">
+</head>
+<body>
+  <header>
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/welcome.html"><span class="sr-only">Home</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" style="width:16px;height:16px"><path fill-rule="evenodd" d="M9.293 2.293a1 1 0 0 1 1.414 0l7 7A1 1 0 0 1 17 11h-1v6a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1v-3a1 1 0 0 0-1-1H9a1 1 0 0 0-1 1v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-6H3a1 1 0 0 1-.707-1.707l7-7Z" clip-rule="evenodd" /></svg></a>
+    </nav>
+    <h1>Web Portal</h1>
+    <p>A comprehensive directory of my most-loved and most-used web resources.</p>
+  </header>
 
 <div class="lr-split">
 <div>
@@ -635,6 +648,208 @@ document.getElementById("number-of-links").innerText = numLinks
 </script>
 
 <style>
+* {
+  box-sizing: border-box;
+}
+
+p, li, figcaption, blockquote, h1, h2, h3, h4, h5, h6, a {
+  line-height: 160%;
+}
+
+:root {
+  --body-width: 50em;
+  --align: left;
+  --hyphens: manual;
+  --font-size: 1rem;
+  --body-font-family: 'Georgia', 'Times New Roman', serif;
+  --heading-font-family: 'Georgia', 'Times New Roman', serif;
+  --line-height: 160%;
+  --font: var(--font-size) / var(--line-height) var(--body-font-family);
+
+  --global-bg: hsl(42, 50%, 90%);
+  --burgundy: hsl(-18, 100%, 25%);
+  --brown: hsl(-18, 15%, 15%);
+  --blue: hsl(222, 100%, 25%);
+  --body-bg: var(--global-bg);
+  --border-color: hsl(40, 20%, 70%);
+
+  background: var(--global-bg);
+  font: var(--font);
+  text-align: var(--align);
+  hyphens: var(--hyphens);
+  line-height: var(--line-height);
+  overflow-y: scroll;
+}
+
+body {
+  max-width: var(--body-width);
+  min-height: 100vh;
+  margin: 0 auto;
+  background: var(--body-bg);
+  padding: 2rem 4rem 8rem;
+}
+@media (max-width: 760px) {
+  body {padding-inline: 1rem}
+}
+
+header {
+  margin-bottom: 2em;
+}
+
+header > * {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+h1, h2, h3 {
+  font-weight: normal;
+  font-family: var(--heading-font-family);
+  letter-spacing: 0.025em;
+  text-shadow: 0 0 0.5px #000, 0 1px 1px #fff;
+}
+
+h1 {
+  font-size: 150%;
+  margin-block: 0;
+  padding-right: 1em;
+  vertical-align: -0.15em;
+}
+
+h3 {
+  margin-block: 2em 0.5em;
+  font-size: 110%;
+}
+
+a:not(.webring-container *) {
+  text-decoration: underline;
+  text-decoration-color: var(--border-color);
+  text-decoration-skip-ink: none;
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 1px;
+  padding-block: 0.3em;
+  margin-block: -0.3em;
+}
+
+a { color: var(--blue); }
+a:visited { color: var(--burgundy); }
+
+ul {
+  padding-inline-start: 1.1em;
+}
+
+li {
+  break-inside: avoid;
+}
+
+li > p {
+  /* prevent the first list item in a column from being shifted down */
+  margin-block-start: 0;
+}
+
+.col-2, .col-3 {
+  display: none;
+}
+
+:is(.col-2, .col-3) + * {
+  text-align: start;
+  hyphens: manual;
+  column-gap: 4em;
+}
+
+.col-2 + * {
+  column-count: 2;
+}
+
+.col-3 + * {
+  column-count: 3;
+}
+
+@media (max-width: 760px) {
+  .col-2 + * {
+    column-count: 1;
+    column-gap: 4em;
+  }
+
+  .col-3 + * {
+    column-count: 1;
+  }
+}
+
+.breadcrumb {
+  display: inline;
+  vertical-align: middle;
+}
+.breadcrumb > a:first-child {
+  vertical-align: -3px;
+}
+.breadcrumb > a:first-child::after {
+  vertical-align: 3px;
+}
+.breadcrumb > a::after {
+  display: inline-block;
+  width: 2em;
+  text-align: center;
+  content: '➤';
+  color: #888c;
+  font-size: 0.9em;
+}
+
+code { white-space: pre-wrap; }
+
+sup, sup > a {
+  /* don't let footnote refs mess with line spacing */
+  line-height: 0;
+}
+sup > a {
+  /* Georgia doesn't have lining-nums */
+  font-family: 'Times New Roman', serif;
+  font-weight: bold;
+  padding-inline: 0.25em;
+}
+
+num {
+  /* Georgia doesn't have lining-nums */
+  font-family: 'Times New Roman', 'Liberation Serif', serif;
+  font-variant-numeric: lining-nums;
+}
+
+.centered-text {
+  text-align: center;
+}
+
+.centered-text :is(ul, li) {
+  list-style-type: none;
+  margin-inline: 0;
+  padding-inline: 0;
+  text-indent: 0;
+}
+
+.space-8 {
+  height: 0.5rem;
+  width: 0.5rem;
+}
+
+.space-32 {
+  height: 2rem;
+  width: 2rem;
+}
+
+.sr-only {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+iframe[src*='https://www.youtube.com'] {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+</style>
+<style>
 :root {
   --body-width: 72em;
   --font-size: 0.875rem;
@@ -643,11 +858,9 @@ document.getElementById("number-of-links").innerText = numLinks
   --hyphens: manual;
 }
 
-h1 {
-  margin-block: 0.25em;
-}
-
 h2 {
+  border-block-end: 1px solid var(--border-color);
+  font-size: 150%;
   margin-block: 2em 0.5em;
 }
 
@@ -768,3 +981,5 @@ html {
 }
 
 </style>
+</body>
+</html>
