@@ -748,6 +748,7 @@ ul {
 }
 
 li {
+  margin-block-end: 0.75em;
   break-inside: avoid;
 }
 
@@ -852,10 +853,6 @@ num {
   position: absolute;
   white-space: nowrap;
   width: 1px;
-}
-
-li {
-  margin-block-end: 0.75em;
 }
 
 .lr-split {
