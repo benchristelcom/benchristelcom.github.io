@@ -17,7 +17,7 @@
 
 <div class="lr-split">
 <div>
-  <h2>Search</h2>
+  <h2 class="sr-only">Search</h2>
   <div style="text-align: center">
     <input data-hypersearch type="search" placeholder="Search the web and this page"/>
     <button id="ddg">DuckDuckGo</button>
@@ -661,16 +661,16 @@ p, li, figcaption, blockquote, h1, h2, h3, h4, h5, h6, a {
   --align: left;
   --hyphens: manual;
   --font-size: 0.875rem;
-  --body-font-family: 'Georgia', 'Times New Roman', serif;
-  --heading-font-family: 'Georgia', 'Times New Roman', serif;
+  --body-font-family: 'Trebuchet MS', 'Verdana', sans-serif;
+  --heading-font-family: var(--body-font-family);
   --line-height: 1.4;
   --font: var(--font-size) / var(--line-height) var(--body-font-family);
 
-  --global-bg: hsl(42, 50%, 90%);
+  --global-bg: #cde;
   --burgundy: hsl(-18, 100%, 25%);
   --brown: hsl(-18, 15%, 15%);
   --blue: hsl(222, 100%, 25%);
-  --body-bg: var(--global-bg);
+  --body-bg: #fafafa;
   --border-color: hsl(40, 20%, 70%);
 
   background: var(--global-bg);
@@ -685,8 +685,11 @@ body {
   max-width: var(--body-width);
   min-height: 100vh;
   margin: 0 auto;
+  box-shadow: 0 0 16px #0002;
+  border-inline: 1px solid #ccc;
   background: var(--body-bg);
   padding: 2rem 4rem 8rem;
+  color: #112;
 }
 @media (max-width: 760px) {
   body {padding-inline: 1rem}
@@ -702,10 +705,9 @@ header > * {
 }
 
 h1, h2, h3 {
-  font-weight: normal;
+  font-weight: bold;
   font-family: var(--heading-font-family);
-  letter-spacing: 0.025em;
-  text-shadow: 0 0 0.5px #000, 0 1px 1px #fff;
+  color: #000;
 }
 
 h1 {
@@ -724,7 +726,7 @@ h2 {
 h3 {
   margin-block: 2em 0.5em;
   font-size: 110%;
-  background: #00000008;
+  background: #eee;
   margin-inline: -0.33em;
   padding-inline: 0.33em;
 }
@@ -857,9 +859,10 @@ num {
 
 .lr-split {
   display: flex;
+  align-items: center;
   gap: 2em;
   background: #f5f3f0;
-  border: 1px solid #aaa;
+  border: 1px solid #c2c2c2;
   margin-inline: -1em;
   border-radius: 5px;
   padding: 1em;
@@ -900,11 +903,12 @@ num {
 input[type=search] {
   margin: 0 auto 0.8rem;
   display: block;
-  width: 100%;
+  width: 90%;
   border-radius: 99px;
   border: 1px solid #666;
   border-color: #666 #888 #aaa #888;
   padding: 6px 12px 4px;
+  box-shadow: inset 0 1px 2px #0004;
 }
 
 button {
@@ -946,8 +950,7 @@ ul > li {
 }
 
 li > a:first-child, li > p:first-child > a:first-child {
-  text-shadow: 0.03em 0;
-  letter-spacing: 0.03em;
+  font-weight: bold;
 }
 
 /* ensure scrollbar tracks are displayed even if the page content
