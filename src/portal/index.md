@@ -20,7 +20,7 @@
 <div>
   <h2 class="sr-only">Search</h2>
   <div style="text-align: center">
-    <input data-hypersearch type="search" placeholder="Search the web and this page"/>
+    <input data-hypersearch type="search" list="search-shortcuts" placeholder="Search the web and this page"/>
     <button id="ddg" data-search="https://html.duckduckgo.com/html?q=%s">DuckDuckGo</button>
     <button id="yt" data-search="https://youtube.com/results?search_query=%s">YouTube</button>
     <button id="npm" data-search="https://www.npmjs.com/search?q=%s">NPM</button>
@@ -33,6 +33,12 @@
     <div class="space-8"></div>
     <div><small><a href="/portal/search-docs.html">Help with Search</a></small></div>
     <div class="space-8"></div>
+    <datalist id="search-shortcuts">
+      <option value="!mdn" label="!mdn - Mozilla Developer Network" data-search="https://developer.mozilla.org/en-US/search?q=%s"></option>
+      <option value="!youtube" data-search="https://youtube.com/results?search_query=%s"></option>
+      <option value="!wikipedia" data-search="https://en.wikipedia.org/w/index.php?search=%s"></option>
+      <option value="!protondb" data-search="https://www.protondb.com/search?q=%s"></option>
+    </datalist>
   </div>
 </div>
 <nav class="toc">
