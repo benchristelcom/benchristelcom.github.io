@@ -10,10 +10,9 @@
 <div class="container">
   <header>
     <nav class="breadcrumb" aria-label="Breadcrumb">
-      <a href="/welcome.html"><span class="sr-only">Home</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" style="width:16px;height:16px"><path fill-rule="evenodd" d="M9.293 2.293a1 1 0 0 1 1.414 0l7 7A1 1 0 0 1 17 11h-1v6a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1v-3a1 1 0 0 0-1-1H9a1 1 0 0 0-1 1v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-6H3a1 1 0 0 1-.707-1.707l7-7Z" clip-rule="evenodd" /></svg></a>
+      <a href="/welcome.html" style="color:#fffa"><span class="sr-only">Home</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" style="width:16px;height:16px"><path fill-rule="evenodd" d="M9.293 2.293a1 1 0 0 1 1.414 0l7 7A1 1 0 0 1 17 11h-1v6a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1v-3a1 1 0 0 0-1-1H9a1 1 0 0 0-1 1v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-6H3a1 1 0 0 1-.707-1.707l7-7Z" clip-rule="evenodd" /></svg></a>
     </nav>
     <h1>Web Portal</h1>
-    <p>A comprehensive directory of my most-loved and most-used web resources.</p>
   </header>
 
 <main>
@@ -674,7 +673,7 @@ p, li, figcaption, blockquote, h1, h2, h3, h4, h5, h6, a {
   --brown: hsl(-29, 15%, 15%);
   --blue: hsl(209.6, 100%, 25%);
   --container-bg: #fafafa;
-  --border-color: hsl(40, 20%, 70%);
+  --border-color: #bbb;
 
   background: var(--global-bg);
   background-attachment: fixed;
@@ -692,24 +691,38 @@ body {
 
 .container {
   margin: 0 1rem;
-  box-shadow: 0 0 10px #0008;
+  box-shadow: 0 0 10px #0006;
   border-radius: 9px;
   background: var(--container-bg);
-  padding: 2rem 3rem 8rem;
+  padding: 4px;
+  padding-block-end: 8rem;
   color: #112;
-}
-@media (max-width: 760px) {
-  body { margin: 0 }
-  .container {padding-inline: 1rem; border-radius: 0; margin: 0; }
 }
 
 header {
-  margin-block-end: 2em;
+  background: url(landscape.jpg);
+  border-radius: 5px 5px 0 0;
+  background-size: cover;
+  background-position: 50% 45%;
+  padding: 2em 2.75em;
+  color: #fff;
+  text-shadow: 0 0 6px #000;
 }
 
 header > * {
   display: inline-block;
   vertical-align: middle;
+}
+
+main {
+  padding-inline: 2.75rem;
+}
+
+@media (max-width: 760px) {
+  body { margin: 0 }
+  .container {padding: 0; border-radius: 0; margin: 0; }
+  header { border-radius: 0; }
+  main, header { padding-inline: 1rem; }
 }
 
 h1, h2, h3 {
@@ -719,10 +732,11 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 150%;
+  font-size: 175%;
   margin-block: 0;
   padding-right: 1em;
-  vertical-align: -0.15em;
+  vertical-align: -0.2em;
+  color: #fff;
 }
 
 h2 {
@@ -813,7 +827,7 @@ li > p {
   width: 2em;
   text-align: center;
   content: '➤';
-  color: #888c;
+  color: #ddd;
   font-size: 0.9em;
 }
 
@@ -863,11 +877,13 @@ num {
 .lr-split {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 2em;
   background: #f0f0f0;
-  border: 1px solid #c2c2c2;
-  margin-inline: -1em;
-  border-radius: 5px;
+  border: 1px solid #ccc;
+  border-block-end: 1px solid #bbb;
+  margin-block-start: 4px;
+  margin-inline: -2.75em;
   padding: 1em;
 }
 
@@ -876,11 +892,12 @@ num {
     display: block;
     border-radius: 0;
     border-inline: none;
+    margin-inline: -1rem;
   }
 }
 
 .lr-split > * {
-  flex-basis: 50%;
+  flex-basis: 47%;
   flex-shrink: 1;
 }
 
