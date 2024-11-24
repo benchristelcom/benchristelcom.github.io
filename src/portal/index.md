@@ -21,15 +21,15 @@
   <h2 class="sr-only">Search</h2>
   <div style="text-align: center">
     <input data-hypersearch type="search" placeholder="Search the web and this page"/>
-    <button id="ddg">DuckDuckGo</button>
-    <button id="yt">YouTube</button>
-    <button id="npm">NPM</button>
-    <button id="openverse">Openverse</button>
-    <button id="wikipedia">Wikipedia</button>
-    <button id="cornish">Cornish Dict.</button>
-    <button id="etymonline">Etymonline</button>
-    <button id="wiktionary">Wiktionary</button>
-    <button id="unicode">Unicode</button>
+    <button id="ddg" data-search="https://html.duckduckgo.com/html?q=%s">DuckDuckGo</button>
+    <button id="yt" data-search="https://youtube.com/results?search_query=%s">YouTube</button>
+    <button id="npm" data-search="https://www.npmjs.com/search?q=%s">NPM</button>
+    <button id="openverse" data-search="https://openverse.org/search/?q=%s">Openverse</button>
+    <button id="wikipedia" data-search="https://en.wikipedia.org/w/index.php?search=%s">Wikipedia</button>
+    <button id="cornish" data-search="https://cornishdictionary.org.uk/#%s">Cornish Dict.</button>
+    <button id="etymonline" data-search="https://www.etymonline.com/search?q=%s">Etymonline</button>
+    <button id="wiktionary" data-search="https://en.wiktionary.org/wiki/%s">Wiktionary</button>
+    <button id="unicode" data-search="https://unicodeplus.com/search?q=%s">Unicode</button>
     <div class="space-8"></div>
     <div><small><a href="/portal/search-docs.html">Help with Search</a></small></div>
     <div class="space-8"></div>
@@ -607,18 +607,6 @@ autofocusCheckbox.addEventListener("change", () => {
   localStorage.autofocusSearch = autofocusCheckbox.checked
 })
 
-const providers = {
-  ddg: "https://html.duckduckgo.com/html?q=%s",
-  yt: "https://youtube.com/results?search_query=%s",
-  npm: "https://www.npmjs.com/search?q=%s",
-  openverse: "https://openverse.org/search/?q=%s",
-  wikipedia: "https://en.wikipedia.org/w/index.php?search=%s",
-  cornish: "https://cornishdictionary.org.uk/#%s",
-  etymonline: "https://www.etymonline.com/search?q=%s",
-  wiktionary: "https://en.wiktionary.org/wiki/%s",
-  unicode: "https://unicodeplus.com/search?q=%s",
-}
-
 searchInput.addEventListener("keypress", (e) => {
   if (e.key === "Enter") {
     const shortcutUrl = shortcuts[searchInput.value]
@@ -627,7 +615,7 @@ searchInput.addEventListener("keypress", (e) => {
     } else {
       const firstLinkHref = firstVisibleHypersearchLink()?.href
       if (!firstLinkHref || searchInput.value.includes("!")) {
-        search(providers.ddg, searchInput.value)
+        search("ddg", searchInput.value)
       } else {
         window.location = firstLinkHref
       }
@@ -650,12 +638,13 @@ const shortcuts = {
   "mail": "https://mail.google.com/",
 }
 
-function search(url, query) {
+function search(providerId, query) {
+  const url = document.getElementById(providerId).getAttribute("data-search")
   window.location = url.replace("%s", encodeURIComponent(query))
 }
 
-for (let id in providers) {
-  elById(id).addEventListener("click", () => search(providers[id], searchInput.value))
+for (let button of document.querySelectorAll("[data-search]")) {
+  button.addEventListener("click", () => search(button.id, searchInput.value))
 }
 
 const numLinks = new Set([...document.querySelectorAll("a[href^='http']")].map(a => a.href)).size

@@ -1,14 +1,12 @@
 # Searching the Web Portal
 
-## Introduction
+This page documents the search bar on the [Web Portal page](/portal/).
 
-The searchbar on the [Web Portal](/portal) page has multiple uses and some hidden functionality. This is admittedly not ideal for software designed for general consumption, but the web portal is only partly intended for general consumption. I figure I'm probably the only person who would care about the hidden features. I'm going to document them here anyway, though, for my own benefit and perhaps for yours.
-
-## Autofocusing the search bar
+## Check the box to autofocus the search bar
 
 You can make the searchbar focus automatically when the page loads, so you don't have to click it before you type your query. Check the box under [Settings](/portal#settings).
 
-## Filtering
+## Type to filter
 
 The first function of the searchbar is to filter the portal page. You've probably discovered this if you've ever typed anything into the search bar.
 
@@ -18,17 +16,17 @@ The matching is **case-insensitive**. Search terms are matched against the **beg
 
 If your search matches the text of a **heading** on the page, everything under that heading will be shown.
 
-## Fast navigation
+## Hint Enter for fast navigation
 
-After typing your search, you can navigate directly to the first link shown on the page by pressing `enter`.
+After typing your search, you can navigate directly to the first link shown on the page by pressing the `enter` key.
 
-Note that if your search includes an exclamation point `!`, you will search the web instead of navigating to a link. See the section below on [using DuckDuckGo bangs](#using-duckduckgo-bangs).
+Exception: if your search includes an exclamation point `!`, pressing `enter` will search the web instead of navigating to a link. See the section below on [using DuckDuckGo bangs](#using-duckduckgo-bangs).
 
 ## Web search
 
 You can also use the searchbar to search the web. Several search engines have dedicated buttons, and thousands more can be accessed via [DuckDuckGo bangs](#using-duckduckgo-bangs).
 
-## Using DuckDuckGo bangs
+### Using DuckDuckGo bangs
 
 If your favorite search engine isn't in the list, you can use a [DuckDuckGo bang](https://duckduckgo.com/bangs) to invoke it. For example, typing "fruit bat !g" and then pressing `enter` will search Google for the term "fruit bat."
 
@@ -49,6 +47,6 @@ I have hard-coded a few shortcuts into the searchbar for my own use. Typing a sh
 
 <div class="centered-text">
 
-[Back to the Portal Page](/portal)
+[Back to the Portal Page](index.md)
 
 </div>
