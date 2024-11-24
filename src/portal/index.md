@@ -668,7 +668,7 @@ p, li, figcaption, blockquote, h1, h2, h3, h4, h5, h6, a {
   --line-height: 1.4;
   --font: var(--font-size) / var(--line-height) var(--body-font-family);
 
-  --global-bg: linear-gradient(to bottom, #7496b7 66%, hsl(-29, 5%, 62%));
+  --global-bg: linear-gradient(to bottom, #7496b7 66%, hsl(311.5, 5%, 62%));
   --burgundy: hsl(-29, 100%, 25%);
   --brown: hsl(-29, 15%, 15%);
   --blue: hsl(209.6, 100%, 25%);
@@ -764,7 +764,7 @@ a:not(.webring-container *) {
 }
 
 a { color: var(--blue); }
-a:visited { color: var(--burgundy); }
+a:visited { color: hsl(311.5, 50%, 25%); }
 
 ul {
   margin-block: 0;
