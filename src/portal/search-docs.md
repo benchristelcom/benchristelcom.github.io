@@ -18,13 +18,17 @@ The matching is **case-insensitive**. Search terms are matched against the **beg
 
 If your search matches the text of a **heading** on the page, everything under that heading will be shown.
 
-## DuckDuckGo Search
+## Fast navigation
 
-The second function of the searchbar is to search the web with DuckDuckGo. This function can be invoked by pressing the `enter` key, or by clicking the `DuckDuckGo` button.
+After typing your search, you can navigate directly to the first link shown on the page by pressing `enter`.
 
-## Other Search Engines
+Note that if your search includes an exclamation point `!`, you will search the web instead of navigating to a link. See the section below on [using DuckDuckGo bangs](#using-duckduckgo-bangs).
 
-Several other search engines are available; to use them, type your search term and click the appropriate button.
+## Web search
+
+You can also use the searchbar to search the web. Several search engines have dedicated buttons, and thousands more can be accessed via [DuckDuckGo bangs](#using-duckduckgo-bangs).
+
+## Using DuckDuckGo bangs
 
 If your favorite search engine isn't in the list, you can use a [DuckDuckGo bang](https://duckduckgo.com/bangs) to invoke it. For example, typing "fruit bat !g" and then pressing `enter` will search Google for the term "fruit bat."
 
@@ -37,6 +41,8 @@ I have hard-coded a few shortcuts into the searchbar for my own use. Typing a sh
 | tv       | https://benchristel.github.io/tv/ | Culture Machine
 | zen      | https://benchristel.github.io/meditation/ | Meditation timer
 | bliki    | https://github.com/benchristel/benchristel.github.io/wiki | My digital garden
+| yt       | https://github.com/benchristel/benchristel.github.io/yt | YouTube prophylactic
+| mail     | https://mail.google.com/ | GMail
 
 <div class="space-32"></div>
 

@@ -625,15 +625,29 @@ searchInput.addEventListener("keypress", (e) => {
     if (shortcutUrl) {
       window.location = shortcutUrl
     } else {
-      search(providers.ddg, searchInput.value)
+      const firstLinkHref = firstVisibleHypersearchLink()?.href
+      if (!firstLinkHref || searchInput.value.includes("!")) {
+        search(providers.ddg, searchInput.value)
+      } else {
+        window.location = firstLinkHref
+      }
     }
   }
 })
+
+function firstVisibleHypersearchLink() {
+  for (const link of document.querySelectorAll("[data-hypersearch-start] ~ :not([data-hypersearch-end] ~ *) a[href]")) {
+    if (link.checkVisibility()) return link
+  }
+  return null
+}
 
 const shortcuts = {
   "tv": "https://benchristel.github.io/tv/",
   "zen": "https://benchristel.github.io/meditation/",
   "bliki": "https://github.com/benchristel/benchristel.github.io/wiki",
+  "yt": "https://benchristel.github.io/yt/",
+  "mail": "https://mail.google.com/",
 }
 
 function search(url, query) {
