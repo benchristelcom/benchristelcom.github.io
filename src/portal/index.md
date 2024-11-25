@@ -187,6 +187,19 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [The Beautiful Mess](https://cutlefish.substack.com) - John Cutler's newsletter on product management and software development.
 - [Manifesto for Agile Software Development](http://agilemanifesto.org/) - Read this before you hate on "Agile."
 
+### Classic blog posts, talks, &amp;c.
+
+<div class="col-2"></div>
+
+- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - Joel on Software
+- [PHP: a fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/) - Evelyn Woods
+- [Making Badass Developers (Video)](https://benchristel.github.io/yt#FKTxC9pl-WM) - Kathy Sierra
+- [Boundaries (Video)](https://www.destroyallsoftware.com/talks/boundaries) - Gary Bernhardt
+- [Functional Core, Imperative Shell (Video)](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell) - Gary Bernhardt
+- [Wat (Video)](https://www.destroyallsoftware.com/talks/wat) - Gary Bernhardt
+- [A Whole New World](https://www.destroyallsoftware.com/talks/a-whole-new-world) - Gary Bernhardt
+- [The Birth and Death of JavaScript (Video)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) - Gary Bernhardt
+
 ### Reference
 
 <div class="col-2"></div>
