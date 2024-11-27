@@ -445,7 +445,8 @@ A.K.A. the lost art of amusing yourself without electricity.
 
 ## Model Railroads
 
-- [Layout Design Special Interest Group (LDSIG) Design Primer](https://ldsig.net/o/ldsig/wiki/index_title_How_to_use_the_LDSIG_Design_Primer.html)
+- [Layout Design Special Interest Group (LDSIG)](https://ldsig.org/)
+  - [Design Primer](https://ldsig.net/o/ldsig/wiki/index_title_How_to_use_the_LDSIG_Design_Primer.html)
 - [Gateway NMRA](https://www.gatewaynmra.org) of St. Louis
 - [New Forest Model Railroad Society](http://www.nfmrs.org)
 
