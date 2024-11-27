@@ -628,6 +628,14 @@ autofocusCheckbox.addEventListener("change", () => {
 })
 
 searchInput.addEventListener("keypress", (e) => {
+  setTimeout(() => {
+    if (searchInput.value.startsWith("!")) {
+      searchInput.setAttribute("list", "search-shortcuts")
+    } else {
+      searchInput.setAttribute("list", "")
+    }
+  }, 0)
+
   if (e.key === "Enter") {
     const shortcutUrl = shortcuts[searchInput.value]
     if (shortcutUrl) {
