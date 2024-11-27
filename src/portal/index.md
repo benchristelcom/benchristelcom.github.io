@@ -731,7 +731,7 @@ body {
 }
 
 header {
-  background: url(landscape.jpg);
+  background: url(landscape.jpg), linear-gradient(110deg, #789, #9e95aa);
   border-radius: 5px 5px 0 0;
   background-size: cover;
   background-position: 50% 45%;
