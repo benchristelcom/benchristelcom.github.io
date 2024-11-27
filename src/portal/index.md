@@ -339,6 +339,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 - [Old Book Illustrations](https://www.oldbookillustrations.com/) - If you like [Wondermark](https://wondermark.com/), you'll love this.
 - [Frugal's Free Image Database](https://www.thefrugalgamer.net/freeimages/) - A database of beautiful public domain book plates!
+- [Public Domain Review](https://publicdomainreview.org/) - collections of public domain art (and books).
 
 ### Computery
 
@@ -536,6 +537,7 @@ into one searchable, cross-referenced database.
 
 ## Web Curators
 
+- [Public Domain Review](https://publicdomainreview.org/) - collections of public domain writing and art.
 - [Ruby Klover's website](https://www.bruh.ltd), which includes a [list of lists](https://www.bruh.ltd/lists) curated by the author.
 - [Brandon's Journal](https://brandons-journal.com/links/) - includes a collection of blogs and websites about internet history, film, comics, pop culture, and Buddhism. There's also a [recipe book](https://scribbles.page/fj78s9ca#new_tab) compiled by the author's great-grandmother.
 - [Mike Grindle](https://mikegrindle.com) - writing about retro technology and internet culture, plus a [links page](https://mikegrindle.com/blogroll) with a bunch of cool sites.
