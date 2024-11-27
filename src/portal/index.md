@@ -38,6 +38,7 @@
       <option value="!youtube" data-search="https://youtube.com/results?search_query=%s"></option>
       <option value="!wikipedia" data-search="https://en.wikipedia.org/w/index.php?search=%s"></option>
       <option value="!protondb" data-search="https://www.protondb.com/search?q=%s"></option>
+      <option value="!steamdb" data-search="https://steamdb.info/search/?a=all&q=%s"></option>
     </datalist>
   </div>
 </div>
