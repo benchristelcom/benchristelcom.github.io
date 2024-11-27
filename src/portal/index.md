@@ -194,6 +194,8 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 <div class="col-2"></div>
 
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - Joel on Software
+- [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) - Patrick McKenzie
+- [Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) - Noah Sussman
 - [PHP: a fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/) - Evelyn Woods
 - [Making Badass Developers (Video)](https://benchristel.github.io/yt#FKTxC9pl-WM) - Kathy Sierra
 - [Boundaries (Video)](https://www.destroyallsoftware.com/talks/boundaries) - Gary Bernhardt
@@ -442,6 +444,7 @@ A.K.A. the lost art of amusing yourself without electricity.
 
 ## Model Railroads
 
+- [Layout Design Special Interest Group (LDSIG) Design Primer](https://ldsig.net/o/ldsig/wiki/index_title_How_to_use_the_LDSIG_Design_Primer.html)
 - [Gateway NMRA](https://www.gatewaynmra.org) of St. Louis
 - [New Forest Model Railroad Society](http://www.nfmrs.org)
 
