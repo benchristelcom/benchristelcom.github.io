@@ -264,12 +264,13 @@ num {
 }
 
 .lr-split h2 {
-  font-size: 1.1rem;
   margin-block: 0;
   margin-inline: -0.25em;
   border: none;
   background: #0001;
   padding-inline: 0.5em;
+  font-size: 1.1rem;
+  font-weight: bold;
 }
 
 input[type=search] {
