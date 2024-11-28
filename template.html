@@ -190,10 +190,13 @@ blockquote :is(em, i) {
 
 code { white-space: pre-wrap; }
 pre > code { white-space: pre; }
-pre {
+pre:not(.poetry) {
   overflow-x: auto;
   padding: 0.5em;
   background: #fff;
+}
+pre.poetry {
+  font-family: inherit;
 }
 
 figure {
