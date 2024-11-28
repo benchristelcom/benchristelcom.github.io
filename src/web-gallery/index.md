@@ -34,7 +34,8 @@ empty
 ### Retro
 
 - [Bastion](https://bastionhome.github.io/)
-- [Satyrs.eu](https://satyrs.eu/) - Xanthe is probably one of the best CSS developers out there. I learn something new every time I read their code.
+- [Satyrs.eu](https://satyrs.eu/) - This site has glorious typography. Xanthe is probably one of the best CSS developers out there. I learn something new every time I read their code.
+- [eev.ee](https://eev.ee/) - very nice colors and subtle textures.
 
 ## Generally Pleasant
 

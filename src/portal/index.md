@@ -127,6 +127,10 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 ### Lyrics
 
 - [Mainly Norfolk](https://mainlynorfolk.info) - "English Folk and Other Good Music"
+- [Lyrics Translate](https://lyricstranslate.com/) - multilingual lyrics
+- [Universo Cantigas](https://universocantigas.gal/) - "Edición Crítica da Poesía Medieval Galego-Portuguesa." In Galician.
+- [The LiederNet Archive](https://www.lieder.net/)  - "the world’s largest reference archive of texts and translations of art songs and choral works."
+- [Musica International](https://www.musicanet.org/en/) - "The Virtual Choral Library"
 
 ### Visualizers
 
@@ -356,6 +360,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 - [GifCities](https://gifcities.org/) - Archived gifs from Geocities websites.
 - [TextureTown](https://textures.neocities.org/) - Thousands of textures to use in website backgrounds and 3D worlds.
+- [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) on Toptal.com (h/t [eev.ee](https://eev.ee/)).
 - [Hero Patterns](https://heropatterns.com/) - tiling SVG patterns for your website background
 - [Pattern Monster](https://pattern.monster/) - even more tiling SVG patterns for your website background
 - [nnnoise - SVG Noise Generator](https://www.fffuel.co/nnnoise/) - create fractal noise or turbulence dynamically with SVG. A very network-efficient replacement for PNG or JPEG textures.
