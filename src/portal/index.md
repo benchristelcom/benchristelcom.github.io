@@ -40,6 +40,7 @@
       <option value="!wikipedia" data-search="https://en.wikipedia.org/w/index.php?search=%s"></option>
       <option value="!protondb" data-search="https://www.protondb.com/search?q=%s"></option>
       <option value="!steamdb" data-search="https://steamdb.info/search/?a=all&q=%s"></option>
+      <option value="!emoji" data-search="https://emojipedia.org/search?q=%s"></option>
     </datalist>
   </div>
 </div>
@@ -210,6 +211,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 - [Refactoring.com](https://refactoring.com/) - Martin Fowler's site with descriptions of the refactorings from his book _Refactoring: Improving the Design of Existing Code_.
 - [UnicodePlus.com](https://unicodeplus.com) - search for unicode characters.
+- [Emojipedia](https://emojipedia.org) - search for emoji
 - [man7.org](https://man7.org/) - Unix manual pages
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - on [css-tricks.com](https://css-tricks.com)
 - [json.org](https://json.org/)
