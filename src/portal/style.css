@@ -68,7 +68,7 @@ main {
 
 @media (max-width: 760px) {
   body { margin: 0 }
-  .container {padding: 0; border-radius: 0; margin: 0; }
+  .container {padding-inline: 0; padding-block-start: 0; border-radius: 0; margin: 0; }
   header { border-radius: 0; }
   main, header { padding-inline: 1rem; }
 }
