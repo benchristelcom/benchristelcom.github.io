@@ -88,9 +88,10 @@ h1 {
 }
 
 h2 {
+  margin-block: 3rem 1rem;
   border-block-end: 1px solid var(--border-color);
   font-size: 150%;
-  margin-block: 3rem 1rem;
+  font-weight: normal;
 }
 
 h3 {
@@ -264,7 +265,8 @@ num {
 
 .lr-split h2 {
   font-size: 1.1rem;
-  margin-block: 0 1rem;
+  margin-block: 0;
+  margin-inline: -0.25em 0;
   border: none;
   background: #0001;
   padding-inline: 0.5em;
