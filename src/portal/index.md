@@ -76,12 +76,12 @@
 
 ## Food
 
-### Favorite Recipes <hs-meta keywords="cookbook cooking"></hs-meta>
+### Favorite Recipes <span inert>cookbook cooking</span>
 
 <div class="col-3"></div>
 {{toc /recipes}}
 
-### Recipes Elsewhere <hs-meta keywords="cookbook cooking"></hs-meta>
+### Recipes Elsewhere <span inert>cookbook cooking</span>
 
 <div class="col-2"></div>
 
@@ -98,8 +98,8 @@
 
 ### Merchants
 
-- [Sunridge Farms](https://sunridgefarms.com/) - Organic bulk goods, including grains and beans. <hs-meta keywords="bulk wholesale"></hs-meta>
-- [Monterey Bay Herb Company](https://herbco.com/) <hs-meta keywords="herbco bulk wholesale"></hs-meta> - Tea, herbs, and spices for very competitive prices.
+- [Sunridge Farms](https://sunridgefarms.com/) - Organic bulk goods, including grains and beans. <span inert>bulk wholesale</span>
+- [Monterey Bay Herb Company](https://herbco.com/) <span inert>herbco bulk wholesale</span> - Tea, herbs, and spices for very competitive prices.
 - [Rancho Gordo](https://www.ranchogordo.com/) - Beans!
 
 ## Music
@@ -108,9 +108,9 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 ### Discovery
 
-- [Every Noise at Once](https://everynoise.com) <hs-meta keywords="everynoise.com"></hs-meta> - A catalog of all music on Spotify by algorithmically-inferred genre. An incredible work of data science by [Glenn McDonald](https://www.furia.com)
+- [Every Noise at Once](https://everynoise.com) <span inert>everynoise.com</span> - A catalog of all music on Spotify by algorithmically-inferred genre. An incredible work of data science by [Glenn McDonald](https://www.furia.com)
 - [Album of the Year](https://www.albumoftheyear.org/) - browse music by release year, going back to the early 1900s. [Here's 1920](https://www.albumoftheyear.org/1920/releases/).
-- [The Roud Folksong Index](https://archives.vwml.org/search/roud)<hs-meta keywords="song"></hs-meta> - a database of around 25,000 English and Scottish folk songs, compiled by Steve Roud. See also the [List of Folk Songs by Roud Number on Wikipedia](https://en.wikipedia.org/wiki/List_of_folk_songs_by_Roud_number) and the [Roud Folk Song Index series on MusicBrainz](https://musicbrainz.org/series/4e817004-53ed-438e-96da-88e27fb8d872).
+- [The Roud Folksong Index](https://archives.vwml.org/search/roud)<span inert>song</span> - a database of around 25,000 English and Scottish folk songs, compiled by Steve Roud. See also the [List of Folk Songs by Roud Number on Wikipedia](https://en.wikipedia.org/wiki/List_of_folk_songs_by_Roud_number) and the [Roud Folk Song Index series on MusicBrainz](https://musicbrainz.org/series/4e817004-53ed-438e-96da-88e27fb8d872).
 - [List of the Child Ballads on Wikipedia](https://en.wikipedia.org/wiki/List_of_the_Child_Ballads) - another list of English and Scottish folk songs.
 - [Musical Traditions](https://www.mustrad.org.uk/) - "The Magazine for Traditional Music throughout the world"
 
@@ -295,10 +295,10 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Cloudflare](https://cloudflare.com) - Static/serverless web host and CDN.
 - [Render.com](https://render.com) - Web app hosting
 - [Gimp](https://gimp.org) - the GNU Image Manipulation Program. An open source image editor similar to Photoshop. See also the [Gimp documentation](https://docs.gimp.org)
-- [WCAG Contrast Checker Extension (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/)<hs-meta keywords="add-ons addons plugin a11y accessibility"></hs-meta> - Tells you about any elements on your webpage that don't have WCAG AA or AAA-compliant contrast. See also the [Chrome](https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf) and [Edge](https://microsoftedge.microsoft.com/addons/detail/wcag-color-contrast-check/idahaggnlnekelhgplklhfpchbfdmkjp) versions.
-- **axe DevTools for Web Accessibility Testing** - check any webpage for accessibility problems. Extensions for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/), [Chrome](https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd), and [Edge](https://microsoftedge.microsoft.com/addons/detail/axe-devtools-web-access/kcenlimkmjjkdfcaleembgmldmnnlfkn).<hs-meta keywords="add-ons addons plugin a11y accessibility"></hs-meta>
+- [WCAG Contrast Checker Extension (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/)<span inert>add-ons addons plugin a11y accessibility</span> - Tells you about any elements on your webpage that don't have WCAG AA or AAA-compliant contrast. See also the [Chrome](https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf) and [Edge](https://microsoftedge.microsoft.com/addons/detail/wcag-color-contrast-check/idahaggnlnekelhgplklhfpchbfdmkjp) versions.
+- **axe DevTools for Web Accessibility Testing** - check any webpage for accessibility problems. Extensions for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/), [Chrome](https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd), and [Edge](https://microsoftedge.microsoft.com/addons/detail/axe-devtools-web-access/kcenlimkmjjkdfcaleembgmldmnnlfkn).<span inert>add-ons addons plugin a11y accessibility</span>
 - [searchpass](https://github.com/larham/searchpass) - A shell script that checks if your password has been exposed in a data breach, *without* revealing it to anyone. If you're a programmer, you'll appreciate the elegant algorithm. Made by my colleague Larry Hamel.
-- [uBlock Origin](https://ublockorigin.com/) - The ad blocker geeks use. Don't worry, there's nothing particularly geeky about it; it's just an ad blocker that works. Blocks trackers, too! Extensions for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), and [Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak).<hs-meta keywords="add-ons addons plugin adblock"></hs-meta>
+- [uBlock Origin](https://ublockorigin.com/) - The ad blocker geeks use. Don't worry, there's nothing particularly geeky about it; it's just an ad blocker that works. Blocks trackers, too! Extensions for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), and [Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak).<span inert>add-ons addons plugin adblock</span>
 - [MarkDownload](https://github.com/deathau/markdownload) - View and download the main content of most HTML pages as [Markdown]. Made by [Gordon Pedersen](https://death.id.au/). (h/t [Maya] via [Chris Aldrich](https://boffosocko.com/2020/12/29/markdownload-github/))
 - [jq](https://jqlang.github.io/jq/manual/) - CLI parser / formatter / stream editor for JSON
 
@@ -336,7 +336,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
   - It seems you can also paste YouTube channel URLs directly into at least some feed readers (tested with QuiteRSS). E.g. try this one: <https://www.youtube.com/@simonroper9218>.
 - [Show or hide HTML elements for screenreaders only](https://css-tricks.com/inclusively-hidden/) using CSS.
 
-## Image Repositories<hs-meta keywords="free stock images"></hs-meta>
+## Image Repositories<span inert>free stock images</span>
 
 ### General
 
@@ -369,7 +369,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Heroicons](https://heroicons.com/) - copy these SVG icons directly into your HTML. Nothing to download. Outline, solid, mini, and micro variants. (h/t [JT Archie](https://jtarchie.com/))
 - [Cliparts.co](https://cliparts.co) - give your website, flyer, or email that ultimate kitschy look.
 
-## Web-based Tools<hs-meta keywords="online browser-based"></hs-meta>
+## Web-based Tools<span inert>online browser-based</span>
 
 ### Sensing
 
@@ -377,9 +377,9 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Epoch Converter](https://www.epochconverter.com/) - Converts dates to and from Unix epoch timestamps
 - [Accuweather](https://accuweather.com/)
 - [Purple Air](https://map.purpleair.com/) - Crowdsourced monitoring of air quality near you!
-- [Webtrak flight tracker](https://webtrak.emsbk.com/) - Tracks aircraft in your area. Pairs great with [FAA registry search](https://registry.faa.gov/AircraftInquiry/Search/NNumberInquiry). Stupid UI thing, though: if you don't want it to ask for / use your location, click "Cancel" at the initial prompt. Then you'll be able to select an airport from a list. <hs-meta keywords="webtrack planes"></hs-meta>
+- [Webtrak flight tracker](https://webtrak.emsbk.com/) - Tracks aircraft in your area. Pairs great with [FAA registry search](https://registry.faa.gov/AircraftInquiry/Search/NNumberInquiry). Stupid UI thing, though: if you don't want it to ask for / use your location, click "Cancel" at the initial prompt. Then you'll be able to select an airport from a list. <span inert>webtrack planes</span>
 
-### Calculating<hs-meta keywords="calculators calculate"></hs-meta>
+### Calculating<span inert>calculators calculate</span>
 
 - [PVIR Electrical Calculator](https://www.electricaltechnology.org/2014/03/power-voltage-current-resistance-pvir-calculator.html) - calculate power, voltage, current, or resistance.
 
@@ -544,7 +544,7 @@ A.K.A. the lost art of amusing yourself without electricity.
 
 Dedicated individuals' comprehensive maps of their chosen domain.
 
-- [Every Noise at Once](https://everynoise.com) <hs-meta keywords="everynoise.com"></hs-meta> - A catalog of all music on Spotify by algorithmically-inferred genre. An incredible work of data science by [Glenn McDonald](https://www.furia.com).
+- [Every Noise at Once](https://everynoise.com) <span inert>everynoise.com</span> - A catalog of all music on Spotify by algorithmically-inferred genre. An incredible work of data science by [Glenn McDonald](https://www.furia.com).
 - [Eldamo.org](https://eldamo.org) - the ELvish DAta MOdel. Paul Strack's project to collect every word of Elvish in Tolkien's works
 into one searchable, cross-referenced database.
 - [David Rumsey Map Collection](https://www.davidrumsey.com/) - Historical and rare maps. (h/t [Cidoku])
@@ -587,7 +587,7 @@ into one searchable, cross-referenced database.
 - [Bliki](https://github.com/benchristel/benchristel.github.io/wiki) - My personal blog/wiki about software, with 250+ topic-focused pages on everything from [abstraction](https://github.com/benchristel/benchristel.github.io/wiki/Abstraction) to [wholeness](https://github.com/benchristel/benchristel.github.io/wiki/Wholeness).
 - [The Wayward Web](https://waywardweb.org) - A webring. A collaborative effort to map the useful, human parts of the web.
 - [Druthers](https://druthers.app) - Instantly grok your group's priorities with ranked-choice voting. A collaboration with [Gavin Morgan](https://gavmor.com). 
-- [Culture Machine](https://benchristel.github.io/tv) - The app I wrote to break my YouTube addiction (it worked). Emotionally-stabilizing videos played continuously in an unskippable random sequence.<hs-meta keywords="tv"></hs-meta>
+- [Culture Machine](https://benchristel.github.io/tv) - The app I wrote to break my YouTube addiction (it worked). Emotionally-stabilizing videos played continuously in an unskippable random sequence.<span inert>tv</span>
 - [mdsite](https://benchristel.github.io/mdsite) - A modern generator for old-school static sites. It turns any tree of [Markdown] files into a website, complete with auto-generated navigation links. It's also the tool I used to create this webpage!
 - [Taste](https://npmjs.com/package/@benchristel/taste) - Simple, speedy JavaScript test framework
 - [yt](https://benchristel.github.io/yt/) - Watch YouTube without ads or tracking. Pairs great with [LeechBlock](https://www.proginosko.com/leechblock/).
@@ -602,7 +602,7 @@ into one searchable, cross-referenced database.
 - [autokeyconf](https://github.com/benchristel/autokeyconf) - Rebinds shortcut keys system-wide on Linux.
 - ["Frost" theme for Docky](https://github.com/benchristel/docky-frost) - An OSX-style dock for Linux.
 
-## Webring <hs-meta keywords="ring wayward"></hs-meta>
+## Webring <span inert>ring wayward</span>
 
 <script defer src="https://cdn.jsdelivr.net/npm/wwwebring@0.2.0"></script>
 <p
