@@ -41,6 +41,7 @@
       <option value="!protondb" data-search="https://www.protondb.com/search?q=%s"></option>
       <option value="!steamdb" data-search="https://steamdb.info/search/?a=all&q=%s"></option>
       <option value="!emoji" data-search="https://emojipedia.org/search?q=%s"></option>
+      <option value="!stackexchange" data-search="https://stackexchange.com/search?q=%s"></option>
     </datalist>
   </div>
 </div>
