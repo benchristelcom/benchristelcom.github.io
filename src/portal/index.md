@@ -360,10 +360,10 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 - [GifCities](https://gifcities.org/) - Archived gifs from Geocities websites.
 - [TextureTown](https://textures.neocities.org/) - Thousands of textures to use in website backgrounds and 3D worlds.
-- [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) on Toptal.com (h/t [eev.ee](https://eev.ee/)).
-- [Hero Patterns](https://heropatterns.com/) - tiling SVG patterns for your website background
-- [Pattern Monster](https://pattern.monster/) - even more tiling SVG patterns for your website background
-- [nnnoise - SVG Noise Generator](https://www.fffuel.co/nnnoise/) - create fractal noise or turbulence dynamically with SVG. A very network-efficient replacement for PNG or JPEG textures.
+- [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - website backgrounds on Toptal.com (h/t [eev.ee](https://eev.ee/)).<span inert>tiling textures</span>
+- [Hero Patterns](https://heropatterns.com/) - tiling SVG patterns for your website background<span inert>textures</span>
+- [Pattern Monster](https://pattern.monster/) - even more tiling SVG patterns for your website background<span inert>textures</span>
+- [nnnoise - SVG Noise Generator](https://www.fffuel.co/nnnoise/) - create fractal noise or turbulence dynamically with SVG. A very network-efficient replacement for PNG or JPEG textures.<span inert>background tiling</span>
 - [Grainy Gradient Playground](https://grainy-gradients.vercel.app/) - dithered gradients for a retro (or is it futuristic?) look
 - [IconsDB](https://www.iconsdb.com/)
 - [Heroicons](https://heroicons.com/) - copy these SVG icons directly into your HTML. Nothing to download. Outline, solid, mini, and micro variants. (h/t [JT Archie](https://jtarchie.com/))
