@@ -22,16 +22,15 @@ https://deta.space
 https://bombadillo.colorfield.space
 https://fencraft.leprd.space
 https://www.goethe.de
+https://fuckoffgoogle.de
 https://the402.wertstahl.de
 https://zettelkasten.de
 https://www.pearson.de
 https://joerg-rhiemeier.de
 https://data.mactechnews.de
 https://linktr.ee
-https://eev.ee
 https://status.cafe
 https://github-wiki-see.page
-https://pablo.rauzy.name
 https://search.me
 https://ttntm.me
 https://numericcitizen.me
@@ -125,6 +124,7 @@ https://norkin.org
 https://python.org
 https://poetryfoundation.org
 https://palemoon.org
+https://archiveofourown.org
 https://thecgo.org
 https://sedano.org
 https://cityofpaloalto.org
@@ -144,6 +144,7 @@ https://semver.org
 https://audacious-media-player.org
 https://jstor.org
 https://clojuredocs.org
+https://www.mkdocs.org
 https://unixgods.org
 https://livingneighborhoods.org
 https://celtic-languages.org
@@ -165,6 +166,7 @@ https://storybook.js.org
 https://legacy.reactjs.org
 https://highlightjs.org
 https://redux.js.org
+https://standardebooks.org
 https://wikibooks.org
 https://bonfirenetworks.org
 https://mikelyons.org
@@ -174,12 +176,14 @@ https://webexhibits.org
 https://alanwatts.org
 https://libretexts.org
 https://beta.slowways.org
+https://www.worldcat.org
 https://omegat.org
 https://newsboat.org
 https://fedoraproject.org
 https://eventide-project.org
 https://internationalphoneticalphabet.org
 https://musicanet.org
+https://degooglisons-internet.org
 https://hoprnet.org
 https://peerbit.org
 https://mpgedit.org
@@ -229,7 +233,6 @@ https://www.bridgesonthetyne.co.uk
 https://parallel.co.uk
 https://amazon.co.uk
 https://maps.nls.uk
-https://universocantigas.gal
 https://buttondown.email
 https://tenochtitlan.thomaskole.nl
 https://www.exitmundi.nl
@@ -239,7 +242,6 @@ https://href.cool
 https://belowthesurface.amsterdam
 https://storytime.team
 https://growthbook.auth0.com
-https://c2.com
 https://arstechnica.com
 https://britannica.com
 https://gitea.com
@@ -265,6 +267,7 @@ https://theuselessweb.com
 https://thenextweb.com
 https://koyeb.com
 https://colorlib.com
+https://dotepub.com
 https://leanpub.com
 https://bbc.com
 https://cnbc.com
@@ -272,6 +275,7 @@ https://lospec.com
 https://www.spirit-alembic.com
 https://www.neilcic.com
 https://skepdic.com
+https://www.flagfic.com
 https://heroesofmightandmagic.com
 https://www.superbad.com
 https://forum.agoraroad.com
@@ -310,10 +314,10 @@ https://hungarianreference.com
 https://thespruce.com
 https://etrade.com
 https://ascii-code.com
+https://bookviewcafe.com
 https://blog.nelhage.com
 https://skyscraperpage.com
 https://patternlanguage.com
-https://stackexchange.com
 https://longdogechallenge.com
 https://www.theverge.com
 https://curseforge.com
@@ -327,6 +331,8 @@ https://forkable.com
 https://harvesttotable.com
 https://www.barnesandnoble.com
 https://robinrendle.com
+https://www.humblebundle.com
+https://storybundle.com
 https://csspiffle.com
 https://experiments.withgoogle.com
 https://secure.e-file.com
@@ -367,6 +373,7 @@ https://geekflare.com
 https://tanzu.vmware.com
 https://code.jsoftware.com
 https://www.jsoftware.com
+https://destroyallsoftware.com
 https://www.chosenfewsoftware.com
 https://supabase.com
 https://filebase.com
@@ -376,7 +383,6 @@ https://stackabuse.com
 https://us.cloud.langfuse.com
 https://packagehub.suse.com
 https://www.kongregate.com
-https://lyricstranslate.com
 https://www.greenwaste.com
 https://ethanmarcotte.com
 https://deque.com
@@ -393,17 +399,22 @@ https://unpkg.com
 https://pbs.twimg.com
 https://www.bing.com
 https://collaborativeworldbuilding.com
+https://bundleofholding.com
 https://www.oldcitypublishing.com
+https://www.librarything.com
+https://boardgaming.com
 https://always-a-pivot.creator-spring.com
 https://weirdorconfusing.com
 https://www.southernliving.com
 https://circularliving.com
 https://www.geekbuying.com
 https://www.baeldung.com
+https://www.drivethrurpg.com
 https://www.horg.com
 https://pngtosvg.com
 https://techcrunch.com
 https://research.swtch.com
+https://app.thestorygraph.com
 https://unsplash.com
 https://www.paulirish.com
 https://www.toonamiaftermath.com
@@ -451,7 +462,6 @@ https://cal.com
 https://www.classcentral.com
 https://www.windowscentral.com
 https://www.westerndigital.com
-https://www.toptal.com
 https://rddnickel.com
 https://www.rawpixel.com
 https://nikitahl.com
@@ -478,6 +488,7 @@ https://hermitcraft.fandom.com
 https://www.loom.com
 https://www.ribbonfarm.com
 https://www.orionsarm.com
+https://joinbookwyrm.com
 https://futurism.com
 https://versionmuseum.com
 https://www.versionmuseum.com
@@ -503,6 +514,7 @@ https://www.cnn.com
 https://websitecarbon.com
 https://patreon.com
 https://www.patreon.com
+https://www.libraryextension.com
 https://www.oldversion.com
 https://theconversation.com
 https://byrdsfillingstation.com
@@ -513,7 +525,6 @@ https://countrysun.com
 https://www.herbco.com
 https://www.thoughtco.com
 https://vimeo.com
-https://marketplace.visualstudio.com
 https://ww7.lookerstudio.com
 https://trello.com
 https://id.venmo.com
@@ -556,12 +567,12 @@ https://jessmahler.com
 https://martinfowler.com
 https://www.thebookdesigner.com
 https://anundergroundminer.com
+https://www.instapaper.com
 https://onesquareminesweeper.com
 https://blog.thecodewhisperer.com
 https://pillser.com
 https://superuser.com
 https://process2processes.goatcounter.com
-https://www.goatcounter.com
 https://gs.statcounter.com
 https://merriam-webster.com
 https://www.theregister.com
@@ -590,6 +601,7 @@ https://longreads.com
 https://refinedmods.com
 https://minecraftmods.com
 https://www.minecraftmods.com
+https://www.smashwords.com
 https://www.forbes.com
 https://labspractices.com
 https://www.unresolvedforces.com
@@ -638,6 +650,9 @@ https://www.lileks.com
 https://neglectedbooks.com
 https://betterworldbooks.com
 https://www.ebooks.com
+https://weightlessbooks.com
+https://angryrobotbooks.com
+https://www.powells.com
 https://www.w3schools.com
 https://www.methodsandtools.com
 https://shopsunridgefarms.com
@@ -686,6 +701,7 @@ https://blog.logrocket.com
 https://logrocket.com
 https://www.galactanet.com
 https://www.tapconet.com
+https://scarletferret.com
 https://smartasset.com
 https://www.planetminecraft.com
 https://www.pilatus-aircraft.com
@@ -708,7 +724,6 @@ https://app.convertkit.com
 https://convertkit.com
 https://turbotax.intuit.com
 https://www.cognizant.com
-https://www.thedeliciouscrescent.com
 https://private-user-images.githubusercontent.com
 https://objects.githubusercontent.com
 https://gist.githubusercontent.com
@@ -810,7 +825,6 @@ https://jobs.lever.co
 https://stackoverflow.co
 https://survey.stackoverflow.co
 https://www.sloww.co
-https://steamdb.info
 https://mikadomethod.info
 https://www.fileformat.info
 https://phrontistery.info
@@ -853,6 +867,7 @@ https://pocketbase.io
 https://readwise.io
 https://boards.greenhouse.io
 https://typing.io
+https://itch.io
 https://joshuuu.itch.io
 https://wintersmith.io
 https://thenewstack.io
@@ -902,6 +917,7 @@ https://beta.tauri.app
 https://tauri.app
 https://multi.app
 https://professional-blog-prod.vercel.app
+https://hardcover.app
 https://decisionmatrix.app
 https://docs.railway.app
 https://railway.app
@@ -941,6 +957,7 @@ https://devdoc.net
 https://emreed.net
 https://www.booked.net
 https://melonland.net
+https://amalthia.mediawood.net
 https://sourceforge.net
 https://junit.sourceforge.net
 https://jsfiddle.net
@@ -956,6 +973,7 @@ https://wevidi.net
 https://jasontank.net
 https://faeriepunk.net
 https://theretrobook.net
+https://ethical.net
 https://www.typescripttutorial.net
 https://geminiprotocol.net
 https://earth.nullschool.net
@@ -965,6 +983,7 @@ https://veloren.net
 https://www.fanfiction.net
 https://simonwillison.net
 https://gwern.net
+https://www.fanfictiondownloader.net
 https://lieder.net
 https://makingpermaculturestronger.net
 https://intertwingler.net
@@ -1025,5 +1044,3 @@ https://diff2html.xyz
 https://ocean-waves.xyz
 https://metacrisis.xyz
 https://voicedrew.xyz
-https://www.mkdocs.org
-https://destroyallsoftware.com
