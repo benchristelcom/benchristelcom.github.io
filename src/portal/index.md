@@ -72,6 +72,8 @@
 </nav>
 </div>
 
+<div class="hypersearch-no-results">No results.</div>
+
 <div data-hypersearch-start></div>
 
 ## Food
@@ -636,7 +638,7 @@ HREFS BELOW
 [Markdown]: https://daringfireball.net/projects/markdown/
 [Melon]: https://melonking.net/
 
-<script defer type="module" src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.4.0"></script>
+<script defer type="module" src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.5.0"></script>
 <script>
 const elById = document.getElementById.bind(document)
 const searchInput = document.querySelector("input[type=search]")
