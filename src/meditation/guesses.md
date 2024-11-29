@@ -1,0 +1,1 @@
+No specific experience tells you anything, really, about the fundamental nature of the universe. Only _experience_ does.
