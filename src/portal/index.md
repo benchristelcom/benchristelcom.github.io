@@ -235,6 +235,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [HTML Specification](https://html.spec.whatwg.org)
 - [URL Specification](https://url.spec.whatwg.org) - "The URL Standard defines URLs, domains, IP addresses, the `application/x-www-form-urlencoded` format, and their API."
 - [GraphQL Specification](http://spec.graphql.org)
+- [List of Common MIME Types](https://developer.mozilla.org/en-US/docs/Web/HTTP/MIME_types/Common_types) on MDN
 
 ### Q&A
 
