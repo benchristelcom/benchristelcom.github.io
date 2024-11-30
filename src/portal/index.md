@@ -251,6 +251,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [surge.sh](https://surge.sh) - Put any folder of HTML files on the web instantly.
 - [codeberg.org](https://codeberg.org/) - Free indie git hosting.
 - [js.org](https://js.org) - Free subdomains for JavaScript projects using [GitHub Pages](https://pages.github.com/).
+- [List of MediaWiki hosting providers](https://www.mediawiki.org/wiki/Hosting_services) - Create your own wiki!
 
 ### UI/UX Design
 
