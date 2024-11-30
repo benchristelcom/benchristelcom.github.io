@@ -436,6 +436,11 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Indie Bound](https://www.indiebound.org/) - Find local independent bookstores!
 - [Bookshop](https://bookshop.org/)
 
+See also:
+
+- [Skyhold's list of Amazon alternatives](https://skyhold.org/noamazon/)
+- [Jess Mahler's list of Amazon alternatives](https://jessmahler.com/where-to-buy-books-other-than-amazon/)
+
 ### Specific Titles
 
 - [The Canterbury Tales](https://chaucer.fas.harvard.edu/pages/text-and-translations) in Middle English
