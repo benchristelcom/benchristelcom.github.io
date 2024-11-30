@@ -107,3 +107,17 @@ I'd recommend this map as a way to introduce new players to the midgame.
 | Challenge     | ★☆☆☆☆  |
 | Replayability | ★☆☆☆☆  |
 | Fun           | ★★★☆☆  |
+
+## Chasing Reptiles
+
+| Attribute           | Value     |
+| ------------------- | --------- |
+| Map Size            | Small     |
+| Difficulty          | Intermediate |
+| Players             | 2         |
+| Included with       | Heroes IV |
+| Multiplayer design  | No        |
+| Max humans          | 2         |
+| Playable alignments | All       |
+
+pros: rewards exploration with free stuff
