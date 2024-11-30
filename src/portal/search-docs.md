@@ -39,7 +39,7 @@ I have hard-coded a few shortcuts into the searchbar for my own use. Typing a sh
 | tv       | https://benchristel.github.io/tv/ | Culture Machine
 | zen      | https://benchristel.github.io/meditation/ | Meditation timer
 | bliki    | https://github.com/benchristel/benchristel.github.io/wiki | My digital garden
-| yt       | https://github.com/benchristel/benchristel.github.io/yt | YouTube prophylactic
+| yt       | https://benchristel.github.io/yt | YouTube prophylactic
 | mail     | https://mail.google.com/ | GMail
 
 <div class="space-32"></div>
