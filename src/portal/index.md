@@ -691,6 +691,8 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 ### Creating
 
+- [Excalidraw](https://excalidraw.com/) - Create hand-drawn-style SVGs and PNG images
+- [TinkerCAD](https://www.tinkercad.com/) - 3D modeling online!
 - [Flaming Text](https://flamingtext.com/) - Creates logos and typemarks. Not just flaming text, but glowing text, drop shadows, reflections, leopard print... the sky's the limit!
 - [Dillinger.io](https://dillinger.io) - Online [Markdown] editor
 
@@ -770,6 +772,7 @@ A.K.A. the lost art of amusing yourself without electricity.
 
 ## Model Railroads
 
+- [Burr Stewart (@muchfunwithtrains) on YouTube](https://www.youtube.com/@muchfunwithtrains/videos)
 - [Layout Design Special Interest Group (LDSIG)](https://ldsig.org/)
   - [Design Primer](https://ldsig.net/o/ldsig/wiki/index_title_How_to_use_the_LDSIG_Design_Primer.html)
 - [Gateway NMRA](https://www.gatewaynmra.org) of St. Louis
