@@ -1,11 +1,314 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>{{title}}</title>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="https://benchristel.com/feed.rss">
-  <link rel="stylesheet" href="style.css">
+<title>{{title}}</title>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://benchristel.com/feed.rss">
+<style>
+* {
+  box-sizing: border-box;
+}
+p, li, figcaption, blockquote, h1, h2, h3, h4, h5, h6, a {
+  line-height: 1.4;
+}
+:root {
+  --body-width: 68em;
+  --align: left;
+  --hyphens: manual;
+  --font-size: 0.9375rem;
+  --body-font-family: 'Trebuchet MS', 'Verdana', sans-serif;
+  --heading-font-family: var(--body-font-family);
+  --line-height: 1.4;
+  --font: var(--font-size) / var(--line-height) var(--body-font-family);
+  --global-bg: linear-gradient(to bottom, #7496b7 66%, hsl(311.5, 5%, 62%));
+  --burgundy: hsl(-29, 100%, 25%);
+  --brown: hsl(-29, 15%, 15%);
+  --blue: hsl(209.6, 100%, 25%);
+  --container-bg: #fafafa;
+  --border-color: #bbb;
+  background: var(--global-bg);
+  background-attachment: fixed;
+  font: var(--font);
+  text-align: var(--align);
+  hyphens: var(--hyphens);
+  line-height: var(--line-height);
+  overflow-y: scroll;
+}
+body {
+  max-width: var(--body-width);
+  margin: 1rem auto;
+}
+.container {
+  margin: 0 1rem;
+  box-shadow: 0 0 10px #0006;
+  border-radius: 9px;
+  background: var(--container-bg);
+  padding: 4px;
+  padding-block-end: 4rem;
+  color: #112;
+}
+header {
+  background: url(landscape.jpg), linear-gradient(110deg, #789, #9e95aa);
+  border-radius: 5px 5px 0 0;
+  background-size: cover;
+  background-position: 50% 45%;
+  padding: 2em 2.75em;
+  color: #fff;
+  text-shadow: 0 0 6px #000;
+}
+header > * {
+  display: inline-block;
+  vertical-align: middle;
+}
+main {
+  padding-inline: 2.75rem;
+}
+@media (max-width: 760px) {
+  body { margin: 0 }
+  .container {padding-inline: 0; padding-block-start: 0; border-radius: 0; margin: 0; }
+  header { border-radius: 0; }
+  main, header { padding-inline: 1rem; }
+}
+h1, h2, h3 {
+  font-weight: bold;
+  font-family: var(--heading-font-family);
+  color: #000;
+}
+h1 {
+  font-size: 175%;
+  margin-block: 0;
+  padding-right: 1em;
+  vertical-align: -0.2em;
+  color: #fff;
+}
+h2 {
+  margin-block: 3rem 1rem;
+  border-block-end: 1px solid var(--border-color);
+  font-size: 150%;
+  font-weight: normal;
+}
+h3 {
+  margin-block-start: 1.25rem;
+  font-size: 100%;
+  background: #eee;
+  margin-inline: -0.33em;
+  padding-inline: 0.33em;
+}
+a:not(.webring-container *) {
+  text-decoration: underline;
+  text-decoration-color: var(--border-color);
+  text-decoration-skip-ink: none;
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 1px;
+  padding-block: 0.3em;
+  margin-block: -0.3em;
+}
+a { color: var(--blue); }
+a:visited { color: hsl(311.5, 50%, 25%); }
+ul {
+  margin-block: 0;
+  padding-inline-start: 1.1em;
+}
+li {
+  margin-block-end: 0.33em;
+  padding-inline-start: 1em;
+  text-indent: -1em;
+  break-inside: avoid;
+}
+li > p {
+  /* prevent the first list item in a column from being shifted down */
+  margin-block-start: 0;
+}
+.col-2, .col-3 {
+  display: none;
+}
+:is(.col-2, .col-3) + * {
+  text-align: start;
+  hyphens: manual;
+  column-gap: 4em;
+}
+.col-2 + * {
+  column-count: 2;
+}
+.col-3 + * {
+  column-count: 3;
+}
+@media (max-width: 760px) {
+  .col-2 + * {
+    column-count: 1;
+    column-gap: 4em;
+  }
+  .col-3 + * {
+    column-count: 1;
+  }
+}
+.breadcrumb {
+  display: inline;
+  vertical-align: middle;
+}
+.breadcrumb > a:first-child {
+  vertical-align: -3px;
+}
+.breadcrumb > a:first-child::after {
+  vertical-align: 3px;
+}
+.breadcrumb > a::after {
+  display: inline-block;
+  width: 2em;
+  text-align: center;
+  content: '➤';
+  color: #ddd;
+  font-size: 0.9em;
+}
+code { white-space: pre-wrap; }
+sup, sup > a {
+  /* don't let footnote refs mess with line spacing */
+  line-height: 0;
+}
+sup > a {
+  /* Georgia doesn't have lining-nums */
+  font-family: 'Times New Roman', serif;
+  font-weight: bold;
+  padding-inline: 0.25em;
+}
+num {
+  /* Georgia doesn't have lining-nums */
+  font-family: 'Times New Roman', 'Liberation Serif', serif;
+  font-variant-numeric: lining-nums;
+}
+.centered-text {
+  text-align: center;
+}
+.space-8 {
+  height: 0.5rem;
+  width: 0.5rem;
+}
+.space-32 {
+  height: 2rem;
+  width: 2rem;
+}
+.sr-only {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+.lr-split {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2em;
+  background: #f0f0f0;
+  border: 1px solid #ccc;
+  border-block-end: 1px solid #bbb;
+  margin-block-start: 4px;
+  margin-inline: -2.75em;
+  padding: 1em;
+}
+@media (max-width: 760px) {
+  .lr-split {
+    display: block;
+    border-radius: 0;
+    border-inline: none;
+    margin-inline: -1rem;
+  }
+}
+.lr-split > * {
+  flex-basis: 47%;
+  flex-shrink: 1;
+}
+.toc ul {
+  padding: 0;
+  text-align: start;
+}
+.toc li {
+  display: inline-block;
+  margin: 0.25em 0.33em;
+  padding: 0;
+  text-indent: 0;
+  list-style-type: none;
+}
+.lr-split h2 {
+  margin-block: 0;
+  margin-inline: -0.25em;
+  border: none;
+  background: #0001;
+  padding-inline: 0.5em;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+input[type=search] {
+  margin: 0 auto 0.8rem;
+  display: block;
+  width: 90%;
+  border-radius: 99px;
+  border: 1px solid #666;
+  border-color: #666 #888 #aaa #888;
+  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="rgb(170,170,170)" class="size-4"><path fill-rule="evenodd" d="M9.965 11.026a5 5 0 1 1 1.06-1.06l2.755 2.754a.75.75 0 1 1-1.06 1.06l-2.755-2.754ZM10.5 7a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0Z" clip-rule="evenodd" /></svg>');
+  background-size: 20px 20px;
+  background-position: 10px 3px;
+  background-repeat: no-repeat;
+  background-color: #fff;
+  padding: 7px 34px 5px;
+  box-shadow: inset 0 1px 2px #0004;
+}
+.hypersearch-no-results {
+  display: none;
+  text-align: center;
+  font-size: 18px;
+  color: #666;
+  margin-block: 5rem;
+}
+.hypersearch-no-results-shown {
+  display: block;
+}
+/* used for search keywords */
+span[inert] {
+  display: inline-block;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+button {
+  margin-block: 3px;
+  min-height: 24px;
+  min-width: 60px;
+  background: #ddd;
+  border: 1px solid #0007;
+  border-radius: 5px;
+  box-shadow: inset 0px 2px #fffc, inset 2px 0px #0001, inset -2px 0px #0001, inset 0px -2px #0002;
+  padding: 2px 8px;
+  cursor: pointer;
+}
+button:hover {
+  background: #d6d6d6;
+}
+button:active {
+  background: #d6d6d6;
+  box-shadow: inset 2px 0px #0002, inset 0px 2px #0002,
+    inset -2px 0px #fff8, inset 0px -2px #fff8;
+}
+div.wwwebring-widget {
+  background: #eee !important;
+  border: outset 2px #fff !important;
+  box-shadow: 1px 1px #0005, 0 0 0 1px #0002;
+}
+.webring-container {
+  display: table;
+  margin: 2em auto;
+}
+/* ensure scrollbar tracks are displayed even if the page content
+ * does not need to scroll, to prevent horizontal jitter when
+ * searching */
+html {
+  overflow-y: scroll;
+}
+</style>
 </head>
 <body>
 <div class="container">
@@ -15,7 +318,6 @@
     </nav>
     <h1>Web Portal</h1>
   </header>
-
 <main>
 <div class="lr-split">
 <div>
