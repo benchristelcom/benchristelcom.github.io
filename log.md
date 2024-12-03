@@ -1,6 +1,6 @@
 # Web Log
 
-This page is a reverse chronology of what I've been doing and thinking about. You can [subscribe to updates here](/subscribe.html).
+This page is a reverse chronology of what I've been doing and thinking about. You can [subscribe to updates via RSS](/subscribe.html).
 
 <style>
 :root {
@@ -46,6 +46,18 @@ An optimistic vision of the future: Instead of your friends sarcastically saying
 The worldview of consumerism says the world is made of _things_. Creating value, in this system, equates to creating _things_. Christopher Alexander's worldview says the world is made of _structure_, and that value is created by giving order to that structure.
 
 -->
+
+## December 2, 2024
+
+The [Web Portal](/portal) page has a spiffy new design, and some new features:
+
+- Hit `enter` to navigate to the first link matching your search query. If no links matched, it'll search DuckDuckGo instead.
+- A few [DuckDuckGo bangs](https://duckduckgo.com/bangs) will autocomplete if you begin your search query with a bang.
+- Search now finds items by URL as well as visible text.
+
+This last feature was enabled by a new release of [hypersearch](https://www.npmjs.com/package/@benchristel/hypersearch)!
+
+The [metrics](/metrics.html) page is up-to-date with November's data.
 
 ## November 16, 2024
 

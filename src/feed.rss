@@ -9,6 +9,20 @@
         <managingEditor>benchristel@gmail.com (Ben Christel)</managingEditor>
         <webMaster>benchristel@gmail.com (Ben Christel)</webMaster>
         <item>
+            <title>December 2, 2024</title>
+            <guid isPermaLink="false">december-2-2024</guid>
+            <link>https://benchristel.com/log.html#december-2-2024</link>
+            <pubDate>Mon, 02 Dec 2024 12:00:00 +0000</pubDate>
+            <description><![CDATA[<p>The <a href="https://benchristel.com/portal">Web Portal</a> page has a spiffy new design, and some new features:</p>
+<ul>
+<li>Hit <code>enter</code> to navigate to the first link matching your search query. If no links matched, it&apos;ll search DuckDuckGo instead.</li>
+<li>A few <a href="https://duckduckgo.com/bangs">DuckDuckGo bangs</a> will autocomplete if you begin your search query with a bang.</li>
+<li>Search now finds items by URL as well as visible text.</li>
+</ul>
+<p>This last feature was enabled by a new release of <a href="https://www.npmjs.com/package/@benchristel/hypersearch">hypersearch</a>!</p>
+<p>The <a href="https://benchristel.com/metrics.html">metrics</a> page is up-to-date with November&apos;s data.</p>]]></description>
+        </item>
+        <item>
             <title>November 16, 2024</title>
             <guid isPermaLink="false">november-16-2024</guid>
             <link>https://benchristel.com/log.html#november-16-2024</link>
