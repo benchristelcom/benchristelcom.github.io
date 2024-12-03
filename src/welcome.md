@@ -12,14 +12,6 @@ I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); b
 
 - [The Wayward Web](https://waywardweb.org) - A webring. A collaborative effort to map the useful, human parts of the web.
 
-<!--
-  <dt><a href="/log.html">Web Log</a></dt>
-  <dd>
-    What I've been doing on the web recently, on this site and elsewhere.
-    <p><a href="/subscribe.html">Subscribe to updates</a> via RSS. <a href="/feed.rss"><img src="/assets/rss.png" alt="RSS icon" width="18"></a></p>
-  </dd>
--->
-
 ## Writing Projects
 
 <div class="col-2"></div>
