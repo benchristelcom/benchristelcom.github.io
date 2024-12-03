@@ -36,6 +36,7 @@ Run `tools/metrics HISTORYFILE`
 
 | Month    | Webpages | Google searches | DDG searches |
 | -------- | -------- | --------------- | ------------ |
+| Nov 2024 | 857      | 9               | 110          |
 | Oct 2024 | 604      | 0               | 0            |
 | Sep 2024 | 902      | 0               | 25           |
 | Aug 2024 | 1591     | 1               | 87           |
@@ -47,6 +48,12 @@ Run `tools/metrics HISTORYFILE`
 | Feb 2024 | 1435     | 6               | 160          |
 
 ## Notes
+
+### November 2024
+
+The number of DuckDuckGo searches for this month is artificially inflated, because I looked up several [DDG bangs](https://duckduckgo.com/bangs). Every time you type a character into the search bar on that page, the URL changes and adds an entry to your history. If we exclude those extra history items, I used DuckDuckGo 46 times.
+
+The nine Google searches were me paging through Google Books results trying to find the earliest mention of "deviled eggs."
 
 ### October 2024
 
