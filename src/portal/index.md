@@ -519,6 +519,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Wat (Video)](https://www.destroyallsoftware.com/talks/wat) - Gary Bernhardt
 - [A Whole New World](https://www.destroyallsoftware.com/talks/a-whole-new-world) - Gary Bernhardt
 - [The Birth and Death of JavaScript (Video)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) - Gary Bernhardt
+- [The pedantic checklist for changing your data model in a web application](https://rtpg.co/2021/06/07/changes-checklist.html) - Raphael Gaschignard
 
 ### Reference
 
