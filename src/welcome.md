@@ -2,6 +2,8 @@
 
 I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); by night I write everything else. This website is the gateway to my many projects.
 
+- [Recent updates](log.html) &nbsp;&middot;&nbsp; [Subscribe via RSS](subscribe.md)
+
 ## Cyberspace Curation
 
 <div class="col-2"></div>

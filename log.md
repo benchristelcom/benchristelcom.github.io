@@ -7,10 +7,6 @@ This page is a reverse chronology of what I've been doing and thinking about. Yo
   --body-width: 46em;
   font-size: 16px;
 }
-
-a[href*='subscribe.html'] {
-  text-shadow: 0 0 8px #ff8;
-}
 </style>
 
 <!--
