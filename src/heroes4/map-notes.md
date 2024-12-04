@@ -141,3 +141,39 @@ The scenario has a (_very_ thin) plot. At least they tried.
 | Challenge     | ★★☆☆☆  |
 | Replayability | ★★☆☆☆  |
 | Fun           | ★★★☆☆  |
+
+## Danger in the Trees
+
+| Attribute           | Value     |
+| ------------------- | --------- |
+| Map Size            | Small     |
+| Difficulty          | Intermediate |
+| Players             | 4         |
+| Included with       | Heroes IV |
+| Multiplayer design  | No        |
+| Max humans          | 4         |
+| Playable alignments | All       |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Blue         |
+| Alignment          | Order        |
+
+In this scenario, you set out to conquer the Jumbled Wood, which isn't really all that jumbled. There are several side quests, but who has time for that? I ignored the quests and just cruised around the map taking every town. Maybe if the AIs had defended themselves better I wouldn't have felt the urge to murder them all as quickly as possible.
+
+The map is generous with gold (you get a mine pretty early) so Order might be easier than other alignments.
+
+Overall, a memorable map, though I wish the quests had been more integral.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★★★☆  |
+| Strategy      | ★★★☆☆  |
+| Narrative     | ★★☆☆☆  |
+| Challenge     | ★☆☆☆☆  |
+| Replayability | ★★★☆☆  |
+| Fun           | ★★★☆☆  |
