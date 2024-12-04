@@ -105,7 +105,7 @@ I'd recommend this map as a way to introduce new players to the midgame.
 | Strategy      | ★★☆☆☆  |
 | Narrative     | ★☆☆☆☆  |
 | Challenge     | ★☆☆☆☆  |
-| Replayability | ★☆☆☆☆  |
+| Replayability | ★★☆☆☆  |
 | Fun           | ★★★☆☆  |
 
 ## Chasing Reptiles
@@ -120,4 +120,24 @@ I'd recommend this map as a way to introduce new players to the midgame.
 | Max humans          | 2         |
 | Playable alignments | All       |
 
-pros: rewards exploration with free stuff
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Red          |
+| Alignment          | Death        |
+
+Pretty standard symmetric two-player map. There is one route to the other player, and the first one to traverse it gets a bunch of free items. My one complaint about this map is that the layout of each player's side is very linear with the town at one end, which results in a lot of running back and forth despite the small map size.
+
+The scenario has a (_very_ thin) plot. At least they tried.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★★★☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★★☆☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★★☆☆  |
