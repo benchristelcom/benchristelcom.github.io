@@ -608,6 +608,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [uBlock Origin](https://ublockorigin.com/) - The ad blocker geeks use. Don't worry, there's nothing particularly geeky about it; it's just an ad blocker that works. Blocks trackers, too! Extensions for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), and [Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak).<span inert>add-ons addons plugin adblock</span>
 - [MarkDownload](https://github.com/deathau/markdownload) - View and download the main content of most HTML pages as [Markdown]. Made by [Gordon Pedersen](https://death.id.au/). (h/t [Maya] via [Chris Aldrich](https://boffosocko.com/2020/12/29/markdownload-github/))
 - [jq](https://jqlang.github.io/jq/manual/) - CLI parser / formatter / stream editor for JSON
+- [PeerJS](https://peerjs.com/) - Peer-to-peer data transfer and video/voice calls in the browser. See also [peerjs on NPM](https://www.npmjs.com/package/peerjs).
 
 ### Tools I Have Used
 
