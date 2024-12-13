@@ -177,3 +177,35 @@ Overall, a memorable map, though I wish the quests had been more integral.
 | Challenge     | ★☆☆☆☆  |
 | Replayability | ★★★☆☆  |
 | Fun           | ★★★☆☆  |
+
+## Escape from Biggun's Playground
+
+| Attribute           | Value     |
+| ------------------- | --------- |
+| Map Size            | Small     |
+| Difficulty          | Novice    |
+| Players             | 2         |
+| Included with       | Heroes IV |
+| Multiplayer design  | No        |
+| Max humans          | 1         |
+| Playable alignments | Order     |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Blue         |
+| Alignment          | Order        |
+
+This map annoyed me. You're railroaded onto a linear path, so it takes a long time to get anywhere. The quests are simplistic. The writing is obnoxious. Your opponents are stationary targets. It has its moments, but it greatly overstays its welcome.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★★☆☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★★★☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★☆☆☆☆  |
+| Fun           | ★☆☆☆☆  |
