@@ -209,3 +209,39 @@ This map annoyed me. You're railroaded onto a linear path, so it takes a long ti
 | Challenge     | ★★☆☆☆  |
 | Replayability | ★☆☆☆☆  |
 | Fun           | ★☆☆☆☆  |
+
+## Forest Frenzy
+
+| Attribute           | Value     |
+| ------------------- | --------- |
+| Map Size            | Small     |
+| Difficulty          | Intermediate |
+| Players             | 3         |
+| Included with       | Winds of War |
+| Multiplayer design  | Yes       |
+| Max humans          | 2         |
+| Playable alignments | Nature    |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Blue         |
+| Alignment          | Nature       |
+
+Interesting asymmetrical two-player map. Both players have Nature towns, but one is restricted to wolves, tigers, griffins, and faerie dragons, while the other is restricted to sprites, elves, unicorns, and phoenixes. There is a third, computer-only player, whose town cannot be captured by either human player. The game ends when either player's town is captured. There are several portals and looped paths between the towns, and a couple gold mines to fight over.
+
+I can see this being a fun map if played against another human. Unfortunately, the computer players are too weak to make for a fun fight. I was able to hold both gold mines pretty consistently. I won because my opponent left their town empty, and I strode in with a single hero. Kind of anticlimactic.
+
+Another downside is that there's a lot of micromanagement since each player is trying to kite the other. This would make turns take a long time in a human-vs-human game.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★★☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★☆☆☆  |
