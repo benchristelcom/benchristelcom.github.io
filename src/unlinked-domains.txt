@@ -1032,6 +1032,7 @@ https://react.dev
 https://playwright.dev
 https://lit.dev
 https://vitest.dev
+https://vitejs.dev
 https://www.argonaut.dev
 https://lorenzofox.dev
 https://www.cassey.dev

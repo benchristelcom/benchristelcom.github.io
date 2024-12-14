@@ -585,7 +585,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 - [Rubygems](https://rubygems.org/) - Hosts Ruby gems.
 - [jsdelivr](https://jsdelivr.com/) - CDN that distributes code from NPM and GitHub, with neat features like automatic minification.
 - [Namecheap](https://namecheap.com/) - Domain registrar
-- [Vite](https://vitejs.dev/) - Fast, easy-to-use dev server for single-page apps. Built-in hot-reloading and TypeScript compilation, among other features.
+- [Vite](https://vite.dev/) - Fast, easy-to-use dev server for single-page apps. Built-in hot-reloading and TypeScript compilation, among other features.
 - [Yarn](https://yarnpkg.com/) - package manager for NodeJS. Replaces `npm`. For v1 docs, see [classic.yarnpkg.com](https://classic.yarnpkg.com/lang/en/).
 - [Bun](https://bun.sh/) - blazing fast, but somewhat crash-prone replacement for `node` and `npm` that also implements some web APIs (but no DOM). I use Bun to run [`mdsite`](https://benchristel.github.io/mdsite) and [Taste](https://npmjs.com/package/@benchristel/taste) tests.
 - [ESLint](https://eslint.org/) - I am experimenting with [eslint.style](https://eslint.style/) as a JavaScript/TypeScript formatter, replacing [Prettier](https://prettier.io/). See also [Anthony Fu's post "Why I don't use Prettier"](https://antfu.me/posts/why-not-prettier).
