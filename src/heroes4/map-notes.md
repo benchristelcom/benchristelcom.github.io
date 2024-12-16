@@ -171,7 +171,7 @@ Overall, a memorable map, though I wish the quests had been more integral.
 
 | Category      | Rating |
 | ------------- | ------ |
-| Scenery       | ★★★★☆  |
+| Scenery       | ★★★☆☆  |
 | Strategy      | ★★★☆☆  |
 | Narrative     | ★★☆☆☆  |
 | Challenge     | ★☆☆☆☆  |
@@ -203,7 +203,7 @@ This map annoyed me. You're railroaded onto a linear path, so it takes a long ti
 
 | Category      | Rating |
 | ------------- | ------ |
-| Scenery       | ★★★☆☆  |
+| Scenery       | ★★☆☆☆  |
 | Strategy      | ★★☆☆☆  |
 | Narrative     | ★★★☆☆  |
 | Challenge     | ★★☆☆☆  |
@@ -245,3 +245,67 @@ Another downside is that there's a lot of micromanagement since each player is t
 | Challenge     | ★★☆☆☆  |
 | Replayability | ★★☆☆☆  |
 | Fun           | ★★☆☆☆  |
+
+## Hell hath no fury...
+
+| Attribute           | Value     |
+| ------------------- | --------- |
+| Map Size            | Small     |
+| Difficulty          | Intermediate |
+| Players             | 2         |
+| Included with       | The Gathering Storm |
+| Multiplayer design  | No        |
+| Max humans          | 1         |
+| Playable alignments | All       |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Blue         |
+| Alignment          | Might        |
+
+Might is probably the easiest alignment on this map, where you fight against Chaos and magic resistance is quite helpful. There are plenty of opportunities for hero progression, and I was able to get Grandmaster in all combat skills by the end of the game. A memorable map.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★★☆☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★★☆☆  |
+
+## Manifestations
+
+| Attribute           | Value     |
+| ------------------- | --------- |
+| Map Size            | Small     |
+| Difficulty          | Advanced  |
+| Players             | 2         |
+| Included with       | Heroes IV |
+| Multiplayer design  | No        |
+| Max humans          | 2         |
+| Playable alignments | Life, Death |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Teal         |
+| Alignment          | Death        |
+
+Fun two-player duel between life and death. You start with a level 17 hero and no town, and must race to a central cache of treasure and then defeat your opponent's hero. Unfortunately, the AI is terrible at this map. I don't know if it misjudges the fights (underestimating its hero) or what. The fights against neutral creatures are also quite easy, some bizarrely so — why did the mapmaker even bother putting them there? I would play on a higher difficulty setting next time. I imagine this would be fun to play against another human, but it might turn into a battle of who has the best adventure-map micro.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★★☆☆  |
+| Strategy      | ★★★☆☆  |
+| Narrative     | ★★★☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★★☆☆  |
