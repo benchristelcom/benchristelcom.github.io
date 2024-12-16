@@ -36,7 +36,7 @@ I have hard-coded a few shortcuts into the searchbar for my own use. Typing a sh
 
 | Shortcut | URL | Description |
 | -------- | --- | ----------- |
-| tv       | https://benchristel.github.io/tv/ | Culture Machine
+| tv       | https://tv.benchristel.com/ | Culture Machine
 | zen      | https://benchristel.github.io/meditation/ | Meditation timer
 | bliki    | https://github.com/benchristel/benchristel.github.io/wiki | My digital garden
 | yt       | https://benchristel.github.io/yt | YouTube prophylactic

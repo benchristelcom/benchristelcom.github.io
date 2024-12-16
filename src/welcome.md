@@ -28,7 +28,7 @@ Projects I actively use and maintain.
 
 <div class="col-2"></div>
 
-- [Culture Machine](https://benchristel.github.io/tv) - The digital equivalent of touching grass. Thousands of hand-picked YouTube videos to amuse, confuse, and delight you, played in a neverending random sequence.
+- [Culture Machine](https://tv.benchristel.com/) - The digital equivalent of touching grass. Thousands of hand-picked YouTube videos to amuse, confuse, and delight you, played in a neverending random sequence.
 
 - [Druthers](https://druthers.app) - Instantly grok your group's priorities with a ranked-choice poll. A collaboration with [Gavin Morgan](https://gavmor.com).
 - [mdsite](https://benchristel.github.io/mdsite) - A modern generator for old-school static sites and HTML books. It turns any tree of [Markdown](https://daringfireball.net/projects/markdown/) files into a website, complete with auto-generated navigation links.

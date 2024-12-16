@@ -408,7 +408,7 @@ html {
 
 ## Music
 
-See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
+See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 
 ### Discovery
 
@@ -425,7 +425,7 @@ See Channel 3 of [Culture Machine](https://benchristel.github.io/tv/).
 
 ### Streaming
 
-- [Culture Machine](https://benchristel.github.io/tv) - Channel 3 plays my favorite albums on shuffle
+- [Culture Machine](https://tv.benchristel.com/) - Channel 3 plays my favorite albums on shuffle
 - [Deezer](https://deezer.com)
 
 ### Lyrics
@@ -904,7 +904,7 @@ into one searchable, cross-referenced database.
 - [Bliki](https://github.com/benchristel/benchristel.github.io/wiki) - My personal blog/wiki about software, with 250+ topic-focused pages on everything from [abstraction](https://github.com/benchristel/benchristel.github.io/wiki/Abstraction) to [wholeness](https://github.com/benchristel/benchristel.github.io/wiki/Wholeness).
 - [The Wayward Web](https://waywardweb.org) - A webring. A collaborative effort to map the useful, human parts of the web.
 - [Druthers](https://druthers.app) - Instantly grok your group's priorities with ranked-choice voting. A collaboration with [Gavin Morgan](https://gavmor.com). 
-- [Culture Machine](https://benchristel.github.io/tv) - The app I wrote to break my YouTube addiction (it worked). Emotionally-stabilizing videos played continuously in an unskippable random sequence.
+- [Culture Machine](https://tv.benchristel.com/) - The app I wrote to break my YouTube addiction (it worked). Emotionally-stabilizing videos played continuously in an unskippable random sequence.
 - [mdsite](https://benchristel.github.io/mdsite) - A modern generator for old-school static sites. It turns any tree of [Markdown] files into a website, complete with auto-generated navigation links. It's also the tool I used to create this webpage!
 - [Taste](https://npmjs.com/package/@benchristel/taste) - Simple, speedy JavaScript test framework
 - [yt](https://benchristel.github.io/yt/) - Watch YouTube without ads or tracking. Pairs great with [LeechBlock](https://www.proginosko.com/leechblock/).
@@ -998,7 +998,7 @@ function firstVisibleHypersearchLink() {
 }
 
 const shortcuts = {
-  "tv": "https://benchristel.github.io/tv/",
+  "tv": "https://tv.benchristel.com/",
   "zen": "https://benchristel.github.io/meditation/",
   "bliki": "https://github.com/benchristel/benchristel.github.io/wiki",
   "yt": "https://benchristel.github.io/yt/",
