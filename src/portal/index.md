@@ -495,6 +495,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Structure and Interpretation of Computer Programs (PDF)](https://web.mit.edu/6.001/6.037/sicp.pdf) by Abelson, Sussman, and Sussman.
 - [John Lions' "Commentary on the Sixth Edition Unix Operating System"](http://www.lemis.com/grog/Documentation/Lions/)
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) by Remzi and Andrea Arpaci-Dusseau.
+- [The Systems Bible (Systemantics 3rd Ed.)](https://www.generalsystemantics.com/product/the-systems-bible/) by John Gall
 - [Beautiful Software](https://www.buildingbeauty.org/beautiful-software) - a course in Christopher Alexander's methods and philosophy, for software people. See also the reading list at [beautiful.software](https://beautiful.software/)
 - [Dreamsongs.com](https://dreamsongs.com) - Richard P. Gabriel's personal site, containing his poetry and essays about Lisp, Christopher Alexander, and software.
 - [Pivotal Alumni Codex](https://alumni-codex.github.io/) - Resources compiled by former Pivots, including lists of [recommended tech videos](https://alumni-codex.github.io/engineering/tech-videos/), [Pivotal Labs-like consultancies](https://alumni-codex.github.io/consultancies/), [developer tools](https://alumni-codex.github.io/tools/) and [newsletters](https://alumni-codex.github.io/newsletters/). Maintained by [Davis W. Frank](https://dwf.bigpencil.net/).
@@ -751,6 +752,7 @@ See also:
 
 ### Specific Titles
 
+- [The Systems Bible (Systemantics 3rd Ed.)](https://www.generalsystemantics.com/product/the-systems-bible/) by John Gall
 - [The Canterbury Tales](https://chaucer.fas.harvard.edu/pages/text-and-translations) in Middle English
 
 ## Games & Gaming
