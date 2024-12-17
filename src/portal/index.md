@@ -688,7 +688,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Purple Air](https://map.purpleair.com/) - Crowdsourced monitoring of air quality near you!
 - [Webtrak flight tracker](https://webtrak.emsbk.com/) - Tracks aircraft in your area. Pairs great with [FAA registry search](https://registry.faa.gov/AircraftInquiry/Search/NNumberInquiry). Stupid UI thing, though: if you don't want it to ask for / use your location, click "Cancel" at the initial prompt. Then you'll be able to select an airport from a list. <span inert>webtrack planes</span>
 
-### Searching
+### Searching <span inert>web search engines</span>
 
 - [Search My Site](https://searchmysite.net) - A search engine that only returns results from personal sites. (h/t [C Jackdaw])
 - [Wiby](https://wiby.me/)
