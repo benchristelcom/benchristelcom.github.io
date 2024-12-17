@@ -688,6 +688,14 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Purple Air](https://map.purpleair.com/) - Crowdsourced monitoring of air quality near you!
 - [Webtrak flight tracker](https://webtrak.emsbk.com/) - Tracks aircraft in your area. Pairs great with [FAA registry search](https://registry.faa.gov/AircraftInquiry/Search/NNumberInquiry). Stupid UI thing, though: if you don't want it to ask for / use your location, click "Cancel" at the initial prompt. Then you'll be able to select an airport from a list. <span inert>webtrack planes</span>
 
+### Searching
+
+- [Search My Site](https://searchmysite.net) - A search engine that only returns results from personal sites. (h/t [C Jackdaw])
+- [Wiby](https://wiby.me/)
+- [Marginalia](https://search.marginalia.nu/)
+- [Million Short](https://millionshort.com/) - Filters out the top million (or thousand, or hundred) most popular websites from your search results. Subscription-based. (h/t [Cidoku])
+- [Open Street Map](https://www.openstreetmap.org/) - Alternative to Google Maps. In addition to searching for locations, it can also provide [navigation directions](https://www.openstreetmap.org/directions).
+
 ### Calculating<span inert>calculators calculate</span>
 
 - [PVIR Electrical Calculator](https://www.electricaltechnology.org/2014/03/power-voltage-current-resistance-pvir-calculator.html) - calculate power, voltage, current, or resistance.
@@ -851,13 +859,6 @@ A.K.A. the lost art of amusing yourself without electricity.
 - [Wikipedia](https://en.wikipedia.org)
 - [Wikiquote](https://en.wikiquote.org)
 - [Wiktionary](https://en.wiktionary.org)
-
-### Search Tools
-
-- [Search My Site](https://searchmysite.net) - A search engine that only returns results from personal sites. (h/t [C Jackdaw])
-- [Wiby](https://wiby.me/)
-- [Marginalia](https://search.marginalia.nu/)
-- [Million Short](https://millionshort.com/) - Filters out the million (or thousand, or hundred) most popular websites from your search results. Subscription-based. (h/t [Cidoku])
 
 ## Information Researchers
 
