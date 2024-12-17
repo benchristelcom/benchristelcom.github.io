@@ -645,7 +645,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
   - It seems you can also paste YouTube channel URLs directly into at least some feed readers (tested with QuiteRSS). E.g. try this one: <https://www.youtube.com/@simonroper9218>.
 - [Show or hide HTML elements for screenreaders only](https://css-tricks.com/inclusively-hidden/) using CSS.
 
-## Image Repositories<span inert>free stock images</span>
+<h2 id="image-repositories">Image Repositories<span inert>free stock images</span></h2>
 
 ### General
 
@@ -678,7 +678,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Heroicons](https://heroicons.com/) - copy these SVG icons directly into your HTML. Nothing to download. Outline, solid, mini, and micro variants. (h/t [JT Archie](https://jtarchie.com/))
 - [Cliparts.co](https://cliparts.co) - give your website, flyer, or email that ultimate kitschy look.
 
-## Web-based Tools<span inert>online browser-based</span>
+<h2 id="web-based-tools">Web-based Tools<span inert> online browser-based</span></h2>
 
 ### Sensing
 
@@ -922,7 +922,7 @@ into one searchable, cross-referenced database.
 - [autokeyconf](https://github.com/benchristel/autokeyconf) - Rebinds shortcut keys system-wide on Linux.
 - ["Frost" theme for Docky](https://github.com/benchristel/docky-frost) - An OSX-style dock for Linux.
 
-## Webring <span inert>ring wayward</span>
+<h2 id="webring">Webring <span inert>ring wayward</span></h2>
 
 <script defer src="https://cdn.jsdelivr.net/npm/wwwebring@0.2.0"></script>
 <p
