@@ -955,7 +955,7 @@ HREFS BELOW
 [Markdown]: https://daringfireball.net/projects/markdown/
 [Melon]: https://melonking.net/
 
-<script defer type="module" src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.5.0"></script>
+<script defer type="module" src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.5.1"></script>
 <script>
 const elById = document.getElementById.bind(document)
 const searchInput = document.querySelector("input[type=search]")
