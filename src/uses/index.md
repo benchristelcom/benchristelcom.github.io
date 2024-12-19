@@ -15,7 +15,8 @@
 ## Web browser
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-  - [New Tab Override extension](https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/) so I can set [Bastion](https://bastionhome.github.io/) as my homepage.
+  - [New Tab Override extension](https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/) so I can set [the Web Portal](/portal) as my homepage.
+  - [Color scheme](https://color.firefox.com/?theme=XQAAAAL6AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xMDPsqu1p-XAF6EJDWcx9sS_Bi3JZH4KPzK-C2nG0G0z0EYOEN1uOojKq8xIkzQd7r6Lb_q5Whn0OXxiivqrZyadZXRncNouH8dON5uAlcixY_JS1naRZJs1_TXnHJS3Bp2orX6rzkWXrN_6M5wiHYKpJL5lHhwHuprDS2eb____dfIEA) (h/t [Mark Sandstrom](https://github.com/dnerdy)) - I have no idea why they made the default theme so low-contrast.
 
 ## Computer habitability
 

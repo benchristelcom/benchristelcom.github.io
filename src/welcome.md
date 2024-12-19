@@ -10,7 +10,13 @@ I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); b
 
 - [My Web Portal](/portal) - A searchable catalog of links I've bookmarked.
 
+- [Culture Machine](https://tv.benchristel.com/) - The digital equivalent of touching grass. Thousands of hand-picked YouTube videos to amuse, confuse, and delight you, played in a neverending random sequence.
+
 - [The Wayward Web](https://waywardweb.org) - A webring. A collaborative effort to map the useful, human parts of the web.
+
+- [Cookbook](/recipes) - Hearty one-pot vegetarian meals.
+
+- [A list of tools I use](/uses)
 
 ## Writing Projects
 
@@ -28,15 +34,12 @@ Projects I actively use and maintain.
 
 <div class="col-2"></div>
 
-- [Culture Machine](https://tv.benchristel.com/) - The digital equivalent of touching grass. Thousands of hand-picked YouTube videos to amuse, confuse, and delight you, played in a neverending random sequence.
-
 - [Druthers](https://druthers.app) - Instantly grok your group's priorities with a ranked-choice poll. A collaboration with [Gavin Morgan](https://gavmor.com).
+
 - [mdsite](https://benchristel.github.io/mdsite) - A modern generator for old-school static sites and HTML books. It turns any tree of [Markdown](https://daringfireball.net/projects/markdown/) files into a website, complete with auto-generated navigation links.
 - [marss](https://www.npmjs.com/package/marss) - A markdown-to-RSS converter. Turns your microblog or changelog into an RSS feed.
 - [Taste](https://npmjs.com/package/@benchristel/taste) - Simple, speedy JavaScript test framework
 - [hypersearch](https://www.npmjs.com/package/@benchristel/hypersearch) - Powers the searchbar on the [web portal](/portal) page.
-- [Bastion](https://bastionhome.github.io/) - A big directory of links. The predecessor of the [web portal](/portal).
-- [Cookbook](/recipes) - Hearty one-pot vegetarian meals.
 - [Audition](https://github.com/benchristel/audition) - A command-line tool that keeps the prose description of your conlang up to date with its morphology and lexicon.
 - [The One Grammar to Rule Them All](/conlangs/ogtrta) - The Lisp of conlangs. A syntax template for people who don't want to think about syntax anymore.
 - [wwwebring](https://www.npmjs.com/package/wwwebring) - A fully clientside webring widget for static sites. Powers [the Wayward Web](https://waywardweb.org).
