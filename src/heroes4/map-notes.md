@@ -309,3 +309,35 @@ Fun two-player duel between life and death. You start with a level 17 hero and n
 | Challenge     | ★★☆☆☆  |
 | Replayability | ★★☆☆☆  |
 | Fun           | ★★★☆☆  |
+
+## Marauders of the High Seas
+
+| Attribute           | Value     |
+| ------------------- | --------- |
+| Map Size            | Small     |
+| Difficulty          | Advanced  |
+| Players             | 2         |
+| Included with       | Heroes IV |
+| Multiplayer design  | No        |
+| Max humans          | 1         |
+| Playable alignments | Nature    |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Green        |
+| Alignment          | Nature       |
+
+You start with a single archer hero, and no access to taverns, and must conquer a series of towns to ultimately defeat the pirate "boss". The map suffers from too much adventure-map micro - lots of scouting enemy towns with a single unit to see if they're empty, caravanning units from creature dwellings, etc. I defeated the AI's main army halfway through the game, and they never recovered, so the boss fight ended up being anticlimactic. Being limited to a single hero made for an interesting game, though, since I could only threaten one town at a time, and had to use my main hero to take mines.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★★☆☆  |
+| Strategy      | ★★★★☆  |
+| Narrative     | ★★★☆☆  |
+| Challenge     | ★★★☆☆  |
+| Replayability | ★☆☆☆☆  |
+| Fun           | ★★☆☆☆  |
