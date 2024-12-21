@@ -521,6 +521,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [A Whole New World](https://www.destroyallsoftware.com/talks/a-whole-new-world) - Gary Bernhardt
 - [The Birth and Death of JavaScript (Video)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) - Gary Bernhardt
 - [The pedantic checklist for changing your data model in a web application](https://rtpg.co/2021/06/07/changes-checklist.html) - Raphael Gaschignard
+- [The Divio Documentation System](https://docs.divio.com/documentation-system/) - the four types of documentation: tutorials, how-tos, reference, and explanation.
 
 ### Reference
 
@@ -670,6 +671,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [GifCities](https://gifcities.org/) - Archived gifs from Geocities websites.
 - [TextureTown](https://textures.neocities.org/) - Thousands of textures to use in website backgrounds and 3D worlds.
 - [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - website backgrounds on Toptal.com (h/t [eev.ee](https://eev.ee/)).<span inert>tiling textures</span>
+- [Background Tiles](https://background-tiles.com/) <span inert>tiling textures</span>
 - [Hero Patterns](https://heropatterns.com/) - tiling SVG patterns for your website background<span inert>textures</span>
 - [Pattern Monster](https://pattern.monster/) - even more tiling SVG patterns for your website background<span inert>textures</span>
 - [nnnoise - SVG Noise Generator](https://www.fffuel.co/nnnoise/) - create fractal noise or turbulence dynamically with SVG. A very network-efficient replacement for PNG or JPEG textures.<span inert>background tiling</span>
