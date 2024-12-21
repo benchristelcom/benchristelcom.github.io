@@ -1,0 +1,56 @@
+# Lingua Franca
+
+The Frenchest language (besides English, that is).
+
+## Phonology
+
+- voiced and unvoiced stops: p t k/q b d g
+- fricatives: f v s z ch j
+- approximants: w y
+- liquids: l r
+- nasals: m n gn
+
+Vowels:
+
+```
+i u ou
+e o au
+æ a å
+```
+
+## Nouns
+
+- Singular definite article: le
+- Plural definite article: lez
+- Singulative: -me
+- Plural: -(e)z
+
+## Verbs
+
+- Infinitive: -r
+- Gerund: -z
+- Middle voice: -n
+- Passive voice: -é
+
+## Modifiers
+
+- Adverb: au + gerund/infinitive
+
+## Auxiliaries
+
+- Perfect aspect: __PRF1__
+- Prospective aspect: væl (fu)
+- Continuous aspect: __CONT1__
+- Negative: __BLANK#NEG__
+- Adverbial modifier: __ADV1__
+
+## Tense particles
+
+- Proximal: __PROX__
+- Distal: __DIST__
+
+## Examples
+
+- __1SG PROX PRF1 see1#INF sun#DEF ADV1 yesterday__ "I saw the sun yesterday"
+- __beer purple0 PROX good0#NEG__ "Purple beer is not good"
+- __^Jån PROX CONT1 roast1#INF#3INANSG__ "John is roasting it"

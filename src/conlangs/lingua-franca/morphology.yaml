@@ -1,0 +1,15 @@
+---
+inflections:
+  INF:
+    - ["n$", "ndre"]
+    - ["([^aåæeiou])$", "$1re"]
+    - ["$", "r"]
+  3INANSG:
+    # Marks a verb as having a third-person inanimate singular first complement.
+    # Fills a slot.
+    - ["^", "che-"]
+  NEG:
+    - ["^BLANK$", "pa-"]
+    - ["^", "pa-"]
+  DEF:
+    - ["^", "le "]

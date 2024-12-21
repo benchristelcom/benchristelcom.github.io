@@ -6,6 +6,10 @@
         "cmd": "marss log.md src/feed.rss src/log.html"
       },
       {
+        "match": "src/conlangs/lingua-franca/*",
+        "cmd": "(cd src/conlangs/lingua-franca && au)"
+      },
+      {
         "match": ".*",
         "cmd": "./build"
       },
@@ -15,5 +19,6 @@
     "docs": true,
     "public": true,
     "src/log.html": true,
+    "src/conlangs/lingua-franca/*.md": true,
   }
 }
