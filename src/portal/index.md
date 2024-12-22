@@ -410,6 +410,10 @@ html {
 
 See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 
+## Art
+
+- [Celtic Art by Jen Delyth](http://celticartstudio.com/)
+
 ### Discovery
 
 - [Every Noise at Once](https://everynoise.com) - A catalog of all music on Spotify by algorithmically-inferred genre. An incredible work of data science by [Glenn McDonald](https://www.furia.com)
