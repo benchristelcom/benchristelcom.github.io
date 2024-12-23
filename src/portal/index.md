@@ -509,6 +509,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Programming as Theory Building](https://pablo.rauzy.name/dev/naur1985programming.pdf) by Peter Naur, 1985.
 - [The Beautiful Mess](https://cutlefish.substack.com) - John Cutler's newsletter on product management and software development.
 - [Manifesto for Agile Software Development](http://agilemanifesto.org/) - Read this before you hate on "Agile."
+- [_Communications of the ACM_](https://cacm.acm.org/), an open-access journal published by [the Association for Computing Machinery](https://acm.org).
 
 ### Classic blog posts, talks, &amp;c.
 
@@ -532,7 +533,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 <div class="col-2"></div>
 
 - [Refactoring.com](https://refactoring.com/) - Martin Fowler's site with descriptions of the refactorings from his book _Refactoring: Improving the Design of Existing Code_.
-- [UnicodePlus.com](https://unicodeplus.com) - search for unicode characters.
+- [UnicodePlus.com](https://unicodeplus.com) - search for unicode characters. See also [Unicode.org](https://home.unicode.org/) for general information about Unicode.
 - [Emojipedia](https://emojipedia.org) - search for emoji
 - [man7.org](https://man7.org/) - Unix manual pages
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - on [css-tricks.com](https://css-tricks.com)
@@ -543,10 +544,12 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [MemoryManagement.org](https://www.memorymanagement.org/) - Approaches to garbage collection and more.
 - [RSS 2.0 Specification](https://www.rssboard.org/rss-specification). Also mirrored [at Harvard.edu](https://cyber.harvard.edu/rss/rss.html).
 - [Atom Syndication Format Specification](https://www.rfc-editor.org/rfc/rfc4287)
-- [HTML Specification](https://html.spec.whatwg.org)
+- [HTML Specification](https://html.spec.whatwg.org) on [WHATWG.org](https://whatwg.org/)
 - [URL Specification](https://url.spec.whatwg.org) - "The URL Standard defines URLs, domains, IP addresses, the `application/x-www-form-urlencoded` format, and their API."
 - [GraphQL Specification](http://spec.graphql.org)
 - [List of Common MIME Types](https://developer.mozilla.org/en-US/docs/Web/HTTP/MIME_types/Common_types) on MDN
+- [The World Wide Web Consortium](https://w3.org)
+- [Semantic Versioning](https://semver.org)
 
 ### Q&A
 
@@ -620,6 +623,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 
 - [Flow](https://flow.org/) - A type system for JavaScript, similar to [TypeScript](https://typescriptlang.org/). Flow is, IMO, the superior typechecker in several respects, including correctness and performance, but unfortunately few libraries distribute type declarations for it.
 - [Goatcounter](https://www.goatcounter.com) - Free web analytics that won't let Big Tech spy on your users. Stopped using because I don't get enough traffic to care about analytics.
+- [Pale Moon](https://palemoon.org) - a fork of the Firefox browser, free of bloatware and adware, but with support for many modern web APIs. (And yes, their website circa 2024 _was_ the ultimate inspiration for the design of this page!) I switched back to Firefox because I wanted to install extensions.
 
 ### Tools I Might Use Someday
 
@@ -713,6 +717,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Flaming Text](https://flamingtext.com/) - Creates logos and typemarks. Not just flaming text, but glowing text, drop shadows, reflections, leopard print... the sky's the limit!
 - [Dillinger.io](https://dillinger.io) - Online [Markdown] editor
 - [Firefox theme creator](https://color.firefox.com/?theme=XQAAAAL6AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xMDPsqu1p-XAF6EJDWcx9sS_Bi3JZH4KPzK-C2nG0G0z0EYOEN1uOojKq8xIkzQd7r6Lb_q5Whn0OXxiivqrZyadZXRncNouH8dON5uAlcixY_JS1naRZJs1_TXnHJS3Bp2orX6rzkWXrN_6M5wiHYKpJL5lHhwHuprDS2eb____dfIEA) - Essential if you can't stand FF's default low-contrast tabs.
+- [Favicon.cc](https://www.favicon.cc/) - Draw website icons, pixel by pixel.
 
 ### Verifying
 
@@ -748,6 +753,8 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 
 ## Books
 
+- [Project Gutenberg](https://gutenberg.org/) - a repository of over 70,000 free, public domain ebooks
+- [Librivox.org](https://librivox.org) - free, public domain audiobooks read by volunteers
 - [Google Books](https://books.google.com/)
 - [Evertype](https://evertype.com) - Public domain books translated into many languages. A [Michael Everson](https://evertype.com/misc/bio.html) production (I think).
 - [LibreTexts](https://commons.libretexts.org/) - Library of free online textbooks.
@@ -799,12 +806,13 @@ A.K.A. the lost art of amusing yourself without electricity.
 
 ## Languages and Linguistics
 
-### Conlangs
+### Conlangs <span inert>constructed languages</span>
 
 - [Ardalambion](https://ardalambion.org) - Resources on J.R.R. Tolkien's elvish languages, by Helge Kåre Fauskanger.
 - [Eldamo.org](https://eldamo.org) - the ELvish DAta MOdel. Paul Strack's project to collect every word of Elvish in Tolkien's works into one searchable, cross-referenced database.
-- [The Conlang.org Database](https://database.conlang.org)
+- [A database of conlangs](https://database.conlang.org) on [Conlang.org](https://conlang.org/)
 - [Dedalvs.com](https://dedalvs.com/) - David J. Peterson's site. You might have heard of his language [Dothraki](http://www.dothraki.com/).
+- [The website of Jörg Rhiemeier](https://joerg-rhiemeier.de), creator of the Albic language family.
 
 ### Cornish - Kernewek
 
@@ -862,9 +870,10 @@ A.K.A. the lost art of amusing yourself without electricity.
 - [arxiv.org](https://arxiv.org)
 - [ResearchGate](https://www.researchgate.net/)
 - [U.S. Bureau of Labor Statistics](https://data.bls.gov)
-- [Wikipedia](https://en.wikipedia.org)
-- [Wikiquote](https://en.wikiquote.org)
-- [Wiktionary](https://en.wiktionary.org)
+- [English Wikipedia](https://en.wikipedia.org) - see also [wikipedia.org](https://wikipedia.org)
+- [English Wikiquote](https://en.wikiquote.org)
+- [English Wiktionary](https://en.wiktionary.org)
+- [Wikimedia](https://wikimedia.org)
 
 ## Information Researchers
 
