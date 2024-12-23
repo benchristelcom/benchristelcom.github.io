@@ -835,6 +835,7 @@ A.K.A. the lost art of amusing yourself without electricity.
 ## History of Technology
 
 - [Folklore.org](https://folklore.org/0-index.html) - the history of the Apple Macintosh
+- [Vintage Apple](https://vintageapple.org/) - the history of the early Macintosh, plus archives of magazines from the 80s and 90s (including Macworld and Byte).
 - [Every default macOS (and OSX) wallpaper, in glorious 6K resolution](https://512pixels.net/projects/default-mac-wallpapers-in-5k/) courtesy of [512 Pixels](https://512pixels.net).
 
 ## Publicly Available Data
