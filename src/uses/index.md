@@ -14,7 +14,7 @@
 
 ## Web browser
 
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) by [Mozilla](https://mozilla.org/)
   - [New Tab Override extension](https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/) so I can set [the Web Portal](/portal) as my homepage.
   - [Color scheme](https://color.firefox.com/?theme=XQAAAAL6AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xMDPsqu1p-XAF6EJDWcx9sS_Bi3JZH4KPzK-C2nG0G0z0EYOEN1uOojKq8xIkzQd7r6Lb_q5Whn0OXxiivqrZyadZXRncNouH8dON5uAlcixY_JS1naRZJs1_TXnHJS3Bp2orX6rzkWXrN_6M5wiHYKpJL5lHhwHuprDS2eb____dfIEA) (h/t [Mark Sandstrom](https://github.com/dnerdy)) - I have no idea why they made the default theme so low-contrast.
 
@@ -32,6 +32,10 @@
 - [JetBrains editors](https://www.jetbrains.com/) - Expensive, but they come with pretty incredible code intelligence and refactoring tools. Lots of stuff you'd have to configure yourself or use plugins for in other editors "just works" in JetBrains.
 - [Visual Studio Code](https://code.visualstudio.com/) - Pretty good out of the box, configurable, versatile, and free.
   - [emeraldwalk.RunOnSave extension](https://marketplace.visualstudio.com/items?itemName=emeraldwalk.RunOnSave) - Runs a program each time a file is saved. I use it to build the development version of this website.
+
+## Other Apps
+
+- [Obsidian](https://obsidian.md) - Notetaking / digital gardening app for iOS, Android, Windows, macOS, and Linux.
 
 ### Web Hosting
 
