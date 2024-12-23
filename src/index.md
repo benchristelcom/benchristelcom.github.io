@@ -62,7 +62,7 @@ li {
   height: 206px;
   margin: 1rem auto 3rem;
   background-position: 0px -22px;
-  background-color: var(--body-bg);
+  background-color: #fcf4e1;
   background-blend-mode: multiply;
   border: 5px double #888;
   border-radius: 999px;
