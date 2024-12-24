@@ -694,6 +694,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 
 - [Time and Date](https://timeanddate.com/)
 - [Epoch Converter](https://www.epochconverter.com/) - Converts dates to and from Unix epoch timestamps
+- [Weather on DuckDuckGo](https://duckduckgo.com/?q=palo+alto+weather)
 - [Accuweather](https://accuweather.com/)
 - [Purple Air](https://map.purpleair.com/) - Crowdsourced monitoring of air quality near you!
 - [Webtrak flight tracker](https://webtrak.emsbk.com/) - Tracks aircraft in your area. Pairs great with [FAA registry search](https://registry.faa.gov/AircraftInquiry/Search/NNumberInquiry). Stupid UI thing, though: if you don't want it to ask for / use your location, click "Cancel" at the initial prompt. Then you'll be able to select an airport from a list. <span inert>webtrack planes</span>
