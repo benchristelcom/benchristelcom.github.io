@@ -41,9 +41,9 @@ You can using either fresh milk or dry milk powder.
 1. Heat the milk on the stove until it is steaming. Don't boil it. Remove from heat and cool to body temperature.
 2. While the milk cools, heat the water to body temperature and stir in 2 Tbsp yeast.
 3. When the milk is cool, mix in:
-  - 4 Tbsp honey
-  - 2 beaten eggs
-  - the yeast mixture, which by now should be bubbly.
+   - 4 Tbsp honey
+   - 2 beaten eggs
+   - the yeast mixture, which by now should be bubbly.
 
   It's important that the liquid not be too hot at this point; temperatures over 125ºF will kill the yeast.
 
