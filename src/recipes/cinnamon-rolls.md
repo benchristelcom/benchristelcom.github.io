@@ -41,7 +41,6 @@ You can using either fresh milk or dry milk powder.
 1. Heat the milk on the stove until it is steaming. Don't boil it. Remove from heat and cool to body temperature.
 2. While the milk cools, heat the water to body temperature and stir in 2 Tbsp yeast.
 3. When the milk is cool, mix in:
-  - 6 Tbsp oil or butter
   - 4 Tbsp honey
   - 2 beaten eggs
   - the yeast mixture, which by now should be bubbly.
@@ -53,7 +52,6 @@ You can using either fresh milk or dry milk powder.
 1. Heat 2 cups of water to 100°F.
 2. Add:
    - 2 Tbsp yeast, sprinkled over the surface of the water
-   - 6 Tbsp oil or butter
    - 4 Tbsp honey
    - 2 beaten eggs
    - 2/3 cup of dry milk powder
@@ -68,7 +66,7 @@ You can using either fresh milk or dry milk powder.
 
 After an hour of rising, the sponge will have developed gluten. It's important not to tear or cut the proto-dough, as this will break the gluten strands and reduce the dough's elasticity. All incorporation of ingredients should henceforth be done by folding the dough from the outer edge of the bowl towards the center.
 
-1. Fold in the salt and most of the remaining flour, a half cup or so at a time. The dough will start to come together into a gooey mound. When the dough is pretty much cohesive, it's time to start kneading.
+1. Fold in 6 Tbsp of the melted butter or oil, 2 tsp salt, and most of the remaining flour, a half cup or so at a time. The dough will start to come together into a gooey mound. When the dough is pretty much cohesive, it's time to start kneading.
 2. Flour your hands and a wooden board. Turn the dough out onto the board; at this stage it will still be lumpy, flaky, too wet in some places and too dry in others. That's as it should be!
 3. Knead the dough, adding more flour as necessary to keep it from sticking to your hands and the board. To knead effectively:
   1. Fold the top half of the dough towards you, forming a seam about 2/3 of the way along the dough's length.
