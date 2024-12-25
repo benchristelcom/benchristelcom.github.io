@@ -653,6 +653,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [How to get RSS URLs from YouTube channels and playlists](https://chriswere.wales/articles/rss-youtube) by Chris Were.
   - It seems you can also paste YouTube channel URLs directly into at least some feed readers (tested with QuiteRSS). E.g. try this one: <https://www.youtube.com/@simonroper9218>.
 - [Show or hide HTML elements for screenreaders only](https://css-tricks.com/inclusively-hidden/) using CSS.
+- [Relative import paths need explicit file extensions in ECMAScript imports](https://www.totaltypescript.com/relative-import-paths-need-explicit-file-extensions-in-ecmascript-imports)
 
 <h2 id="image-repositories">Image Repositories<span inert>free stock images</span></h2>
 
