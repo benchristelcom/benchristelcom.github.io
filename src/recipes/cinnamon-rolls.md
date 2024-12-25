@@ -52,11 +52,11 @@ You can using either fresh milk or dry milk powder.
 
 1. Heat 2 cups of water to 100°F.
 2. Add:
-  - 2 Tbsp yeast, sprinkled over the surface of the water
-  - 6 Tbsp oil or butter
-  - 4 Tbsp honey
-  - 2 beaten eggs
-  - 2/3 cup of dry milk powder
+   - 2 Tbsp yeast, sprinkled over the surface of the water
+   - 6 Tbsp oil or butter
+   - 4 Tbsp honey
+   - 2 beaten eggs
+   - 2/3 cup of dry milk powder
 
 ### Making the Sponge
 
