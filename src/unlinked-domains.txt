@@ -519,6 +519,7 @@ https://www.geoffreylandis.com
 https://www.whois.com
 https://fonts.googleapis.com
 https://www.semianalysis.com
+https://ramdajs.com
 https://www.solidjs.com
 https://reefjs.com
 https://adonisjs.com
@@ -789,6 +790,7 @@ https://quickconnect.to
 https://dev.to
 https://dice.camp
 https://vuzic.app
+https://jsdoc.app
 https://tuple.app
 https://omnivore.app
 https://cash.app
