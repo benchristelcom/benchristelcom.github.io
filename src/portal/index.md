@@ -550,6 +550,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [List of Common MIME Types](https://developer.mozilla.org/en-US/docs/Web/HTTP/MIME_types/Common_types) on MDN
 - [The World Wide Web Consortium](https://w3.org)
 - [Semantic Versioning](https://semver.org)
+- [GNU `make`](https://www.gnu.org/software/make/manual/html_node/index.html)
 
 ### Q&A
 
