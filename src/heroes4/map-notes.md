@@ -365,6 +365,7 @@ You start with a single archer hero, and no access to taverns, and must conquer 
 
 Proof that you can fit 6 towns on a small map. There are also portals everywhere so the map is indeed quite claustrophobic. You play as Death and must conquer 2 Life and 3 Nature towns. The map is generous with gold, but for some reason, none of the AIs got level 4 creatures.
 
+| Category      | Rating |
 | ------------- | ------ |
 | Scenery       | ★★☆☆☆  |
 | Strategy      | ★★★☆☆  |
@@ -393,3 +394,69 @@ Proof that you can fit 6 towns on a small map. There are also portals everywhere
 | Difficulty         | Intermediate |
 | Human player color | Blue         |
 | Alignment          | Order        |
+
+On this map, you have to defeat the final boss in 3 months, while 3 computer players interfere.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★★☆☆  |
+| Narrative     | ★★☆☆☆  |
+| Challenge     | ★★★☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★☆☆☆  |
+
+## Revolution
+
+| Attribute           | Value     |
+| ------------------- | --------- |
+| Map Size            | Small     |
+| Difficulty          | Expert    |
+| Players             | 2         |
+| Included with       | Heroes IV |
+| Multiplayer design  | No        |
+| Max humans          | 2         |
+| Playable alignments | Life      |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Red          |
+| Alignment          | Life         |
+
+Oddly, this map has an asymmetrical plot (a peasant revolt) but a symmetrical layout. Maybe there's a political message there? Probably not.
+
+I'm not sure why the map self-describes as "expert level". The fights were quite easy, and the map is generous with gold and units. One interesting feature is that the passage to the other player's area can only be traversed if you have more than 15k gold, which slightly limits your ability to get fourth-level creatures.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★★☆☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★★☆☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★☆☆☆  |
+
+## Run! Cronx is Coming!
+
+| Attribute           | Value     |
+| ------------------- | --------- |
+| Map Size            | Small     |
+| Difficulty          | Expert    |
+| Players             | 4         |
+| Included with       | Heroes IV |
+| Multiplayer design  | No        |
+| Max humans          | 1         |
+| Playable alignments | Life, Order, Death, Chaos, Nature |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Purple       |
+| Alignment          | Life         |
