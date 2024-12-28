@@ -15,5 +15,7 @@ find src -name '*.md' \
       sort | uniq
     ) \
   | grep '^+' \
+  | grep -v '^+++' \
   | sed -e 's|^+|https://|' \
-  | rev | sort | rev
+  | rev | sort | rev > /tmp/unlinked-domains.txt \
+  && mv /tmp/unlinked-domains.txt src/unlinked-domains.txt
