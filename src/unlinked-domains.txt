@@ -237,6 +237,7 @@ https://login.microsoftonline.com
 https://mattstine.com
 https://clarkesworldmagazine.com
 https://www.smashingmagazine.com
+https://lowtechmagazine.com
 https://garticphone.com
 https://verified.capitalone.com
 https://capitalone.com
