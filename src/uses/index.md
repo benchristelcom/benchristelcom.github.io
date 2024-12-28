@@ -1,9 +1,18 @@
+<style>
+span[inert] { position: absolute; width: 1px; height: 1px; overflow: hidden; }
+</style>
+
 # Tools I use
 
 <input data-hypersearch type="search" placeholder="Search this page">
 <script defer type="module" src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.5.1"></script>
+<style>
+.hypersearch-no-results {display: none;}
+.hypersearch-no-results-shown {display: block;}
+</style>
+<p class="hypersearch-no-results">No results.</p>
 
-## Computer Hardware and OS
+## Computer Hardware and OS <span inert>operating system</span>
 
 - [13-inch Framework laptop](https://frame.work/)
   - 11th Gen Intel© Core™ i5-1135G7 @ 2.40GHz × 4
