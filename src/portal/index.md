@@ -835,6 +835,18 @@ A.K.A. the lost art of amusing yourself without electricity.
 
 - [Leipzig Glossing Rules](https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf) - see also Wikipedia's [List of Glossing Abbreviations](https://en.wikipedia.org/wiki/List_of_glossing_abbreviations)
 
+## Crafting
+
+### Knots and Ropework
+
+h/t [Low Tech Magazine](https://solar.lowtechmagazine.com/2010/06/how-to-tie-the-world-together-online-knotting-reference-books/) for all of these.
+
+- [The International Guild of Knot Tyers](https://igkt.net/)
+- [_Knots, Ties, and Splices_ (1884)](http://www.archive.org/stream/cu31924014519940#page/n17/mode/thumb) by J. Tom Burgess.
+- _Knots, Splices, and Rope Work: A Practical Treatise_ (1917) - sorry, broken link.
+- [_The Use of Ropes and Tackle_ (1922)](https://archive.org/details/useofropestackle00danarich/useofropestackle00danarich/) by H. A. Dana and W. A. Pearl
+- [_The Ashley Book of Knots_ (1944)](https://archive.org/details/TheAshleyBookOfKnots) by Clifford W. Ashley
+
 ## History of Technology
 
 - [Folklore.org](https://folklore.org/0-index.html) - the history of the Apple Macintosh
