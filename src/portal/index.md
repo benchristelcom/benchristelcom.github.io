@@ -580,19 +580,17 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 
 ### Tools I Currently Use
 
+See also [my /uses page](/uses).
+
 <div class="col-2"></div>
 
 - [Framework Laptops](https://frame.work) - I use a 13-inch Framework running Linux Mint.
 - [WASD Keyboards](https://www.wasdkeyboards.com)
 - [Linux (kernel.org)](https://kernel.org)
 - [Linux Mint](https://www.linuxmint.com/) - see also the [forums](https://forums.linuxmint.com/)
-- [GitHub](https://github.com) - Hosts Git repositories. Owned by Microsoft.
-- [GitLab](https://gitlab.com) - Hosts Git repositories.
 - [Visual Studio Code](https://code.visualstudio.com/) (vscode) - Pretty good out of the box, configurable, versatile, and free.
 - [JetBrains](https://www.jetbrains.com/) - Expensive, but they come with pretty incredible code intelligence and refactoring tools. Lots of stuff you'd have to configure yourself or use plugins for in other editors "just works" in JetBrains.
-- [NPM](https://npmjs.com) - Hosts NodeJS packages. Owned by Microsoft. See also the [NPM documentation](https://docs.npmjs.com).
 - [Bundlephobia](https://bundlephobia.com) - View the size and composition of NodeJS / JavaScript packages on NPM. Includes comparisons to similar libraries. Useful for keeping your JS bundles small.
-- [Rubygems](https://rubygems.org/) - Hosts Ruby gems.
 - [jsdelivr](https://jsdelivr.com/) - CDN that distributes code from NPM and GitHub, with neat features like automatic minification.
 - [Namecheap](https://namecheap.com/) - Domain registrar
 - [Vite](https://vite.dev/) - Fast, easy-to-use dev server for single-page apps. Built-in hot-reloading and TypeScript compilation, among other features.
@@ -619,32 +617,6 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [MarkDownload](https://github.com/deathau/markdownload) - View and download the main content of most HTML pages as [Markdown]. Made by [Gordon Pedersen](https://death.id.au/). (h/t [Maya] via [Chris Aldrich](https://boffosocko.com/2020/12/29/markdownload-github/))
 - [jq](https://jqlang.github.io/jq/manual/) - CLI parser / formatter / stream editor for JSON
 - [PeerJS](https://peerjs.com/) - Peer-to-peer data transfer and video/voice calls in the browser. See also [peerjs on NPM](https://www.npmjs.com/package/peerjs).
-
-### Tools I Have Used
-
-- [Flow](https://flow.org/) - A type system for JavaScript, similar to [TypeScript](https://typescriptlang.org/). Flow is, IMO, the superior typechecker in several respects, including correctness and performance, but unfortunately few libraries distribute type declarations for it.
-- [Goatcounter](https://www.goatcounter.com) - Free web analytics that won't let Big Tech spy on your users. Stopped using because I don't get enough traffic to care about analytics.
-- [Pale Moon](https://palemoon.org) - a fork of the Firefox browser, free of bloatware and adware, but with support for many modern web APIs. (And yes, their website circa 2024 _was_ the ultimate inspiration for the design of this page!) I switched back to Firefox because I wanted to install extensions.
-
-### Tools I Might Use Someday
-
-<div class="col-2"></div>
-
-- [Taskwarrior](https://taskwarrior.org) - Manages todo lists from the command line.
-- [The Old Reader](https://theoldreader.com/) - An RSS feed reader modeled after the now-defunct Google Reader.
-- [Deno](https://deno.com/) - see also the [documentation](https://docs.deno.com/)
-- [pnpm](https://pnpm.io/) - Replaces `npm`.
-- [Neutralino](https://neutralino.js.org/) - Build lightweight cross-platform desktop apps with HTML, JavaScript, and CSS.
-- [daisyUI](https://daisyui.com/)
-- [SQLite](https://sqlite.org/)
-- [zed](https://zed.dev/) - An editor designed for remote pair programming.
-- [Fly.io](https://fly.io) - web server hosting
-- [Gource](https://gource.io/) - visualize Git repo history as an animated graph
-- [Milkdown](https://milkdown.dev/) - a framework for WYSIWYG/markdown combo editors. Write markdown that converts to rich text as you type. Made by [Mirone](https://mirone.me/).
-- [MDX](https://mdxjs.com/) - A cross between [Markdown] and JSX. Lets you add React components to Markdown documents and render those documents in a React app.
-- [day.js](https://day.js.org/) - a JavaScript library for date/time calculations.
-- [date-fns](https://date-fns.org/) - another JavaScript library for date/time calculations.
-- [superstruct](https://docs.superstructjs.org/) - A TypeScript parser combinator library.
 
 ### Tips and Tricks, How Tos
 
