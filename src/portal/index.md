@@ -813,6 +813,7 @@ A.K.A. the lost art of amusing yourself without electricity.
 
 h/t [Low Tech Magazine](https://solar.lowtechmagazine.com/2010/06/how-to-tie-the-world-together-online-knotting-reference-books/) for all of these.
 
+- [Net Knots dot com](https://www.netknots.com) - descriptions of many knots, with animated instructions
 - [The International Guild of Knot Tyers](https://igkt.net/)
 - [_Knots, Ties, and Splices_ (1884)](http://www.archive.org/stream/cu31924014519940#page/n17/mode/thumb) by J. Tom Burgess.
 - _Knots, Splices, and Rope Work: A Practical Treatise_ (1917) - sorry, broken link.
