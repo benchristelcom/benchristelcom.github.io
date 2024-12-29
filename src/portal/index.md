@@ -628,7 +628,7 @@ See also [my /uses page](/uses).
 - [Show or hide HTML elements for screenreaders only](https://css-tricks.com/inclusively-hidden/) using CSS.
 - [Relative import paths need explicit file extensions in ECMAScript imports](https://www.totaltypescript.com/relative-import-paths-need-explicit-file-extensions-in-ecmascript-imports)
 
-<h2 id="image-repositories">Image Repositories<span inert>free stock images</span></h2>
+## Image Repositories<hs-meta keywords="free stock images"></hs-meta>
 
 ### General
 
@@ -662,7 +662,7 @@ See also [my /uses page](/uses).
 - [Heroicons](https://heroicons.com/) - copy these SVG icons directly into your HTML. Nothing to download. Outline, solid, mini, and micro variants. (h/t [JT Archie](https://jtarchie.com/))
 - [Cliparts.co](https://cliparts.co) - give your website, flyer, or email that ultimate kitschy look.
 
-<h2 id="web-based-tools">Web-based Tools<span inert> online browser-based</span></h2>
+## Web-based Tools<hs-meta keywords="online browser-based"></hs-meta>
 
 ### Sensing
 
@@ -926,7 +926,7 @@ into one searchable, cross-referenced database.
 - [autokeyconf](https://github.com/benchristel/autokeyconf) - Rebinds shortcut keys system-wide on Linux.
 - ["Frost" theme for Docky](https://github.com/benchristel/docky-frost) - An OSX-style dock for Linux.
 
-<h2 id="webring">Webring <span inert>ring wayward</span></h2>
+## Webring<hs-meta keywords="ring wayward"></hs-meta>
 
 <script defer src="https://cdn.jsdelivr.net/npm/wwwebring@0.2.0"></script>
 <p
