@@ -520,6 +520,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) - Noah Sussman
 - [PHP: a fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/) - Evelyn Woods
 - [Making Badass Developers (Video)](https://benchristel.github.io/yt#FKTxC9pl-WM) - Kathy Sierra
+- [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) - Alexis King
 - [Boundaries (Video)](https://www.destroyallsoftware.com/talks/boundaries) - Gary Bernhardt
 - [Functional Core, Imperative Shell (Video)](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell) - Gary Bernhardt
 - [Wat (Video)](https://www.destroyallsoftware.com/talks/wat) - Gary Bernhardt
