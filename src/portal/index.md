@@ -406,13 +406,13 @@ html {
 - [Monterey Bay Herb Company](https://herbco.com/) <span inert>bulk wholesale</span> - Tea, herbs, and spices for very competitive prices.
 - [Rancho Gordo](https://www.ranchogordo.com/) - Beans!
 
-## Music
-
-See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
-
 ## Art
 
 - [Celtic Art by Jen Delyth](http://celticartstudio.com/)
+
+## Music
+
+See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 
 ### Discovery
 
