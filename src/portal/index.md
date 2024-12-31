@@ -351,6 +351,7 @@ html {
 <h2 style="margin-bottom:0.5em">Table of Contents</h2>
 
 - [Food](#food)
+- [Art](#art)
 - [Music](#music)
 - [Meditation](#meditation)
 - [Civilization](#reviving-civilization)
