@@ -429,7 +429,7 @@ On this map, you have to defeat the final boss in 3 months, while 3 computer pla
 
 Oddly, this map has an asymmetrical plot (a peasant revolt) but a symmetrical layout. Maybe there's a political message there? Probably not.
 
-I'm not sure why the map self-describes as "expert level". The fights were quite easy, and the map is generous with gold and units. One interesting feature is that the passage to the other player's area can only be traversed if you have more than 15k gold, which slightly limits your ability to get fourth-level creatures.
+I'm not sure why the map self-describes as "expert level". The fights were quite easy, and the map is generous with gold and units. One interesting feature is that the passage to the other player's area can only be traversed if you have more than 15k gold, which delays the rush for fourth-level creatures.
 
 | Category      | Rating |
 | ------------- | ------ |
@@ -460,3 +460,46 @@ I'm not sure why the map self-describes as "expert level". The fights were quite
 | Difficulty         | Intermediate |
 | Human player color | Purple       |
 | Alignment          | Life         |
+
+This map gives you an ally who is more of a hindrance than a help. You have to rush to grab the gold mines and creature dwellings before they can. I won pretty quickly due to the AI's stupidity. I feel like the boss hero (a level 20 warlord) could have just walked across the map and taken my town if the AI had known what it was doing.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★★☆☆☆  |
+| Challenge     | ★★★☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★☆☆☆☆  |
+
+## The Beowulf Tales, Part 1
+
+| Attribute           | Value     |
+| ------------------- | --------- |
+| Map Size            | Small     |
+| Difficulty          | Champion  |
+| Players             | 2         |
+| Included with       | Heroes IV |
+| Multiplayer design  | No        |
+| Max humans          | 1         |
+| Playable alignments | Might     |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Red          |
+| Alignment          | Might        |
+
+This map strained my trollstrat-fu to the limits. At one point I had to conquer a town by repeatedly attacking with a single Barbarian equipped with Potions of Immortality, retreating home each time his health got low. You start with only Beowulf and can't get more heroes. Your enemy (Chaos) can access your half of the map via one-way portals, so you have to play pretty defensively. The winning strategy seems to be to sit at home and guard your towns most of the time, which seems rather un-Beowulf-like.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★★☆☆  |
+| Narrative     | ★★★☆☆  |
+| Challenge     | ★★★☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★☆☆☆  |
