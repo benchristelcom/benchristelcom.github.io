@@ -17,7 +17,11 @@ The causes of dukkha are **desire** (wanting more of something) and **aversion**
 
 ### How the creation of dukkha is experienced subjectively
 
-The world you're experiencing right now is a "3D space" of **awareness**. It's not a thing, but a process [in your mind]. Awareness is always present.
+The world you're experiencing right now is a "3D space" of **awareness**. It's not a thing, but a process [in your mind]. Awareness is always present, and it encompasses *everything* you see/hear/feel/think/know right now.
+
+> As far as here and now is concerned, what isn't in awareness might as well not exist.
+>
+> —Culadasa
 
 Starting from awareness, your mind goes through a series of causal steps to produce dukkha/suffering:
 
