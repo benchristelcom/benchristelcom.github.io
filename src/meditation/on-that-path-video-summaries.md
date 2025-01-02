@@ -70,7 +70,9 @@ The result is that both positive and negative mental states are **self-reinforci
 
 If you could control your attention, you could prevent craving and clinging and thereby prevent dukkha from arising!
 
-Unfortunately, you can't control it directly. Attention depends on causes and conditions like everything else. If you've ever tried to meditate (keep your attention on something for many minutes at a time) you know how little control you really have over it.
+Unfortunately, you can't control it directly. Attention depends on causes and conditions like everything else. If you've ever tried to "meditate by force" (keep your attention on something for many minutes at a time) you know how little control you really have over it.
+
+[Note: the right way to meditate is _not_ to try to force attention to do something, but to calm the mind so attention settles down on its own! —B.C.]
 
 The cause of attention is **intention** or **"doership"**.
 
