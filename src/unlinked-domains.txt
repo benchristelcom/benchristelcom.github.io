@@ -19,6 +19,7 @@ https://kesva.org
 https://duckdb.org
 https://flathub.org
 https://rand.org
+https://pausd.org
 https://amarok.kde.org
 https://unicode.org
 https://lparchive.org
