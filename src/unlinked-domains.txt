@@ -28,6 +28,7 @@ https://ietf.org
 https://ziglang.org
 https://rust-lang.org
 https://onbeing.org
+https://deming.org
 https://searxng.org
 https://jsxgraph.org
 https://porteus-kiosk.org
