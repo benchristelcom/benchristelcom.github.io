@@ -503,3 +503,24 @@ This map strained my trollstrat-fu to the limits. At one point I had to conquer 
 | Challenge     | ★★★☆☆  |
 | Replayability | ★★☆☆☆  |
 | Fun           | ★★☆☆☆  |
+
+## The Ultimate Mug of Ale
+
+| Attribute           | Value     |
+| ------------------- | --------- |
+| Map Size            | Small     |
+| Difficulty          | Expert    |
+| Players             | 3         |
+| Included with       | Heroes IV |
+| Multiplayer design  | No        |
+| Max humans          | 1         |
+| Playable alignments | Order     |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Blue         |
+| Alignment          | Order        |
