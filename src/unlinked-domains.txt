@@ -115,7 +115,6 @@ https://www.bridgesonthetyne.co.uk
 https://parallel.co.uk
 https://amazon.co.uk
 https://maps.nls.uk
-https://buttondown.email
 https://tenochtitlan.thomaskole.nl
 https://www.exitmundi.nl
 https://webpro.nl
@@ -208,7 +207,6 @@ https://www.youtube-nocookie.com
 https://www.colingorrie.com
 https://neil-clarke.com
 https://tailscale.com
-https://manuelmoreale.com
 https://forkable.com
 https://harvesttotable.com
 https://www.barnesandnoble.com
@@ -599,7 +597,6 @@ https://fivethirtyeight.com
 https://projects.fivethirtyeight.com
 https://rugrabbit.com
 https://old.reddit.com
-https://www.reddit.com
 https://rawgit.com
 https://npm.runkit.com
 https://app.convertkit.com
@@ -805,6 +802,7 @@ https://railway.app
 https://use-gesture.netlify.app
 https://react-typescript-cheatsheet.netlify.app
 https://bsky.app
+https://functional.computer
 https://corru.observer
 https://steen.free.fr
 https://flower.codes
