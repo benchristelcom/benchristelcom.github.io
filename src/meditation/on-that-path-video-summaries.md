@@ -114,5 +114,49 @@ The causal chain that creates dukkha is **dependent origination**.
 
 The game of going up and down mental states = **samsara**.
 
+## [How to Permanently Be Free from Stress, Suffering, &amp; Dissatisfaction: The Prognosis &amp; Prescription](https://benchristel.github.io/yt#bMsTcqtWi1o)
+
+Good news! It is possible to improve your [mental state](#mental-state), e.g. from level 50 (or lower) to 100.
+
+However, even if you get to state 100, it's possible to fall back down.
+
+The ultimate goal is to completely get out of the game of going up and down the mental states (***samsara***), by reaching ***nirvana***/***nibbana***/***moksha***.
+
+The way to do that is by getting rid of the [ignorance](#unawareness--ignorance) which causes the [intentions](#intention) that start the dependent origination process.
+
+Analogy: if you've burned your hand on a hot pan, you wouldn't intentionally touch it again, because you can clearly see the cause and effect. You don't even have to think about avoiding touching it; it's automatic. Similarly, you can train your mind to avoid dependent origination instinctively, by showing it the causal chain.
+
+### The prescription
+
+Your mind's natural inclination is to rise up like a hot air balloon to mental state 100, unless something is pulling it back down.
+
+You don't have to *do* anything to be happy.
+
+In fact, trying to be happy tends to cause craving/clinging/reaction, which is counterproductive.
+
+All you have to do is stop the chain of dependent origination, by breaking the causal links, and your mental state will rise up **on its own**.
+
+### Breaking the links
+
+There are several places we can break the dependent origination chain.
+
+- **Virtue** - counters reaction
+- **Letting go** - counters craving and clinging
+- **Wholesome or effortless intentions** - counters subject/object duality
+- **Mindfulness** - counters unawareness/ignorance
+
+### Buddhist Concepts
+
+This video covers the third and fourth noble truth.
+
+The techniques for breaking the dependent origination chain are parts of the eightfold path.
+
+- **Virtue** is similar to **right action** and **right speech**
+- **Letting go** is similar to **right effort**
+- **Wholesome or effortless intentions** is similar to **right intention**
+- **Mindfulness** is similar to **right mindfulness**
+
+Letting your mind rise to state 100 in meditation is similar to **right samadhi**.
+
 ## [The Meditative Path at a Macro Level](https://benchristel.github.io/yt/#rjGAh7om7gc)
 
