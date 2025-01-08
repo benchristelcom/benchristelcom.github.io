@@ -158,5 +158,48 @@ The techniques for breaking the dependent origination chain are parts of the eig
 
 Letting your mind rise to state 100 in meditation is similar to **right samadhi**.
 
-## [The Meditative Path at a Macro Level](https://benchristel.github.io/yt/#rjGAh7om7gc)
+## [How to Meditate Effectively. Part 1: Mindfulness](https://benchristel.github.io/yt/#giDJNVPs014)
 
+### Overview
+
+- Getting to the highest mental state (100) means your mind becomes calm and clear (_śamatha_).
+- This clarity can then be used to gain insights into reality (_vipassana_).
+- The insights lead to permanent wisdom and peace (_moksha_).
+
+Calming the mind happens on its own if you just sit. You don't have to do anything, except _not_ run the dependent origination process.
+
+Meditation = undoing dependent origination to release stress.
+
+### What _not_ to do in meditation
+
+Don't focus, concentrate, or try to force your mind to do something! That only causes clinging and slows down your progress.
+
+### What to do in a sit
+
+- Sit comfortably, but not so comfortably that you get sleepy.
+- Use the [4 tools](#breaking-the-links) to undo dependent origination.
+
+The specific meditation techniques you use aren't as important, as long as you get the above fundamentals right.
+Figure out which techniques work for you.
+
+That said, a very useful technique is ***anapanasati*** (mindfulness of breathing).
+
+### What is mindfulness?
+
+If you can listen to a video lecture while also using 10–20% of your mental energy to just be aware that your body
+exists, or be aware of the feeling of having a body, that's what mindfulness feels like.
+
+- Mindfulness = the real-time experience of context beyond the thing you're currently focusing on.
+
+[Terminology note: I'm not sure if this definition of mindfulness is distinct from awareness. Culadasa
+clearly distinguishes between these terms, defining mindfulness as the optimal interaction between attention and awareness. I'll use the term *awareness* where OnThatPath uses *mindfulness* from here on. —B.C.]
+
+*Anapanasati* means being aware of the sensations that let you know you're breathing.
+
+This awareness should feel alert, open, wide, and relaxed.
+
+[To guard against sleepiness (what Culadasa calls *dullness*) I have found it helpful to visualize my
+field of awareness expanding, like I'm looking out at a vast landscape, each time I relax with an out-breath
+(see below) —B.C.]
+
+## [The Meditative Path at a Macro Level](https://benchristel.github.io/yt/#rjGAh7om7gc)
