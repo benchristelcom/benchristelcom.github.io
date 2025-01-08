@@ -790,6 +790,7 @@ A.K.A. the lost art of amusing yourself without electricity.
 - [A database of conlangs](https://database.conlang.org) on [Conlang.org](https://conlang.org/)
 - [Dedalvs.com](https://dedalvs.com/) - David J. Peterson's site. You might have heard of his language [Dothraki](http://www.dothraki.com/).
 - [The website of Jörg Rhiemeier](https://joerg-rhiemeier.de), creator of the Albic language family.
+- [The Guild of Linguists Homepage](http://linguists.riedl.org/old/), with info about the D'ni language from the world of _Myst_ and _Riven_. (h/t [Richard Kennaway](http://www2.cmp.uea.ac.uk/~jrk/conlang.html))
 
 ### Cornish - Kernewek
 
