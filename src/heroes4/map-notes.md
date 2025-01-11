@@ -500,7 +500,7 @@ This map strained my trollstrat-fu to the limits. At one point I had to conquer 
 | Scenery       | ★★☆☆☆  |
 | Strategy      | ★★★☆☆  |
 | Narrative     | ★★★☆☆  |
-| Challenge     | ★★★☆☆  |
+| Challenge     | ★★★★☆  |
 | Replayability | ★★☆☆☆  |
 | Fun           | ★★☆☆☆  |
 
@@ -524,3 +524,16 @@ This map strained my trollstrat-fu to the limits. At one point I had to conquer 
 | Difficulty         | Intermediate |
 | Human player color | Blue         |
 | Alignment          | Order        |
+
+A map with an actual plot! I might even have laughed at the humorous dialogue!
+
+You have to get past a couple of opponent players to get to the boss. The first of these has a random alignment and can be eliminated; the second is always Chaos and can't be eliminated. The swamp, snow, and water covering most of the map make it seem larger than it is.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★★☆☆  |
+| Narrative     | ★★★★☆  |
+| Challenge     | ★★★★☆  |
+| Replayability | ★★★☆☆  |
+| Fun           | ★★★☆☆  |
