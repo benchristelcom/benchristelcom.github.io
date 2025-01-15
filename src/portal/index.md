@@ -496,6 +496,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 <div class="col-2"></div>
 
 - [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/), by [Eric S. Raymond](http://catb.org/). Compre&shy;hensive, eloquent, and mind-expanding. If you only read one book on software design and development, this should be it. Available as HTML at the above link, but please consider supporting the author by buying the [print edition](https://www.informit.com/store/art-of-unix-programming-9780131429017).
+- [why's (poignant) guide to ruby](https://poignant.guide/) - If you're going to read more than one book on software, this should be the first one.
 - [How Complex Systems Fail](https://how.complexsystems.fail/) - A short treatise by Richard I. Cook, MD. A must-read for any manager in a software organization.
 - [Structure and Interpretation of Computer Programs (PDF)](https://web.mit.edu/6.001/6.037/sicp.pdf) by Abelson, Sussman, and Sussman.
 - [John Lions' "Commentary on the Sixth Edition Unix Operating System"](http://www.lemis.com/grog/Documentation/Lions/)
