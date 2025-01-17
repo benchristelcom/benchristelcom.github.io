@@ -198,12 +198,85 @@ exists, or be aware of the feeling of having a body, that's what mindfulness fee
 [Terminology note: I'm not sure if this definition of mindfulness is distinct from awareness. Culadasa
 clearly distinguishes between these terms, defining mindfulness as the optimal interaction between attention and awareness. I'll use the term *awareness* where OnThatPath uses *mindfulness* from here on. —B.C.]
 
+### Anapanasati (mindfulness of breathing)
+
 *Anapanasati* means being aware of the sensations that let you know you're breathing.
 
 This awareness should feel alert, open, wide, and relaxed.
 
 [To guard against sleepiness (what Culadasa calls *dullness*) I have found it helpful to visualize my
-field of awareness expanding, like I'm looking out at a vast landscape, each time I relax with an out-breath
+field of awareness expanding, like I'm looking out at a vast landscape, each time I relax with an exhale
 (see below) —B.C.]
+
+As you maintain awareness, let attention go wherever. It doesn't matter.
+
+## [How to Meditate Effectively. Part 2: Booster Tools](https://benchristel.github.io/yt/#B0IJ-f_cnVA)
+
+You can use these tools in both meditation sits and daily life to boost your practice.
+
+### OnThatPath's summary of the video
+
+1. Maintain a simple and virtuous life.
+2. No focusing in meditation (stay open and relaxed)
+3. Set up peripheral awareness of your breathing
+4. Effortless relaxed smile
+5. Stay alert for tensions and drop them with an exhale.
+6. Do steps 3–5 on cruise control.
+7. Your mind will rise up to higher mental states on its own.
+
+### Tool 1: Anapanasati
+
+Covered in the [previous video](#anapanasati-mindfulness-of-breathing).
+
+### Tool 2: Buddha's smile (effortless and wholesome intention)
+
+![the face of a smiling Buddha statue](buddha.png)
+
+- Relax your eyes into a gentle smile, like you see on Buddha statues.
+  - [I like to _briefly_ imagine I'm smiling benevolently at a duckling or something cute like that, just to set the tone. Don't get caught up in thoughts and images, though. —B.C.]
+- This will naturally cause **effortless and wholesome intentions** to arise.
+- You can also establish a relaxed and non-restless mind more generally. **Go with the flow.**
+
+- How effortless do you really have to be?
+  - It's okay if it _feels like_ you are controlling your breathing. As long as you aren't intentionally choosing to control it, that's enough.
+  - Exception: relaxing with an exhale. It's fine to control your breath here for one or two breaths.
+
+### Tool 3: Letting go of tensions
+
+As you meditate, you will experience **tensions**.
+
+- They feel like nuclei or knots somewhere in your body, a bit like the feeling of a clenched fist. They can also feel like the body part is being pulled by something.
+- They aren't physical muscle knots.
+
+When you feel tension, drop your shoulders and relax with an exhale. Whether the tension goes away or not doesn't matter. Don't obsess over it and eventually it will disappear on its own.
+
+A common place to experience these tensions is in your head, around your eyes or face. When you feel these, just relax your face/head area (this feels a bit like letting your head expand).
+
+If your attention is clinging to an object, just relax and let it drop.
+
+### Tool 4: Virtue in daily life
+
+Virtue prevents you from accumulating too many obsessive thoughts, bad habits, and regrets, which create dukkha and slow down your meditation progress.
+
+Things to avoid include:
+
+- Stealing
+- Lying
+- Killing
+- Cheating
+- [Doomscrolling —B.C.]
+- [Perfectionism and obsessions —B.C.]
+- [Emotional or attention-grabbing media —B.C.]
+- [People you get into arguments with —B.C.]
+- [Alcohol and dehydration —B.C.]
+
+In short, un-virtue is anything you regret doing at the end of the day, or anything that makes your mind/body feel restless, foggy, or yucky afterward.
+
+### Bonus tool: short "pre-sits"
+
+- Take 5-minute meditation breaks throughout your day, in addition to your longer daily sit (of 30 minutes to an hour).
+- Before doing a longer sit, spend a few minutes just chilling.
+
+This will keep your mental state from degrading during the day, so you start your meditation from a good "base camp".
 
 ## [The Meditative Path at a Macro Level](https://benchristel.github.io/yt/#rjGAh7om7gc)
