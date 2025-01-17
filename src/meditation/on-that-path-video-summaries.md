@@ -74,7 +74,7 @@ The result is that both positive and negative mental states are **self-reinforci
 
 If you could control your attention, you could prevent craving and clinging and thereby prevent dukkha from arising!
 
-Unfortunately, you can't control it directly. Attention depends on causes and conditions like everything else. If you've ever tried to "meditate by force" (keep your attention on something for many minutes at a time) you know how little control you really have over it.
+Unfortunately, you can't control attention directly. Attention depends on causes and conditions like everything else. If you've ever tried to "meditate by force" (keep your attention on something for many minutes at a time) you know how little control you really have over it.
 
 [Note: the right way to meditate is _not_ to try to force attention to do something, but to calm the mind so attention settles down on its own! —B.C.]
 
@@ -124,7 +124,7 @@ The ultimate goal is to completely get out of the game of going up and down the 
 
 The way to do that is by getting rid of the [ignorance](#unawareness--ignorance) which causes the [intentions](#intention) that start the dependent origination process.
 
-Analogy: if you've burned your hand on a hot pan, you wouldn't intentionally touch it again, because you can clearly see the cause and effect. You don't even have to think about avoiding touching it; it's automatic. Similarly, you can train your mind to avoid dependent origination instinctively, by showing it the causal chain.
+Analogy: if you've burned your hand on a hot pan, you wouldn't intentionally touch it again, because you can clearly see the cause and effect. You don't even have to make a conscious effort to avoid it; it's automatic. Similarly, you can train your subconscious mind to avoid dependent origination instinctively, by showing it the causal chain.
 
 ### The prescription
 
@@ -178,6 +178,10 @@ Don't focus, concentrate, or try to force your mind to do something! That only c
 
 - Sit comfortably, but not so comfortably that you get sleepy.
 - Use the [4 tools](#breaking-the-links) to undo dependent origination.
+  - **Virtue**
+  - **Let go**
+  - **Wholesome or effortless intentions**
+  - **Mindfulness**
 
 The specific meditation techniques you use aren't as important, as long as you get the above fundamentals right.
 Figure out which techniques work for you.
