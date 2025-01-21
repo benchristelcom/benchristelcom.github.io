@@ -682,7 +682,7 @@ See also [my /uses page](/uses).
 
 - [Search My Site](https://searchmysite.net) - A search engine that only returns results from personal sites. (h/t [C Jackdaw])
 - [Wiby](https://wiby.me/)
-- [Marginalia](https://search.marginalia.nu/)
+- [Marginalia](https://marginalia-search.com/) (formerly [marginalia.nu](https://marginalia.nu/))
 - [Million Short](https://millionshort.com/) - Filters out the top million (or thousand, or hundred) most popular websites from your search results. Subscription-based. (h/t [Cidoku])
 - [Open Street Map](https://www.openstreetmap.org/) - Alternative to Google Maps. In addition to searching for locations, it can also provide [navigation directions](https://www.openstreetmap.org/directions).
 
