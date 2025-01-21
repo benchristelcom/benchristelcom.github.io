@@ -1,5 +1,6 @@
 https://10.0.0.1
 https://127.0.0.1
+https://khanacademy.dev
 https://docker.com
 https://home.cc.umanitoba.ca
 https://jvns.ca
