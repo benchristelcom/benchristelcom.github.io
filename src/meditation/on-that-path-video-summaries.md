@@ -266,7 +266,7 @@ Things to avoid include:
 - Cheating
 - [Doomscrolling —B.C.]
 - [Perfectionism and obsessions —B.C.]
-- [Emotional or attention-grabbing media —B.C.]
+- [Attention-grabbing media —B.C.]
 - [People you get into arguments with —B.C.]
 - [Alcohol and dehydration —B.C.]
 
@@ -278,5 +278,27 @@ In short, un-virtue is anything you regret doing at the end of the day, or anyth
 - Before doing a longer sit, spend a few minutes just chilling.
 
 This will keep your mental state from degrading during the day, so you start your meditation from a good "base camp".
+
+## How to Meditate Effectively, Part 3: What Should Your Meditation Feel Like?
+
+### Metaphor: a bushfire defense system
+
+Suppose you wanted to build a futuristic set of defenses around your house to protect it from bushfires. This might involve:
+
+- Installing a force field around your house
+- Humidifying the air inside the force field
+- Using autonomous drones to put out any fires that start.
+
+During meditation, we can defend our mental state against dependent origination in a similar way.
+
+- Set up [mindfulness of breathing](#anapanasati-mindfulness-of-breathing).
+- Establish [wholesome and effortless intentions](#tool-2-buddhas-smile-effortless-and-wholesome-intention) using a slight smile.
+- Be alert for clinging/reaction and [let go](#tool-3-letting-go-of-tensions) of them when they arise.
+
+After letting go of tensions, take a moment to re-establish your mindfulness and intentions, since these can be disrupted by dependent origination.
+
+### What your practice should look like
+
+(this section is a summary of the above and [the previous video](#how-to-meditate-effectively-part-2-booster-tools))
 
 ## [The Meditative Path at a Macro Level](https://benchristel.github.io/yt/#rjGAh7om7gc)
