@@ -537,3 +537,35 @@ You have to get past a couple of opponent players to get to the boss. The first 
 | Challenge     | ★★★★☆  |
 | Replayability | ★★★☆☆  |
 | Fun           | ★★★☆☆  |
+
+## Three Queens
+
+| Attribute           | Value     |
+| ------------------- | --------- |
+| Map Size            | Small     |
+| Difficulty          | Advanced  |
+| Players             | 3         |
+| Included with       | The Gathering Storm |
+| Multiplayer design  | No        |
+| Max humans          | 3         |
+| Playable alignments | Order, Might, Death |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Green        |
+| Alignment          | Death        |
+
+Symmetrical 3-player map. Each player can rescue a level 15 general from prison by defeating a few hundred skeletons. This puts Death at a slight disadvantage, since it's hard to keep vampires alive when fighting undead. As with many of these maps, I imagine this one might be fun to play against other humans, but vs. AI it was pretty boring.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★★☆☆  |
+| Narrative     | ★★☆☆☆  |
+| Challenge     | ★★★☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★☆☆☆  |
