@@ -706,7 +706,9 @@ See also [my /uses page](/uses).
 
 ### Transforming
 
+- [Dither it!](https://ditherit.com/) - Creates dithered versions of images, as seen on [Low Tech Magazine](https://solar.lowtechmagazine.com/). <span inert>dithering</span>
 - [TinyPNG](https://tinypng.com/) - Reduces image filesizes.
+- [Squoosh](https://squoosh.app/) - Another tool to reduce image filesizes.
 - [JSONPath Online Evaluator](https://jsonpath.com/) - Evaluates JSONPath expressions against data.
 - [Atmos.Style CSS Color Converter](https://atmos.style/color-converter/hsl-to-lch) - Converts between hex, RGB, HSL, and LCH. Also names the colors, which is a nice touch.
 - [HTML to Markdown converter](https://htmlmarkdown.com)
