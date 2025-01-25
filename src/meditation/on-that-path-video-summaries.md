@@ -1,11 +1,26 @@
 # OnThatPath Video Summaries
 
-YouTube user [@onthatpath](https://www.youtube.com/channel/UCKuHpb6N1jLet2ZzNXntNmA) has as series of videos about meditation. I have found them to be an _extremely_ helpful supplement to the book _The Mind Illuminated_ by Culadasa. Each video is short, but in total they are a couple hours, so I thought I'd summarize them here, both for my own reference and to help others.
+YouTube user [@onthatpath](https://www.youtube.com/channel/UCKuHpb6N1jLet2ZzNXntNmA) has as series of videos about meditation. I have found them to be an _extremely_ helpful supplement to the book [_The Mind Illuminated_ by Culadasa](https://www.goodreads.com/book/show/25942786-the-mind-illuminated) ([subreddit](https://www.reddit.com/r/TheMindIlluminated/)). Each video is short, but in total they are a couple hours, so I thought I'd summarize them here, both for my own reference and to help others.
 
 I recommend watching all of the videos, and then referring to this page when you need a refresher to boost your meditation practice.
 
+## Table of Contents
+
 - [Playlist 1 (Right View)](https://www.youtube.com/playlist?list=PLfznqxq7ocuH2RUe5-3YFVuTn_3HzkCNE)
 - [Playlist 2 (Meditation Instructions)](https://www.youtube.com/playlist?list=PLfznqxq7ocuFgKvwK_cUZfVZN-1x_25qu)
+
+| Chapter | Video | Summary |
+| ------- | ----- | ------- |
+| Stress and Dissatisfaction (Part 1) | [Video](https://benchristel.github.io/yt/#i1izrpQqvP4) | [Summary](#why-you-feel-stress-and-dissatisfaction-in-life-part-1) |
+| Stress and Dissatisfaction (Part 2) | [Video](https://benchristel.github.io/yt/#k2T9dxDmsS4) | [Summary](#why-you-feel-stress-and-dissatisfaction-in-life-part-2) |
+| The Prognosis and Prescription | [Video](https://benchristel.github.io/yt#bMsTcqtWi1o) | [Summary](#how-to-permanently-be-free-from-stress-suffering--dissatisfaction-the-prognosis--prescription)
+| Mindfulness | [Video](https://benchristel.github.io/yt#giDJNVPs014) | [Summary](#how-to-meditate-effectively-part-1-mindfulness)
+| Booster Tools | [Video](https://benchristel.github.io/yt#B0IJ-f_cnVA) | [Summary](#how-to-meditate-effectively-part-2-booster-tools)
+| What should your meditation feel like? | [Video](https://benchristel.github.io/yt#C1aCu4Cd3tw) | [Summary](#how-to-meditate-effectively-part-3-what-should-your-meditation-feel-like)
+| Anapanasati overview | [Video](https://benchristel.github.io/yt#Swg8vt_t3GI) | [Summary](#tracking-meditation-progress-part-1-anapanasati-steps-overview)
+| Śamatha steps | [Video](https://benchristel.github.io/yt#z8Wnm-crf1E) | [Summary](#tracking-meditation-progress-part-2-śamatha-steps-in-detail)
+| Vipassana steps | [Video](https://benchristel.github.io/yt#KHhesuG9lhA) | [Summary](#tracking-meditation-progress-part-3-vipassana-steps-in-detail)
+| The macro level | [Video](https://benchristel.github.io/yt#rjGAh7om7gc) | [Summary](#the-meditative-path-at-a-macro-level)
 
 ## [Why You Feel Stress and Dissatisfaction in Life (Part 1)](https://benchristel.github.io/yt/#i1izrpQqvP4)
 
@@ -279,7 +294,7 @@ In short, un-virtue is anything you regret doing at the end of the day, or anyth
 
 This will keep your mental state from degrading during the day, so you start your meditation from a good "base camp".
 
-## How to Meditate Effectively, Part 3: What Should Your Meditation Feel Like?
+## [How to Meditate Effectively, Part 3: What Should Your Meditation Feel Like?](https://benchristel.github.io/yt#C1aCu4Cd3tw)
 
 ### Metaphor: a bushfire defense system
 
@@ -291,9 +306,9 @@ Suppose you wanted to build a futuristic set of defenses around your house to pr
 
 During meditation, we can defend our mental state against dependent origination in a similar way.
 
-- Set up [mindfulness of breathing](#anapanasati-mindfulness-of-breathing).
-- Establish [wholesome and effortless intentions](#tool-2-buddhas-smile-effortless-and-wholesome-intention) using a slight smile.
-- Be alert for clinging/reaction and [let go](#tool-3-letting-go-of-tensions) of them when they arise.
+- Set up [mindfulness of breathing](#anapanasati-mindfulness-of-breathing). This is analogous to the force field.
+- Establish [wholesome and effortless intentions](#tool-2-buddhas-smile-effortless-and-wholesome-intention) using a slight smile. This is analogous to the humidifier.
+- Be alert for clinging/reaction and [let go](#tool-3-letting-go-of-tensions) of them when they arise. This is analogous to the drones that put out fires.
 
 After letting go of tensions, take a moment to re-establish your mindfulness and intentions, since these can be disrupted by dependent origination.
 
@@ -301,7 +316,7 @@ After letting go of tensions, take a moment to re-establish your mindfulness and
 
 (this section is a summary of the above and [the previous video](#how-to-meditate-effectively-part-2-booster-tools))
 
-## Tracking meditation progress part 1: Anapanasati steps overview
+## [Tracking meditation progress part 1: Anapanasati steps overview](https://benchristel.github.io/yt#Swg8vt_t3GI)
 
 | Satipaṭṭhāna | Ānāpānasati | Tetrads |
 | ------------ | ----------- | ------- |
@@ -322,10 +337,13 @@ After letting go of tensions, take a moment to re-establish your mindfulness and
 |                              | 15. Contemplating cessation |
 |                              | 16. Contemplating relinquishment |
 
-The purpose of going through these 16 "steps" is to make your mind clear and calm, so you can then
-see reality as it is (insight) and ultimately attain durable wisdom (nirvana/moksha).
+The purpose of going through these 16 "steps" is:
 
-The first 12 steps are śamatha (calming) steps. The last 4 steps are vipassana (insight) stages.
+1. to make your mind clear and calm, so you can then
+2. see reality as it is (insight), and ultimately
+3. attain durable wisdom (nirvana/moksha).
+
+The first 12 steps are śamatha (calming) steps. The last 4 steps are vipassana (insight) steps.
 
 Ultimately, you need to go through all 16 steps in a single sit.
 But at first, your practice will focus on simply getting to the highest step you can.
@@ -338,8 +356,71 @@ Each sit, you will advance through the steps starting from step 1.
 
 ### How to progress?
 
-Each step is associated with a particular phenomenon or mental object that your attention will
-tend to cling to while you're in that step. This clinging leads to stress. If you are able to
-eventually let go of this clinging, you will automatically advance to the next stage.
+In each step, your attention will tend to cling to a particular phenomenon.
+
+After you have gotten used to the phenomenon (dispassion) you will be able to let go of it,
+and then you will ***automatically*** advance to the next stage.
+
+There is nothing you have to "do" in meditation except stay mindful of what attention is
+clinging to and allow it to move on when it's ready.
+
+## [Tracking meditation progress part 2: Śamatha steps in detail](https://benchristel.github.io/yt/#z8Wnm-crf1E)
+
+[Disclaimer: I have only gotten to step 10 or so, so for everything after that, you should probably just refer to the video itself. —B.C.]
+
+| Ānāpānasati | Phenomenon | Body part
+| ----------- | ---------- | ---------
+| 1. Breathing long (Knowing Breath) | Physical breath sensations | Nose or abdomen
+| ("purifications") | Disturbing memories and thoughts
+| 2. Breathing short (Knowing Breath) | Breath sensations become less distinct | Nose or abdomen
+| 3. Experiencing the whole body | Body expanding &amp; contracting | Torso, arms, face
+| 4. Tranquilizing the bodily activities | Bodily sensations become less distinct | &quot;
+| 5. Experiencing rapture | Piti (involuntary movements, fluttering sensations) | Torso, arms
+| 6. Experiencing bliss | Piti calms down, sukha starts | &quot;
+| 7. Experiencing mental activities | Thoughts, images, self-talk | Forehead, jaw
+| 8. Tranquilizing mental activities | Thoughts calm down | &quot;
+| 9. Experiencing the mind | Base of attention | Head
+| 10. Gladdening the mind | Piti, brightness | Head, visual field
+| (Jhanas) |
+| 11. Centering the mind in samadhi | Tension | Center of head
+| 12. Releasing the mind | Dukkha, sense of separate self disappear
+
+## [Tracking meditation progress part 3: Vipassana steps in detail](https://benchristel.github.io/yt#KHhesuG9lhA)
+
+| Ānāpānasati | Phenomenon | Body part
+| ----------- | ---------- | ---------
+| 13. Contemplating impermanence |
+| 14. Contemplating fading of lust |
+| 15. Contemplating cessation |
+| 16. Contemplating relinquishment |
 
 ## [The Meditative Path at a Macro Level](https://benchristel.github.io/yt/#rjGAh7om7gc)
+
+In the previous videos, we discussed the "micro" level of meditation:
+
+- What to do during a sit
+- A bit about what to do in daily life
+
+This video is about the macro level: the stages you go through on the way to a good and happy life.
+
+| Stage | View | Work | Daily Life | Formal Sit | Goal | How long?
+| ----- | ---- | ---- | ---------- | ---------- | ---- | ----------
+| -1. Worldy | [Hedonism](#why-hedonism-doesnt-work) | See that pleasure is fleeting | — | — | Develop enough dispassion to work on internal happiness | Decades
+| 0. Intro to internal happiness | Fixation on methods | Try your best | — | Use methods | See that methods alone don't work well | &lt; 1 year
+| 1. Intro to foundations / Dhamma | [Dependent origination](#how-the-creation-of-dukkha-is-experienced-subjectively) | Find learning resources | [Pre-sits](#bonus-tool-short-pre-sits) | Undoing D.O. | Confidence in foundations | 1 week
+| 2. Mundane Dhamma | Experiential understanding of D.O. | Find a mentor, fix techniques and view | Simplify life when convenient | Reach higher mental states | Less clinging to methods | &lt; 2 months
+| 3. Supramundane-leaning Dhamma | See danger in samsara, urgency | Prioritize meditation | 5 precepts | Consistent śamatha, start vipassana stages | path attainment | &lt; 1 week
+| 4. Supramundane Dhamma | Instinctively see 3 fetters creating dukkha | Sprint towards the goal, stick to early Dhamma, don't philosophize | 5 precepts; avoid fetters | Repeat all 16 anapanasati steps | Stream entry | ~3 months
+| 5+. Other fetters |   |   | Sense restraint
+
+### Traps
+
+- Stage 0: the "good meditator" trap.
+  - Pleasant phenomena
+  - Jhanas
+  - Non-dual experiences
+- Stages 1–4: contemporary sources
+  - Use early Buddhist teachings instead.
+  - Contemporary teachings are typically addressed to people in stage 0.
+  - Feel free to use contemporary sources after stream entry.
+- Stage 4: focusing too much on interesting experiences and philosophies.
