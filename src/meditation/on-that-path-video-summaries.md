@@ -301,4 +301,45 @@ After letting go of tensions, take a moment to re-establish your mindfulness and
 
 (this section is a summary of the above and [the previous video](#how-to-meditate-effectively-part-2-booster-tools))
 
+## Tracking meditation progress part 1: Anapanasati steps overview
+
+| Satipaṭṭhāna | Ānāpānasati | Tetrads |
+| ------------ | ----------- | ------- |
+| 1. Contemplation of the body | 1. Breathing long (Knowing Breath) | First tetrad
+|                              | 2. Breathing short (Knowing Breath) |
+|                              | 3. Experiencing the whole body |
+|                              | 4. Tranquilizing the bodily activities |
+| 2. Contemplation of feelings | 5. Experiencing rapture | Second tetrad
+|                              | 6. Experiencing bliss |
+|                              | 7. Experiencing mental activities
+|                              | 8. Tranquilizing mental activities |
+| 3. Contemplation of the mind | 9. Experiencing the mind | Third tetrad
+|                              | 10. Gladdening the mind |
+|                              | 11. Centering the mind in samadhi |
+|                              | 12. Releasing the mind |
+| 4. Contemplation of Dhammas  | 13. Contemplating impermanence | Fourth tetrad
+|                              | 14. Contemplating fading of lust |
+|                              | 15. Contemplating cessation |
+|                              | 16. Contemplating relinquishment |
+
+The purpose of going through these 16 "steps" is to make your mind clear and calm, so you can then
+see reality as it is (insight) and ultimately attain durable wisdom (nirvana/moksha).
+
+The first 12 steps are śamatha (calming) steps. The last 4 steps are vipassana (insight) stages.
+
+Ultimately, you need to go through all 16 steps in a single sit.
+But at first, your practice will focus on simply getting to the highest step you can.
+
+Example: when you first start meditating, you'll spend your whole 30-minute sit in step 1.
+But after a week or so, your mind will get used to step 1, and you'll be able to move on to step 2
+before the end of your sit.
+
+Each sit, you will advance through the steps starting from step 1.
+
+### How to progress?
+
+Each step is associated with a particular phenomenon or mental object that your attention will
+tend to cling to while you're in that step. This clinging leads to stress. If you are able to
+eventually let go of this clinging, you will automatically advance to the next stage.
+
 ## [The Meditative Path at a Macro Level](https://benchristel.github.io/yt/#rjGAh7om7gc)
