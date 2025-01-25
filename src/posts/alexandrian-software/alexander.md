@@ -11,11 +11,15 @@ The status quo of how buildings are constructed in the U.S. (and increasingly, a
 
 <figure>
 <img src="homekey.webp" alt="">
-<figcaption>Homekey Mountain View | Mountain View
-Homekey Mountain View, a Bay Area homeless shelter. Not by Christopher Alexander.</figcaption>
+<figcaption>Homekey Mountain View, a Bay Area homeless shelter. Not by Christopher Alexander.</figcaption>
 </figure>
 
 Alexander spent his entire career in an unwavering quest for a solution to this problem, which culminated in the publication, in four volumes, of a 2,000 page essay that he called _The Nature of Order_. In this monumental work, he reimagines architecture from the ground up.
+
+<figure>
+<img src="julian-street.jpg" alt="">
+<figcaption>The Julian Street Inn, an 85-bed homeless shelter in San Jose. Designed and built by Christopher Alexander.</figcaption>
+</figure>
 
 ## Life
 
