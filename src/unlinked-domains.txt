@@ -1,6 +1,5 @@
 https://10.0.0.1
 https://127.0.0.1
-https://lambdatest.com
 https://home.cc.umanitoba.ca
 https://jvns.ca
 https://hotlinewebring.club
@@ -479,7 +478,6 @@ https://newatlas.com
 https://www.cockroachlabs.com
 https://www.funraniumlabs.com
 https://redplanetlabs.com
-https://www.goodreads.com
 https://longreads.com
 https://refinedmods.com
 https://minecraftmods.com
@@ -625,6 +623,7 @@ https://mytrustedexpert.com
 https://www.arraycast.com
 https://www.renderforest.com
 https://automation.lambdatest.com
+https://lambdatest.com
 https://superpixelquest.com
 https://www.visualcapitalist.com
 https://devpost.com
@@ -775,6 +774,7 @@ https://cheatsheets.shecodes.io
 https://archive.jestjs.io
 https://jestjs.io
 https://verysmallrocks.io
+https://cypress.io
 https://typescript-eslint.io
 https://status.lambdatest.io
 https://astronaut.io
