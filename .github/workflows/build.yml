@@ -38,5 +38,5 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with: {path: './docs'}
 
-      - uses: actions/deploy-pages@v2
-        id: deployment
+      # https://github.com/actions/deploy-pages
+      - uses: actions/deploy-pages@v4
