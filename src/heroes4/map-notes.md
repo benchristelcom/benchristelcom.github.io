@@ -590,3 +590,36 @@ Symmetrical 3-player map. Each player can rescue a level 15 general from prison 
 | Difficulty         | Intermediate |
 | Human player color | Red          |
 | Alignment          | Chaos        |
+
+Beautiful, naturalistic map. It felt like I was exploring a real place instead of an artificial game level. There are many locales with distinct personalities. It's interesting to see the differences in design style between this (medium-sized) map and some of the small maps. This map uses distance, not just guards or barriers, as an obstacle. Especially in the early game, the choice of whether to go in one direction or the other felt like an important one with opportunity costs. The map gives you a lot of free stuff, rewarding exploration. Gold is oddly scarce but other resources are abundant. I would have appreciated a few more towns on the map since it felt like progression stalled after the first month.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★★★☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★★★☆☆  |
+| Fun           | ★★★★☆  |
+
+## Bandits of the Rifen Maze
+
+| Attribute           | Value     |
+| ------------------- | --------- |
+| Map Size            | Medium    |
+| Difficulty          | Intermediate |
+| Players             | 6         |
+| Included with       | Winds of War |
+| Multiplayer design  | No        |
+| Max humans          | 1         |
+| Playable alignments | Life, Order, Nature |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Blue         |
+| Alignment          | Nature       |
+
