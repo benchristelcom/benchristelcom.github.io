@@ -528,7 +528,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Boundaries (Video)](https://www.destroyallsoftware.com/talks/boundaries) - Gary Bernhardt
 - [Functional Core, Imperative Shell (Video)](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell) - Gary Bernhardt
 - [Wat (Video)](https://www.destroyallsoftware.com/talks/wat) - Gary Bernhardt
-- [A Whole New World](https://www.destroyallsoftware.com/talks/a-whole-new-world) - Gary Bernhardt
+- [A Whole New World (Video)](https://www.destroyallsoftware.com/talks/a-whole-new-world) - Gary Bernhardt
 - [The Birth and Death of JavaScript (Video)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) - Gary Bernhardt
 - [The pedantic checklist for changing your data model in a web application](https://rtpg.co/2021/06/07/changes-checklist.html) - Raphael Gaschignard
 - [The Divio Documentation System](https://docs.divio.com/documentation-system/) - the four types of documentation: tutorials, how-tos, reference, and explanation.
