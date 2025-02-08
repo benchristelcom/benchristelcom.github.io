@@ -523,14 +523,16 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) - Patrick McKenzie
 - [Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) - Noah Sussman
 - [PHP: a fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/) - Evelyn Woods
-- [Making Badass Developers (Video)](https://benchristel.github.io/yt#FKTxC9pl-WM) - Kathy Sierra
+- [Making Badass Developers (Video)](https://benchristel.github.io/yt#FKTxC9pl-WM) - Kathy Sierra <span inert>videos</span>
 - [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) - Alexis King
 - [Local-first software: You own your data, in spite of the cloud](https://www.inkandswitch.com/local-first/) - Kleppmann, Wiggins, van Hardenberg, and McGranaghan
-- [Boundaries (Video)](https://www.destroyallsoftware.com/talks/boundaries) - Gary Bernhardt
-- [Functional Core, Imperative Shell (Video)](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell) - Gary Bernhardt
-- [Wat (Video)](https://www.destroyallsoftware.com/talks/wat) - Gary Bernhardt
-- [A Whole New World (Video)](https://www.destroyallsoftware.com/talks/a-whole-new-world) - Gary Bernhardt
-- [The Birth and Death of JavaScript (Video)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) - Gary Bernhardt
+- [Boundaries (Video)](https://www.destroyallsoftware.com/talks/boundaries) - Gary Bernhardt <span inert>videos</span>
+- [Functional Core, Imperative Shell (Video)](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell) - Gary Bernhardt <span inert>videos</span>
+- [Wat (Video)](https://www.destroyallsoftware.com/talks/wat) - Gary Bernhardt <span inert>videos</span>
+- [A Whole New World (Video)](https://www.destroyallsoftware.com/talks/a-whole-new-world) - Gary Bernhardt <span inert>videos</span>
+- [The Birth and Death of JavaScript (Video)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) - Gary Bernhardt <span inert>videos</span>
+- [Agile is Dead (Video)](https://www.youtube.com/watch?v=a-BOSpxYJ9M) - Dave Thomas <span inert>videos</span>
+- [TDD: Where did it all go wrong? (Video)](https://www.youtube.com/watch?v=EZ05e7EMOLM) - Ian Cooper <span inert>videos</span>
 - [The pedantic checklist for changing your data model in a web application](https://rtpg.co/2021/06/07/changes-checklist.html) - Raphael Gaschignard
 - [The Divio Documentation System](https://docs.divio.com/documentation-system/) - the four types of documentation: tutorials, how-tos, reference, and explanation.
 
