@@ -109,6 +109,7 @@ I don't currently use these, but I might someday.
 - [day.js](https://day.js.org/) - a JavaScript library for date/time calculations.
 - [date-fns](https://date-fns.org/) - another JavaScript library for date/time calculations.
 - [superstruct](https://docs.superstructjs.org/) - A TypeScript parser combinator library.
+- [Datomic](https://www.datomic.com/) - Distributed append-only database.
 
 ## Tools I Have Used and Liked
 
