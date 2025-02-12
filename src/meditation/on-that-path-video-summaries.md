@@ -410,8 +410,10 @@ This video is about the macro level: the stages you go through on the way to a g
 | 1. Intro to foundations / Dhamma | [Dependent origination](#how-the-creation-of-dukkha-is-experienced-subjectively) | Find learning resources | [Pre-sits](#bonus-tool-short-pre-sits) | Undoing D.O. | Confidence in foundations | 1 week
 | 2. Mundane Dhamma | Experiential understanding of D.O. | Find a mentor, fix techniques and view | Simplify life when convenient | Reach higher mental states | Less clinging to methods | &lt; 2 months
 | 3. Supramundane-leaning Dhamma | See danger in samsara, urgency | Prioritize meditation | 5 precepts | Consistent śamatha, start vipassana stages | path attainment | &lt; 1 week
-| 4. Supramundane Dhamma | Instinctively see 3 fetters creating dukkha | Sprint towards the goal, stick to early Dhamma, don't philosophize | 5 precepts; avoid fetters | Repeat all 16 anapanasati steps | Stream entry | ~3 months
+| 4. Supramundane Dhamma | Instinctively see 3 fetters[^1] creating dukkha | Sprint towards the goal, stick to early Dhamma, don't philosophize | 5 precepts; avoid fetters | Repeat all 16 anapanasati steps | Stream entry | ~3 months
 | 5+. Other fetters |   |   | Sense restraint
+
+[^1]: The fetters are: 1. belief in a self (Pali: sakkāya-diṭṭhi); 2. doubt (vicikicchā); 3. attachment to rites and rituals (sīlabbata-parāmāsa); 4. sensual desire (kāmacchando); 5. ill will (vyāpādo or byāpādo); 6. lust for material existence, lust for material rebirth (rūparāgo); 7. lust for immaterial existence, lust for rebirth in a formless realm (arūparāgo); 8. conceit (māna); 9. restlessness (uddhacca); 10. ignorance (avijjā). Source: [Wikipedia](https://en.wikipedia.org/wiki/Fetter_(Buddhism)).
 
 ### Traps
 
