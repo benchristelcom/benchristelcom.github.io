@@ -510,7 +510,9 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [The C2 Wiki](https://wiki.c2.com/) - the original Wiki. Code by [Ward Cunningham](https://c2.com/), text by many contributors.
 - [Eloquent Javascript](https://eloquentjavascript.net/) - web book by [Marijn Haverbeke](https://marijnhaverbeke.nl/)
 - [Crafting Interpreters](https://craftinginterpreters.com/) - If you've ever wanted to make your own programming language, this is the book for you. By Robert Nystrom. Available in print and (free!) HTML.
+- [User Interface Design for Programmers](https://www.joelonsoftware.com/category/uibook/) by Joel Spolsky.
 - [Programming as Theory Building](https://pablo.rauzy.name/dev/naur1985programming.pdf) by Peter Naur, 1985.
+- [The Emperor's Old Clothes](https://worrydream.com/refs/Hoare_1981_-_The_Emperors_Old_Clothes.pdf) 1981 Turing Award lecture by C.A.R. Hoare. <span inert>Sir Charles Antony (Tony) Richard Hoare</span>
 - [The Beautiful Mess](https://cutlefish.substack.com) - John Cutler's newsletter on product management and software development.
 - [Manifesto for Agile Software Development](http://agilemanifesto.org/) - Read this before you hate on "Agile."
 - [_Communications of the ACM_](https://cacm.acm.org/), an open-access journal published by [the Association for Computing Machinery](https://acm.org).
