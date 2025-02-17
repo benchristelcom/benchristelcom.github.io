@@ -537,6 +537,8 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [TDD: Where did it all go wrong? (Video)](https://www.youtube.com/watch?v=EZ05e7EMOLM) - Ian Cooper <span inert>videos</span>
 - [The pedantic checklist for changing your data model in a web application](https://rtpg.co/2021/06/07/changes-checklist.html) - Raphael Gaschignard
 - [The Divio Documentation System](https://docs.divio.com/documentation-system/) - the four types of documentation: tutorials, how-tos, reference, and explanation.
+- [What's in a Name? Anti-patterns to a Hard Problem](https://www.sitepoint.com/whats-in-a-name-anti-patterns-to-a-hard-problem/) - Katrina Owen <span inert>idea fragment implementation</span>
+- [Naming as a Process](https://www.digdeeproots.com/articles/on/naming-process/) - Arlo Belshee <span inert>naming is a process not a single step</span>
 
 ### Reference
 
