@@ -35,7 +35,7 @@ There are no really challenging fights on the map (I only saw one rank 3 monster
 
 | Category      | Rating |
 | ------------- | ------ |
-| Scenery       | ★★★☆☆  |
+| Scenery       | ★★☆☆☆  |
 | Strategy      | ★☆☆☆☆  |
 | Narrative     | ★☆☆☆☆  |
 | Challenge     | ★☆☆☆☆  |
@@ -623,3 +623,13 @@ Beautiful, naturalistic map. It felt like I was exploring a real place instead o
 | Human player color | Blue         |
 | Alignment          | Nature       |
 
+Several things about this map annoy me. The boss enemies are stationary targets. There's a time limit, and the map is literally a maze, so there's a lot of micromanagement and caravaning armies around. I didn't have quite enough time to explore the whole map, yet the endgame felt very slow and tedious because I was just building up armies and sending my heroes around to collect powerups. At least there's lots to explore, and the fights are fun.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★★☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★★☆☆  |
+| Replayability | ★★★☆☆  |
+| Fun           | ★★★☆☆  |
