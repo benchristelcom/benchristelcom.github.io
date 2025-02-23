@@ -548,6 +548,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [UnicodePlus.com](https://unicodeplus.com) - search for unicode characters. See also [Unicode.org](https://home.unicode.org/) for general information about Unicode.
 - [Emojipedia](https://emojipedia.org) - search for emoji
 - [man7.org](https://man7.org/) - Unix manual pages
+- [ECMAScript Specification](https://ecma-international.org/publications-and-standards/standards/ecma-262/) <span inert>JavaScript</span>
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - on [css-tricks.com](https://css-tricks.com)
 - [json.org](https://json.org/)
 - [jwt.io](https://jwt.io/) - JSON Web Tokens
