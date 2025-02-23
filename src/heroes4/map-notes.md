@@ -633,3 +633,45 @@ Several things about this map annoy me. The boss enemies are stationary targets.
 | Challenge     | ★★★☆☆  |
 | Replayability | ★★★☆☆  |
 | Fun           | ★★★☆☆  |
+
+## Barbarians from Below
+
+| Attribute           | Value     |
+| ------------------- | --------- |
+| Map Size            | Medium    |
+| Difficulty          | Intermediate |
+| Players             | 5         |
+| Included with       | Heroes IV |
+| Multiplayer design  | Yes       |
+| Max humans          | 4         |
+| Playable alignments | Life, Death, Chaos, Nature |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Red          |
+| Alignment          | Death        |
+
+Two teams of two — Death and Nature against Life and Order — face off across
+Barbarian territory. There are a few weird things about this map. One is that
+your second town shares your ally's alignment, which is awkward because the
+allies have incompatible alignments. I delayed capturing my second town,
+hoping that I could grab the Death town on the other side of the river and let
+my ally have the Nature town, but it eventually became apparent that that was
+infeasible. The other weird thing is that you can't get spells in your main
+town past first level, making it even more important to visit the other town.
+The barbarians didn't put up much of a fight, but there is a timed
+event on their town that causes it to revert to the Might player a few days
+after capture.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★☆☆☆  |
