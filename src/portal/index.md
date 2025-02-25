@@ -896,6 +896,7 @@ into one searchable, cross-referenced database.
 
 ## Web Curators
 
+- [Terrible Lizard](https://terriblelizard.info/) - free and open access to journal articles; internet privacy; website building resources.
 - [Public Domain Review](https://publicdomainreview.org/) - collections of public domain writing and art (h/t [Melon]).
 - [Ruby Klover's website](https://www.bruh.ltd), which includes a [list of lists](https://www.bruh.ltd/lists) curated by the author.
 - [Brandon's Journal](https://brandons-journal.com/links/) - includes a collection of blogs and websites about internet history, film, comics, pop culture, and Buddhism. There's also a [recipe book](https://scribbles.page/fj78s9ca#new_tab) compiled by the author's great-grandmother.
