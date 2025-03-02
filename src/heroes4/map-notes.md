@@ -675,3 +675,46 @@ after capture.
 | Challenge     | ★★☆☆☆  |
 | Replayability | ★★☆☆☆  |
 | Fun           | ★★☆☆☆  |
+
+## Beebee and the Three Pigs
+
+| Attribute           | Value     |
+| ------------------- | --------- |
+| Map Size            | Medium    |
+| Difficulty          | Novice    |
+| Players             | 4         |
+| Included with       | Heroes IV |
+| Multiplayer design  | No        |
+| Max humans          | 1         |
+| Playable alignments | Nature    |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Green        |
+| Alignment          | Nature       |
+
+This map has a humourous and well-written story, a naturalistic design, and lots
+of resources, towns, and creature dwellings. The fights were mostly easy, but I
+would say this is on the more challenging end of novice level — perhaps a good
+third map for new players. You have to balance attacking and defending, since
+the AI has as portal to your main town.
+
+There is one linear main path with "dungeon" branches. I would have liked to be
+able to use the portals that are provided for the AI player, but as it was there
+was a lot of caravan and dwelling micromanagement, which made for a tedious
+late game. There were also, in my opinion, too many towns — 8 in total. 3 or 4
+would have been better for a map of this complexity. I didn't need most of the
+towns I took.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★★★☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★★★★☆  |
+| Challenge     | ★★★☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★★☆☆  |
