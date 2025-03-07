@@ -565,6 +565,10 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Semantic Versioning](https://semver.org)
 - [GNU `make`](https://www.gnu.org/software/make/manual/html_node/index.html)
 
+### Official documentation
+
+- [JSDoc](https://jsdoc.app/)
+
 ### Q&A
 
 - [Stack Overflow](https://stackoverflow.com)
