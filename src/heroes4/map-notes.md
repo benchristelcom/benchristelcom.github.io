@@ -718,3 +718,24 @@ towns I took.
 | Challenge     | ★★★☆☆  |
 | Replayability | ★★☆☆☆  |
 | Fun           | ★★★☆☆  |
+
+## Boring's Mountain
+
+| Attribute           | Value     |
+| ------------------- | --------- |
+| Map Size            | Medium    |
+| Difficulty          | Intermediate |
+| Players             | 2         |
+| Included with       | Heroes IV |
+| Multiplayer design  | No        |
+| Max humans          | 2         |
+| Playable alignments | All       |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Red          |
+| Alignment          | Order        |
