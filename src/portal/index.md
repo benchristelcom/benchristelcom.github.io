@@ -586,6 +586,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 
 ### UI/UX Design
 
+- [Apple Human Interface Guidelines 1980–2013 (archive.org)](https://archive.org/details/apple-hig/1980_Lisa_UI_Standards/) - and TBH I don't care about any of the later versions.<hs-meta keywords="hig lisa newton macintosh macosx ii nextstep"></hs-meta>
 - [Ask Tog](https://asktog.com/) - Bruce Tognazzini (early employee at Apple)'s thoughts on UX design.
 - [Laws of UX](https://lawsofux.com/) - Facts about humans that every designer should keep in mind!
 - [Contrast Rebellion](https://contrastrebellion.com/) - A manifesto against low-contrast websites.
