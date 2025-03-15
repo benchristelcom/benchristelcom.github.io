@@ -1,0 +1,8 @@
+test -n "$1" || {
+    echo "Usage: tools/add-domain https://example.com"
+    exit 1
+}
+
+echo "$1" >> src/unlinked-domains.txt
+
+tools/sort-domains
