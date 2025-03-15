@@ -144,12 +144,18 @@ img {
 }
 
 .home-link {
+  display: flex;
+  justify-content: space-between;
   margin-block-start: 2rem;
   border-block-start: 1px solid var(--border-color);
   padding-block: 1rem;
 }
 .home-link a {
   text-decoration: none;
+}
+.edit-link {
+  font-size: 0.9em;
+  color: gray;
 }
 
 /* hide mdsite's top-level breadcrumb link so we can replace it with our own */
@@ -308,7 +314,7 @@ iframe[src*='https://www.youtube.com'] {
     <main>{{content}}</main>
     <footer>
       <nav class="home-link">
-        <a href="/welcome.html">&larr; Home</a>
+        <a href="/welcome.html">&larr; Home</a><a class="edit-link" href="https://github.com/benchristelcom/benchristelcom.github.io/edit/main/src{{inputpath}}">[Edit this page]</a>
       </nav>
     </footer>
 	</body>
