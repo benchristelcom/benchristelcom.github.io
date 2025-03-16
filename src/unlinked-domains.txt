@@ -26,6 +26,7 @@ https://unicode.org
 https://lparchive.org
 https://eff.org
 https://ietf.org
+https://scala-lang.org
 https://ziglang.org
 https://rust-lang.org
 https://onbeing.org
