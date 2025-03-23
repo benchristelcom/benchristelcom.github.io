@@ -739,3 +739,20 @@ towns I took.
 | Difficulty         | Intermediate |
 | Human player color | Red          |
 | Alignment          | Order        |
+
+True to its name, this map is pretty boring. There are four gold mines in the
+center of the map, and you are racing the other player to capture and hold them.
+With two treasuries, gold really wasn't an issue, though.
+
+The scenery is of inconsistent quality.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★☆☆☆☆  |
+| Fun           | ★★☆☆☆  |
+
+## 
