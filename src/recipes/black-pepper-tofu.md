@@ -32,12 +32,13 @@
 2. Place the tofu pieces on two baking trays. Bake at 220°F until lightly
    browned.
 3. Heat 2 Tbsp oil in a large pot or Dutch oven.
-3. Stir-fry the vegetables in the order listed.
-4. Add the sauce, tofu, and pepper to the stir-fry. Add water to almost cover
+4. Stir-fry the vegetables in the order listed.
+5. Give the sauce one final stir to make sure the oil is mixed in. Add the
+   sauce, tofu, and pepper to the stir-fry. Add water to almost cover
    the veggies (you want this dish to have a stew-like consistency).
-5. Simmer 10 minutes.
-6. Mix the cornstarch with some cold water, and then mix that into the sauce to
+6. Simmer 10 minutes.
+7. Mix the cornstarch with some cold water, and then mix that into the sauce to
    thicken it.
-7. Serve in a bowl over [rice].
+8. Serve in a bowl over [rice].
 
 [rice]: ./brown-rice.md
