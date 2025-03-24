@@ -755,4 +755,99 @@ The scenery is of inconsistent quality.
 | Replayability | ★☆☆☆☆  |
 | Fun           | ★★☆☆☆  |
 
-## 
+## Conquest of Four Lakes
+
+| Attribute           | Value     |
+| ------------------- | --------- |
+| Map Size            | Medium    |
+| Difficulty          | Intermediate |
+| Players             | 4         |
+| Included with       | Heroes IV |
+| Multiplayer design  | No        |
+| Max humans          | 4         |
+| Playable alignments | Life, Order, Chaos, Nature |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Orange       |
+| Alignment          | Chaos        |
+
+A slightly-asymmetrical four-player map with fixed alignments for each town.
+Seemed pretty well thought-out; e.g. the Chaos player's lake is larger to give
+them a chance to use Seamanship (I didn't, though). Resources are abundant, and
+there's a trading post in the center of the map to squabble over.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★★☆☆  |
+| Strategy      | ★★★☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★★☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★★☆☆  |
+
+## Death from Above
+
+| Attribute           | Value     |
+| ------------------- | --------- |
+| Map Size            | Medium    |
+| Difficulty          | Advanced  |
+| Players             | 4         |
+| Included with       | The Gathering Storm |
+| Multiplayer design  | No        |
+| Max humans          | 4         |
+| Playable alignments | Death, Chaos, Might |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Red          |
+| Alignment          | Death        |
+
+Interesting: the Death player gets a Bow of the Elf king at the start of the
+game, presumably to make Venom Spawn more worthwhile. I still went for Vampires
+and Necromancy, though. Every player gets an Angel's Blade, presumably because
+Death is OP.
+
+You have to defeat the two other playable towns before you can get to the boss
+fight. I'm not sure what the point of that is. It just dragged the game out.
+
+I don't know what makes this map "advanced". The fights were easy, and you get
+a lot of free stuff at the beginning.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★★☆☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★★☆☆  |
+
+## Demonary of Doom
+
+| Attribute           | Value     |
+| ------------------- | --------- |
+| Map Size            | Medium    |
+| Difficulty          | Intermediate |
+| Players             | 3         |
+| Included with       | Winds of War |
+| Multiplayer design  | No        |
+| Max humans          | 1         |
+| Playable alignments | Nature    |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Blue         |
+| Alignment          | Nature       |
