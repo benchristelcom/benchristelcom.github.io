@@ -366,8 +366,6 @@ clinging to and allow it to move on when it's ready.
 
 ## [Tracking meditation progress part 2: Śamatha steps in detail](https://benchristel.github.io/yt/#z8Wnm-crf1E)
 
-[Disclaimer: I have only gotten to step 10 or so, so for everything after that, you should probably just refer to the video itself. —B.C.]
-
 | Ānāpānasati | Phenomenon | Body part
 | ----------- | ---------- | ---------
 | 1. Breathing long (Knowing Breath) | Physical breath sensations | Nose or abdomen
@@ -379,8 +377,8 @@ clinging to and allow it to move on when it's ready.
 | 6. Experiencing bliss | Piti calms down, sukha starts | &quot;
 | 7. Experiencing mental activities | Thoughts, images, self-talk | Forehead, jaw
 | 8. Tranquilizing mental activities | Thoughts calm down | &quot;
-| 9. Experiencing the mind | Base of attention | Head
-| 10. Gladdening the mind | Piti, brightness | Head, visual field
+| 9. Experiencing the mind | Base of attention | Forehead between eyes, scalp
+| 10. Gladdening the mind | Piti, brightness | Center of head, visual field
 | (Jhanas) |
 | 11. Centering the mind in samadhi | Tension | Center of head
 | 12. Releasing the mind | Dukkha, sense of separate self disappear
@@ -393,6 +391,33 @@ clinging to and allow it to move on when it's ready.
 | 14. Contemplating fading of lust |
 | 15. Contemplating cessation |
 | 16. Contemplating relinquishment |
+
+### 13 locations:
+
+|             | Body part
+| ----------- | ---------
+| 1           | Hands and legs
+| 2           | Chest
+| 3           | Jaw
+| 4           | Forehead (Perceptions)
+| 5           | Hips (Intentions)
+| 6           | Jaw (Intentions)
+| 7           | Top of head
+| 8–12        | Sense of observer
+| 13          | Right side of chest
+
+### Vipassana stages:
+
+|             | Insight        | Phenomena
+| ----------- | -------------- | ---------
+| 1           | Impermanence   | Wave-like
+| 2           | Dukkha / D. O. | Distraction, dullness, doubt
+| 3           | Disgust        | Aversion
+| 4           | Dispassion     | Equanimity
+| 5           | Nirvana        | Unease, heart racing &rarr; sudden darkness &rarr; peace
+| 6           | Letting go     |
+| 7           | Fruition       |
+
 
 ## [The Meditative Path at a Macro Level](https://benchristel.github.io/yt/#rjGAh7om7gc)
 
