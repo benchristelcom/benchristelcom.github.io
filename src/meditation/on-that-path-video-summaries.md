@@ -418,6 +418,12 @@ clinging to and allow it to move on when it's ready.
 | 6           | Letting go     |
 | 7           | Fruition       |
 
+[My first experience of nirvana was weird. I burst out laughing and fell over.
+I felt like I had just been told the [cosmic joke](../posts/cosmic-joke/). I
+laughed with recognition — and relief. Recognition, because what a moment ago
+had seemed alien had, with a slight perspective shift, resolved itself into
+something familiar. Relief, because suddenly I understood that nothing could
+possibly go wrong. —B.C.]
 
 ## [The Meditative Path at a Macro Level](https://benchristel.github.io/yt/#rjGAh7om7gc)
 
