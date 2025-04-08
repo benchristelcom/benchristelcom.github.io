@@ -790,6 +790,11 @@ See also:
 - [Zero-K](https://zero-k.info)
 - [Age of Empires (fandom.com)](https://ageofempires.fandom.com) - Unit stats etc.
 
+### Catalogs
+
+- [ProtonDB](https://protondb.com/) - Find out if a game will run on Linux
+- [SteamDB](https://steamdb.info/)
+
 ### 52-Card Games
 
 A.K.A. the lost art of amusing yourself without electricity.
