@@ -851,3 +851,23 @@ a lot of free stuff at the beginning.
 | Difficulty         | Intermediate |
 | Human player color | Blue         |
 | Alignment          | Nature       |
+
+Whoever said this was an intermediate map was trolling hard. This is probably
+the most difficult Heroes IV map I've played. You start with a Druid, a bow,
+and a staff. The opening scenes involve some very tight puzzle-battles where
+you need perfect tactics and timing. Put off the fights too long and the AI
+players will destroy you. Take the fights too early and you'll lose too many
+units to survive the next fight. The game culminates in a fight against several
+dozen evil sorceresses and about a hundred venom spawn — a battle I only won
+by repeatedly sending in 3 heroes with combat and magic resistance and
+retreating each time someone died. You can't even use immortality potions
+because the sorceresses will dispel them with Mass Cancellation.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★★★☆  |
+| Strategy      | ★★★★☆  |
+| Narrative     | ★★★☆☆  |
+| Challenge     | ★★★★★  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★☆☆☆  |
