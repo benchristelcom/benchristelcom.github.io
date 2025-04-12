@@ -871,3 +871,45 @@ because the sorceresses will dispel them with Mass Cancellation.
 | Challenge     | ★★★★★  |
 | Replayability | ★★☆☆☆  |
 | Fun           | ★★☆☆☆  |
+
+## Dog Days
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Intermediate |
+| Players             | 4            |
+| Included with       | Heroes IV    |
+| Multiplayer design  | No           |
+| Max humans          | 4            |
+| Playable alignments | All          |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Green        |
+| Alignment          | Life         |
+
+A rather sparse symmetric multiplayer map. The towns are about 4 days' march
+from each other, so you'll need careful timing and scouts to conquer your
+opponents. The most interesting feature of the map is a central town that
+starts out neutral. I don't know if the alignment is random, but on my first
+play, it was an Order town. Order is very good at town defense, so this town
+was hard to retake (I got to it first, then an AI took it before I had
+time to build up defenses).
+
+Like so many of these maps, this one would be more interesting with human
+opponents. With so few landmarks, the map relies on the players to make things
+interesting.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★☆☆☆☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★★☆☆  |
+| Replayability | ★☆☆☆☆  |
+| Fun           | ★★☆☆☆  |
