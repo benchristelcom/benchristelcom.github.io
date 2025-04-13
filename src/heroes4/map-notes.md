@@ -913,3 +913,24 @@ interesting.
 | Challenge     | ★★★☆☆  |
 | Replayability | ★☆☆☆☆  |
 | Fun           | ★★☆☆☆  |
+
+## Dungeon Crawl
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Intermediate |
+| Players             | 3            |
+| Included with       | The Gathering Storm |
+| Multiplayer design  | No           |
+| Max humans          | 1            |
+| Playable alignments | All          |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Red          |
+| Alignment          | Death        |
