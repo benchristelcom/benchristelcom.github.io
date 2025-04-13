@@ -517,6 +517,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [The Beautiful Mess](https://cutlefish.substack.com) - John Cutler's newsletter on product management and software development.
 - [Manifesto for Agile Software Development](http://agilemanifesto.org/) - Read this before you hate on "Agile."
 - [_Communications of the ACM_](https://cacm.acm.org/), an open-access journal published by [the Association for Computing Machinery](https://acm.org).
+- [As We May Think](https://dl.acm.org/doi/pdf/10.1145/227181.227186) - Vannevar Bush on hypertext. 1945.
 
 ### Classic blog posts, talks, &amp;c.
 
