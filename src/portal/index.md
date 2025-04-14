@@ -434,6 +434,11 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Culture Machine](https://tv.benchristel.com/) - Channel 3 plays my favorite albums on shuffle
 - [Deezer](https://deezer.com)
 
+### Sheet Music
+
+- [Münich DigitiZation Center](https://www.digitale-sammlungen.de/en/) - search archives of sheet music and manuscripts
+- [_Alexander's Feast_ - Händel](https://daten.digitale-sammlungen.de/0001/bsb00016738/images/index.html?fip=193.174.98.30&seite=17&pdfseitex=)
+
 ### Lyrics
 
 - [Mainly Norfolk](https://mainlynorfolk.info) - "English Folk and Other Good Music"
