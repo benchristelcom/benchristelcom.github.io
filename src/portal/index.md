@@ -450,6 +450,11 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 
 ### Theory
 
+- [_The Mind Illuminated_ (book)](https://www.goodreads.com/book/show/25942786-the-mind-illuminated) ([subreddit](https://www.reddit.com/r/TheMindIlluminated/))
+- [OnThatPath's Video Series](/meditation/on-that-path-video-summaries.html)
+  <hs-meta keywords="on that path"></hs-meta>
+- [Coping with intrusive thoughts](https://www.bruh.ltd/blog/coping-with-intrusive-thoughts/)
+  by Ruby Klover — this also happens to be good advice in general.
 - [Meditation and Going Beyond Mindfulness - A Secular Perspective | Mingyur Rinpoche](https://benchristel.github.io/yt/#ukTaodQfYRQ)
 - [Happiest Man on Earth | Mingyur Rinpoche](https://benchristel.github.io/yt/#kaNO09cPS6c)
 - [From Panic Attacks to Meditation | Mingyur Rinpoche](https://benchristel.github.io/yt/#k1tw5sowFyM)
@@ -458,19 +463,13 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Non-dual Meditation: Part 2 | Swami Sarvapriyananda](https://benchristel.github.io/yt/#dVKS8jhXN2s)
 - [Rational Dharma](https://rationaldharma.com/) - no-nonsense explanations of how meditation works.
 - [Effects of Two Online Positive Psychology and Meditation Programs on Persistent Self-Transcendence](https://psycnet.apa.org/fulltext/2021-81896-001.html) - research on enlightenment
-- [The Meditative Path at a Macro Level | OnThatPath](https://www.youtube.com/watch?v=rjGAh7om7gc)
-- **The Cause of Stress and Dissatisfaction (Dependent Origination) | OnThatPath**: [Part 1](https://benchristel.github.io/yt#i1izrpQqvP4), [Part 2](https://benchristel.github.io/yt#k2T9dxDmsS4)
-- [How To Permanently Be Free From Stress, Suffering & Dissatisfaction: The Prognosis & Prescription](https://benchristel.github.io/yt#bMsTcqtWi1o)
-- **How to Meditate Effectively | OnThatPath**
-  - [Part 1: Mindfulness](https://benchristel.github.io/yt#giDJNVPs014)
-  - [Part 2: Booster Tools](https://benchristel.github.io/yt#B0IJ-f_cnVA)
-  - [Part 3: What Should Your Meditation Feel Like?](https://benchristel.github.io/yt#C1aCu4Cd3tw)
-- **Tracking Meditation Progress (Anapanasati / Mindfulness of Breathing) | OnThatPath**
-  - [Part 1: Steps Overview](https://benchristel.github.io/yt#Swg8vt_t3GI)
-  - [Part 2: Steps in Detail](https://benchristel.github.io/yt#z8Wnm-crf1E)
-  - [Part 3: Vipassana / Insight Meditation Progress](https://benchristel.github.io/yt#KHhesuG9lhA)
 
 ### Practice
+
+- [Meditation timer with water sound](https://benchristel.github.io/meditation/)
+
+- [Culture Machine](https://tv.benchristel.com/) — for practicing the Middle
+  Way between desire and aversion.
 
 - **Sit, Breathe, Wake Up! Guided meditations by Culadasa**
   - [One - Awareness (40 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=UG-0XGpesgs)
