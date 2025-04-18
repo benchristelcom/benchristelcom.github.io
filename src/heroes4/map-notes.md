@@ -980,3 +980,24 @@ all Heroes maps, in some sense, but it felt particularly tedious here.
 | Challenge     | ★★★☆☆  |
 | Replayability | ★☆☆☆☆  |
 | Fun           | ★★☆☆☆  |
+
+## Fire and Ice
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Intermediate |
+| Players             | 2            |
+| Included with       | The Gathering Storm |
+| Multiplayer design  | No           |
+| Max humans          | 2            |
+| Playable alignments | All          |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Red          |
+| Alignment          | Chaos        |
