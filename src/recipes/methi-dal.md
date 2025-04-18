@@ -46,7 +46,7 @@ Be careful not to overcook the lentils. They should take about 20 minutes.
 
 ### Thread#join
 
-When the tempering is done, add it to the lentils so the flavors have time to blend.
+When the tempering is done, add it to the lentils so the flavors have time to blend. Add crushed dried fenugreek leaves a few minutes before removing from heat.
 
 ## Serving suggestions
 
