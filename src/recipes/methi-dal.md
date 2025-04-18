@@ -38,10 +38,10 @@ Be careful not to overcook the lentils. They should take about 20 minutes.
 
 1. Heat 5 Tbsp butter in a pan.
 1. Add:
-  - 2 1/2 tsp whole cumin seeds
-  - 1 1/4 tsp mustard seeds
-  - 5 garlic cloves, finely chopped
-  - 5 dried red peppers, crushed
+   - 2 1/2 tsp whole cumin seeds
+   - 1 1/4 tsp mustard seeds
+   - 5 garlic cloves, finely chopped
+   - 5 dried red peppers, crushed
 1. Wait for the butter to bubble and then cook for 2 minutes.
 
 ### Thread#join
