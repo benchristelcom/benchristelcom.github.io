@@ -937,7 +937,6 @@ interesting.
 
 You fight against Death and Chaos in a maze of tunnels and portals. One neat idea: keymaster tents near the enemy towns give them a fast path to you (via portals) and also let you fast-travel to them, once you find the tent. Death is probably the hardest alignment for this map, yet I still found it pretty easy. You get a gold mine right at the start, and 3 free Champions every week.
 
-
 | Category      | Rating |
 | ------------- | ------ |
 | Scenery       | ★★☆☆☆  |
@@ -946,3 +945,38 @@ You fight against Death and Chaos in a maze of tunnels and portals. One neat ide
 | Challenge     | ★★☆☆☆  |
 | Replayability | ★★☆☆☆  |
 | Fun           | ★★★☆☆  |
+
+## Field of Life
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Advanced     |
+| Players             | 2            |
+| Included with       | Winds of War |
+| Multiplayer design  | No           |
+| Max humans          | 1            |
+| Playable alignments | Nature       |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Teal         |
+| Alignment          | Nature       |
+
+The scenery on this map is reasonably well-done, but so samey that it was
+actually disorienting. The goal is to run around collecting powerups and
+capturing towns more efficiently than your opponent. I guess that's the goal of
+all Heroes maps, in some sense, but it felt particularly tedious here.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★☆☆☆☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★★☆☆  |
+| Replayability | ★☆☆☆☆  |
+| Fun           | ★★☆☆☆  |
