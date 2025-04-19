@@ -22,7 +22,9 @@ I recommend watching all of the videos, and then referring to this page when you
 | Vipassana steps | [Video](https://benchristel.github.io/yt#KHhesuG9lhA) | [Summary](#tracking-meditation-progress-part-3-vipassana-steps-in-detail)
 | The macro level | [Video](https://benchristel.github.io/yt#rjGAh7om7gc) | [Summary](#the-meditative-path-at-a-macro-level)
 
-## [Why You Feel Stress and Dissatisfaction in Life (Part 1)](https://benchristel.github.io/yt/#i1izrpQqvP4)
+## Why You Feel Stress and Dissatisfaction in Life (Part 1)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i1izrpQqvP4" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Suffering, stress, baseline dissatisfaction, and anxiety can all be termed ***dukkha*** in Pali.
 
@@ -57,7 +59,9 @@ Most people's default philosophy is _hedonism._ I.e. they try to become happy by
 
 The problem is that even if you succeed in finding pleasure, it is short-lived, and then you are left with the dukkha that built up underneath.
 
-## [Why You Feel Stress and Dissatisfaction in Life (Part 2)](https://benchristel.github.io/yt/#k2T9dxDmsS4)
+## Why You Feel Stress and Dissatisfaction in Life (Part 2)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k2T9dxDmsS4" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 (continued from the previous video)
 
@@ -129,7 +133,9 @@ The causal chain that creates dukkha is **dependent origination**.
 
 The game of going up and down mental states = **samsara**.
 
-## [How to Permanently Be Free from Stress, Suffering, &amp; Dissatisfaction: The Prognosis &amp; Prescription](https://benchristel.github.io/yt#bMsTcqtWi1o)
+## How to Permanently Be Free from Stress, Suffering, &amp; Dissatisfaction: The Prognosis &amp; Prescription
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bMsTcqtWi1o" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Good news! It is possible to improve your [mental state](#mental-state), e.g. from level 50 (or lower) to 100.
 
@@ -173,7 +179,9 @@ The techniques for breaking the dependent origination chain are parts of the eig
 
 Letting your mind rise to state 100 in meditation is similar to **right samadhi**.
 
-## [How to Meditate Effectively. Part 1: Mindfulness](https://benchristel.github.io/yt/#giDJNVPs014)
+## How to Meditate Effectively. Part 1: Mindfulness
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/giDJNVPs014" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Overview
 
@@ -225,7 +233,9 @@ field of awareness expanding, like I'm looking out at a vast landscape, each tim
 
 As you maintain awareness, let attention go wherever. It doesn't matter.
 
-## [How to Meditate Effectively. Part 2: Booster Tools](https://benchristel.github.io/yt/#B0IJ-f_cnVA)
+## How to Meditate Effectively. Part 2: Booster Tools
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B0IJ-f_cnVA" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 You can use these tools in both meditation sits and daily life to boost your practice.
 
@@ -294,7 +304,9 @@ In short, un-virtue is anything you regret doing at the end of the day, or anyth
 
 This will keep your mental state from degrading during the day, so you start your meditation from a good "base camp".
 
-## [How to Meditate Effectively, Part 3: What Should Your Meditation Feel Like?](https://benchristel.github.io/yt#C1aCu4Cd3tw)
+## How to Meditate Effectively, Part 3: What Should Your Meditation Feel Like?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C1aCu4Cd3tw" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Metaphor: a bushfire defense system
 
@@ -316,7 +328,9 @@ After letting go of tensions, take a moment to re-establish your mindfulness and
 
 (this section is a summary of the above and [the previous video](#how-to-meditate-effectively-part-2-booster-tools))
 
-## [Tracking meditation progress part 1: Anapanasati steps overview](https://benchristel.github.io/yt#Swg8vt_t3GI)
+## Tracking meditation progress part 1: Anapanasati steps overview
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Swg8vt_t3GI" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 | Satipaṭṭhāna | Ānāpānasati | Tetrads |
 | ------------ | ----------- | ------- |
@@ -364,7 +378,9 @@ and then you will ***automatically*** advance to the next stage.
 There is nothing you have to "do" in meditation except stay mindful of what attention is
 clinging to and allow it to move on when it's ready.
 
-## [Tracking meditation progress part 2: Śamatha steps in detail](https://benchristel.github.io/yt/#z8Wnm-crf1E)
+## Tracking meditation progress part 2: Śamatha steps in detail
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z8Wnm-crf1E" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 | Ānāpānasati | Phenomenon | Body part
 | ----------- | ---------- | ---------
@@ -383,7 +399,9 @@ clinging to and allow it to move on when it's ready.
 | 11. Centering the mind in samadhi | Tension | Center of head
 | 12. Releasing the mind | Dukkha, sense of separate self disappear
 
-## [Tracking meditation progress part 3: Vipassana steps in detail](https://benchristel.github.io/yt#KHhesuG9lhA)
+## Tracking meditation progress part 3: Vipassana steps in detail
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KHhesuG9lhA" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 | Ānāpānasati | Phenomenon | Body part
 | ----------- | ---------- | ---------
@@ -425,7 +443,9 @@ had seemed alien had, with a slight perspective shift, resolved itself into
 something familiar. Relief, because suddenly I understood that nothing could
 possibly go wrong. —B.C.]
 
-## [The Meditative Path at a Macro Level](https://benchristel.github.io/yt/#rjGAh7om7gc)
+## The Meditative Path at a Macro Level
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rjGAh7om7gc" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 In the previous videos, we discussed the "micro" level of meditation:
 
