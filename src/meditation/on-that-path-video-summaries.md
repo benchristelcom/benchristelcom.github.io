@@ -382,33 +382,26 @@ clinging to and allow it to move on when it's ready.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z8Wnm-crf1E" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-| Ānāpānasati | Phenomenon | Body part
+| During step... | You will experience... | In...
 | ----------- | ---------- | ---------
-| 1. Breathing long (Knowing Breath) | Physical breath sensations | Nose or abdomen
+| 1. Breathing long | Physical breath sensations | Nose or abdomen
 | ("purifications") | Disturbing memories and thoughts
-| 2. Breathing short (Knowing Breath) | Breath sensations become less distinct | Nose or abdomen
-| 3. Experiencing the whole body | Body expanding &amp; contracting | Torso, arms, face
-| 4. Tranquilizing the bodily activities | Bodily sensations become less distinct | &quot;
-| 5. Experiencing rapture | Piti (involuntary movements, fluttering sensations) | Torso, arms
-| 6. Experiencing bliss | Piti calms down, sukha starts | &quot;
-| 7. Experiencing mental activities | Thoughts, images, self-talk | Forehead, jaw
-| 8. Tranquilizing mental activities | Thoughts calm down | &quot;
-| 9. Experiencing the mind | Base of attention | Forehead between eyes, scalp
+| 2. Breathing short | Breath sensations becoming less distinct | Nose or abdomen
+| 3. Experiencing the whole body | Expansion &amp; contraction | Torso, arms, face
+| 4. Tranquilizing the bodily activities | Bodily sensations become less distinct | Torso, arms, face
+| 5. Experiencing rapture | Piti (involuntary movements; fluttering, throbbing, or bubbling) | Chest, arms, hands
+| 6. Experiencing bliss | Pleasant calm | Chest, arms
+| 7. Experiencing mental activities | Thoughts, images, self-talk.<br>Churning "energy currents" | Lips, palate, jaw
+| 8. Tranquilizing mental activities | Thoughts calm down |
+| 9. Experiencing the mind | Breath sensations | Forehead, eyes, bridge of nose
 | 10. Gladdening the mind | Piti, brightness | Center of head, visual field
 | (Jhanas) |
 | 11. Centering the mind in samadhi | Tension | Center of head
-| 12. Releasing the mind | Dukkha, sense of separate self disappear
+| 12. Releasing the mind | Dukkha and sense of self decrease
 
 ## Tracking meditation progress part 3: Vipassana steps in detail
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KHhesuG9lhA" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-| Ānāpānasati | Phenomenon | Body part
-| ----------- | ---------- | ---------
-| 13. Contemplating impermanence |
-| 14. Contemplating fading of lust |
-| 15. Contemplating cessation |
-| 16. Contemplating relinquishment |
 
 ### 13 locations:
 
@@ -426,15 +419,15 @@ clinging to and allow it to move on when it's ready.
 
 ### Vipassana stages:
 
-|             | Insight        | Phenomena
-| ----------- | -------------- | ---------
-| 1           | Impermanence   | Wave-like
-| 2           | Dukkha / D. O. | Distraction, dullness, doubt
-| 3           | Disgust        | Aversion
-| 4           | Dispassion     | Equanimity
-| 5           | Nirvana        | Unease, heart racing &rarr; sudden darkness &rarr; peace
-| 6           | Letting go     |
-| 7           | Fruition       |
+| Ānāpānasati       | OnThatPath stage | Insight        | Phenomena
+| ----------------- | ---------------- | -------------- | --------------
+| 13. Contemplating impermanence   | 1 | Impermanence   | Wave-like
+| 14. Contemplating fading of lust | 2 | Dukkha / D. O. | Distraction, dullness, doubt
+|                                  | 3 | Disgust        | Aversion
+|                                  | 4 | Dispassion     | Equanimity
+| 15. Contemplating cessation      | 5 | Nirvana        | Unease, heart racing &rarr;<br>sudden darkness &rarr; peace
+| 16. Contemplating relinquishment | 6 | Letting go     |
+|                                  | 7 | Fruition       |
 
 [My first experience of nirvana was weird. I burst out laughing and fell over.
 I felt like I had just been told the [cosmic joke](../posts/cosmic-joke/). I
