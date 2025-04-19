@@ -289,6 +289,7 @@ Things to avoid include:
 - Lying
 - Killing
 - Cheating
+- Fantasizing about any of the above
 - [Doomscrolling —B.C.]
 - [Perfectionism and obsessions —B.C.]
 - [Attention-grabbing media —B.C.]
