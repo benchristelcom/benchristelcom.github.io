@@ -20,6 +20,7 @@
 - Micromanagement is annoying. Optimal caravan play is especially tedious.
 - If you're optimizing for fun, the right number of towns to have is about 2.
   3 is okay. More than that is too much to keep track of.
+- Similarly, the best number of heroes is probably about 3.
 - Castles are OP. Probably only Death should be allowed to have one.\
 - One of my least favorite features of the game is the "the enemy turns to flee
   at your approach" dialog.
@@ -33,19 +34,31 @@
   strength curve?
   - Mob armies grow over time. I wonder if the growth rate depends on the
     difficulty setting?
+- In a multiplayer game, losing your main hero _really_ sucks. It's basically
+  game over.
 
 ## Ideas
 
 - Start with a few rank 2 units instead of rank 1s. The early game can be about
   keeping these units alive.
+- Start each player with 2 heroes, but don't allow taverns to be built. Or give
+  each player two adventure-map taverns, 4000 gold, and a one-way portal, so
+  they can choose their heroes.
+- Additional heroes could be obtained from prisons.
+- Incentivize exploration by scattering free goodies over the map.
 - How to prevent players from having too many towns?
   - You win when you capture your fourth town.
+- Maybe each player's second town should be from a neighboring alignment? Makes
+  things more interesting. Consider how players could choose which alignment
+  they get (or just let it be random).
 - How to prevent armies from growing too large?
   - limit gold income
   - whirlpools
   - kill off units somehow (with difficult battles at chokepoints?)
     - but how to encourage players to go into the fight before their army is
       big enough to win with no losses?
+  - quest hut that buys units, perhaps offering a stackable item (lucky charms
+    or viewing crystal?)
 - How to prevent caravan micro?
   - Timed event: each day, all creature dwellings change their owner to a
     computer player. This computer player is not allowed to build caravans.
@@ -57,3 +70,8 @@
     at least some reward for attacking outnumbered creatures
   - Give mobs items? Could cut both ways.
   - Give mobs heroes? Maybe they won't run then. Experiment with this.
+
+## Research questions
+
+- Do neutral armies with a hero ever flee from combat?
+- Can an army without a hero free a hero imprisoned in a town?
