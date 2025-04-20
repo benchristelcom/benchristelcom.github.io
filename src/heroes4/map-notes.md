@@ -1001,3 +1001,41 @@ all Heroes maps, in some sense, but it felt particularly tedious here.
 | Difficulty         | Intermediate |
 | Human player color | Red          |
 | Alignment          | Chaos        |
+
+The only really notable feature of this map is the large lake you have to
+cross to get to the other player. I feel like a broken record saying this, but
+the AI played very poorly, so the final battle wasn't interesting at all.
+
+Weird thing: each side of the map has a neutral town on it; the one on my side
+was almost unguarded and had very few buildings, while the one on my opponent's
+side was reasonably well-guarded and built-out. Might be a mapmaker oversight?
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★☆☆☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★☆☆☆☆  |
+| Fun           | ★★☆☆☆  |
+
+## Gory Days
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Intermediate |
+| Players             | 5            |
+| Included with       | Winds of War |
+| Multiplayer design  | Yes          |
+| Max humans          | 4            |
+| Playable alignments | All          |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Orange       |
+| Alignment          | Death        |
