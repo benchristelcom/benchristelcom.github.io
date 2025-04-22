@@ -45,6 +45,10 @@
   each player two adventure-map taverns, 4000 gold, and a one-way portal, so
   they can choose their heroes.
 - Additional heroes could be obtained from prisons.
+- What if heroes are imprisoned?
+  - Trigger an event on the player's home town that builds the tavern and gives
+    them a bunch of gold and maybe units. "The people organize to free their
+    hero from prison!"
 - Incentivize exploration by scattering free goodies over the map.
 - How to prevent players from having too many towns?
   - You win when you capture your fourth town.
@@ -69,9 +73,11 @@
   - Incentivize Charm (Order magic) and Diplomacy (Nobility) somehow so there's
     at least some reward for attacking outnumbered creatures
   - Give mobs items? Could cut both ways.
-  - Give mobs heroes? Maybe they won't run then. Experiment with this.
+  - ~~Give mobs heroes? Maybe they won't run then.~~ Doesn't work.
 
 ## Research questions
 
 - Do neutral armies with a hero ever flee from combat?
+  - Yes.
 - Can an army without a hero free a hero imprisoned in a town?
+  - No.
