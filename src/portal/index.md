@@ -325,11 +325,12 @@ html {
   <div style="text-align: center">
     <input data-hypersearch type="search" list="search-shortcuts" placeholder="Search the web and this page"/>
     <button id="ddg" data-search="https://html.duckduckgo.com/html?q=%s">DuckDuckGo</button>
+    <button id="marginalia" data-search="https://old-search.marginalia.nu//search?query=%s">Marginalia</button>
     <button id="yt" data-search="https://youtube.com/results?search_query=%s">YouTube</button>
     <button id="npm" data-search="https://www.npmjs.com/search?q=%s">NPM</button>
     <button id="openverse" data-search="https://openverse.org/search/?q=%s">Openverse</button>
     <button id="wikipedia" data-search="https://en.wikipedia.org/w/index.php?search=%s">Wikipedia</button>
-    <button id="cornish" data-search="https://cornishdictionary.org.uk/#%s">Cornish Dict.</button>
+    <!-- <button id="cornish" data-search="https://cornishdictionary.org.uk/#%s">Cornish Dict.</button> -->
     <button id="etymonline" data-search="https://www.etymonline.com/search?q=%s">Etymonline</button>
     <button id="wiktionary" data-search="https://en.wiktionary.org/wiki/%s">Wiktionary</button>
     <button id="unicode" data-search="https://unicodeplus.com/search?q=%s">Unicode</button>
