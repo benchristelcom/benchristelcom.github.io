@@ -37,6 +37,14 @@
 - In a multiplayer game, losing your main hero _really_ sucks. It's basically
   game over.
 
+## Concepts and forces
+
+- Exploration over optimization
+- Role-playing over strategy
+- A casual experience
+- Organic/thematic design over balance
+- A game is a series of interesting decisions
+
 ## Ideas
 
 - Start with a few rank 2 units instead of rank 1s. The early game can be about
@@ -74,6 +82,8 @@
     at least some reward for attacking outnumbered creatures
   - Give mobs items? Could cut both ways.
   - ~~Give mobs heroes? Maybe they won't run then.~~ Doesn't work.
+- What if you could keep playing after your hero dies, but with a different
+  goal?
 
 ## Research questions
 
