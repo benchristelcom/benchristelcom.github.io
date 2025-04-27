@@ -355,6 +355,7 @@ html {
 - [Art](#art)
 - [Music](#music)
 - [Meditation](#meditation)
+- [Official Sites](#official-websites)
 - [Civilization](#reviving-civilization)
 - [Software Dev](#software-development)
 - [Free Images](#image-repositories)
@@ -489,6 +490,99 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
   - [Eight (46 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=nbvx7K_Zh0U)
   - [Nine (25 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=SpTDGyhoFho)
 
+## Official Websites
+
+This section is for the official web presences of non-web entities.
+
+### Software - Apps and Plugins
+
+- [Gimp](https://gimp.org) - [docs](https://docs.gimp.org)
+- [kdenlive](https://kdenlive.org/) - Video editor for Linux
+- [LeechBlock](https://www.proginosko.com/leechblock/)
+- [OpenShot](https://www.openshot.org/) - Video editor for Linux
+- [uBlock Origin](https://ublockorigin.com/)
+
+### Software - Games
+
+- [Heroes of Might and Magic](http://www.heroesofmightandmagic.com/heroes4/heroesofmightandmagic4iv.shtml)
+- [Zero-K](https://zero-k.info)
+
+### Software - Operating Systems, Dev Tools, and Libraries
+
+<div class="col-3"></div>
+
+- [Bun](https://bun.sh/)
+- [CodeMirror](https://codemirror.net/)
+- [ESLint](https://eslint.org/)
+- [eslint.style](https://eslint.style/)
+- [ExpressJS](https://expressjs.com/)
+- [GNU `make`](https://www.gnu.org/software/make/manual/html_node/index.html)
+- [Husky](https://typicode.github.io/husky/)
+- [JetBrains](https://www.jetbrains.com/)
+- [jq](https://jqlang.github.io/jq/manual/)
+- [Linux (kernel.org)](https://kernel.org)
+- [Linux Mint](https://www.linuxmint.com/) - see also the [forums](https://forums.linuxmint.com/)
+- [Marked](https://marked.js.org/)
+- [PeerJS](https://peerjs.com/)
+- [Preact](https://preactjs.com/)
+- [Prettier](https://prettier.io)
+- [TypeScript](https://typescriptlang.org/)
+- [Visual Studio Code](https://code.visualstudio.com/) <hs-meta keywords="vscode"></hs-meta>
+- [Vite](https://vite.dev/)
+- [Yarn v1](https://classic.yarnpkg.com/lang/en/)
+- [Yarn v3](https://v3.yarnpkg.com/)
+- [Yarn v4](https://yarnpkg.com/)
+
+### Software - Specifications <hs-meta keywords="reference"></hs-meta>
+
+<div class="col-3"></div>
+
+- [C++](https://en.cppreference.com/w/) <hs-meta keywords="cpp"></hs-meta>
+- [ECMAScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) a.k.a. JavaScript
+- [GraphQL Specification](http://spec.graphql.org)
+- [JSDoc](https://jsdoc.app/)
+- [json.org](https://json.org/)
+- [jwt.io](https://jwt.io/) - JSON Web Tokens
+- [RSS 2.0 Specification](https://www.rssboard.org/rss-specification). [Mirror](https://cyber.harvard.edu/rss/rss.html).
+- [Atom Syndication Format Specification](https://www.rfc-editor.org/rfc/rfc4287)
+- [HTML Specification](https://html.spec.whatwg.org)
+- [URL Specification](https://url.spec.whatwg.org)
+- [Semantic Versioning](https://semver.org)
+
+### U.S. Government
+
+- [Bureau of Labor Statistics](https://data.bls.gov)
+- [Federal Aviation Administration](https://www.faa.gov/)
+- [Internal Revenue Service](https://www.irs.gov/)
+
+### Academic <hs-meta keywords="academia university universities"></hs-meta>
+
+- [Carnegie Mellon](https://cmu.edu)
+- [Foothill College](https://foothill.edu)
+- [Harvard](https://harvard.edu)
+- [MIT](https://mit.edu)
+- [North Dakota State University](https://ndsu.edu)
+- [Penn State](https://psu.edu)
+- [Pitt](https://pitt.edu)
+- [Stanford](https://stanford.edu)
+- [Universitat Politècnica de Catalunya](https://www.upc.edu)
+- [University of Colorado](https://colorado.edu)
+- [University of Michigan](https://umich.edu)
+- [Willamette](https://willamette.edu)
+
+### Businesses <hs-meta keywords="merchants"></hs-meta>
+
+- [Framework Laptops](https://frame.work)
+- [WASD Keyboards](https://www.wasdkeyboards.com)
+- [Sunridge Farms](https://sunridgefarms.com/)
+- [Monterey Bay Herb Company](https://herbco.com/)
+- [Rancho Gordo](https://www.ranchogordo.com/)
+
+### Other Organizations
+
+- [World Wide Web Consortium](https://w3.org)
+- [WHATWG(https://whatwg.org) - The Web Hypertext Application Technology Working Group
+
 ## Reviving Civilization
 
 - [A Solarpunk Manifesto](https://www.re-des.org/es/a-solarpunk-manifesto/). [Mirrored at Skyhold.org](https://skyhold.org/solarpunk/index.html).
@@ -556,26 +650,10 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [UnicodePlus.com](https://unicodeplus.com) - search for unicode characters. See also [Unicode.org](https://home.unicode.org/) for general information about Unicode.
 - [Emojipedia](https://emojipedia.org) - search for emoji
 - [man7.org](https://man7.org/) - Unix manual pages
-- [ECMAScript Specification](https://ecma-international.org/publications-and-standards/standards/ecma-262/) <span inert>JavaScript</span>
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - on [css-tricks.com](https://css-tricks.com)
-- [json.org](https://json.org/)
-- [jwt.io](https://jwt.io/) - JSON Web Tokens
 - [caniuse.com](https://caniuse.com) - Find out which browsers support a given feature (in JavaScript, CSS, HTML, or SVG).
-- [C++ Reference](https://en.cppreference.com/w/)
 - [MemoryManagement.org](https://www.memorymanagement.org/) - Approaches to garbage collection and more.
-- [RSS 2.0 Specification](https://www.rssboard.org/rss-specification). Also mirrored [at Harvard.edu](https://cyber.harvard.edu/rss/rss.html).
-- [Atom Syndication Format Specification](https://www.rfc-editor.org/rfc/rfc4287)
-- [HTML Specification](https://html.spec.whatwg.org) on [WHATWG.org](https://whatwg.org/)
-- [URL Specification](https://url.spec.whatwg.org) - "The URL Standard defines URLs, domains, IP addresses, the `application/x-www-form-urlencoded` format, and their API."
-- [GraphQL Specification](http://spec.graphql.org)
 - [List of Common MIME Types](https://developer.mozilla.org/en-US/docs/Web/HTTP/MIME_types/Common_types) on MDN
-- [The World Wide Web Consortium](https://w3.org)
-- [Semantic Versioning](https://semver.org)
-- [GNU `make`](https://www.gnu.org/software/make/manual/html_node/index.html)
-
-### Official documentation
-
-- [JSDoc](https://jsdoc.app/)
 
 ### Q&A
 
@@ -610,39 +688,19 @@ See also [my /uses page](/uses).
 
 <div class="col-2"></div>
 
-- [Framework Laptops](https://frame.work) - I use a 13-inch Framework running Linux Mint.
-- [WASD Keyboards](https://www.wasdkeyboards.com)
-- [Linux (kernel.org)](https://kernel.org)
-- [Linux Mint](https://www.linuxmint.com/) - see also the [forums](https://forums.linuxmint.com/)
-- [Visual Studio Code](https://code.visualstudio.com/) (vscode) - Pretty good out of the box, configurable, versatile, and free.
-- [JetBrains](https://www.jetbrains.com/) - Expensive, but they come with pretty incredible code intelligence and refactoring tools. Lots of stuff you'd have to configure yourself or use plugins for in other editors "just works" in JetBrains.
 - [Bundlephobia](https://bundlephobia.com) - View the size and composition of NodeJS / JavaScript packages on NPM. Includes comparisons to similar libraries. Useful for keeping your JS bundles small.
 - [jsdelivr](https://jsdelivr.com/) - CDN that distributes code from NPM and GitHub, with neat features like automatic minification.
 - [Namecheap](https://namecheap.com/) - Domain registrar
-- [Vite](https://vite.dev/) - Fast, easy-to-use dev server for single-page apps. Built-in hot-reloading and TypeScript compilation, among other features.
-- [Yarn](https://yarnpkg.com/) - package manager for NodeJS. Replaces `npm`. For v1 docs, see [classic.yarnpkg.com](https://classic.yarnpkg.com/lang/en/).
-- [Bun](https://bun.sh/) - blazing fast, but somewhat crash-prone replacement for `node` and `npm` that also implements some web APIs (but no DOM). I use Bun to run [`mdsite`](https://benchristel.github.io/mdsite) and [Taste](https://npmjs.com/package/@benchristel/taste) tests.
-- [ESLint](https://eslint.org/) - I am experimenting with [eslint.style](https://eslint.style/) as a JavaScript/TypeScript formatter, replacing [Prettier](https://prettier.io/). See also [Anthony Fu's post "Why I don't use Prettier"](https://antfu.me/posts/why-not-prettier).
-- [Prettier](https://prettier.io) - because it's still the easiest formatter to set up, and I agree with 95% of its choices.
-- [TypeScript](https://typescriptlang.org/) - Statically-typed superset of JavaScript. Owned by Microsoft.
-- [Husky](https://typicode.github.io/husky/) - Git hooks framework.
 - [Markdown] - Lightweight markup syntax that bridges the gap between plain text and HTML. Designed by [John Gruber](https://daringfireball.net).
-- [Preact](https://preactjs.com/) - Lightweight reactive UI library. Keeps the DOM up to date when your application state changes.
-- [ExpressJS](https://expressjs.com/) - Popular REST server framework for NodeJS.
-- [Marked](https://marked.js.org/) - [Markdown]-to-HTML converter for NodeJS
-- [CodeMirror](https://codemirror.net/) - Code editor by [Marijn Haverbeke](https://marijnhaverbeke.nl/)
 - [@regosen/gapless-5](https://www.npmjs.com/package/@regosen/gapless-5) - gapless and looped audio playback on the web. Essential if you're building a music player.
 - [tiny-invariant](https://www.npmjs.com/package/tiny-invariant) - TypeScript assertion library that does type narrowing.
 - [Cloudflare](https://cloudflare.com) - Static/serverless web host and CDN.
 - [Render.com](https://render.com) - Web app hosting
-- [Gimp](https://gimp.org) - the GNU Image Manipulation Program. An open source image editor similar to Photoshop. See also the [Gimp documentation](https://docs.gimp.org)
 - [WCAG Contrast Checker Extension (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/)<span inert>add-ons addons plugin a11y accessibility</span> - Tells you about any elements on your webpage that don't have WCAG AA or AAA-compliant contrast. See also the [Chrome](https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf) and [Edge](https://microsoftedge.microsoft.com/addons/detail/wcag-color-contrast-check/idahaggnlnekelhgplklhfpchbfdmkjp) versions.
 - **axe DevTools for Web Accessibility Testing** - check any webpage for accessibility problems. Extensions for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/), [Chrome](https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd), and [Edge](https://microsoftedge.microsoft.com/addons/detail/axe-devtools-web-access/kcenlimkmjjkdfcaleembgmldmnnlfkn).<span inert>add-ons addons plugin a11y accessibility</span>
 - [searchpass](https://github.com/larham/searchpass) - A shell script that checks if your password has been exposed in a data breach, *without* revealing it to anyone. If you're a programmer, you'll appreciate the elegant algorithm. Made by my colleague Larry Hamel.
 - [uBlock Origin](https://ublockorigin.com/) - The ad blocker geeks use. Don't worry, there's nothing particularly geeky about it; it's just an ad blocker that works. Blocks trackers, too! Extensions for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), and [Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak).<span inert>add-ons addons plugin adblock</span>
 - [MarkDownload](https://github.com/deathau/markdownload) - View and download the main content of most HTML pages as [Markdown]. Made by [Gordon Pedersen](https://death.id.au/). (h/t [Maya] via [Chris Aldrich](https://boffosocko.com/2020/12/29/markdownload-github/))
-- [jq](https://jqlang.github.io/jq/manual/) - CLI parser / formatter / stream editor for JSON
-- [PeerJS](https://peerjs.com/) - Peer-to-peer data transfer and video/voice calls in the browser. See also [peerjs on NPM](https://www.npmjs.com/package/peerjs).
 
 ### Tips and Tricks, How Tos
 
@@ -874,23 +932,6 @@ h/t [Low Tech Magazine](https://solar.lowtechmagazine.com/2010/06/how-to-tie-the
 
 - [The Internet Archive](https://archive.org/) - A.K.A. the Wayback Machine.
 - [archive.today](https://archive.today/) - A.K.A. [archive.is](https://archive.is/), [archive.ph](https://archive.ph/). Circumvents many paywalls.
-
-## Universities
-
-<div class="col-3"></div>
-
-- [Carnegie Mellon](https://cmu.edu)
-- [Foothill College](https://foothill.edu)
-- [Harvard](https://harvard.edu)
-- [MIT](https://mit.edu)
-- [North Dakota State University](https://ndsu.edu)
-- [Penn State](https://psu.edu)
-- [Pitt](https://pitt.edu)
-- [Stanford](https://stanford.edu)
-- [Universitat Politècnica de Catalunya](https://www.upc.edu)
-- [University of Colorado](https://colorado.edu)
-- [University of Michigan](https://umich.edu)
-- [Willamette](https://willamette.edu)
 
 ## General Reference
 
