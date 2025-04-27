@@ -64,6 +64,14 @@ Projects I haven't done anything with in a while.
 
 - [Metrics](/metrics.html) - What "success" means for this website.
 
+---
+
+<div style="text-align:center">
+<p><i>part of the <a href="https://baccyflap.com/noai" target="_blank"><b>no ai webring</b></a></i></p>
+<a href="https://baccyflap.com/noai/?prv&s=bnn" target="_top">« prev</a> |
+<a href="https://baccyflap.com/noai/?nxt&s=bnn" target="_top">next »</a>
+</div>
+
 <a class="out" href="/index.html">
   <span id="tree"></span>
   Out Again
