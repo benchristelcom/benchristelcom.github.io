@@ -93,6 +93,8 @@ I don't currently use these, but I might someday.
 
 - [Taskwarrior](https://taskwarrior.org) - Manages todo lists from the command line.
 - [The Old Reader](https://theoldreader.com/) - An RSS feed reader modeled after the now-defunct Google Reader.
+- [Surfraw](http://surfraw.org/) - Browses the web from the command line. Apparently you can customize it via
+  plugin-like things called [elvi](https://baccyflap.com/res/sr/).
 
 ### Software Development
 

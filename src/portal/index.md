@@ -500,6 +500,7 @@ This section is for the official web presences of non-web entities.
 - [kdenlive](https://kdenlive.org/) - Video editor for Linux
 - [LeechBlock](https://www.proginosko.com/leechblock/)
 - [OpenShot](https://www.openshot.org/) - Video editor for Linux
+- [Surfraw](http://surfraw.org/)
 - [uBlock Origin](https://ublockorigin.com/)
 
 ### Software - Games
