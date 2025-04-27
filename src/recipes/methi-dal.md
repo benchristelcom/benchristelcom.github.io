@@ -5,6 +5,7 @@ Red lentils with fenugreek. Serves 10.
 ## Ingredients
 
 - 1 lb whole red lentils
+- 2–3 Tbsp oil for sautéing
 - 2 red onions, finely chopped
 - 3 carrots, diced
 - 3 jalapeños, diced
@@ -25,7 +26,7 @@ Red lentils with fenugreek. Serves 10.
 
 ### Thread 1: Lentils
 
-1. Saute the onion until it begins to brown.
+1. Sauté the onion in oil until it begins to brown.
 1. Add carrots, chard stems, and jalapeño. Cook 5-10 minutes.
 1. Add ground spices. Cook 2 minutes.
 1. Add tomatoes and salt. Cook 5-10 minutes.
@@ -51,3 +52,10 @@ When the tempering is done, add it to the lentils so the flavors have time to bl
 ## Serving suggestions
 
 [Brown Rice](brown-rice.html)
+
+## Notes
+
+You can substitute yellow split peas for lentils, but you'll have to observe the following changes:
+
+- rinse the split peas thoroughly until they stop producing foam.
+- cook them separately (45–60 minutes) and add them to the tomatoes and onions at the point where you'd add raw lentils.
