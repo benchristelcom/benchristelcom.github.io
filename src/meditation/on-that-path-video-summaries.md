@@ -1,6 +1,6 @@
 # OnThatPath Video Summaries
 
-YouTube user [@onthatpath](https://www.youtube.com/channel/UCKuHpb6N1jLet2ZzNXntNmA) has as series of videos about meditation. I have found them to be an _extremely_ helpful supplement to the book [_The Mind Illuminated_ by Culadasa](https://www.goodreads.com/book/show/25942786-the-mind-illuminated) ([subreddit](https://www.reddit.com/r/TheMindIlluminated/)). Each video is short, but in total they are a couple hours, so I thought I'd summarize them here, both for my own reference and to help others.
+YouTube user [@onthatpath](https://www.youtube.com/channel/UCKuHpb6N1jLet2ZzNXntNmA) has as series of videos about meditation. I have found them to be an _extremely_ helpful supplement to the book [_The Mind Illuminated_ by Culadasa](https://www.goodreads.com/book/show/25942786-the-mind-illuminated) ([subreddit](https://www.reddit.com/r/TheMindIlluminated/)), but they are also a great standalone resource. Each video is short, but in total they are a couple hours, so I thought I'd summarize them here, both for my own reference and to help others.
 
 I recommend watching all of the videos, and then referring to this page when you need a refresher to boost your meditation practice.
 
