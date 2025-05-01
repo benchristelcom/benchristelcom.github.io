@@ -655,6 +655,7 @@ This section is for the official web presences of non-web entities.
 - [caniuse.com](https://caniuse.com) - Find out which browsers support a given feature (in JavaScript, CSS, HTML, or SVG).
 - [MemoryManagement.org](https://www.memorymanagement.org/) - Approaches to garbage collection and more.
 - [List of Common MIME Types](https://developer.mozilla.org/en-US/docs/Web/HTTP/MIME_types/Common_types) on MDN
+- [TypeScript Utility Types](https://www.typescriptlang.org/docs/handbook/utility-types.html) <hs-meta keywords="ts"></hs-meta>
 
 ### Q&A
 
