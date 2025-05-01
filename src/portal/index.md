@@ -709,6 +709,9 @@ See also [my /uses page](/uses).
 - [Exclude commits from "git blame"](https://www.stefanjudis.com/today-i-learned/how-to-exclude-commits-from-git-blame/)
   - `git config blame.ignoreRevsFile .git-blame-ignore-revs`
   - useful if you have formatting commits that touch tons of code but make no functional changes.
+- [Commit git hooks to repository](https://stackoverflow.com/a/54281447)
+  - `git config --local core.hooksPath .githooks/`
+  - Run this in your Makefile (e.g. after installing dependencies) to make it automatic
 - [How to get RSS URLs from YouTube channels and playlists](https://chriswere.wales/articles/rss-youtube) by Chris Were.
   - It seems you can also paste YouTube channel URLs directly into at least some feed readers (tested with QuiteRSS). E.g. try this one: <https://www.youtube.com/@simonroper9218>.
 - [Show or hide HTML elements for screenreaders only](https://css-tricks.com/inclusively-hidden/) using CSS.
