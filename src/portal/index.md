@@ -765,6 +765,7 @@ See also [my /uses page](/uses).
 
 ### Searching <span inert>web search engines</span>
 
+- [Stract](https://stract.com/) - A search engine that lets you use customizable filters called [optics](https://stract.com/settings/optics) (h/t [Seirdy])
 - [Search My Site](https://searchmysite.net) - A search engine that only returns results from personal sites. (h/t [C Jackdaw])
 - [Wiby](https://wiby.me/)
 - [Marginalia](https://marginalia-search.com/) (formerly [marginalia.nu](https://marginalia.nu/))
@@ -1045,6 +1046,7 @@ HREFS BELOW
 [Maya]: https://maya.land/
 [Markdown]: https://daringfireball.net/projects/markdown/
 [Melon]: https://melonking.net/
+[Seirdy]: https://seirdy.one/
 
 <script defer type="module" src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.5.1"></script>
 <script>
