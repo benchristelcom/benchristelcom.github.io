@@ -7,6 +7,5 @@
             </feSpecularLighting>
         </filter>
     </defs>
-    <!-- <rect width="700" height="700" fill="#f4e7ca"></rect> -->
     <rect width="700" height="700" fill="#fcf0dd" filter="url(#nnnoise-filter)"></rect>
 </svg>
