@@ -16,6 +16,7 @@ rules() {
     echo 'Rule {'
     while read domain; do
         echo 'Matches{Site("|'"${domain}"'|")},'
+        echo 'Matches{Like(Site("'"${domain}"'"))},'
     done
     echo '};'
 }
