@@ -15,9 +15,7 @@ preamble() {
 rules() {
     echo 'Rule {'
     while read domain; do
-        echo '  Matches {'
-        echo '    Domain("|'"${domain}"'|")'
-        echo '  },'
+        echo 'Matches{Site("|'"${domain}"'|")},'
     done
     echo '};'
 }
