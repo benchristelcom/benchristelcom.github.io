@@ -482,13 +482,13 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - **Sit, Breathe, Wake Up! Guided meditations by Culadasa**
   - [One - Awareness (40 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=UG-0XGpesgs)
   - [Two - Attention (43 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=IeXWFRs5cGk)
-  - [Three (46 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=SRqXq570Cf0)
+  - [Three - Moving and Stable Attention (46 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=SRqXq570Cf0)
   - [Four (21 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=aNFc4veG61E)
   - [Five (35 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=gB4_JS4jsb0)
   - [Six (59 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=F-SO2jLEl94)
   - [Seven (52 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=LBDV7jmZL8s)
   - [Eight (46 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=nbvx7K_Zh0U)
-  - [Nine (25 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=SpTDGyhoFho)
+  - [Nine - Metta (25 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=SpTDGyhoFho)
 
 ## Official Websites
 
