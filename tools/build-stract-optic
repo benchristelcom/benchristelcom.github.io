@@ -1,0 +1,25 @@
+#!/bin/bash
+
+cd "$(dirname "$0")/.." || exit 1
+
+main() {
+    preamble > src/optic.txt
+    tools/domains | rules >> src/optic.txt
+}
+
+preamble() {
+    echo 'DiscardNonMatching;'
+}
+
+rules() {
+    while read domain; do
+        echo 'Rule {'
+        echo '  Matches {'
+        echo '    Domain("|'"${domain}"'|")'
+        echo '  },'
+        echo '  Action(Boost(0))'
+        echo '};'
+    done
+}
+
+main

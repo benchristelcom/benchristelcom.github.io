@@ -1,0 +1,8401 @@
+DiscardNonMatching;
+Rule {
+  Matches {
+    Domain("|10.0.0.1|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|127.0.0.1|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|12challenges.substack.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|1pixelmoon.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|44nifty.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|50watts.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|512pixels.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|82mhz.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|abarothsworld.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|accuweather.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|acm.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|addons.mozilla.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|adonisjs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|adp.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|adrianroselli.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|afterthetone.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ageofempires.fandom.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|agilemanifesto.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ai-detector.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ai.meta.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|aiplanet.sourceforge.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|akademikernewek.org.uk|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|alanwatts.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|albumoftheyear.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|allium.house|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|alltooflat.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|alternativeto.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|alumni-codex.github.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|always-a-pivot.creator-spring.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|alwaysjudgeabookbyitscover.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|amalthia.mediawood.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|amarok.kde.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|amazonaws.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|amir.rachum.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|analogoffice.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|andrewedstrom.substack.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|angryrobotbooks.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|anradyo.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|antfu.me|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|antipodes.substack.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|anundergroundminer.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|apa.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|api.jquery.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|app.growthbook.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|app.lemonsqueezy.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|applerankings.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|app.retrium.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|app.slack.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|app.thestorygraph.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|archive.is|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|archive.jestjs.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|archiveofourown.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|archive.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|archive.ph|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|archives.vwml.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|archive.today|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|archlinux.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ardalambion.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|arkaia.gitlab.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|arstechnica.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|arxiv.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ascii-code.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|asdf.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|asktog.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|askubuntu.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|assemblyscript.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|astronaut.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|atlassian.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|atmos.style|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|autism.archi|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|baccyflap.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|background-tiles.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|bandcamp.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|bastionhome.github.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|bbc.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|bearblog.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|beautiful.software|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|beccapiastrelli.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|belowthesurface.amsterdam|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|benchristel.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|benchristelcom.github.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|benchristel.github.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|benchristel.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|beneathvt.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|bensguide.substack.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ben.waywardweb.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|beta.tauri.app|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|betterworldbooks.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|beyondcommandandcontrol.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|billwurtz.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|binarypiano.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|binnurturkishcookbook.blogspot.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|blog.ceejbot.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|blog.cleancoder.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|blog.jim-nielsen.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|blog.metamirror.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|blog.nelhage.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|blog.thecodewhisperer.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|blog.uxtweak.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|boardgamegeek.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|boardgaming.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|boards.greenhouse.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|bobbyhadz.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|bodypoetic.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|boffosocko.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|boingboing.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|bookmarkbeat.substack.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|books.google.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|bookshop.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|bookviewcafe.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|bootsnipp.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|bopsecrets.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|braigwen.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|brandons-journal.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|braziliankitchenabroad.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|brew.sh|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|brisray.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|britannica.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|bsky.app|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|bundleofholding.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|bundlephobia.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|bun.sh|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|butterchurnviz.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|buttondown.email|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|byrdsfillingstation.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|c2.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cacm.acm.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cal.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|calmfund.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|camdez.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|campaignlp.constantcontact.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|caniuse.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|capitalone.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cash.app|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|catandthemachines.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|catb.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cdn.jsdelivr.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cdn.zoom.us|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cedardownfarm.ca|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|celticartstudio.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|celtic-languages.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|chat.indieweb.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|chaucer.fas.harvard.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cheatsheetseries.owasp.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|chocolateandvodka.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|christopher-alexander-ces-archive.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|chriswere.wales|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|chromatic.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|chrome.google.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|chromewebstore.google.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cidoku.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cinnamon-spices.linuxmint.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|circularlivingco.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|circularliving.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cityofpaloalto.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cityofpaloalto.primegov.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|civilnoteppt.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|clagnut.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|clarkesworldmagazine.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|classic.yarnpkg.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|clew.se|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|clicking.toys|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cliparts.co|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|clojuredocs.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cloudflare.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cmu.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cmus.github.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cnbc.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cobyalmond.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|codeberg.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|codecov.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|code.jsoftware.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|code.kx.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|codemirror.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|codepen.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|codesandbox.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|code.visualstudio.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|codurance.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|colexdev.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|collaborativeworldbuilding.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|colorado.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|color.firefox.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|colorlib.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|commonsensemedia.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|commons.libretexts.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|commons.wikimedia.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|community.atlassian.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|communityfeedback.opengov.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|community.playstarbound.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|conclave-team.github.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|conclave.tech|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|conlang.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|contentdetector.ai|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|continuum.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|contrastrebellion.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|convertkit.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|copyleaks.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cornishdictionary.org.uk|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cornish-language.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|corru.observer|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|countrysun.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|coursera.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|craftinginterpreters.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|craigmod.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|creativecommons.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|creativemarket.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|crockford.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|crowdin.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|csspiffle.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cssreference.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cs.stanford.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|css-tricks.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cuberule.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|curiousduck.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|curiousnotions.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|curlie.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|curseforge.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|curseforge.overwolf.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cutlefish.substack.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cyberarcadia.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cyber.harvard.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cyclic.sh|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|cypress.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|daisyui.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|dannorth.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|daringfireball.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|darkreader.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|darylsun.page|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|dash.cloudflare.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|dataannotation.tech|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|database.conlang.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|data.bls.gov|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|datawiz.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|date-fns.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|daten.digitale-sammlungen.de|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|davemcnally.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|daverupert.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|davewest.us|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|day.js.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|death.id.au|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|decisionmatrix.app|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|dedalvs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|deezer.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|defensivecomputingchecklist.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|defkey.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|degooglisons-internet.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|deianeira.co|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|demandforce.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|deming.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|deno.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|deque.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|destroyallsoftware.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|devdoc.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|developer.apple.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|developer.chrome.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|developer.mozilla.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|developers.cloudflare.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|devpost.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|dev.to|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|dewey.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|diamondgeezer.blogspot.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|diamondssuck.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|dice.camp|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|diff2html.xyz|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|digitalocean.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|dillinger.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|diome.substack.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|diome.xyz|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|discogs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|discord.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ditherit.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|djr.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|dl.acm.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|doc.anytype.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|docker.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|docs.deno.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|docs.divio.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|docs.gimp.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|docs.joinmastodon.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|docs.npmjs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|docs.railway.app|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|docs.render.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|docs.rs|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|docs.superstructjs.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|documentcloud.github.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|domcloud.co|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|doodad.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|dorian.substack.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|doriantaylor.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|dosprograms.info.tt|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|dotepub.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|dovetail.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|drawbattle.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|drawing.garden|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|dreamindani.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|dreamsongs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|dreamwiki.sixey.es|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|druthers.app|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|duckdb.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|duckduckgo.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|dwf.bigpencil.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|earth.nullschool.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ecma-international.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ecozoicstudies.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|eev.ee|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|efdss.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|eff.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|eggramen.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|eldamo.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|eleith.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|eloquentjavascript.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|emilynhoward.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|emojipedia.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|emreed.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|en.cppreference.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|engineerguy.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|en.wikipedia.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|en.wikiquote.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|en.wiktionary.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|esbuild.github.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|eslint.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|eslint.style|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ethanmarcotte.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ethical.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|etoileos.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|etrade.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|etymonline.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|evertype.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|everynoise.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|exa.ai|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|example.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|examplejavascript.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|excalidraw.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|exclassics.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|exercism.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|expensify.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|experiments.withgoogle.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|expressjs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|external-content.duckduckgo.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ezgif.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|fabricmc.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|faeriepunk.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|favicon.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|feather.surge.sh|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|fedoraproject.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|fek.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|fffuel.co|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|fidelity.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|figma.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|filebase.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|finance.zacks.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|firefox.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|fivethirtyeight.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|flamingtext.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|flathub.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|flickr.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|flower.codes|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|flow.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|fly.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|folklore.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|fonts.googleapis.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|fonts.google.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|fontstruct.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|foothill.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|foreverliketh.is|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|forkable.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|forum.agoraroad.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|forums.linuxmint.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|forums.macrumors.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|fossa.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|fraidyc.at|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|frame.work|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|freemusicarchive.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|friendgineers.rosenshein.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|frills.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|fuckoffgoogle.de|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|functional.computer|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|futuretimeline.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|futurism.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|gafferongames.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|garden.zendesk.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|garlic.garden|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|garticphone.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|gaucheries.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|gavmor.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|geekflare.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|geekincentives.substack.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|geepawhill.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|geepawhill.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|geepawhill.slack.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|gefrin.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|geminiprotocol.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|genius.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ghostarchive.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|gifcities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|gilest.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|gimp.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|gitea.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|github.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|githubstatus.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|githubusercontent.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|gitlab.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|gitlab.freedesktop.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|gnu.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|gocornish.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|go.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|goodtape.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|gource.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|grainy-gradients.vercel.app|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|grammar.intrinsiclabs.ai|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|graphql.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|growthbook.auth0.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|gs.statcounter.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|gutenberg.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|gwern.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|hackmd.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|handeyeco.github.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|hapgood.us|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|hardcover.app|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|harvard.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|harvesttotable.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|helia.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|help.openai.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|herbco.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|hermitcraft.fandom.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|heroescommunity.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|heroesofmightandmagic.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|heroicons.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|heropatterns.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|hexo.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|highlightjs.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|home.cc.umanitoba.ca|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|home.unicode.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|hono.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|hotlinewebring.club|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|how.complexsystems.fail|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|hpmor.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|href.cool|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|href.li|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|hryanjones.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|htmlcheatsheet.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|html.duckduckgo.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|html.energy|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|htmlmarkdown.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|html.spec.whatwg.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|htmx.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|huggingface.co|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|hungarianreference.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|husin.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ib.frath.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|icebergcharts.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|iconsdb.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ietf.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|igkt.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|imageoptim.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|images.freeimages.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|imood.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|indeed.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|indianhealthyrecipes.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|indieweb.social|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|infiniteundo.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ingowanring.bandcamp.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|input.djr.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|internationalphoneticalphabet.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|intertwingler.ibis.makethingsmakesense.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|intertwingler.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|invisible.co|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ipachart.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ipfs.tech|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|itch.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jackhouseradio.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jclubbandstand.torontocast.stream|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jeff560.tripod.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jeffreypillow.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jenniferhoward.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jessmahler.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jestjs.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jlsksr.de|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jobs.lever.co|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|joerg-rhiemeier.de|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|joinbookwyrm.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jonaskruckenberg.github.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|joshcollinsworth.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|joshuuu.itch.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|journal.stuffwithstuff.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jqlang.github.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jsdelivr.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jsdelivr.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jsdoc.app|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jsfiddle.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|json.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jsonpath.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|json-schema.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|js.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jstor.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jsxgraph.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jtarchie.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jul.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|junit.sourceforge.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jvns.ca|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|jwt.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|kagi.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|kalechips.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|kaleissin.conlang.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|kausers.fandom.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|kdenlive.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|kde.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|keepersecurity.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|kernel.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|kernewegva.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|kernowekbew.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|kesva.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|kettanaito.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|khanacademy.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|khanacademy.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|khanacademy.systems|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|khan.github.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|kill-the-newsletter.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|kimkleinert.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|kinsta.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|kiva.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|knip.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|knowyourmeme.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|kool.tools|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|korayer.de|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|koreanbapsang.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|koyeb.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|kph.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|k-punk.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|krazydad.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|kresenkernow.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|krisatopi.github.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|kryogenix.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|labspractices.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lambdatest.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lambdatest.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|laneblocks.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lattice.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|latticehq.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lawsofux.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ldsig.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ldsig.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|leafyplace.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|leanpub.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|learnadp.litmos.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|learncodingusa.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|learnwelsh.cymru|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|legacy.reactjs.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lettucemeet.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|levelup.gitconnected.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lexi-lambda.github.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|libp2p.github.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|libp2p.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|libquotes.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|librarius.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|libretexts.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|librivox.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lieder.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lifeitself.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lifemoves.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|linguists.riedl.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|link.sbstck.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|link.springer.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|linuxgameconsortium.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lit.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|livingneighborhoods.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|localhost|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lodestar.chainsafe.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|login.microsoftonline.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|login.squarespace.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|logrocket.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|longdogechallenge.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|longreads.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|loremipsum.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lospec.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lostechies.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lostmediawiki.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lotr.fandom.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lotro-wiki.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lowtechmagazine.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lparchive.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lucasfcosta.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lu.tiny-universes.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lynx.browser.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|lyricstranslate.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|maangchi.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|macrotrends.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|madhouse-project.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|madville.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mafs.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|maggieappleton.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mail.google.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mainlynorfolk.info|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|makingpermaculturestronger.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|man7.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|manage.kmail-lists.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|manning.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|manuelmoreale.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|map.purpleair.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|maps4heroes.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|maps.nls.uk|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|marginalia.nu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|marginalia-search.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|marijnhaverbeke.nl|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|marijn.uk|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|marked.js.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|marketplace.visualstudio.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|martinfowler.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|martin.kleppmann.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mathjax.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mathjs.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mathoverflow.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|matklad.github.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|matrix.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mattstine.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|maxloeffler.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|maya.land|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|m.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mdn.github.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mdxjs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|meadow.bearblog.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|meaningness.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mechanical-orchard.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|medievalists.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|melonking.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|melonland.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|memorymanagement.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|memory.toys|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|merriam-webster.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|meyerweb.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|microsoft.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|microsoftedge.microsoft.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mikadomethod.info|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mikegrindle.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|milkdown.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|millionshort.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mindustrygame.github.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|minecraft.fandom.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|minecraftmods.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|minecraft.wiki|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|minetest.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mineuniverse.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|minimalistbaker.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|minim.blog|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mirone.me|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mir-server.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|misterdizzy.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mit.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mobx-keystone.js.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|modarchive.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|moderncss.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|monaspace.githubnext.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|monodraw.helftone.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mozilla.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mrshll.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|multi.app|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|murid.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|musicanet.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|musicbrainz.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|my00stv.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|myaccounts.capitalone.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|myemail-api.constantcontact.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mykoreankitchen.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|mytrustedexpert.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|namecheap.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|nasm.us|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ndsu.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|nefaerien.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|neglectedbooks.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|neil-clarke.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|neovim.substack.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|neutralino.js.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|newatlas.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|newegg.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|newsboat.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|newsletter.pragmaticengineer.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|news.ycombinator.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ngrok.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|nic.eu.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|nick-gravgaard.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|nikitahl.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|nip.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|nixos.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|nodejs.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|node-sqlite-fly.fly.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|nohappynonsense.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|noisehack.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|northflank.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|npl.wiki|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|npmjs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|npm.runkit.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ntietz.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|nytimes.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|obsidian.md|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|off---line.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|offlinemagazine.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|okta.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|old.reddit.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|old-search.marginalia.nu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ollama.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|omniarchive.uk|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|omnivore.app|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|onbeing.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|onesquareminesweeper.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|onlinelibrary.wiley.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|openai.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|openverse.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|optical.toys|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|organism.earth|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|owlman.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|owlsroost.xyz|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ozlemsturkishtable.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pablo.rauzy.name|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|packagehub.suse.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pages.cs.wisc.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pages.github.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|paint.toys|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|palemoon.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|paloalto.bibliocommons.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|paloaltoonline.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|panda-css.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|paratheatrical.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pastelshoal.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|patreon.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|patternlanguage.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pattern.monster|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|patterns.architexturez.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pausd.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pbs.twimg.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pca.st|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|peerjs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|permacomputing.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|permies.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|personal1.vanguard.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pgadey.ca|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|phosphoricons.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|phrontistery.info|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|picocss.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pikemalarkey.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pillser.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pinata.cloud|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|piperhaywood.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pirik.studio|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pitt.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pivotalalumni.slack.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pivotaltracker.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pixabay.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pixfabrik.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|placekitten.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|playwright.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pmt.sourceforge.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pngtosvg.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pnpm.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pocketbase.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|poignant.guide|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pomb.us|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pop.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|popula.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|porkbun.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|portal.mozz.us|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|porteus-kiosk.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|postbox.garden|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|practicaltypography.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|preactjs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|pre-code.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|prettier.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|process2processes.goatcounter.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|processes.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|professional-blog-prod.vercel.app|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|projects.propublica.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|protondb.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|psu.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|psyarxiv.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|psycnet.apa.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|publicdomainreview.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|python.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|qoddi.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|queerandback.substack.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|queerbychoice.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|quickconnect.to|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|quoteinvestigator.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|r74n.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|railway.app|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ramdajs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|random.earth|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|rand.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|rationaldharma.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|rawgit.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|rddnickel.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|react.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|react-hooks-testing-library.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|react-typescript-cheatsheet.netlify.app|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|read.ceilfors.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|readingproject.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|readthedocs.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|readwise.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|redplanetlabs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|redux.js.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|reefjs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|refactoring.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|refactoring.guru|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|refinedmods.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|regex101.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|registerspill.thorstenball.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|registry.faa.gov|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|remix.run|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|render.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|res.cloudinary.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|researchgate.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|research.swtch.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ring.recurse.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ritualdust.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|robey.lag.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|robinrendle.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ronjeffries.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|rtpg.co|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|rubygems.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|rugrabbit.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|rust-lang.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ryftgame.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|sacred-texts.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|sandimetz.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|satyrs.eu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|scala-lang.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|scarletferret.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|schwab.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|scribbles.page|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|scribemedia.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|scrum.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|search.creativecommons.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|search.marginalia.nu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|searchmysite.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|searxng.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|secure.e-file.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|sedano.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|seirdy.one|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|selfsufficientme.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|semver.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|sendowl.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|sentry.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|server.pro|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|sfcu.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|shecodes.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|shepherd.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|shopsunridgefarms.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|siddhartha.music.blog|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|simonwillison.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|simplermachines.gumroad.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|since-youve-asked.simplecast.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|sites.pitt.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|sixey.es|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|skepdic.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|skep.place|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|skyhold.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|skyscraperpage.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|skysedge.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|slack.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|slack-status.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|sliding.toys|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|slowroads.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|smartasset.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|softwarecrisis.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|sohyeon.online|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|solar.lowtechmagazine.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|someplace-else.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|somethingnerdy.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|sorbier.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|soundcloud.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|sourceforge.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|spacehey.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|spec.graphql.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|spotify.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|spritegen.website-performance.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|sqlite.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|squarespace.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|squoosh.app|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|src.alexschroeder.ch|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|srgower.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|stackabuse.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|stackblitz.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|stackexchange.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|stackify.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|stackingthebricks.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|stackoverflow.co|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|stackoverflow.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|standardebooks.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|stanford.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|steamcommunity.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|steamdb.info|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|steampowered.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|steen.free.fr|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|stevenpetryk.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|storck.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|storybook.js.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|storybundle.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|storytime.solutions|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|storytime.team|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|stract.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|studymoderncornish.blogspot.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|substackcdn.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|sunridgefarms.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|supabase.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|superpixelquest.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|superuser.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|support.substack.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|surfraw.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|surge.sh|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|survey.stackoverflow.co|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|susanaugustt.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|svelte.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|svgjs.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|t0.vc|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|tabapay.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|tailscale.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|tanzu.vmware.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|taskwarrior.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|tauri.app|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|taylor.town|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|techcrunch.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|techstacker.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|temporal.cloud|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|tenochtitlan.thomaskole.nl|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|terebess.hu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|termespheres.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|terraria.fandom.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|terriblelizard.info|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|testing-library.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|textanim.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|textures.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|theconditionalorchestra.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|theconversation.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|thedebrief.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|the.natureof.software|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|thenewstack.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|thenextweb.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|theodoregray.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|theoldreader.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|thereadtime.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|theretrobook.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|thesheepsheadway.ie|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|thespruce.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|theuselessweb.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|thinker.curiousduck.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|tholman.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|tidyfirst.substack.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|tilvids.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|timeanddate.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|tinkerbetter.tube|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|tinypng.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|todayinsci.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|toheroes.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|toot.eleith.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|trello.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|trends.ownwell.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ttntm.me|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|tuple.app|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|turbotax.intuit.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|turkishcookbook.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|tv.benchristel.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|tyler.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|typescript-eslint.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|typescriptlang.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|typicode.github.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|typing.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ublockorigin.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ubuntu.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|umich.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|underpassapp.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|underscorejs.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|underunderstood.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ungual.digital|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|unicode.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|unicodeplus.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|universocantigas.gal|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|unpkg.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|unsplash.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|url.spec.whatwg.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|us04web.zoom.us|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|us.cloud.langfuse.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|use-gesture.netlify.app|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|users.drew.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|uses.tech|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|v3.yarnpkg.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|validator.w3.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|vegrecipesofindia.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|venmo.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|verified.capitalone.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|versionmuseum.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|verysmallrocks.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|vid.puffyan.us|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|vimeo.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|vintageapple.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|vite.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|vitejs.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|vitest.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|vuzic.app|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|w3c.github.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|w3.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wall.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wasd.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|waywardweb.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|weather.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|web.archive.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|web.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|webexhibits.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|webflow.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|webkit.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|web.mit.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|webpro.nl|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|websitecarbon.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|website-performance.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|websitereview.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|websitesetup.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|webtips.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|webtrak.emsbk.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|webweekly.neocities.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|weightlessbooks.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|weirdorconfusing.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wescook.art|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wevidi.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wfmu.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|whatwg.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|whoishoh.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wiby.me|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wiki.archiveteam.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wikibooks.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wiki.c2.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wikimedia.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wikipedia.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|willamette.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|windows-cdn.softpedia.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|winehq.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|winkjs.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wintersmith.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wired.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wmw.thran.uk|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wokwi.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wolframalpha.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wolframscience.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wondermark.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wordnet.princeton.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wordpress.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wordpress.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|worrydream.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|wttr.in|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ww7.lookerstudio.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www2.cmp.uea.ac.uk|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.adelfaure.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.adriannakrikl.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.aiforeducation.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.aisnakeoil.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.aiweirdness.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.albumoftheyear.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.allrecipes.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.animatedimages.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.apfelwiki.de|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.archive.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.arraycast.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.artybollocks.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.asciiart.eu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.atatus.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.axios.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.azerbaijanrugs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.azquotes.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.baeldung.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.barnesandnoble.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.bestbuy.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.betterworldbooks.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.bing.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.bleepingcomputer.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.blindtextgenerator.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.booked.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.bram.us|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.bridgesonthetyne.co.uk|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.bruh.ltd|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.buildingbeauty.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.businessinsider.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.buydomains.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.buymeacoffee.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.caltrain.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.capitalone.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.catb.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.celestialheavens.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.chegg.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.chosenfewsoftware.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.citationneeded.news|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.classcentral.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.cleancss.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.cloudflare.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.cnblogs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.cnn.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.cockroachlabs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.codecademy.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.cogitatiopress.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.cognizant.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.colingorrie.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.corsair.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.coscreen.co|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.criterionchannel.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.cs.cmu.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www-cs-faculty.stanford.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.cssfontstack.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.curseforge.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.dampfkraft.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.danstools.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.datomic.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.davidrumsey.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.deezer.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.degruyter.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.desmos.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.destroyallsoftware.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.digdeeproots.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.digitale-sammlungen.de|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.digitalphotomentor.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.dll-files.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.dothraki.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.dreamsongs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.drivethrurpg.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.drlinkcheck.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.dropbox.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.eastgate.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.eatthelove.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.ebooks.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.effectgames.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.e-file.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.egui.rs|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.elderscrollsonline.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.electricaltechnology.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.epochconverter.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.etymonline.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.eva.mpg.de|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.evertype.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.exitmundi.nl|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.exploring-castles.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.faa.gov|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.fandomspot.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.fanfictiondownloader.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.fanfiction.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.fastcompany.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.favicon.cc|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.favicon-generator.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.fffuel.co|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.fieggen.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.fileformat.info|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.files-conversion.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.flagfic.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.flickr.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.forbes.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.freemusicarchive.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.friendproject.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.fromjason.xyz|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.ft.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.fullstacksyntax.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.funraniumlabs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.furia.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.galactanet.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.gamingonlinux.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.gatewaynmra.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.gavinmorgan.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.gavmor.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.geekbuying.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.generalsystemantics.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.geoffreylandis.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.gifs-paradise.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.gitclear.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.glassdoor.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.gnu.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.goatcounter.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.godecookery.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.goodreads.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.google.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.greenwaste.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.gryphel.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.gutenberg.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.hackersanddesigners.nl|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.herbco.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.heroesofmightandmagic.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.hexcolortool.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.hifiberry.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.hillelwayne.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.horg.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.htaccessredirect.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.htmlsymbol.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.humblebundle.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.ibm.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.iconsdb.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.in2013dollars.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.indianhealthyrecipes.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.indiebound.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.infoq.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.informit.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.infura.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.inkandswitch.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.inspiredtaste.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.instapaper.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.ipfs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.irishmidifiles.ie|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.ironteacup.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.irs.gov|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.jamesshore.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.jetbrains.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.joelonsoftware.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.jsdelivr.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.jsoftware.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.k8mak.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.kafejo.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.kalzumeus.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.kamtape.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.khanacademy.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.kingarthurflour.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.kongregate.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.latentcenters.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.lemis.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.libraryextension.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.librarything.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.lieder.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.lileks.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.lindisfarne.org.uk|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.linkedin.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.linuxmint.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.loom.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.lowes.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.macys.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.maps4heroes.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.marginalia.nu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.martinlemaire.fr|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.md5hashgenerator.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.mediawiki.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.medieval.eu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.meetup.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.memorymanagement.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.merriam-webster.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.methodsandtools.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.minecraftmods.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.minecraft.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.mkdocs.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.modpackindex.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.mozilla.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.musicanet.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.mustrad.org.uk|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.naiveweekly.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.natureoforder.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.neilcic.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.netknots.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.netlify.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.newegg.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.nfmrs.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.nngroup.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.nplusonemag.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.npmjs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.nytimes.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.oblique-strategies.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.oldbookillustrations.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.oldcitypublishing.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.oldversion.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.omfgdogs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.onceuponachef.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.openshot.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.openstreetmap.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.oreilly.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.orionsarm.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.orkneyjar.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.pagat.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.panic.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.pardonyourfrench.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.patternlanguage.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.paulirish.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.pearson.de|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.peppercarrot.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.phusionpassenger.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.pilatus-aircraft.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.pixelmator.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.planetminecraft.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.polygon.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.powells.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.privacyguides.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.process.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.proginosko.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.programmingfonts.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.protondb.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.publicdomainpictures.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.qobuz.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.radicalcartography.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.ranchogordo.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.rawpixel.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.recursive.design|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.reddit.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.re-des.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.redhat.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.regextester.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.renderforest.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.researchgate.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.retronator.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.returninfinity.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.reuters.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.rfc-editor.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.rgbtohex.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.ribbonfarm.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.rollingstone.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.roughdraftsolutions.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.rssboard.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.rubyguides.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.ruby-lang.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.run.town|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.sacred-texts.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.salesforceben.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.salto.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.scannedinavian.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.scientificamerican.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.scribbr.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.securityweek.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.semianalysis.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.shadertoy.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.shopify.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.simplermachines.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.sitepoint.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.slingacademy.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.sloww.co|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.smashingmagazine.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.smashwords.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.solidjs.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.sothebys.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.southernliving.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.spirit-alembic.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.st.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.stefanjudis.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.storybytes.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.strandbeest.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.stripegenerator.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.sublayer.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.superbad.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.synology.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.tampermonkey.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.tapconet.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.tasteofhome.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.taylorfrancis.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.thebookdesigner.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.thedeliciouscrescent.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.thefrugalgamer.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.theguardian.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.theoi.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.theregister.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.theverge.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.thirdplacechili.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.thoughtco.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.tinkercad.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.toonamiaftermath.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.topotijdreis.nl|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.toptal.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.totaltypescript.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.treehugger.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.trentonbricken.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.turkishcookbook.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.twitch.tv|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.typescriptlang.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.typescripttutorial.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.uberviz.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.unixtimestamp.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.unresolvedforces.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.upc.edu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.urldecoder.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.url-encode-decode.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.urlencoder.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.vegrecipesofindia.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.versionmuseum.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.vertexmeadow.xyz|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.verticalpool.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.vintagestory.at|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.visualcapitalist.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.vox.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.w3.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.w3schools.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.wasdkeyboards.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.webdesignmuseum.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.westerndigital.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.whois.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.wikihow.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.windows93.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.windowscentral.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.worldstandards.eu|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.youhaventlived.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.youtube.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.youtube-nocookie.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|www.zillow.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|yamllint.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|yarnpkg.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|yew.rs|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|youtube.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ytoo.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|zed.dev|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|zero-k.info|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|zerotomastery.io|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|zettelkasten.de|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|ziglang.org|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|zompist.com|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|zonelets.net|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|zoom.us|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|zora.uzh.ch|")
+  },
+  Action(Boost(0))
+};
+Rule {
+  Matches {
+    Domain("|zork.net|")
+  },
+  Action(Boost(0))
+};
