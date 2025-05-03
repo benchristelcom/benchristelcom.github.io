@@ -18,7 +18,6 @@ rules() {
         echo '  Matches {'
         echo '    Domain("|'"${domain}"'|")'
         echo '  },'
-        echo '  Action(Boost(0))'
         echo '};'
     done
 }
