@@ -9,6 +9,7 @@ main() {
 
 preamble() {
     echo 'DiscardNonMatching;'
+    cat tools/10k-short.optic
 }
 
 rules() {
