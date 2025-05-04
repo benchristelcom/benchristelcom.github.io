@@ -120,26 +120,19 @@ li > p {
   /* prevent the first list item in a column from being shifted down */
   margin-block-start: 0;
 }
-.col-2, .col-3 {
+.col-2, .col-3, .col-4 {
   display: none;
 }
-:is(.col-2, .col-3) + * {
+:is(.col-2, .col-3, .col-4) + * {
   text-align: start;
   hyphens: manual;
   column-gap: 4em;
 }
-.col-2 + * {
-  column-count: 2;
-}
-.col-3 + * {
-  column-count: 3;
-}
+.col-2 + * { column-count: 2; }
+.col-3 + * { column-count: 3; }
+.col-4 + * { column-count: 4; }
 @media (max-width: 760px) {
-  .col-2 + * {
-    column-count: 1;
-    column-gap: 4em;
-  }
-  .col-3 + * {
+  :is(.col-2, .col-3, .col-4) + * {
     column-count: 1;
   }
 }
@@ -512,7 +505,7 @@ This section is for the official web presences of non-web entities.
 
 ### Software - Operating Systems, Dev Tools, and Libraries
 
-<div class="col-3"></div>
+<div class="col-4"></div>
 
 - [Arch Linux](https://archlinux.org/)
 - [Bun](https://bun.sh/)
@@ -529,7 +522,7 @@ This section is for the official web presences of non-web entities.
 - [JetBrains](https://www.jetbrains.com/)
 - [jq](https://jqlang.github.io/jq/manual/)
 - [Linux (kernel.org)](https://kernel.org)
-- [Linux Mint](https://www.linuxmint.com/) - see also the [forums](https://forums.linuxmint.com/)
+- [Linux Mint](https://www.linuxmint.com/) - [forums](https://forums.linuxmint.com/)
 - [Lit](https://lit.dev/)
 - [Marked](https://marked.js.org/)
 - [MathJax](https://mathjax.org)
@@ -571,6 +564,8 @@ This section is for the official web presences of non-web entities.
 
 ### Academic <hs-meta keywords="academia university universities"></hs-meta>
 
+<div class="col-3"></div>
+
 - [Carnegie Mellon](https://cmu.edu)
 - [Foothill College](https://foothill.edu)
 - [Harvard](https://harvard.edu)
@@ -586,6 +581,8 @@ This section is for the official web presences of non-web entities.
 - [Palo Alto Unified School District](https://pausd.org/)
 
 ### Businesses <hs-meta keywords="merchants"></hs-meta>
+
+<div class="col-3"></div>
 
 - [Framework Laptops](https://frame.work)
 - [WASD Keyboards](https://www.wasdkeyboards.com)
@@ -604,6 +601,8 @@ This section is for the official web presences of non-web entities.
 - [Khan Academy](https://khanacademy.org/)
 
 ### Other Organizations
+
+<div class="col-3"></div>
 
 - [Caltrain](https://www.caltrain.com/) - [schedules](https://www.caltrain.com/schedules/pdfs) <hs-meta keywords="timetables tables"></hs-meta>
 - [KDE](https://kde.org/)
