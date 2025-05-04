@@ -1,0 +1,17 @@
+|amazon.
+|baidu.com|
+|canva.com|
+|instagram.com|
+|facebook.com|
+|fandom.com|
+|linkedin.com|
+|netflix.com|
+|netflix.net|
+|openai.com|
+|pinterest.com|
+|qq.com|
+|t.co|
+|tiktok.com|
+|twitter.com|
+|wikipedia.org|
+|x.com|
