@@ -496,6 +496,8 @@ This section is for the official web presences of non-web entities.
 
 ### Software - Apps and Plugins
 
+<div class="col-3"></div>
+
 - [Gimp](https://gimp.org) - [docs](https://docs.gimp.org)
 - [kdenlive](https://kdenlive.org/) - Video editor for Linux
 - [LeechBlock](https://www.proginosko.com/leechblock/)
@@ -512,21 +514,32 @@ This section is for the official web presences of non-web entities.
 
 <div class="col-3"></div>
 
+- [Arch Linux](https://archlinux.org/)
 - [Bun](https://bun.sh/)
 - [CodeMirror](https://codemirror.net/)
+- [DuckDB](https://duckdb.org)
 - [ESLint](https://eslint.org/)
 - [eslint.style](https://eslint.style/)
 - [ExpressJS](https://expressjs.com/)
+- [Firefox](https://firefox.com/) <hs-meta keywords="mozilla"></hs-meta>
+- [Flathub](https://flathub.org/)
 - [GNU `make`](https://www.gnu.org/software/make/manual/html_node/index.html)
+- [Homebrew](https://brew.sh)
 - [Husky](https://typicode.github.io/husky/)
 - [JetBrains](https://www.jetbrains.com/)
 - [jq](https://jqlang.github.io/jq/manual/)
 - [Linux (kernel.org)](https://kernel.org)
 - [Linux Mint](https://www.linuxmint.com/) - see also the [forums](https://forums.linuxmint.com/)
+- [Lit](https://lit.dev/)
 - [Marked](https://marked.js.org/)
+- [MathJax](https://mathjax.org)
+- [NodeJS](https://nodejs.org/)
 - [PeerJS](https://peerjs.com/)
+- [Playwright](https://playwright.dev/)
 - [Preact](https://preactjs.com/)
 - [Prettier](https://prettier.io)
+- [Python](https://python.org/)
+- [React](https://react.dev/)
 - [TypeScript](https://typescriptlang.org/)
 - [Visual Studio Code](https://code.visualstudio.com/) <hs-meta keywords="vscode"></hs-meta>
 - [Vite](https://vite.dev/)
@@ -570,6 +583,7 @@ This section is for the official web presences of non-web entities.
 - [University of Colorado](https://colorado.edu)
 - [University of Michigan](https://umich.edu)
 - [Willamette](https://willamette.edu)
+- [Palo Alto Unified School District](https://pausd.org/)
 
 ### Businesses <hs-meta keywords="merchants"></hs-meta>
 
@@ -578,13 +592,26 @@ This section is for the official web presences of non-web entities.
 - [Sunridge Farms](https://sunridgefarms.com/)
 - [Monterey Bay Herb Company](https://herbco.com/)
 - [Rancho Gordo](https://www.ranchogordo.com/)
+- [Fidelity](https://fidelity.com/)
+- [Capital One](https://capitalone.com/)
+- [Stanford Federal Credit Union](https://sfcu.org/)
+- [Rolling Stone Magazine](https://www.rollingstone.com/)
+- [Powell's Bookstore](https://www.powells.com/)
+
+### Nonprofits and Charities
+
+- [Kiva](https://kiva.org/)
+- [Khan Academy](https://khanacademy.org/)
 
 ### Other Organizations
 
 - [Caltrain](https://www.caltrain.com/) - [schedules](https://www.caltrain.com/schedules/pdfs) <hs-meta keywords="timetables tables"></hs-meta>
 - [KDE](https://kde.org/)
 - [World Wide Web Consortium](https://w3.org)
-- [WHATWG(https://whatwg.org) - The Web Hypertext Application Technology Working Group
+- [WHATWG](https://whatwg.org) - The Web Hypertext Application Technology Working Group
+- [Alan Watts](https://alanwatts.org/)
+- [Deming](https://deming.org/)
+- [Dewey Decimal System](https://dewey.org/)
 
 ## Reviving Civilization
 
