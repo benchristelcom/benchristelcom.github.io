@@ -491,6 +491,7 @@ This section is for the official web presences of non-web entities.
 
 <div class="col-3"></div>
 
+- [Firefox](https://firefox.com/) <hs-meta keywords="mozilla"></hs-meta>
 - [Gimp](https://gimp.org) - [docs](https://docs.gimp.org)
 - [kdenlive](https://kdenlive.org/) - Video editor for Linux
 - [LeechBlock](https://www.proginosko.com/leechblock/)
@@ -514,7 +515,6 @@ This section is for the official web presences of non-web entities.
 - [ESLint](https://eslint.org/)
 - [eslint.style](https://eslint.style/)
 - [ExpressJS](https://expressjs.com/)
-- [Firefox](https://firefox.com/) <hs-meta keywords="mozilla"></hs-meta>
 - [Flathub](https://flathub.org/)
 - [GNU `make`](https://www.gnu.org/software/make/manual/html_node/index.html)
 - [Homebrew](https://brew.sh)
