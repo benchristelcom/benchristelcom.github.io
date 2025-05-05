@@ -1039,3 +1039,19 @@ side was reasonably well-guarded and built-out. Might be a mapmaker oversight?
 | Difficulty         | Intermediate |
 | Human player color | Orange       |
 | Alignment          | Death        |
+
+There are too many towns and *way* too many creature dwellings on this map.
+The towns have random alignments that don't seem to correspond to the players'
+alignments. The map is divided into "rooms" and the paths between rooms are
+guarded by powerful mobs. I found the early game fights too difficult and the
+late game tediously easy. The scenery wasn't horrible but felt very contrived.
+Overall, this is a great example of what not to do in a multiplayer map.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★☆☆☆☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★☆☆☆☆  |
+| Fun           | ★☆☆☆☆  |
