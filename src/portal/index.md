@@ -529,6 +529,7 @@ This section is for the official web presences of non-web entities.
 - [NodeJS](https://nodejs.org/)
 - [PeerJS](https://peerjs.com/)
 - [Playwright](https://playwright.dev/)
+- [pnpm](https://pnpm.io/)
 - [Preact](https://preactjs.com/)
 - [Prettier](https://prettier.io)
 - [Python](https://python.org/)
@@ -594,6 +595,7 @@ This section is for the official web presences of non-web entities.
 - [Stanford Federal Credit Union](https://sfcu.org/)
 - [Rolling Stone Magazine](https://www.rollingstone.com/)
 - [Powell's Bookstore](https://www.powells.com/)
+- [Venmo](https://venmo.com)
 
 ### Nonprofits and Charities
 
@@ -780,7 +782,7 @@ See also [my /uses page](/uses).
 - [Heroicons](https://heroicons.com/) - copy these SVG icons directly into your HTML. Nothing to download. Outline, solid, mini, and micro variants. (h/t [JT Archie](https://jtarchie.com/))
 - [Cliparts.co](https://cliparts.co) - give your website, flyer, or email that ultimate kitschy look.
 
-## Web-based Tools<hs-meta keywords="online browser-based"></hs-meta>
+## Web-based Apps and Tools<hs-meta keywords="online browser-based"></hs-meta>
 
 ### Sensing
 
@@ -827,6 +829,11 @@ See also [my /uses page](/uses).
 - [Atmos.Style CSS Color Converter](https://atmos.style/color-converter/hsl-to-lch) - Converts between hex, RGB, HSL, and LCH. Also names the colors, which is a nice touch.
 - [HTML to Markdown converter](https://htmlmarkdown.com)
 
+### Publishing and Social
+
+- [Bear Blog](https://bearblog.dev/) - Minimalist blogging platform
+- [Off---line](https://off---line.com/) - Clone of Facebook circa 2007
+
 ### Prototyping
 
 - [Regex 101](https://regex101.com/) - Evaluates and debugs regular expressions. Supports many regex dialects including PCRE and JavaScript.
@@ -837,7 +844,6 @@ See also [my /uses page](/uses).
 
 ## Commerce
 
-- [Venmo](https://venmo.com)
 - [AlternativeTo](https://alternativeto.net/) - Search for things you don't like, find things you don't know about!
 - [Circular Living](https://circularlivingco.com)
 
@@ -957,6 +963,7 @@ h/t [Low Tech Magazine](https://solar.lowtechmagazine.com/2010/06/how-to-tie-the
 - [Folklore.org](https://folklore.org/0-index.html) - the history of the Apple Macintosh
 - [Vintage Apple](https://vintageapple.org/) - the history of the early Macintosh, plus archives of magazines from the 80s and 90s (including Macworld and Byte).
 - [Every default macOS (and OSX) wallpaper, in glorious 6K resolution](https://512pixels.net/projects/default-mac-wallpapers-in-5k/) courtesy of [512 Pixels](https://512pixels.net).
+- [Version Museum](https://versionmuseum.com/) - Screenshots of old software
 
 ## Publicly Available Data
 
