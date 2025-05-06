@@ -991,6 +991,7 @@ into one searchable, cross-referenced database.
 
 ## Web Curators
 
+- [varve's burrow](https://www.write-on.org/outbound.html) - useful programs and resources, plus the author's bookmarks
 - [Terrible Lizard](https://terriblelizard.info/) - free and open access to journal articles; internet privacy; website building resources.
 - [Public Domain Review](https://publicdomainreview.org/) - collections of public domain writing and art (h/t [Melon]).
 - [Ruby Klover's website](https://www.bruh.ltd), which includes a [list of lists](https://www.bruh.ltd/lists) curated by the author.
