@@ -1082,3 +1082,12 @@ paths. The late game dragged, though. I felt like I couldn't lose after I had
 3 towns, but there were still two more to take. Lots of gold gives Order a
 boost on this map, while the neutral Nature town gives Life and Chaos a bit of
 a boost. That means Death is nerfed by comparison, which seems okay.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★☆☆☆  |
