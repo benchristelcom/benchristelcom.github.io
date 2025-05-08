@@ -1091,3 +1091,36 @@ a boost. That means Death is nerfed by comparison, which seems okay.
 | Challenge     | ★★☆☆☆  |
 | Replayability | ★★☆☆☆  |
 | Fun           | ★★☆☆☆  |
+
+## Gulf of Nayr
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Intermediate |
+| Players             | 2            |
+| Included with       | Heroes IV    |
+| Multiplayer design  | No           |
+| Max humans          | 1            |
+| Playable alignments | All          |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Purple       |
+| Alignment          | Might        |
+
+A simple 1v1 map with abundant treasure chests and bandits sneaking around near
+your base.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★☆☆☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★☆☆☆☆  |
+| Fun           | ★★☆☆☆  |
