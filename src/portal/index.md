@@ -691,6 +691,7 @@ This section is for the official web presences of non-web entities.
 
 - [Stack Overflow](https://stackoverflow.com)
 - [Ask Ubuntu](https://askubuntu.com)
+- [Superuser](https://superuser.com/)
 
 ### Web Hosting
 
