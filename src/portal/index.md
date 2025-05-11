@@ -748,6 +748,9 @@ See also [my /uses page](/uses).
   - It seems you can also paste YouTube channel URLs directly into at least some feed readers (tested with QuiteRSS). E.g. try this one: <https://www.youtube.com/@simonroper9218>.
 - [Show or hide HTML elements for screenreaders only](https://css-tricks.com/inclusively-hidden/) using CSS.
 - [Relative import paths need explicit file extensions in ECMAScript imports](https://www.totaltypescript.com/relative-import-paths-need-explicit-file-extensions-in-ecmascript-imports)
+- [How to mount an HFS+ (macOS) drive as read-write on Linux (Debian-based)](https://unix.stackexchange.com/questions/639476/how-to-mount-hfs-drive-as-read-write-on-startup)
+  - `apt install hfsprogs`
+  - `sudo mount -o rw,remount,force /dev/sda2`
 
 ## Image Repositories<hs-meta keywords="free stock images"></hs-meta>
 
