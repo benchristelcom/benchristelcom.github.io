@@ -644,6 +644,7 @@ This section is for the official web presences of non-web entities.
 - [Crafting Interpreters](https://craftinginterpreters.com/) - If you've ever wanted to make your own programming language, this is the book for you. By Robert Nystrom. Available in print and (free!) HTML.
 - [User Interface Design for Programmers](https://www.joelonsoftware.com/category/uibook/) by Joel Spolsky.
 - [Programming as Theory Building](https://pablo.rauzy.name/dev/naur1985programming.pdf) by Peter Naur, 1985.
+- [On the criteria to be used in decomposing systems into modules](https://dl.acm.org/doi/pdf/10.1145/361598.361623) - David Parnas, 1972.
 - [The Emperor's Old Clothes](https://worrydream.com/refs/Hoare_1981_-_The_Emperors_Old_Clothes.pdf) 1981 Turing Award lecture by C.A.R. Hoare. <span inert>Sir Charles Antony (Tony) Richard Hoare</span>
 - [The Beautiful Mess](https://cutlefish.substack.com) - John Cutler's newsletter on product management and software development.
 - [Manifesto for Agile Software Development](http://agilemanifesto.org/) - Read this before you hate on "Agile."
