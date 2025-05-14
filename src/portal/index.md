@@ -712,6 +712,7 @@ This section is for the official web presences of non-web entities.
 - [Laws of UX](https://lawsofux.com/) - Facts about humans that every designer should keep in mind!
 - [Contrast Rebellion](https://contrastrebellion.com/) - A manifesto against low-contrast websites.
 - [CSS Fonts (cssfontstack.com)](https://www.cssfontstack.com/) - lists web-safe fonts that most computers have installed, so you can craft `font-family` values that will look good cross-platform.
+- [Modern Font Stacks](https://modernfontstacks.com/) - cross-platform `font-family` values for over a dozen typeface styles.
 - [David Jonathan Ross Fonts](https://djr.com/)
 - [Vollkorn Font](http://vollkorn-typeface.com/)
 - [Google Fonts](https://fonts.google.com/) - Free downloadable fonts for your website. You can also hotlink them, but that will let Google surveil your users.
@@ -979,6 +980,7 @@ h/t [Low Tech Magazine](https://solar.lowtechmagazine.com/2010/06/how-to-tie-the
 
 ## Archives and Archiving Tools
 
+- [Restorativland's Geocities Archive](https://geocities.restorativland.org/) - a resurrection of old websites
 - [The Internet Archive](https://archive.org/) - A.K.A. the Wayback Machine.
 - [archive.today](https://archive.today/) - A.K.A. [archive.is](https://archive.is/), [archive.ph](https://archive.ph/). Circumvents many paywalls.
 
