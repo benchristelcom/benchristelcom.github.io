@@ -9,9 +9,6 @@
 * {
   box-sizing: border-box;
 }
-p, li, figcaption, blockquote, h1, h2, h3, h4, h5, h6, a {
-  line-height: 1.4;
-}
 :root {
   --body-width: 68em;
   --align: left;
@@ -32,7 +29,6 @@ p, li, figcaption, blockquote, h1, h2, h3, h4, h5, h6, a {
   font: var(--font);
   text-align: var(--align);
   hyphens: var(--hyphens);
-  line-height: var(--line-height);
   overflow-y: scroll;
 }
 body {
