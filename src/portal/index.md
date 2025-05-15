@@ -870,6 +870,8 @@ See also [my /uses page](/uses).
 - [Project Gutenberg](https://gutenberg.org/) - a repository of over 70,000 free, public domain ebooks
 - [Standard Ebooks](https://standardebooks.org/) - free and public domain ebooks with high-quality typesetting
 - [Librivox.org](https://librivox.org) - free, public domain audiobooks read by volunteers
+- [Very Small Rocks](https://verysmallrocks.io/fiction/) - Narrator David
+  Clarke's site, including his audiobook podcast _Opera Vox_.
 - [Google Books](https://books.google.com/)
 - [Evertype](https://evertype.com) - Public domain books translated into many languages. A [Michael Everson](https://evertype.com/misc/bio.html) production (I think).
 - [LibreTexts](https://commons.libretexts.org/) - Library of free online textbooks.
@@ -880,6 +882,7 @@ See also [my /uses page](/uses).
 - [Folklore and Mythology Electronic Texts](https://sites.pitt.edu/~dash/folktexts.html) collected by D. L. Ashliman. (h/t [Cidoku])
 - [Indie Bound](https://www.indiebound.org/) - Find local independent bookstores!
 - [Bookshop](https://bookshop.org/)
+- [Global Grey Ebooks](https://www.globalgreyebooks.com/)
 
 See also:
 
