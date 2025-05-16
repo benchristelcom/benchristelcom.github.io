@@ -1145,3 +1145,20 @@ your base.
 | Difficulty         | Intermediate |
 | Human player color | Red          |
 | Alignment          | Life         |
+
+A very good map! Choices in the early game felt consequential, and the endgame
+didn't drag out too long even though there were a lot of towns to take.
+
+One thing I learned from the design of this map: build levels of scale into
+your path network. At the largest level of scale, the map is a big letter E
+with one player starting in each branch. But within those large-scale pathways,
+there are many smaller obstacles that make planning a route interesting.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★★★☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★★★☆☆  |
+| Fun           | ★★★★☆  |
