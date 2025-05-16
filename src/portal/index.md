@@ -667,6 +667,7 @@ This section is for the official web presences of non-web entities.
 - [The Birth and Death of JavaScript (Video)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) - Gary Bernhardt <span inert>videos</span>
 - [Agile is Dead (Video)](https://www.youtube.com/watch?v=a-BOSpxYJ9M) - Dave Thomas <span inert>videos</span>
 - [TDD: Where did it all go wrong? (Video)](https://www.youtube.com/watch?v=EZ05e7EMOLM) - Ian Cooper <span inert>videos</span>
+- [Experience Report: The WyCash Portfolio Management System](https://dl.acm.org/doi/pdf/10.1145/157709.157715) - Ward Cunningham, OOPSLA '92
 - [The pedantic checklist for changing your data model in a web application](https://rtpg.co/2021/06/07/changes-checklist.html) - Raphael Gaschignard
 - [The Divio Documentation System](https://docs.divio.com/documentation-system/) - the four types of documentation: tutorials, how-tos, reference, and explanation.
 - [What's in a Name? Anti-patterns to a Hard Problem](https://www.sitepoint.com/whats-in-a-name-anti-patterns-to-a-hard-problem/) - Katrina Owen <span inert>idea fragment implementation</span>
