@@ -1162,3 +1162,16 @@ there are many smaller obstacles that make planning a route interesting.
 | Challenge     | ★★☆☆☆  |
 | Replayability | ★★★☆☆  |
 | Fun           | ★★★★☆  |
+
+### Analysis
+
+This was the first map that motivated me to open it up in the campaign editor
+and take a closer look at how it's constructed.
+
+- You start with a level 1 hero with a crossbow and an axe, a town with a hall,
+  fort, tavern, and level 1 dwellings already constructed, and no troops.
+- With few exceptions, monster strength is not customized at all.
+- Artifacts and resources on the map are random. However, the type of resource
+  mines is fixed, and each town starts with a resource pile of each type nearby.
+- The player start areas are not symmetrical. You get roughly comparable stuff
+  to the other player, but not the same stuff.
