@@ -994,6 +994,7 @@ h/t [Low Tech Magazine](https://solar.lowtechmagazine.com/2010/06/how-to-tie-the
 - [English Wikiquote](https://en.wikiquote.org)
 - [English Wiktionary](https://en.wiktionary.org)
 - [Wikimedia](https://wikimedia.org)
+- [Table Flipping Emoticons](https://emoticoncentral.com/category/table-flipping) `(ノಠ益ಠ)ノ彡┻━┻`
 
 ## Information Researchers
 
