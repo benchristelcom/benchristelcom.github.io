@@ -856,6 +856,8 @@ See also [my /uses page](/uses).
 
 {{toc /housekeeping}}
 
+- [make your own soap - baccyflap.com](https://baccyflap.com/res/soap/)
+
 ## Architecture
 
 - [The Christopher Alexander & Center for Environmental Structure Archive](https://christopher-alexander-ces-archive.org/)
@@ -954,6 +956,8 @@ A.K.A. the lost art of amusing yourself without electricity.
 - [Leipzig Glossing Rules](https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf) - see also Wikipedia's [List of Glossing Abbreviations](https://en.wikipedia.org/wiki/List_of_glossing_abbreviations)
 
 ## Crafting
+
+- [Open Stitch Dictionary](https://stitch.thefrugalgamer.net/index.php?title=Main_Page) - crochet, knitting, embroidery, and more!
 
 ### Knots and Ropework
 
