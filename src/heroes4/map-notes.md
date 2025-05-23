@@ -1175,3 +1175,24 @@ and take a closer look at how it's constructed.
   mines is fixed, and each town starts with a resource pile of each type nearby.
 - The player start areas are not symmetrical. You get roughly comparable stuff
   to the other player, but not the same stuff.
+
+## Head of the Dragon
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Advanced     |
+| Players             | 3            |
+| Included with       | Winds of War |
+| Multiplayer design  | No           |
+| Max humans          | 1            |
+| Playable alignments | All          |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Blue         |
+| Alignment          | Order        |

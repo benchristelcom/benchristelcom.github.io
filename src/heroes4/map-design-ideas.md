@@ -37,6 +37,47 @@
 - In a multiplayer game, losing your main hero _really_ sucks. It's basically
   game over.
 
+## Problems to solve
+
+### Optimal play not being fun
+
+I don't like it when some decision in a game is obviously optimal but annoying
+to take. HOMMIV example: it's annoying to caravan creatures from dwellings
+every day, which you almost always should do because opponents could capture
+the dwelling at any time.
+
+Another example: the "enemy turns to flee at your approach" dialog.
+
+- If you choose to fight, it's a boring fight.
+- If you use "quick combat," the stupid AI might lose units or spend more
+  mana than needed.
+- If you let them run, you miss out on XP and any items the mobs were holding.
+
+Some of these issues can be fixed.
+
+- To fix caravan micro: daily event that changes the owner of each dwelling to
+  an AI player who cannot build caravans.
+- To fix "the enemy turns to flee," limit army growth (how?), start monsters
+  at a higher strength level, and give each player a couple high-level units
+  at the start of the game. This way, monster growth will keep pace with army
+  growth.
+  - Incentivize Charm (Order magic) and Diplomacy (Nobility) somehow so there's
+    at least some reward for attacking outnumbered creatures
+- Micromanaging lots of heroes and towns is annoying and makes turns take too
+  long for multiplayer. To fix, limit the number of heroes and towns. End the
+  game if any player holds 4 towns.
+- It's annoying to figure out what to do with creatures obtained through
+  Diplomacy or Charm. I often just disband them or use them as scouts. A
+  possible fix: Create lots of ways to level up diplo or charm so they're
+  actually a meaningful part of the game instead of an annoyance. Link the
+  monster types in each area to the player's alignment (this also has the nice
+  side effect of nerfing Death somewhat).
+
+### Game imbalances
+
+- Order has overpowered town defense. Maybe block Order towns from building
+  Castles?
+
 ## Concepts and forces
 
 - Exploration over optimization
@@ -52,6 +93,7 @@
 - Start each player with 2 heroes, but don't allow taverns to be built. Or give
   each player two adventure-map taverns, 4000 gold, and a one-way portal, so
   they can choose their heroes.
+  - A downside: there's no way to set events on the player's main hero.
 - Additional heroes could be obtained from prisons.
 - What if heroes are imprisoned?
   - Trigger an event on the player's home town that builds the tavern and gives
