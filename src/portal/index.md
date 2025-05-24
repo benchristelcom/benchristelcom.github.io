@@ -373,7 +373,7 @@ html {
 
 ## Food
 
-### Favorite Recipes <span inert>cookbook cooking</span>
+### Favorite Recipes (all vegetarian) <span inert>cookbook cooking</span>
 
 <div class="col-3"></div>
 {{toc /recipes}}
@@ -392,6 +392,7 @@ html {
 - [Pardon Your French](https://www.pardonyourfrench.com/)
 - [Gode Cookery](http://www.godecookery.com/) - A webring of medieval cooking sites (h/t [Cidoku])
 - [Cedar Down Farm](https://cedardownfarm.ca/)
+- [rmf's recipes on baccyflap.com](https://baccyflap.com/res/recipes/)
 
 ### Merchants
 
