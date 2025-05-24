@@ -2,11 +2,11 @@
 
 This page documents the search bar on the [Web Portal page](/portal/).
 
-## Check the box to autofocus the search bar
+## Autofocusing the search bar
 
 You can make the searchbar focus automatically when the page loads, so you don't have to click it before you type your query. Check the box under [Settings](/portal#settings).
 
-## Type to filter
+## Filtering
 
 The first function of the searchbar is to filter the portal page. You've probably discovered this if you've ever typed anything into the search bar.
 
@@ -16,7 +16,7 @@ The matching is **case-insensitive**. Search terms are matched against the **beg
 
 If your search matches the text of a **heading** on the page, everything under that heading will be shown.
 
-## Hint Enter for fast navigation
+## Fast navigation
 
 After typing your search, you can navigate directly to the first link shown on the page by pressing the `enter` key.
 
