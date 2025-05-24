@@ -1149,6 +1149,7 @@ const shortcuts = {
   "bliki": "https://github.com/benchristel/benchristel.github.io/wiki",
   "yt": "https://benchristel.github.io/yt/",
   "mail": "https://mail.google.com/",
+  "edit": "https://github.com/benchristelcom/benchristelcom.github.io/edit/main/src/portal/index.md",
 }
 
 function search(providerId, query) {
