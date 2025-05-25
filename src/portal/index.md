@@ -679,6 +679,7 @@ This section is for the official web presences of non-web entities.
 <div class="col-2"></div>
 
 - [Refactoring.com](https://refactoring.com/) - Martin Fowler's site with descriptions of the refactorings from his book _Refactoring: Improving the Design of Existing Code_.
+- [Wikifunctions](https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page) - "the free library of \[2500+\] functions that anyone can edit"
 - [UnicodePlus.com](https://unicodeplus.com) - search for unicode characters. See also [Unicode.org](https://home.unicode.org/) for general information about Unicode.
 - [Emojipedia](https://emojipedia.org) - search for emoji
 - [man7.org](https://man7.org/) - Unix manual pages
