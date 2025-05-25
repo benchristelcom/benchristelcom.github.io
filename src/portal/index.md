@@ -303,16 +303,16 @@ html {
 <div class="container">
   <header>
     <nav class="breadcrumb" aria-label="Breadcrumb">
-      <a href="/welcome.html" style="color:#fffa"><span class="sr-only">Home</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" style="width:16px;height:16px"><path fill-rule="evenodd" d="M9.293 2.293a1 1 0 0 1 1.414 0l7 7A1 1 0 0 1 17 11h-1v6a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1v-3a1 1 0 0 0-1-1H9a1 1 0 0 0-1 1v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-6H3a1 1 0 0 1-.707-1.707l7-7Z" clip-rule="evenodd" /></svg></a>
+      <a href="/welcome.html" style="color:#fffa"><span class="sr-only">Home</span><svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" style="width:16px;height:16px"><path fill-rule="evenodd" d="M9.293 2.293a1 1 0 0 1 1.414 0l7 7A1 1 0 0 1 17 11h-1v6a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1v-3a1 1 0 0 0-1-1H9a1 1 0 0 0-1 1v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-6H3a1 1 0 0 1-.707-1.707l7-7Z" clip-rule="evenodd" /></svg></a>
     </nav>
     <h1>Web Portal</h1>
   </header>
 <main>
 <div class="lr-split">
 <search>
-  <h2 class="sr-only">Search</h2>
+  <h2 id="search" class="sr-only">Search</h2>
   <div style="text-align: center">
-    <input data-hypersearch type="search" list="search-shortcuts" placeholder="Search the web and this page"/>
+    <input data-hypersearch type="search" list="search-shortcuts" placeholder="Search the web and this page" aria-labelledby="search"/>
     <button id="ddg" data-search="https://html.duckduckgo.com/html?q=%s">DuckDuckGo</button>
     <button id="marginalia" data-search="https://old-search.marginalia.nu//search?query=%s">Marginalia</button>
     <button id="yt" data-search="https://youtube.com/results?search_query=%s">YouTube</button>
@@ -337,8 +337,8 @@ html {
     </datalist>
   </div>
 </search>
-<nav class="toc">
-<h2 style="margin-bottom:0.5em">Table of Contents</h2>
+<nav class="toc" aria-labelledby="table-of-contents">
+<h2 id="table-of-contents" style="margin-bottom:0.5em">Table of Contents</h2>
 
 - [Food](#food)
 - [Art](#art)
