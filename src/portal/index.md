@@ -309,7 +309,7 @@ html {
   </header>
 <main>
 <div class="lr-split">
-<div>
+<search>
   <h2 class="sr-only">Search</h2>
   <div style="text-align: center">
     <input data-hypersearch type="search" list="search-shortcuts" placeholder="Search the web and this page"/>
@@ -336,7 +336,7 @@ html {
       <option value="!stackexchange" data-search="https://stackexchange.com/search?q=%s"></option>
     </datalist>
   </div>
-</div>
+</search>
 <nav class="toc">
 <h2 style="margin-bottom:0.5em">Table of Contents</h2>
 
