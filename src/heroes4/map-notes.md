@@ -1196,3 +1196,17 @@ and take a closer look at how it's constructed.
 | Difficulty         | Intermediate |
 | Human player color | Blue         |
 | Alignment          | Order        |
+
+I made a strategic error in this game that resulted in a prolonged standoff: I
+built a magic-focused army to fight Chaos (black dragons). One interesting
+thing about this map: control of harbors is important so your caravans can
+cross the ocean.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★★☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★☆☆☆  |
