@@ -869,6 +869,7 @@ See also [my /uses page](/uses).
 ## Books
 
 - [Project Gutenberg](https://gutenberg.org/) - a repository of over 70,000 free, public domain ebooks
+- [Wikisource](https://en.wikisource.org/wiki/Main_Page) - a free library of texts
 - [Standard Ebooks](https://standardebooks.org/) - free and public domain ebooks with high-quality typesetting
 - [Librivox.org](https://librivox.org) - free, public domain audiobooks read by volunteers
 - [Very Small Rocks](https://verysmallrocks.io/fiction/) - Narrator David
