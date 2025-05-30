@@ -1210,3 +1210,65 @@ cross the ocean.
 | Challenge     | ★★★☆☆  |
 | Replayability | ★★☆☆☆  |
 | Fun           | ★★☆☆☆  |
+
+## Horseplay
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Intermediate |
+| Players             | 2            |
+| Included with       | The Gathering Storm |
+| Multiplayer design  | No           |
+| Max humans          | 2            |
+| Playable alignments | Nature, Chaos |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Green        |
+| Alignment          | Nature       |
+
+This map has a similar vibe to Field of Life - a bunch of scattered powerups
+and a rather bland style (if you don't factor in the map art). There are some
+odd choices: you start the game with all your mines already claimed, and
+they're locked away in an inaccessible area of the map. There are not one but
+two keymaster tents you need to get before you can access your opponent's half
+of the map. It's not clear to me that these choices affect gameplay much.
+Annoyingly, Nature is blocked from getting the Creature Portal, which means
+you can't get some of the best creatures (water elementals and mantises).
+You're also barred from getting elves, griffins, or phoenixes. I spent 5 levels
+on Grandmaster Summoning, and all I got out of it was... 12 water elementals.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★☆☆☆☆  |
+| Strategy      | ★☆☆☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★☆☆☆☆  |
+| Fun           | ★☆☆☆☆  |
+
+## Ice Age
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Expert       |
+| Players             | 4            |
+| Included with       | Winds of War |
+| Multiplayer design  | No           |
+| Max humans          | 1            |
+| Playable alignments | All          |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Blue         |
+| Alignment          | Life         |
