@@ -283,7 +283,7 @@ class MarkovModel {
     transitions = {}
 
     learn(text) {
-        const tokens = ["", ...text.split(/\s+/).filter(Boolean), ""]
+        const tokens = ["", ...text.split(/(\w+[^\w]*)/).filter(Boolean), ""]
         for (let i = 0; i < tokens.length - 1; i++) {
             this.learnOne(
                 tokens.slice(i, i + 1).join(" "),
@@ -325,7 +325,7 @@ class MarkovGenerator {
             }
             tokens.push(next)
         }
-        return tokens.join(" ")
+        return tokens.join("")
     }
 }
 
