@@ -489,6 +489,7 @@ This section is for the official web presences of non-web entities.
 <div class="col-3"></div>
 
 - [Firefox](https://firefox.com/) <hs-meta keywords="mozilla"></hs-meta>
+- [Firefox Browser Add-ons](https://addons.mozilla.org/) <hs-meta keywords="plugins extensions addons"></hs-meta>
 - [Gimp](https://gimp.org) - [docs](https://docs.gimp.org)
 - [kdenlive](https://kdenlive.org/) - Video editor for Linux
 - [LeechBlock](https://www.proginosko.com/leechblock/)
@@ -539,6 +540,7 @@ This section is for the official web presences of non-web entities.
 - [Yarn v1](https://classic.yarnpkg.com/lang/en/)
 - [Yarn v3](https://v3.yarnpkg.com/)
 - [Yarn v4](https://yarnpkg.com/)
+- [Zod](https://zod.dev/)
 
 ### Software - Specifications <hs-meta keywords="reference"></hs-meta>
 
