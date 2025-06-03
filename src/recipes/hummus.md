@@ -7,7 +7,7 @@
 ## Ingredients
 
 - 1 lb dry garbanzo beans
-- 1/2 cup olive oil
+- 1/2 cup extra virgin olive oil
 - 3 Tbsp tahini
 - juice of 1 lemon
 - 1 1/2 tsp salt
@@ -27,3 +27,10 @@
 ### Hummus
 
 1. Add all ingredients to a food processor. Blend until smooth.
+
+## Variant: Hummus in a Hurry
+
+Almost as good and much quicker: put about half a cup of drained cooked or
+canned garbanzos in a flat-bottomed container. Mash with a fork. Sprinkle with
+salt and add about a tablespoon of extra virgin olive oil. Mash more to combine
+ingredients. Consume immediately.
