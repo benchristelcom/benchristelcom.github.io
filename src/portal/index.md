@@ -774,6 +774,7 @@ See also [my /uses page](/uses).
 - [Old Book Illustrations](https://www.oldbookillustrations.com/) - If you like [Wondermark](https://wondermark.com/), you'll love this.
 - [Frugal's Free Image Database](https://www.thefrugalgamer.net/freeimages/) - A database of beautiful public domain book plates!
 - [Public Domain Review](https://publicdomainreview.org/) - collections of public domain art (and books) (h/t [Melon]).
+- [Hokusai Moyo Gafu](https://ndlsearch.ndl.go.jp/en/imagebank/theme/hokusaimoyo) - a catalog of fabric-dyeing patterns by Katsushika Hokusai.
 
 ### Computery
 
