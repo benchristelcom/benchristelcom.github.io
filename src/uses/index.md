@@ -72,7 +72,8 @@ span[inert] { position: absolute; width: 1px; height: 1px; overflow: hidden; }
 
 ### My go-to JavaScript tools and libraries
 
-- [Bundlephobia](https://bundlephobia.com) - Website where you can viewthe size and composition of NodeJS / JavaScript packages on NPM. Includes comparisons to similar libraries. Useful for keeping your JS bundles small.
+- [Bundlephobia](https://bundlephobia.com) - Website where you can view the size and composition of NodeJS / JavaScript packages on NPM. Includes comparisons to similar libraries. Useful for keeping your JS bundles small.
+- [deps.dev](https://deps.dev/) - Research your dependencies. Find licenses, transitive dependencies, and security alerts.
 - [Vite](https://vitejs.dev/) - Fast, easy-to-use dev server for single-page apps. Built-in hot-reloading and TypeScript compilation, among other features.
 - [@benchristel/taste](https://www.npmjs.com/package/@benchristel/taste) - Fast, ergonomic, minimalist test framework.
 - [Bun](https://bun.sh/) - blazing fast, but somewhat crash-prone replacement for node and npm that also implements some web APIs (but no DOM). I use Bun to run [mdsite](https://benchristel.github.io/mdsite) and [Taste](https://www.npmjs.com/package/@benchristel/taste) tests.
