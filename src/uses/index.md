@@ -76,6 +76,7 @@ span[inert] { position: absolute; width: 1px; height: 1px; overflow: hidden; }
 - [Vite](https://vitejs.dev/) - Fast, easy-to-use dev server for single-page apps. Built-in hot-reloading and TypeScript compilation, among other features.
 - [@benchristel/taste](https://www.npmjs.com/package/@benchristel/taste) - Fast, ergonomic, minimalist test framework.
 - [Bun](https://bun.sh/) - blazing fast, but somewhat crash-prone replacement for node and npm that also implements some web APIs (but no DOM). I use Bun to run [mdsite](https://benchristel.github.io/mdsite) and [Taste](https://www.npmjs.com/package/@benchristel/taste) tests.
+- [pnpm](https://pnpm.io/) - Replaces `npm`.
 - [Prettier](https://prettier.io) - On many of my older projects, I use Prettier for code formatting.
 - [ESLint](https://eslint.org/) - On my more recent projects, I've been formatting code with ESLint and the [@stylistic](https://eslint.style/) plugin. It's more flexible than Prettier. [Here is an example of how I've configured it](https://github.com/benchristel/marss/blob/7048cda9e38fcc26578b92d07b73eb0eb3966f5a/eslint.config.js). For the reasons why I switched, see [Anthony Fu's post "Why I don't use Prettier"](https://antfu.me/posts/why-not-prettier).
 - [mdsite](https://benchristel.github.io/mdsite) - My static site generator.
@@ -99,11 +100,10 @@ I don't currently use these, but I might someday.
 ### Software Development
 
 - [Deno](https://deno.com/) - see also the [documentation](https://docs.deno.com/)
-- [pnpm](https://pnpm.io/) - Replaces `npm`.
 - [Neutralino](https://neutralino.js.org/) - Build lightweight cross-platform desktop apps with HTML, JavaScript, and CSS.
 - [daisyUI](https://daisyui.com/)
 - [SQLite](https://sqlite.org/)
-- [zed](https://zed.dev/) - An editor designed for remote pair programming.
+- [Natural](https://naturalnode.github.io/natural/) - Natural language processing (NLP) library for NodeJS
 - [Fly.io](https://fly.io) - web server hosting
 - [Gource](https://gource.io/) - visualize Git repo history as an animated graph
 - [Milkdown](https://milkdown.dev/) - a framework for WYSIWYG/markdown combo editors. Write markdown that converts to rich text as you type. Made by [Mirone](https://mirone.me/).
