@@ -264,102 +264,16 @@ Zerochat
 Zhipu
 Zimm`.split(/\n/).filter(Boolean)
 
-const rng = seedRandom()
-
-function seedRandom(a = 0x96293ae4, b = 0x31415926, c = 0x1bc2af5e, d = 0x16181dd3) {
-    return function rng() {
-        a |= 0; b |= 0; c |= 0; d |= 0
-        var t = (a + b | 0) + d | 0
-        d = d + 1 | 0
-        a = b ^ b >>> 9
-        b = c + (c << 3) | 0
-        c = c << 21 | c >>> 11
-        c = c + t | 0
-        return (t >>> 0) / 4294967296
-    }
-}
-
-class MarkovModel {
-    transitions = {}
-
-    learn(text) {
-        const tokens = ["", ...text.split(/(\w+[^\w]*)/).filter(Boolean), ""]
-        for (let i = 0; i < tokens.length - 1; i++) {
-            this.learnOne(
-                tokens.slice(i, i + 1).join(" "),
-                tokens[i + 1],
-            )
-        }
-    }
-
-    learnOne(antecedent, consequent) {
-        this.transitions[antecedent] ||= []
-        this.transitions[antecedent].push(consequent)
-    }
-
-    predictNext(antecedent) {
-        const possibilities = this.transitions[antecedent]
-        if (possibilities == null) {
-            return ""
-        }
-        return pickRandom(possibilities)
-    }
-
-    generate() {
-        return new MarkovGenerator(this)
-    }
-}
-
-class MarkovGenerator {
-    constructor(model) {
-        this.model = model
-    }
-
-    text() {
-        const tokens = [""]
-        while (tokens.length < 1000) {
-            const last = tokens[tokens.length - 1]
-            const next = this.model.predictNext(last)
-            if (next === "") {
-                break;
-            }
-            tokens.push(next)
-        }
-        return tokens.join("")
-    }
-}
-
-function pickRandom(array) {
-    return array[Math.floor(rng() * array.length)]
-}
-
-function *eachTextNode(node) {
-    if (node instanceof HTMLStyleElement) {
-        return
-    }
-    if (node instanceof Text) {
-        yield node
-    } else if (node instanceof Element) {
-        for (const child of node.childNodes) {
-            yield *eachTextNode(child)
-        }
-    }
-}
-
-function knossify(rootNode) {
-    for (const textNode of eachTextNode(rootNode)) {
-        const model = new MarkovModel()
-        model.learn(textNode.textContent)
-        textNode.textContent = model.generate().text()
-    }
-}
-
 function isBot() {
     return bots.some((bot) => navigator.userAgent.includes(bot))
 }
 
 window.addEventListener("load", () => {
     if (isBot() || window.location.hash === "#knossify") {
-        knossify(document.body)
+        document.body.innerHTML = `
+            <main>
+                <h1>BenChristel.com</h1>
+                <p><a href="https://benchristel.com/knossos">Enter The Labyrinth</a>.</p>
+            </main>`
     }
 })
