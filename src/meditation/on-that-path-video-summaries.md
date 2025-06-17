@@ -81,13 +81,25 @@ Mental state degradation happens because of an increase in your sense of self. T
 
 ### Feedback loop (poop-tinted glasses)
 
-Mental state feeds back into the dukkha-creating process discussed earlier, specifically in the step where the feeling tone appears.
+Mental state degradation feeds back into the dukkha-creating process discussed
+earlier, in four places:
 
-Higher mental state = more positive feelings about your experiences. Lower mental state = more negative feelings.
+1. **Baseline dukkha** is increased by low mental states. When your mental
+   state is degraded, you are more likely to feel depression, anxiety, and
+   existential dread with no obvious cause. In higher mental states, on the
+   other hand, you can deal with whatever life throws at you.
+2. **Poop-tinted glasses:** the positive/neutral/negative feeling tone
+   associated with the objects of attention tends more towards the negative in
+   lower mental states, and more towards the positive in higher mental states.
+3. **Increased reactivity:** low mental states make you more likely to have
+   strong reactive intentions. In high mental states, you are less likely to
+   react.
+4. **Threshold of max dukkha:** in low mental states, reactive intentions
+   create more dukkha and make your mental state even worse. In higher mental
+   states, reacting doesn't harm your mental state as much.
 
-A.K.A. "rose-tinted glasses" vs. "poop-tinted glasses".
-
-The result is that both positive and negative mental states are **self-reinforcing**.
+The result of all these feedback loops is that both positive and negative
+mental states are **self-reinforcing**.
 
 ### Attention is also conditioned
 
