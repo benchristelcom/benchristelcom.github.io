@@ -458,8 +458,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Happiest Man on Earth | Mingyur Rinpoche](https://benchristel.github.io/yt/#kaNO09cPS6c)
 - [From Panic Attacks to Meditation | Mingyur Rinpoche](https://benchristel.github.io/yt/#k1tw5sowFyM)
 - [Meditate Better | Swami Sarvapriyananda](https://benchristel.github.io/yt/#GGYGxdcdE40)
-- [Non-dual Meditation: Part 1 | Swami Sarvapriyananda](https://benchristel.github.io/yt/#l3vddQwxA48)
-- [Non-dual Meditation: Part 2 | Swami Sarvapriyananda](https://benchristel.github.io/yt/#dVKS8jhXN2s)
+- [Jnana Yoga: The Path of Knowledge | Swami Sarvapriyananda](https://benchristel.github.io/yt/#EijmfagFw20)
 - [Rational Dharma](https://rationaldharma.com/) - no-nonsense explanations of how meditation works.
 - [Effects of Two Online Positive Psychology and Meditation Programs on Persistent Self-Transcendence](https://psycnet.apa.org/fulltext/2021-81896-001.html) - research on enlightenment
 
