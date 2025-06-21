@@ -600,20 +600,21 @@ This section is for the official web presences of non-web entities.
 
 ### Nonprofits and Charities
 
-- [Kiva](https://kiva.org/)
 - [Khan Academy](https://khanacademy.org/)
+- [Kiva](https://kiva.org/)
 
 ### Other Organizations
 
 <div class="col-3"></div>
 
-- [Caltrain](https://www.caltrain.com/) - [schedules](https://www.caltrain.com/schedules/pdfs) <hs-meta keywords="timetables tables"></hs-meta>
-- [KDE](https://kde.org/)
-- [World Wide Web Consortium](https://w3.org)
-- [WHATWG](https://whatwg.org) - The Web Hypertext Application Technology Working Group
 - [Alan Watts](https://alanwatts.org/)
+- [Caltrain](https://www.caltrain.com/) - [schedules](https://www.caltrain.com/schedules/pdfs) <hs-meta keywords="timetables tables"></hs-meta>
 - [Deming](https://deming.org/)
 - [Dewey Decimal System](https://dewey.org/)
+- [KDE](https://kde.org/)
+- [Reuters](https://www.reuters.com/)
+- [WHATWG](https://whatwg.org) - The Web Hypertext Application Technology Working Group
+- [World Wide Web Consortium](https://w3.org)
 
 ## Reviving Civilization
 
@@ -811,6 +812,7 @@ See also [my /uses page](/uses).
 - [Search My Site](https://searchmysite.net) - A search engine that only returns results from personal sites. (h/t [C Jackdaw])
 - [Wiby](https://wiby.me/)
 - [Marginalia](https://marginalia-search.com/) (formerly [marginalia.nu](https://marginalia.nu/))
+- [Ecosia](https://www.ecosia.org/) - Berlin-based web search engine; donates profits to environmental causes.
 - [Million Short](https://millionshort.com/) - Filters out the top million (or thousand, or hundred) most popular websites from your search results. Subscription-based. (h/t [Cidoku])
 - [Open Street Map](https://www.openstreetmap.org/) - Alternative to Google Maps. In addition to searching for locations, it can also provide [navigation directions](https://www.openstreetmap.org/directions).
 
