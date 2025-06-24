@@ -133,3 +133,24 @@ Some of these issues can be fixed.
   - Yes.
 - Can an army without a hero free a hero imprisoned in a town?
   - No.
+
+## Inspiration
+
+- [Finkellll's video series on Heroes III map design](https://www.youtube.com/playlist?list=PLSPT3jn-i4ihfY_uU5Xidztjtd3uBDcjA)
+  - He divides the map into areas, each of which is "high-conflict" or "low-conflict".
+    - "low conflict areas should have resource generation, creature generation,
+      stat boosting, questing – all of your pure PvE stuff"
+    - "high conflict is where you want your stables, temporary buffs, a good
+      amount of randomness, some high-value mines"
+  - High-conflict areas should have tactical opportunities (chokepoints, powerups)
+  - "Monster levels are the easiest thing to tweak when you're having balance problems."
+  - Order of operations from the "Let's Build Catastrophe" series:
+    - land areas
+    - boundaries
+    - towns
+    - resource mines in starting areas
+    - transporters (shipyards)
+    - creature dwellings in starting areas
+    - powerups
+    - guards and treasure
+    - random resources
