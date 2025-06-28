@@ -18,6 +18,12 @@ I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); b
 
 - [A list of tools I use](/uses)
 
+## &ldquo;Research&rdquo;
+
+I enjoy playing [Heroes of Might and Magic IV](heroes4) and have explored
+various aspects of the game using SCIENCE! Someday I hope to use this knowledge
+to make an actually playable map. When I do, I'll post it here.
+
 ## Writing Projects
 
 <div class="col-2"></div>
