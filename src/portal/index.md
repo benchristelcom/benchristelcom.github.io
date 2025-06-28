@@ -248,7 +248,7 @@ input[type=search] {
 .hypersearch-no-results {
   display: none;
   text-align: center;
-  font-size: 18px;
+  font-size: 1.286rem; /* 18/14 */
   color: #666;
   margin-block: 5rem;
 }
@@ -367,7 +367,7 @@ html {
 </nav>
 </div>
 
-<div class="hypersearch-no-results">No results.</div>
+<div class="hypersearch-no-results">No results.<p><a style="font-size:1rem;text-decoration:none" href="https://forms.gle/1sg5uwjaNZUqpfxb9">Suggest a link</a>.</p></div>
 
 <div data-hypersearch-start></div>
 
