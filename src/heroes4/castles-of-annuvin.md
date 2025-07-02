@@ -9,19 +9,21 @@ PvP and PvE opportunities!
   obtained from prisons.
 - Creature dwellings revert to the red (Might) player every turn, removing the
   need for caravan micro. Red's starting towns can't build caravans.
+- Lots of hero leveling and multiclassing opportunities. It should be possible
+  to get grandmaster in 2 or 3 skills.
 
 ## Victory condition
 
 - Capture 3 of the 6 castle towns on the map (6 of the 12 towns start with
   Castles, 6 have the Castle disabled)
 
-## Loss condition
-
-- Lose all towns and armies
-
 ## Map sketch
 
 ![](castles-of-annuvin-sketch.png)
+
+## Globals
+
+- Gates leading out of starting areas are guarded by 444 PEONS
 
 ## Playtest notes
 
@@ -45,3 +47,9 @@ PvP and PvE opportunities!
 - treasure by veteran's hall can be stolen
 - the guard radius is only 2, not 3!
 - want more multiclassing opportunities (scouting, nobility, tactics, life magic)
+
+### Play 4
+
+- Nomad tents start as owned by red!
+- 370 PEONS for gate guard is too easy.
+  - Attacked with: lvl 10 barbarian with expert combat, expert melee, GM archery, and basic magic resistance, plate mail, gambler's deck, crossbow, 13 harpies, 4 cyclopes, and 49 centaurs.
