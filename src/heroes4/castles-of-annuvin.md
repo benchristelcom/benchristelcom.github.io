@@ -23,7 +23,20 @@ PvP and PvE opportunities!
 
 ## Globals
 
+### Timing
+
+- It should be possible to get out of starting area on normal difficulty by the
+  end of week 2.
+
+### Army Values
+
+- Starting troops have a value of 160 PEONS.
 - Gates leading out of starting areas are guarded by 444 PEONS
+
+### Events
+
+- A continuous event calls a triggerable event `RevertDwellingOwner`, which all
+  dwellings should handle by changing their owner to Red if it is not Nobody.
 
 ## Playtest notes
 
