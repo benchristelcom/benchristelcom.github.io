@@ -63,6 +63,7 @@ PEON = Peasant Equivalent Opponent Number
 | faerie dragon       | 4    | 153   | 4000      | 38           | 2         | 306      |
 | devil               | 4    | 154   | 4000      | 39           | 2         | 308      |
 | mantis              | 4    | 154   |
+| titan               | 4    | 154   |
 | hydra               | 4    | 154.3 |
 | angel               | 4    | 155   |
 | bone dragon         | 4    | 156   |
