@@ -911,7 +911,9 @@ See also:
 - [maps4heroes.com](https://www.maps4heroes.com/heroes4/maps.php) - A huge collection of high-quality player-made maps. See also my own [map archive](https://github.com/benchristel/heroes-iv-map-archive).
 - [heroesofmightandmagic.com](http://www.heroesofmightandmagic.com/heroes4/heroesofmightandmagic4iv.shtml) - The official website, with descriptions of every hero, creature, spell, artifact, and building.
 - [Heroes Community Forums](http://heroescommunity.com)
-- Ever wonder how many berserkers it takes to beat a phoenix? My [Creature Ratings](/heroes4/creature-ratings.md) page has got you covered.
+- Ever wonder how many berserkers it takes to beat a phoenix? My
+  [Army Strength Calculator](https://benchristel.github.io/heroes-iv-army-calculator)
+  has got you covered.<hs-meta keywords="creature ratings page"></hs-meta>
 
 ### Other Computer Games
 
