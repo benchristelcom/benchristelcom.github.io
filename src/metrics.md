@@ -1,7 +1,7 @@
 # Metrics for benchristel.com
 
 Created: July 4, 2024.<br>
-Updated: Jun 1, 2025.
+Updated: July 6, 2025.
 
 ## Background
 
@@ -36,6 +36,8 @@ Run `tools/metrics HISTORYFILE`
 
 | Month    | Webpages | Google searches | DDG searches |
 | -------- | -------- | --------------- | ------------ |
+| Jul 2025 |          |                 |              |
+| Jun 2025 | 821      | 0               | 0            |
 | May 2025 | 963      | 0               | 4            |
 | Apr 2025 | 769      | 0               | 7            |
 | Mar 2025 | 878      | 0               | 37           |
