@@ -654,6 +654,7 @@ This section is for the official web presences of non-web entities.
 - [_Communications of the ACM_](https://cacm.acm.org/), an open-access journal published by [the Association for Computing Machinery](https://acm.org).
 - [As We May Think](https://dl.acm.org/doi/pdf/10.1145/227181.227186) - Vannevar Bush on hypertext. 1945.
 - [Out of the Tar Pit](https://github.com/papers-we-love/papers-we-love/blob/main/design/out-of-the-tar-pit.pdf) - Ben Moseley and Peter Marks, 2006.
+- [Abstraction, Encapsulation, and Information Hiding](https://web.archive.org/web/20000229235957/www.toa.com/pub/abstraction.txt) - Edward V. Berard
 
 ### Classic blog posts, talks, &amp;c.
 
