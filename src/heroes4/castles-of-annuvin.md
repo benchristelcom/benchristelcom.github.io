@@ -30,8 +30,9 @@ PvP and PvE opportunities!
 
 ### Army Values
 
-- Starting troops have a value of 160 PEONS.
+- Starting troops for each player have a value of ~180 PEONS.
 - Gates leading out of starting areas are guarded by 444 PEONS
+- town guards? TODO
 
 ### Events
 
@@ -66,3 +67,30 @@ PvP and PvE opportunities!
 - Nomad tents start as owned by red!
 - 370 PEONS for gate guard is too easy.
   - Attacked with: lvl 10 barbarian with expert combat, expert melee, GM archery, and basic magic resistance, plate mail, gambler's deck, crossbow, 13 harpies, 4 cyclopes, and 49 centaurs.
+
+### Play 5 (Teal)
+
+- Need to add an event that sets your gold to 4000
+- add MOAR GOLD to the map to balance this
+- necromancer needs shrines of magic early (no town). Conservatory might be good too.
+- need sanctuary (what if hero dies?)
+- hero out of mana after fighting too many imps.
+
+### Play 6 (Teal)
+
+- Need free gold
+
+### Play 7 (Teal)
+
+- Captured Acharna on day 6, with:
+  - 21 cerberi
+  - 7 ghosts
+  - 29 skeletons
+  - level 3 death knight with plate mail, crest of valor, warlord's ring
+  - level 3 necromancer
+  - 4110 gold
+  - could probably do with a few less gold piles at the start (I added 6 since the last play) and sub one of the wood piles for gold
+- OH NOES the Mansion is disabled (because the tavern is)
+- BUG: barrow mound doesn't reset owner
+- Gold is too slow after capturing the town. I need money to spend on buildings!
+  - Possible solution: city hall should already be built (saves 5000 gold)
