@@ -100,6 +100,8 @@ I don't currently use these, but I might someday.
 
 ### Software Development
 
+- [Storytime](https://storytime.team/) - backlog management tool for Extreme Programming teams. In closed beta as of July 2025.
+- [VSCodium](https://vscodium.com/) - libre, telemetry-free build of VSCode
 - [Deno](https://deno.com/) - see also the [documentation](https://docs.deno.com/)
 - [Neutralino](https://neutralino.js.org/) - Build lightweight cross-platform desktop apps with HTML, JavaScript, and CSS.
 - [daisyUI](https://daisyui.com/)
