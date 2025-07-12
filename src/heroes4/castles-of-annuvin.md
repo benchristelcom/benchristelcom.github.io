@@ -41,6 +41,8 @@ PvP and PvE opportunities!
 
 ## Playtest notes
 
+### Play 1 (Red)
+
 - I want a bow!
 - random item generates potions
 - want more treasure chests. At least 2 per monster
@@ -49,20 +51,20 @@ PvP and PvE opportunities!
 - On turn 10, I had 2 lvl 6 barbarians, 50 centaurs, 12 harpies, and 4 cyclopes
 - = 545 peons (not counting heroes)
 
-### Play 2
+### Play 2 (Red)
 
 - cleared red starting area by turn 18
 - 2 lvl 10 barbarians, 47 centaurs, 6 harpies, 7 cyclopes by day 4 of week 3 (turn 18)
 - grandmaster archery by turn 18
 - a good monster distribution for progression and challenge seems to be: 7-8 monster 1s, 7-8 monster 2s, some 3s
 
-### Play 3
+### Play 3 (Red)
 
 - treasure by veteran's hall can be stolen
 - the guard radius is only 2, not 3!
 - want more multiclassing opportunities (scouting, nobility, tactics, life magic)
 
-### Play 4
+### Play 4 (Red)
 
 - Nomad tents start as owned by red!
 - 370 PEONS for gate guard is too easy.
@@ -94,3 +96,13 @@ PvP and PvE opportunities!
 - BUG: barrow mound doesn't reset owner
 - Gold is too slow after capturing the town. I need money to spend on buildings!
   - Possible solution: city hall should already be built (saves 5000 gold)
+
+### Play 8 (Teal)
+
+- Got Acharna by day 3
+- Exited starting area with 2 level 7 heroes, including GM necromancy
+- Wants as I'm in the southern third of the starting area:
+  - levels
+  - artifacts
+  - maybe gold?
+- got out of starting area by day 3 of week 3 (turn 17)
