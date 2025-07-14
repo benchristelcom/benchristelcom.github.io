@@ -58,15 +58,38 @@ How to make Diplomacy useful:
 
 ### Events
 
-- A continuous event calls a triggerable event `RevertDwellingOwner`, which all
-  dwellings should handle by changing their owner to Red if it is not Nobody.
+- **RevertDwellingOwner**: A continuous event calls this triggerable event,
+  which all dwellings should handle by changing their owner to Red if it is not
+  Nobody.
+- **GiveOrangeTown** Each player's starting town has a triggerable event
+  `Give<Color>Town`, e.g. `GiveOrangeTown`. These events are triggered by a day
+  1 timed event. Script:
+
+  ```
+  if [Orange Player is Computer] then [
+    Change Owner to Orange Player
+    Give 14 Medusas to Garrison
+    Construct Tavern
+  ]
+  ```
+
+  This event is needed because the AI can't figure out how to get out of its
+  starting area. TODO: is there a simpler solution?
+
+### Adventure Objects
+
+- **Window of the Magi: Red** reveals the castle towns.
+- **Yellow Two-Way Portal** goes to Orange's prologue area
+- **Red Two-Way Portal** connects Orange's two (Chaos) towns
+- **Teal Two-Way Portal** connects Teal to a high-conflict area near Blue
 
 ## TODO
 
 - Add storyline event: explain why dwellings revert owner to Red
 - Add storyline event: hint that the Ring of Greater Negation is needed to
   defeat Hafgan
-- Scatter tips around the map in signs and bottlesz
+- Scatter tips around the map in signs and bottles
+- Give each castle town High Priority for the AI
 
 ## Playtest notes
 
