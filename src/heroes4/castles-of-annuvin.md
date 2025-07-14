@@ -21,6 +21,27 @@ PvP and PvE opportunities!
 
 ![](castles-of-annuvin-sketch.png)
 
+## Strategy Notes
+
+The expansions introduce item combos that grant unique buffs.
+See: http://www.heroesofmightandmagic.com/heroes4/artifacts_tgs.shtml
+
+- Cloak of Darkness + Ring of Light = automatic Guardian Angel
+- Tiger Armor + Tiger Helm + Frost Hammer = regneration + dragon strength
+- Harmonic Chainmail + Necklace of Muses + Aiffe's Mandolin = attack casts
+  song of peace 
+- necklace of balance + ice scales + flame of chaos = magic mirror ability
+- archmage's hat + staff of disruption + wayfaring boots + ring of flares +
+  angelfeather cloak = ignore magic resistance 
+
+How to make Diplomacy useful:
+
+> ...Secondly, by the time you develop diplomacy, most of the guards may already be defeated - diplomacy requires a large map with plenty of guards to be useful. Thirdly, if the map has plenty of towns and mines, the bonuses of Nobility, Estates and Mining may provide only a small advantage overall.
+>
+> I recommend going for Nobility on maps where resources, towns and mines are scarce and guards are plentiful. Tactics and Nobility is a good combination on that kind of map, as it will also turn your hero into a Lord Commander (advanced class) and give a great bonus of +2 morale to all creatures in his/her army.
+>
+> — http://www.heroesofmightandmagic.com/heroes4/mightskills.shtml
+
 ## Globals
 
 ### Timing
@@ -32,12 +53,19 @@ PvP and PvE opportunities!
 
 - Starting troops for each player have a value of ~180 PEONS.
 - Gates leading out of starting areas are guarded by 444 PEONS
-- town guards? TODO
+- town guards: 80 PEONS.
 
 ### Events
 
 - A continuous event calls a triggerable event `RevertDwellingOwner`, which all
   dwellings should handle by changing their owner to Red if it is not Nobody.
+
+## TODO
+
+- Add storyline event: explain why dwellings revert owner to Red
+- Add storyline event: hint that the Ring of Greater Negation is needed to
+  defeat Hafgan
+- Scatter tips around the map in signs and bottlesz
 
 ## Playtest notes
 
@@ -106,3 +134,31 @@ PvP and PvE opportunities!
   - artifacts
   - maybe gold?
 - got out of starting area by day 3 of week 3 (turn 17)
+
+### Play 9 (Orange)
+
+- Need to block the portal to the eastern town so the player doesn't
+  accidentally go that way.
+- Need more spells
+
+### Play 10 (Orange)
+
+- Bug: Orc towers don't revert
+- Still need to block the portal to the eastern town so the player doesn't
+  accidentally go that way.
+- Bug: Garrison is not occupied
+- Didn't get to town until day 7. Add troughs?
+
+### Play 11 (Orange)
+
+- level 3 monster in middle of starting area blocks southward travel between
+  shrines
+- Sparks should be banned. It's useless (Magic Arrow does more damage and costs
+  the same, and you really don't want your sorcerer getting close to enemies)
+
+### Play 12 (Orange)
+
+- Bug: altars are always magic, not scouting
+- Outta spell points!
+- Probably need an alchemist's lab, and more ore
+- can't get through gap between altars and eastern tower
