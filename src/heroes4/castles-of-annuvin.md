@@ -54,6 +54,7 @@ How to make Diplomacy useful:
 - Starting troops for each player have a value of ~180 PEONS.
 - Gates leading out of starting areas are guarded by 444 PEONS
 - town guards: 80 PEONS.
+- "Random Monster" strength - 222–2222 PEONS
 
 ### Events
 
