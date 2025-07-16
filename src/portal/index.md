@@ -514,6 +514,7 @@ This section is for the official web presences of non-web entities.
 - [eslint.style](https://eslint.style/)
 - [ExpressJS](https://expressjs.com/)
 - [Flathub](https://flathub.org/)
+- [Git](https://git-scm.com)
 - [GNU `make`](https://www.gnu.org/software/make/manual/html_node/index.html)
 - [Homebrew](https://brew.sh)
 - [Husky](https://typicode.github.io/husky/)
