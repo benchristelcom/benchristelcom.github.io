@@ -61,26 +61,33 @@ How to make Diplomacy useful:
 - **RevertDwellingOwner**: A continuous event calls this triggerable event,
   which all dwellings should handle by changing their owner to Red if it is not
   Nobody.
-- **GiveOrangeTown** Each player's starting town has a triggerable event
-  `Give<Color>Town`, e.g. `GiveOrangeTown`. These events are triggered by a day
-  1 timed event. Script:
+- **GiveComputerTown** Each player's starting town has a triggerable event
+  `GiveComputerTown` These events are triggered by a day 1 timed event,
+  `Set Up Computer Players`. Example script:
 
   ```
-  if [Orange Player is Computer] then [
+  if Orange Player is Computer
+  then
     Change Owner to Orange Player
-    Give 14 Medusas to Garrison
-    Construct Tavern
-  ]
+    Delete OrangePrologueExit
   ```
 
   This event is needed because the AI can't figure out how to get out of its
-  starting area. TODO: is there a simpler solution?
+  prologue area.
+
+### Bombs
+
+- `(PlayerColor)PrologueExit` - used to destroy portals and tunnels that connect
+  to prologue areas. The bomb is triggered if the player is an AI. At present
+  this is really just a cosmetic cleanup thing - the AI players get their
+  starting towns for free, so they don't need the prologue area.
 
 ### Adventure Objects
 
 - **Window of the Magi: Red** reveals the castle towns.
 - **Yellow Two-Way Portal** goes to Orange's prologue area
 - **Red Two-Way Portal** connects Orange's two (Chaos) towns
+- **Purple Two-Way Portal** goes to Teal's prologue area
 - **Teal Two-Way Portal** connects Teal to a high-conflict area near Blue
 
 ## TODO
@@ -186,3 +193,10 @@ How to make Diplomacy useful:
 - Outta spell points!
 - Probably need an alchemist's lab, and more ore
 - can't get through gap between altars and eastern tower
+
+### Play 13 (Orange)
+
+- Bug: No red eye of magi on Zirak Zigil
+- Bug: Tavern not disabled in secondary town. No castle in secondary town
+- Weird: adding heroes to a neutral town garrison appears to automatically buy
+  some of the dwelling population.
