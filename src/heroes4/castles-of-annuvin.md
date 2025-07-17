@@ -90,6 +90,32 @@ How to make Diplomacy useful:
 - **Purple Two-Way Portal** goes to Teal's prologue area
 - **Teal Two-Way Portal** connects Teal to a high-conflict area near Blue
 
+### Towns
+
+#### Life
+
+- Florissant
+- Mott's Bailey (Castle)
+
+#### Order
+
+- el-Manaki
+- Zirak-Zigil (Castle)
+
+#### Death
+
+- Acharna (Castle)
+- Durg
+
+#### Chaos
+
+- Azabes
+- Te Brig (Castle)
+
+#### Might
+
+- Kallas (Castle)
+
 ## TODO
 
 - Add storyline event: explain why dwellings revert owner to Red
@@ -97,6 +123,22 @@ How to make Diplomacy useful:
   defeat Hafgan
 - Scatter tips around the map in signs and bottles
 - Give each castle town High Priority for the AI
+- Name the towns
+- Add remaining castles to scoring event
+- Make castle buildings consistent:
+  - ban tavern
+  - ban caravan
+  - ban 4th-level dwellings
+    - the purpose of the above is to make it harder to defend castles
+  - build castle (duh)
+  - build 1st-level dwellings
+- Add second teal portal
+- Add alternative scoring option (4 castles needed instead of 3, for a
+  two-player game)
+- move heroes out of starting towns since they mess with the garrison.
+  Adjust starting town garrisons to 80 PEONs.
+- rename Azabes
+  - maybe to Malaga or Jerez?
 
 ## Playtest notes
 
