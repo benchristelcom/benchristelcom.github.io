@@ -5,12 +5,22 @@ PvP and PvE opportunities!
 
 ## Special features
 
-- No taverns after you hire your two starting heroes. Additional heroes can be
-  obtained from prisons.
+- Capture 3 of the 6 Castles to win. There's no tedious endgame on this map.
+- There are no taverns after you hire your two starting heroes, so choose
+  wisely. However, your starting heroes can be any class, including Barbarian. 
+  Later in the game, you can obtain additional heroes by rescuing them from
+  prisons.
 - Creature dwellings revert to the red (Might) player every turn, removing the
-  need for caravan micro. Red's starting towns can't build caravans.
-- Lots of hero leveling and multiclassing opportunities. It should be possible
-  to get grandmaster in 2 or 3 skills.
+  pressure to micromanage your caravans and dwellings. The castle towns,
+  including Red's starting town, can't build caravans.
+- There are plenty of hero leveling and multiclassing opportunities. It should
+  be possible to get grandmaster in 2 or 3 skills.
+- The map is designed so every class and skill is useful. Stealth and Diplomacy
+  are two of the best skills in the mid-to-late game. Multiclassing your
+  spellcaster to Wizard, Demonologist, Archmage, Enchanter, Heretic, or
+  Dark Priest will pay off.
+- Treasures and powerful artifacts abound in the dungeons, mountains, and
+  caves around the map — but do you dare risk your Castles to seek them?
 
 ## Victory condition
 
