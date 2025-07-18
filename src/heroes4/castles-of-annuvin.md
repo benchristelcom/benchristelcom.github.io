@@ -151,19 +151,15 @@ Under consideration and not yet implemented:
 
 ## TODO
 
-- Add alternative scoring option (4 castles needed instead of 3, for a
-  two-player game)
-- move heroes out of starting towns since they mess with the garrison.
-  Adjust starting town garrisons to 80 PEONs.
 - rename Azabes
   - maybe to Malaga or Jerez?
 - Make buildings consistent in starting towns
-- Don't run RevertDwellingOwner if the owner is a computer player - it confuses
-  the AI.
 - Add storyline event: explain why dwellings revert owner to Red
 - Add storyline event: hint that the Ring of Greater Negation is needed to
   defeat Hafgan
 - Scatter tips around the map in signs and bottles
+- Add alternative scoring option (4 castles needed instead of 3, for a
+  two-player game)
 
 ## Playtest notes
 
