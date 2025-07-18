@@ -42,7 +42,25 @@ How to make Diplomacy useful:
 >
 > — http://www.heroesofmightandmagic.com/heroes4/mightskills.shtml
 
-## Globals
+## Computer Player Customizations and Handicaps
+
+The Heroes IV AI is very weak on the adventure map. I have added the following
+scripts and customizations to give it some help.
+
+- The `GiveComputerTown` event is handled by the starting towns and hero armies.
+- Each computer player starts with 6 heroes in addition to 1 week's worth of
+  level 1 creatures in the town (80 PEONs).
+- The AI priority of Castle towns is set to Vital.
+
+Under consideration and not yet implemented:
+
+- Extra gold every day (the AI needs ample gold to be able to surrender when
+  its heroes get cornered — it is bad at avoiding traps)
+- Set some of the starting heroes (two?) to Vital priority. Hopefully this will
+  make the AI more eager to keep those heroes alive. As long as it has at least
+  one hero, it can recapture towns and free its other heroes from prison.
+
+## Global Policies and Assignments
 
 ### Timing
 
@@ -130,6 +148,8 @@ How to make Diplomacy useful:
 - rename Azabes
   - maybe to Malaga or Jerez?
 - Make buildings consistent in starting towns
+- Don't run RevertDwellingOwner if the owner is a computer player - it confuses
+  the AI.
 - Add storyline event: explain why dwellings revert owner to Red
 - Add storyline event: hint that the Ring of Greater Negation is needed to
   defeat Hafgan
@@ -237,3 +257,17 @@ How to make Diplomacy useful:
 - Bug: Tavern not disabled in secondary town. No castle in secondary town
 - Weird: adding heroes to a neutral town garrison appears to automatically buy
   some of the dwelling population.
+
+### Play 14 (Red)
+
+- Teal's heroes gets stuck outside town. Might be related to town priority?
+- Red doesn't have a window of the magi
+
+### Play 15 (Red)
+
+- Bug: AI seems to get confused by RevertDwellingOwner. It just hangs out by
+  the dwelling trying to re-flag it. Don't run the event if
+  the dwelling owner is a computer player. It does seem to get unconfused
+  eventually
+  - This fix seems to work.
+- Bug: build the dang bridge between order and east chaos
