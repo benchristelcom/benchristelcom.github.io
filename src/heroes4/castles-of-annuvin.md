@@ -118,7 +118,7 @@ Under consideration and not yet implemented:
 - **Purple Two-Way Portal** goes to Teal's prologue area
 - **Teal Two-Way Portal** connects Teal to a high-conflict area near Blue
 
-### Towns
+### Town Names
 
 #### Life
 
