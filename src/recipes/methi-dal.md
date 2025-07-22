@@ -55,7 +55,7 @@ When the tempering is done, add it to the lentils so the flavors have time to bl
 
 ## Notes
 
-You can substitute yellow split peas for lentils, but you'll have to observe the following changes:
+You can substitute yellow split peas (a.k.a. pigeon peas / toor dal) for lentils, but you'll have to observe the following changes:
 
 - rinse the split peas thoroughly until they stop producing foam.
 - cook them separately (45–60 minutes) and add them to the tomatoes and onions at the point where you'd add raw lentils.
