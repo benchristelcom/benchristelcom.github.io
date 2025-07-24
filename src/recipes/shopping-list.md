@@ -48,3 +48,10 @@
 - Bread flour
 - Chocolate raisins
 - Bulgar
+
+## Cleaning Supplies
+
+- Dish soap
+- Hand soap
+- Dishwasher detergent
+- Laundry detergent
