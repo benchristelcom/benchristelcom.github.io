@@ -787,6 +787,7 @@ See also [my /uses page](/uses).
 
 <div class="col-2"></div>
 
+- [Geocities Backgrounds Collection](https://pixelmoondust.neocities.org/archives/archivedtiles/backgroundsindex) by Pixel Moondust <hs-meta keywords="tiling textures"></hs-meta>
 - [GifCities](https://gifcities.org/) - Archived gifs from Geocities websites.
 - [TextureTown](https://textures.neocities.org/) - Thousands of textures to use in website backgrounds and 3D worlds.
 - [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - website backgrounds on Toptal.com (h/t [eev.ee](https://eev.ee/)).<span inert>tiling textures</span>
