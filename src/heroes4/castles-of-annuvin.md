@@ -61,6 +61,11 @@ scripts and customizations to give it some help.
 - Each computer player starts with 6 heroes in addition to 1 week's worth of
   level 1 creatures in the town (80 PEONs).
 - The AI priority of Castle towns is set to Vital.
+- Teal's starting necromancers have Advanced Necromancy. Teal seemed to lag
+  behind in several test games so I gave it a boost.
+- Build creature dwellings automatically in AI starting towns. In e.g. Beebee
+  and the Three Pigs, the towns have creature dwellings through level 3 at the
+  start. Currently, this is only implemented for Teal.
 
 Under consideration and not yet implemented:
 
@@ -151,12 +156,24 @@ Under consideration and not yet implemented:
 
 ## TODO
 
+- Fix bug: eye of magi is no longer pointed at Eillyn
+- Build creature dwellings through level 3 in starting towns of computer players
+- Create starting areas for Green and Purple.
+- Red lags behind the army strength curve, and has the most vulnerable town.
+  Maybe give them one of:
+  - stronger hero at the start, but no troops. This would work well with the
+    storyline.
+  - more dwellings
+  - free Breeding Pens
+  - a second town?
+  - Remember, Red already has the advantage of owning all creature dwellings on
+    the map — but this gets nerfed the more AIs are in play.
+- Put conservatories in neutral areas - magic heroes in prisons have no spells
+- Remove free mines for blue and orange (bottom right underground)
 - rename Azabes
   - maybe to Malaga or Jerez?
 - Make buildings consistent in starting towns
 - Add storyline event: explain why dwellings revert owner to Red
-- Add storyline event: hint that the Ring of Greater Negation is needed to
-  defeat Hafgan
 - Scatter tips around the map in signs and bottles
 - Add alternative scoring option (4 castles needed instead of 3, for a
   two-player game)
@@ -277,3 +294,29 @@ Under consideration and not yet implemented:
   eventually
   - This fix seems to work.
 - Bug: build the dang bridge between order and east chaos
+
+### Play 16 (Orange)
+
+- Bug: the 6-hero army moved?
+- Need more mines and trading posts in neutral areas
+- Bug: ban tavern, castle in Durg
+
+### Play 17 (Red)
+
+- Put conservatories in neutral areas - magic heroes in prisons have no spells
+- Blue needs eye of the magi
+
+### Play 18 (Red)
+
+- For some reason, Orange starts with dozens of medusas, and Teal starts with
+  no level 2s. Why??
+  - there was an extra timed event on the Orange town that gave it medusas if
+    Orange was a CPU.
+
+### Play 19 (Red)
+
+- Why does the Blue AI get level 3s, but Orange and Teal don't?
+- Orange apparently built the spawning pit after capturing Durg. Teal couldn't
+  seem to figure it out. Why?
+- OMG Teal gets venom spawn in week 2 of month 3
+- Bug: eye of magi is no longer pointed at Eillyn
