@@ -52,6 +52,19 @@ How to make Diplomacy useful:
 >
 > — http://www.heroesofmightandmagic.com/heroes4/mightskills.shtml
 
+Stuff that should be in high-conflict areas:
+
+- prisons/heroes
+- spell powerups (conservatories and shrines)
+- skills (veteran's guild, library, and altars)
+- levels (tree of knowledge, arenas)
+- buffs (fountains, temples, various blesses)
+- dungeons
+- stat gems
+- items
+  - a hero can carry 13 items. Therefore, there should be a prison for each ~13
+    items on the map.
+
 ## Computer Player Customizations and Handicaps
 
 The Heroes IV AI is very weak on the adventure map. I have added the following
@@ -156,8 +169,6 @@ Under consideration and not yet implemented:
 
 ## TODO
 
-- Fix bug: eye of magi is no longer pointed at Eillyn
-- Build creature dwellings through level 3 in starting towns of computer players
 - Create starting areas for Green and Purple.
 - Red lags behind the army strength curve, and has the most vulnerable town.
   Maybe give them one of:
@@ -168,7 +179,6 @@ Under consideration and not yet implemented:
   - a second town?
   - Remember, Red already has the advantage of owning all creature dwellings on
     the map — but this gets nerfed the more AIs are in play.
-- Put conservatories in neutral areas - magic heroes in prisons have no spells
 - Remove free mines for blue and orange (bottom right underground)
 - rename Azabes
   - maybe to Malaga or Jerez?
@@ -320,3 +330,14 @@ Under consideration and not yet implemented:
   seem to figure it out. Why?
 - OMG Teal gets venom spawn in week 2 of month 3
 - Bug: eye of magi is no longer pointed at Eillyn
+
+### Play 20 (Green)
+
+- Bug: taverns not deleted when hero gate opened - FIXED
+- I have ZERO gold at the start. - FIXED
+- No sanctuary! Both my heroes died - FIXED
+- Bug: I can build the tavern in Deer's Leap - FIXED
+- Where are all the magic shrines and altars? - FIXED
+- Bug: No city hall in Deer's Leap - FIXED
+- Need more gold and resources early - FIXED
+- Lake is 1 tile too wide to cross in 1 day
