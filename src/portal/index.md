@@ -539,6 +539,7 @@ This section is for the official web presences of non-web entities.
 - [Visual Studio Code](https://code.visualstudio.com/) <hs-meta keywords="vscode"></hs-meta>
 - [Vite](https://vite.dev/)
 - [WebAssembly](https://webassembly.org/)
+- [Willow Protocol](https://willowprotocol.org/)
 - [Yarn v1](https://classic.yarnpkg.com/lang/en/)
 - [Yarn v3](https://v3.yarnpkg.com/)
 - [Yarn v4](https://yarnpkg.com/)
