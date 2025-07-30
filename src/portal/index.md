@@ -521,6 +521,7 @@ This section is for the official web presences of non-web entities.
 - [ImageMagick](https://imagemagick.org/)
 - [JetBrains](https://www.jetbrains.com/)
 - [jq](https://jqlang.github.io/jq/manual/)
+- [JSR](https://jsr.io/)
 - [Linux (kernel.org)](https://kernel.org)
 - [Linux Mint](https://www.linuxmint.com/) - [forums](https://forums.linuxmint.com/)
 - [Lit](https://lit.dev/)
