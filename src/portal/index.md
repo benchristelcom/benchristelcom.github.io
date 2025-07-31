@@ -670,21 +670,21 @@ This section is for the official web presences of non-web entities.
 - [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) - Patrick McKenzie
 - [Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) - Noah Sussman
 - [PHP: a fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/) - Evelyn Woods
-- [Making Badass Developers (Video)](https://benchristel.github.io/yt#FKTxC9pl-WM) - Kathy Sierra <span inert>videos</span>
+- [Making Badass Developers (Video)](https://benchristel.github.io/yt#FKTxC9pl-WM) - Kathy Sierra <hs-meta keywords="videos"></hs-meta>
 - [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) - Alexis King
 - [Local-first software: You own your data, in spite of the cloud](https://www.inkandswitch.com/local-first/) - Kleppmann, Wiggins, van Hardenberg, and McGranaghan
-- [Boundaries (Video)](https://www.destroyallsoftware.com/talks/boundaries) - Gary Bernhardt <span inert>videos</span>
-- [Functional Core, Imperative Shell (Video)](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell) - Gary Bernhardt <span inert>videos</span>
-- [Wat (Video)](https://www.destroyallsoftware.com/talks/wat) - Gary Bernhardt <span inert>videos</span>
-- [A Whole New World (Video)](https://www.destroyallsoftware.com/talks/a-whole-new-world) - Gary Bernhardt <span inert>videos</span>
-- [The Birth and Death of JavaScript (Video)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) - Gary Bernhardt <span inert>videos</span>
-- [Agile is Dead (Video)](https://www.youtube.com/watch?v=a-BOSpxYJ9M) - Dave Thomas <span inert>videos</span>
-- [TDD: Where did it all go wrong? (Video)](https://www.youtube.com/watch?v=EZ05e7EMOLM) - Ian Cooper <span inert>videos</span>
+- [Boundaries (Video)](https://www.destroyallsoftware.com/talks/boundaries) - Gary Bernhardt <hs-meta keywords="videos"></hs-meta>
+- [Functional Core, Imperative Shell (Video)](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell) - Gary Bernhardt <hs-meta keywords="videos"></hs-meta>
+- [Wat (Video)](https://www.destroyallsoftware.com/talks/wat) - Gary Bernhardt <hs-meta keywords="videos"></hs-meta>
+- [A Whole New World (Video)](https://www.destroyallsoftware.com/talks/a-whole-new-world) - Gary Bernhardt <hs-meta keywords="videos"></hs-meta>
+- [The Birth and Death of JavaScript (Video)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) - Gary Bernhardt <hs-meta keywords="videos"></hs-meta>
+- [Agile is Dead (Video)](https://www.youtube.com/watch?v=a-BOSpxYJ9M) - Dave Thomas <hs-meta keywords="videos"></hs-meta>
+- [TDD: Where did it all go wrong? (Video)](https://www.youtube.com/watch?v=EZ05e7EMOLM) - Ian Cooper <hs-meta keywords="videos"></hs-meta>
 - [Experience Report: The WyCash Portfolio Management System](https://dl.acm.org/doi/pdf/10.1145/157709.157715) - Ward Cunningham, OOPSLA '92
 - [The pedantic checklist for changing your data model in a web application](https://rtpg.co/2021/06/07/changes-checklist.html) - Raphael Gaschignard
 - [The Divio Documentation System](https://docs.divio.com/documentation-system/) - the four types of documentation: tutorials, how-tos, reference, and explanation.
-- [What's in a Name? Anti-patterns to a Hard Problem](https://www.sitepoint.com/whats-in-a-name-anti-patterns-to-a-hard-problem/) - Katrina Owen <span inert>idea fragment implementation</span>
-- [Naming as a Process](https://www.digdeeproots.com/articles/on/naming-process/) - Arlo Belshee <span inert>naming is a process not a single step</span>
+- [What's in a Name? Anti-patterns to a Hard Problem](https://www.sitepoint.com/whats-in-a-name-anti-patterns-to-a-hard-problem/) - Katrina Owen <hs-meta keywords="idea fragment implementation"></hs-meta>
+- [Naming as a Process](https://www.digdeeproots.com/articles/on/naming-process/) - Arlo Belshee <hs-meta keywords="naming is a process not a single step"></hs-meta>
 
 ### Reference
 
