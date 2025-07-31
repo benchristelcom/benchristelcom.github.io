@@ -540,7 +540,6 @@ This section is for the official web presences of non-web entities.
 - [Visual Studio Code](https://code.visualstudio.com/) <hs-meta keywords="vscode"></hs-meta>
 - [Vite](https://vite.dev/)
 - [WebAssembly](https://webassembly.org/)
-- [Willow Protocol](https://willowprotocol.org/)
 - [Yarn v1](https://classic.yarnpkg.com/lang/en/)
 - [Yarn v3](https://v3.yarnpkg.com/)
 - [Yarn v4](https://yarnpkg.com/)
@@ -552,6 +551,7 @@ This section is for the official web presences of non-web entities.
 
 - [C++](https://en.cppreference.com/w/) <hs-meta keywords="cpp"></hs-meta>
 - [ECMAScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) a.k.a. JavaScript
+- [EditorConfig](https://editorconfig.org/)
 - [GraphQL Specification](http://spec.graphql.org)
 - [JSDoc](https://jsdoc.app/)
 - [json.org](https://json.org/)
@@ -561,6 +561,7 @@ This section is for the official web presences of non-web entities.
 - [HTML Specification](https://html.spec.whatwg.org)
 - [URL Specification](https://url.spec.whatwg.org)
 - [Semantic Versioning](https://semver.org)
+- [Willow Protocol](https://willowprotocol.org/)
 
 ### U.S. Government
 
