@@ -549,18 +549,18 @@ This section is for the official web presences of non-web entities.
 
 <div class="col-3"></div>
 
+- [Atom Syndication Format Specification](https://www.rfc-editor.org/rfc/rfc4287)
 - [C++](https://en.cppreference.com/w/) <hs-meta keywords="cpp"></hs-meta>
 - [ECMAScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) a.k.a. JavaScript
 - [EditorConfig](https://editorconfig.org/)
 - [GraphQL Specification](http://spec.graphql.org)
+- [HTML Specification](https://html.spec.whatwg.org)
 - [JSDoc](https://jsdoc.app/)
 - [json.org](https://json.org/)
 - [jwt.io](https://jwt.io/) - JSON Web Tokens
 - [RSS 2.0 Specification](https://www.rssboard.org/rss-specification). [Mirror](https://cyber.harvard.edu/rss/rss.html).
-- [Atom Syndication Format Specification](https://www.rfc-editor.org/rfc/rfc4287)
-- [HTML Specification](https://html.spec.whatwg.org)
-- [URL Specification](https://url.spec.whatwg.org)
 - [Semantic Versioning](https://semver.org)
+- [URL Specification](https://url.spec.whatwg.org)
 - [Willow Protocol](https://willowprotocol.org/)
 
 ### U.S. Government
