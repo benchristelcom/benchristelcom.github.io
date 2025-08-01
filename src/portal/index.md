@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
 <title>{{title}}</title>
-<meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="https://benchristel.com/feed.rss">
 <style>
 * {
@@ -312,7 +312,7 @@ html {
 <search>
   <h2 id="search" class="sr-only">Search</h2>
   <div style="text-align: center">
-    <input data-hypersearch type="search" list="search-shortcuts" placeholder="Search the web and this page" aria-labelledby="search"/>
+    <input data-hypersearch type="search" list="search-shortcuts" placeholder="Search the web and this page" aria-labelledby="search">
     <button id="ddg" data-search="https://html.duckduckgo.com/html?q=%s">DuckDuckGo</button>
     <button id="marginalia" data-search="https://old-search.marginalia.nu//search?query=%s">Marginalia</button>
     <button id="yt" data-search="https://youtube.com/results?search_query=%s">YouTube</button>
@@ -1098,7 +1098,7 @@ into one searchable, cross-referenced database.
 
 ## Settings
 
-- <label><input type="checkbox" id="autofocus-checkbox" /> Automatically focus the search field on page load.</label>
+- <label><input type="checkbox" id="autofocus-checkbox"> Automatically focus the search field on page load.</label>
 
 <div class="space-32"></div>
 
@@ -1120,7 +1120,7 @@ HREFS BELOW
 [Melon]: https://melonking.net/
 [Seirdy]: https://seirdy.one/
 
-<script defer type="module" src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.5.1"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.5.1"></script>
 <script>
 const elById = document.getElementById.bind(document)
 const searchInput = document.querySelector("input[type=search]")
