@@ -564,6 +564,7 @@ This section is for the official web presences of non-web entities.
 - [jwt.io](https://jwt.io/) - JSON Web Tokens
 - [RSS 2.0 Specification](https://www.rssboard.org/rss-specification). [Mirror](https://cyber.harvard.edu/rss/rss.html).
 - [Semantic Versioning](https://semver.org)
+- [Semantic Versioning for TypeScript Types](https://www.semver-ts.org/)
 - [URL Specification](https://url.spec.whatwg.org)
 - [Willow Protocol](https://willowprotocol.org/)
 

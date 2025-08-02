@@ -67,12 +67,14 @@ project.
 
 - Documentation generator. Ideally, I'd like to use a "literate programming
   lite" style where I can write [JSDoc] comments and have a website generated
-  automatically from that. However, getting JSDoc to fully understand TypeScript
-  and also integrate with a static site generator seems like it might be an
-  unsolved problem.
+  automatically from that.
+  - [true-myth] [uses][1] [typedoc] for this purpose.
 - Performance testing tools.
 
+[1]: https://github.com/true-myth/true-myth/blob/main/package.json
+[true-myth]: https://true-myth.js.org/
 [TypeScript]: https://www.typescriptlang.org/
+[typedoc]: https://typedoc.org/
 [Node.js]: https://nodejs.org/
 [nvm]: https://github.com/nvm-sh/nvm
 [pnpm]: https://pnpm.io/
