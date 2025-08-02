@@ -1,7 +1,7 @@
 # Metrics for benchristel.com
 
 Created: July 4, 2024.<br>
-Updated: July 6, 2025.
+Updated: August 1, 2025.
 
 ## Background
 
@@ -36,7 +36,7 @@ Run `tools/metrics HISTORYFILE`
 
 | Month    | Webpages | Google searches | DDG searches |
 | -------- | -------- | --------------- | ------------ |
-| Jul 2025 |          |                 |              |
+| Jul 2025 | 558      | 0               | 0            |
 | Jun 2025 | 821      | 0               | 0            |
 | May 2025 | 963      | 0               | 4            |
 | Apr 2025 | 769      | 0               | 7            |
@@ -56,6 +56,11 @@ Run `tools/metrics HISTORYFILE`
 | Feb 2024 | 1435     | 6               | 160          |
 
 ## Notes
+
+### July 2025
+
+I did less web browsing this month because I was working on a Heroes IV map
+— working title Castles of Annuvin.
 
 ### November 2024
 
