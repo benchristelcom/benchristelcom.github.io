@@ -57,6 +57,7 @@ project.
     formatting-only commits cluttering up my git history. Enforcing a
     pre-commit hook in the repo itself ensures I'll never commit badly
     formatted code.
+- [knip] to remove unused code.
 - [bumpp] to do releases
   - Why? It's simple and does what I need. [Changesets] is an alternative I've
     used, but it's designed for large teams that release infrequently.
@@ -72,6 +73,7 @@ project.
 - Performance testing tools.
 
 [1]: https://github.com/true-myth/true-myth/blob/main/package.json
+[knip]: https://knip.dev/
 [true-myth]: https://true-myth.js.org/
 [TypeScript]: https://www.typescriptlang.org/
 [typedoc]: https://typedoc.org/
