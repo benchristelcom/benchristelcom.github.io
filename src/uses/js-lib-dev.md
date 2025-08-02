@@ -10,6 +10,10 @@ project.
   - I'm not thrilled about its level of soundness compared to Flow,
     but it's not too bad if you never mutate objects and you parse JSON inputs
     strictly (discarding unrecognized object fields).
+  - tsconfig.json settings include:
+    - `strict` obviously
+    - `isolatedDeclarations` - for compatibility with [JSR].
+    - `noUncheckedIndexedAccess`
 - [Node.js] v24 as the JS runtime
   - **Why?** It can run TypeScript without a separate compilation step. Node is the
     most popular runtime and the best supported by libraries etc.
@@ -93,3 +97,4 @@ project.
 [bumpp]: https://www.npmjs.com/package/bumpp
 [Changesets]: https://www.npmjs.com/package/@changesets/cli
 [JSDoc]: https://jsdoc.app/
+[JSR]: https://jsr.io/
