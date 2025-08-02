@@ -383,7 +383,6 @@ html {
 <div class="col-2"></div>
 
 - [Indian Healthy Recipes](https://indianhealthyrecipes.com/)
-- [Dassana's Veg Recipes](https://www.vegrecipesofindia.com/) - Indian recipes
 - [Ozlem's Turkish Table](https://ozlemsturkishtable.com/)
 - [Binnur's Turkish Cookbook](https://binnurturkishcookbook.blogspot.com/)
 - [Maangchi](https://maangchi.com/) - Korean recipes
