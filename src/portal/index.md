@@ -408,6 +408,10 @@ html {
 
 See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 
+### Artists
+
+- [In Gowan Ring](https://ingowanring.com/) - Symbolist folk
+
 ### Discovery
 
 - [Every Noise at Once](https://everynoise.com) - A catalog of all music on Spotify by algorithmically-inferred genre. An incredible work of data science by [Glenn McDonald](https://www.furia.com)
@@ -685,6 +689,7 @@ This section is for the official web presences of non-web entities.
 - [The Divio Documentation System](https://docs.divio.com/documentation-system/) - the four types of documentation: tutorials, how-tos, reference, and explanation.
 - [What's in a Name? Anti-patterns to a Hard Problem](https://www.sitepoint.com/whats-in-a-name-anti-patterns-to-a-hard-problem/) - Katrina Owen <hs-meta keywords="idea fragment implementation"></hs-meta>
 - [Naming as a Process](https://www.digdeeproots.com/articles/on/naming-process/) - Arlo Belshee <hs-meta keywords="naming is a process not a single step"></hs-meta>
+- [The Twelve-Factor App](https://12factor.net/) - How to make web apps that are portable, scalable, and easy to develop and deploy.
 
 ### Reference
 
@@ -712,7 +717,8 @@ This section is for the official web presences of non-web entities.
 - [Neocities](https://neocities.org) - Free, indie, social web hosting. A spiritual successor to Geocities.
 - [EU.org](https://nic.eu.org/) - Free subdomain names for individuals and nonprofits.
 - [surge.sh](https://surge.sh) - Put any folder of HTML files on the web instantly.
-- [codeberg.org](https://codeberg.org/) - Free indie git hosting.
+- [codeberg.org](https://codeberg.org/) - Free indie git hosting <hs-meta keywords="github"></hs-meta>
+- [Gitea](https://gitea.com) - Self-hosted git web UI, comparable to GitHub
 - [js.org](https://js.org) - Free subdomains for JavaScript projects using [GitHub Pages](https://pages.github.com/).
 - [List of MediaWiki hosting providers](https://www.mediawiki.org/wiki/Hosting_services) - Create your own wiki!
 
