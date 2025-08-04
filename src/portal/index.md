@@ -823,6 +823,7 @@ See also [my /uses page](/uses).
 
 ### Searching <span inert>web search engines</span>
 
+- [FrogFind](http://frogfind.com/) - Searches the web with DuckDuckGo, but removes all JavaScript and CSS from the linked pages
 - [Stract](https://stract.com/) - A search engine that lets you use customizable filters called [optics](https://stract.com/settings/optics) (h/t [Seirdy])
 - [Search My Site](https://searchmysite.net) - A search engine that only returns results from personal sites. (h/t [C Jackdaw])
 - [Wiby](https://wiby.me/)
