@@ -513,9 +513,11 @@ This section is for the official web presences of non-web entities.
 - [Bun](https://bun.sh/)
 - [CodeMirror](https://codemirror.net/)
 - [DuckDB](https://duckdb.org)
+- [Elixir](https://elixir-lang.org/)
 - [ESLint](https://eslint.org/)
 - [eslint.style](https://eslint.style/)
 - [ExpressJS](https://expressjs.com/)
+- [F#](https://fsharp.org/) <hs-meta keywords="sharp"></hs-meta>
 - [Flathub](https://flathub.org/)
 - [Git](https://git-scm.com)
 - [GNU `make`](https://www.gnu.org/software/make/manual/html_node/index.html)
@@ -539,6 +541,7 @@ This section is for the official web presences of non-web entities.
 - [Python](https://python.org/)
 - [React](https://react.dev/)
 - [Ruby](https://www.ruby-lang.org/)
+- [TC39](https://tc39.es/)
 - [TypeScript](https://typescriptlang.org/)
 - [Visual Studio Code](https://code.visualstudio.com/) <hs-meta keywords="vscode"></hs-meta>
 - [Vite](https://vite.dev/)
