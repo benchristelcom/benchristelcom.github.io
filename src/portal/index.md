@@ -542,6 +542,7 @@ This section is for the official web presences of non-web entities.
 - [React](https://react.dev/)
 - [Ruby](https://www.ruby-lang.org/)
 - [TC39](https://tc39.es/)
+- [TSTyche](https://tstyche.org/)
 - [TypeScript](https://typescriptlang.org/)
 - [Visual Studio Code](https://code.visualstudio.com/) <hs-meta keywords="vscode"></hs-meta>
 - [Vite](https://vite.dev/)
