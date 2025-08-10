@@ -514,6 +514,7 @@ This section is for the official web presences of non-web entities.
 - [CodeMirror](https://codemirror.net/)
 - [DuckDB](https://duckdb.org)
 - [Elixir](https://elixir-lang.org/)
+- [esbuild](https://esbuild.github.io/)
 - [ESLint](https://eslint.org/)
 - [eslint.style](https://eslint.style/)
 - [ExpressJS](https://expressjs.com/)
