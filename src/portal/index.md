@@ -534,6 +534,7 @@ This section is for the official web presences of non-web entities.
 - [Marked](https://marked.js.org/)
 - [MathJax](https://mathjax.org)
 - [NodeJS](https://nodejs.org/)
+- [NPM](https://npmjs.com/) - [docs](https://docs.npmjs.com/)
 - [PeerJS](https://peerjs.com/)
 - [Playwright](https://playwright.dev/)
 - [pnpm](https://pnpm.io/)
@@ -567,6 +568,7 @@ This section is for the official web presences of non-web entities.
 - [JSDoc](https://jsdoc.app/)
 - [json.org](https://json.org/)
 - [jwt.io](https://jwt.io/) - JSON Web Tokens
+- [NPM package.json](https://docs.npmjs.com/cli/v8/configuring-npm/package-json)
 - [RSS 2.0 Specification](https://www.rssboard.org/rss-specification). [Mirror](https://cyber.harvard.edu/rss/rss.html).
 - [Semantic Versioning](https://semver.org)
 - [Semantic Versioning for TypeScript Types](https://www.semver-ts.org/)
