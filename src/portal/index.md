@@ -543,6 +543,7 @@ This section is for the official web presences of non-web entities.
 - [Python](https://python.org/)
 - [React](https://react.dev/)
 - [Ruby](https://www.ruby-lang.org/)
+- [ShellCheck](https://www.shellcheck.net/)
 - [swc](https://swc.rs) <hs-meta keywords="speedy web compiler"></hs-meta>
 - [TC39](https://tc39.es/)
 - [TSTyche](https://tstyche.org/)
