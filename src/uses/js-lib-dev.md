@@ -74,6 +74,7 @@ project.
   lite" style where I can write [JSDoc] comments and have a website generated
   automatically from that.
   - [true-myth] [uses][1] [typedoc] for this purpose.
+  - [typedoc-plugin-markdown](https://typedoc-plugin-markdown.org/) looks promising for integrating with vitepress, docusaurus, or mdsite.
 - Performance testing tools.
 
 [1]: https://github.com/true-myth/true-myth/blob/main/package.json
