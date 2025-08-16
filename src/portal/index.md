@@ -547,7 +547,7 @@ This section is for the official web presences of non-web entities.
 - [swc](https://swc.rs) <hs-meta keywords="speedy web compiler"></hs-meta>
 - [TC39](https://tc39.es/)
 - [TSTyche](https://tstyche.org/)
-- [TypeScript](https://typescriptlang.org/)
+- [TypeScript](https://typescriptlang.org/) - [Play](https://www.typescriptlang.org/play/)
 - [Visual Studio Code](https://code.visualstudio.com/) <hs-meta keywords="vscode"></hs-meta>
 - [Vite](https://vite.dev/)
 - [WebAssembly](https://webassembly.org/)  <hs-meta keywords="wasm"></hs-meta>
