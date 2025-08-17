@@ -513,7 +513,7 @@ This section is for the official web presences of non-web entities.
 - [Bun](https://bun.sh/)
 - [CodeMirror](https://codemirror.net/)
 - [DuckDB](https://duckdb.org)
-- [Elixir](https://elixir-lang.org/)
+- [Elixir](https://elixir-lang.org/) - [Docs](https://hexdocs.pm/)
 - [esbuild](https://esbuild.github.io/)
 - [ESLint](https://eslint.org/)
 - [eslint.style](https://eslint.style/)
