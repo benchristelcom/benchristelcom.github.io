@@ -711,6 +711,7 @@ This section is for the official web presences of non-web entities.
 - [Emojipedia](https://emojipedia.org) - search for emoji
 - [man7.org](https://man7.org/) - Unix manual pages
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - on [css-tricks.com](https://css-tricks.com)
+- [CSS Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [caniuse.com](https://caniuse.com) - Find out which browsers support a given feature (in JavaScript, CSS, HTML, or SVG).
 - [MemoryManagement.org](https://www.memorymanagement.org/) - Approaches to garbage collection and more.
 - [List of Common MIME Types](https://developer.mozilla.org/en-US/docs/Web/HTTP/MIME_types/Common_types) on MDN
