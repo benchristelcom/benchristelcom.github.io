@@ -551,6 +551,7 @@ This section is for the official web presences of non-web entities.
 - [Visual Studio Code](https://code.visualstudio.com/) <hs-meta keywords="vscode"></hs-meta>
 - [Vite](https://vite.dev/)
 - [Vitepress](https://vitepress.dev/)
+- [VSCodium](https://vscodium.com/) <hs-meta keywords="vscode visual studio code"></hs-meta>
 - [WebAssembly](https://webassembly.org/)  <hs-meta keywords="wasm"></hs-meta>
 - [Yarn v1](https://classic.yarnpkg.com/lang/en/)
 - [Yarn v3](https://v3.yarnpkg.com/)
