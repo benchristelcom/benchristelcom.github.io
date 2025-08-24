@@ -510,6 +510,7 @@ This section is for the official web presences of non-web entities.
 <div class="col-4"></div>
 
 - [Arch Linux](https://archlinux.org/)
+- [Benchmark.js](https://benchmarkjs.com/)
 - [Bun](https://bun.sh/)
 - [CodeMirror](https://codemirror.net/)
 - [DuckDB](https://duckdb.org)
