@@ -787,6 +787,7 @@ See also [my /uses page](/uses).
 - [How to mount an HFS+ (macOS) drive as read-write on Linux (Debian-based)](https://unix.stackexchange.com/questions/639476/how-to-mount-hfs-drive-as-read-write-on-startup)
   - `apt install hfsprogs`
   - `sudo mount -o rw,remount,force /dev/sda2`
+- [How to make an android dumbphone](https://www.marginalia.nu/misc/android-dumbphone/) by Viktor Löfgren
 
 ## Image Repositories<hs-meta keywords="free stock images"></hs-meta>
 
