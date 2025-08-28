@@ -532,6 +532,7 @@ This section is for the official web presences of non-web entities.
 - [Linux (kernel.org)](https://kernel.org)
 - [Linux Mint](https://www.linuxmint.com/) - [forums](https://forums.linuxmint.com/)
 - [Lit](https://lit.dev/)
+- [Lodash](https://lodash.com/)
 - [Marked](https://marked.js.org/)
 - [MathJax](https://mathjax.org)
 - [NodeJS](https://nodejs.org/)
@@ -542,6 +543,7 @@ This section is for the official web presences of non-web entities.
 - [Preact](https://preactjs.com/)
 - [Prettier](https://prettier.io)
 - [Python](https://python.org/)
+- [Ramda](https://ramdajs.com/)
 - [React](https://react.dev/)
 - [RSpec](https://rspec.info/)
 - [Ruby](https://www.ruby-lang.org/)
@@ -550,6 +552,7 @@ This section is for the official web presences of non-web entities.
 - [TC39](https://tc39.es/)
 - [TSTyche](https://tstyche.org/)
 - [TypeScript](https://typescriptlang.org/) - [Play](https://www.typescriptlang.org/play/)
+- [Underscore.js](https://underscorejs.org/)
 - [Visual Studio Code](https://code.visualstudio.com/) <hs-meta keywords="vscode"></hs-meta>
 - [Vite](https://vite.dev/)
 - [Vitepress](https://vitepress.dev/)
