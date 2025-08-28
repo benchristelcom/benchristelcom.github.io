@@ -543,6 +543,7 @@ This section is for the official web presences of non-web entities.
 - [Prettier](https://prettier.io)
 - [Python](https://python.org/)
 - [React](https://react.dev/)
+- [RSpec](https://rspec.info/)
 - [Ruby](https://www.ruby-lang.org/)
 - [ShellCheck](https://www.shellcheck.net/)
 - [swc](https://swc.rs) <hs-meta keywords="speedy web compiler"></hs-meta>
