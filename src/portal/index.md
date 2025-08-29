@@ -505,7 +505,7 @@ This section is for the official web presences of non-web entities.
 - [Heroes of Might and Magic](http://www.heroesofmightandmagic.com/heroes4/heroesofmightandmagic4iv.shtml)
 - [Zero-K](https://zero-k.info)
 
-### Software - Operating Systems, Dev Tools, and Libraries
+### Software - Operating Systems, Dev Tools, Programming Languages, and Libraries
 
 <div class="col-4"></div>
 
@@ -523,6 +523,7 @@ This section is for the official web presences of non-web entities.
 - [Flathub](https://flathub.org/)
 - [Git](https://git-scm.com)
 - [GNU `make`](https://www.gnu.org/software/make/manual/html_node/index.html)
+- [Haskell](https://www.haskell.org/)
 - [Homebrew](https://brew.sh)
 - [Husky](https://typicode.github.io/husky/)
 - [ImageMagick](https://imagemagick.org/)
