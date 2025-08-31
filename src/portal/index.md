@@ -491,14 +491,15 @@ This section is for the official web presences of non-web entities.
 
 <div class="col-3"></div>
 
-- [Firefox](https://firefox.com/) <hs-meta keywords="mozilla"></hs-meta>
+- [Firefox](https://firefox.com/) <hs-meta keywords="mozilla browser"></hs-meta>
 - [Firefox Browser Add-ons](https://addons.mozilla.org/) <hs-meta keywords="plugins extensions addons"></hs-meta>
 - [Gimp](https://gimp.org) - [docs](https://docs.gimp.org)
 - [kdenlive](https://kdenlive.org/) - Video editor for Linux
-- [LeechBlock](https://www.proginosko.com/leechblock/)
+- [LeechBlock](https://www.proginosko.com/leechblock/) <hs-meta keywords="plugins extensions addons"></hs-meta>
+- [LibreWolf](https://librewolf.net/) <hs-meta keywords="browser firefox"></hs-meta>
 - [OpenShot](https://www.openshot.org/) - Video editor for Linux
 - [Surfraw](http://surfraw.org/)
-- [uBlock Origin](https://ublockorigin.com/)
+- [uBlock Origin](https://ublockorigin.com/) <hs-meta keywords="plugins extensions addons advert blocker"></hs-meta>
 
 ### Software - Games
 
