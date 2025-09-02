@@ -26,7 +26,9 @@ span[inert] { position: absolute; width: 1px; height: 1px; overflow: hidden; }
 
 ## Phone
 
-- Feature phone (a.k.a. dumbphone, flip phone). Can't recommend the one I currently have, so no link. If you want to make the switch, avoid KaiOS. It's absolutely riddled with bugs and performance issues.
+- Feature phone (a.k.a. dumbphone, flip phone). Can't recommend the one I currently have, so no link. If you want to make the switch, avoid KaiOS. It's absolutely riddled with bugs and performance issues. You might want to check [r/dumbphones] for recommendations.
+
+[r/dumbphones]: https://www.reddit.com/r/dumbphones
 
 ## Web browser
 
