@@ -1,9 +1,11 @@
 +youtube.com/@*
++youtube.com/c/*
 +youtube.com/channel*
 +youtube.com/playlist*
 +youtube.com/results
 +youtube.com/results*
 +youtube.com/watch*
++youtube.com/account*
 +substack.com/chat*
 +*.gov/*
 +*.edu/*
