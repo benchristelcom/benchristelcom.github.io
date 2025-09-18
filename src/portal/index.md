@@ -1103,7 +1103,7 @@ into one searchable, cross-referenced database.
 - [Bliki](https://github.com/benchristel/benchristel.github.io/wiki) - My personal blog/wiki about software, with 250+ topic-focused pages on everything from [abstraction](https://github.com/benchristel/benchristel.github.io/wiki/Abstraction) to [wholeness](https://github.com/benchristel/benchristel.github.io/wiki/Wholeness).
 - [The Wayward Web](https://waywardweb.org) - A webring. A collaborative effort to map the useful, human parts of the web.
 - [Druthers](https://druthers.app) - Instantly grok your group's priorities with ranked-choice voting. A collaboration with [Gavin Morgan](https://gavmor.com). 
-- [Culture Machine](https://tv.benchristel.com/) - The app I wrote to break my YouTube addiction (it worked). Emotionally-stabilizing videos played continuously in an unskippable random sequence.
+- [Culture Machine](https://tv.benchristel.com/) - The app I wrote to break my YouTube addiction (it worked). Emotionally-stabilizing "[iyashikei]" videos played continuously in an unskippable random sequence.
 - [mdsite](https://benchristel.github.io/mdsite) - A modern generator for old-school static sites. It turns any tree of [Markdown] files into a website, complete with auto-generated navigation links. It's also the tool I used to create this webpage!
 - [Taste](https://npmjs.com/package/@benchristel/taste) - Simple, speedy JavaScript test framework
 - [yt](https://benchristel.github.io/yt/) - Watch YouTube without ads or tracking. Pairs great with [LeechBlock](https://www.proginosko.com/leechblock/).
@@ -1117,6 +1117,8 @@ into one searchable, cross-referenced database.
 - [LynX](https://github.com/benchristel/LynX) - My Linux Mint theme. Re-skins Linux to look and feel like "big cat"-era Mac OSX. Don't ask me how it's pronounced.
 - [autokeyconf](https://github.com/benchristel/autokeyconf) - Rebinds shortcut keys system-wide on Linux.
 - ["Frost" theme for Docky](https://github.com/benchristel/docky-frost) - An OSX-style dock for Linux.
+
+[iyashikei]: https://innerspiral.lol/blog-entry-13
 
 ## Webring<hs-meta keywords="ring wayward"></hs-meta>
 
