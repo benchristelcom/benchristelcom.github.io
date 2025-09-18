@@ -538,6 +538,7 @@ This section is for the official web presences of non-web entities.
 - [Marked](https://marked.js.org/)
 - [MathJax](https://mathjax.org)
 - [NodeJS](https://nodejs.org/)
+- [Node Version Manager](https://github.com/nvm-sh/nvm)
 - [NPM](https://npmjs.com/) - [docs](https://docs.npmjs.com/)
 - [PeerJS](https://peerjs.com/)
 - [Playwright](https://playwright.dev/)
