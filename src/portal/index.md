@@ -641,6 +641,7 @@ This section is for the official web presences of non-web entities.
 - [Deming](https://deming.org/)
 - [Dewey Decimal System](https://dewey.org/)
 - [KDE](https://kde.org/)
+- [KFF](https://www.kff.org/) (formerly the Kaiser Family Foundation) - public health data
 - [Reuters](https://www.reuters.com/)
 - [WHATWG](https://whatwg.org) - The Web Hypertext Application Technology Working Group
 - [World Wide Web Consortium](https://w3.org)
@@ -1034,6 +1035,7 @@ h/t [Low Tech Magazine](https://solar.lowtechmagazine.com/2010/06/how-to-tie-the
 ## Publicly Available Data
 
 - [FAA Registry N-Number Search](https://registry.faa.gov/AircraftInquiry/Search/NNumberInquiry) - look up public data on aircraft by n-number (tail number).
+- [KFF](https://www.kff.org/) (formerly the Kaiser Family Foundation) - public health data
 - [Macrotrends](https://macrotrends.net) - economic and financial data over time
 
 ## Archives and Archiving Tools
