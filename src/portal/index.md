@@ -642,7 +642,8 @@ This section is for the official web presences of non-web entities.
 - [Dewey Decimal System](https://dewey.org/)
 - [KDE](https://kde.org/)
 - [KFF](https://www.kff.org/) (formerly the Kaiser Family Foundation) - public health data
-- [Reuters](https://www.reuters.com/)
+- [The Open Data Institute](https://theodi.org/) (ODI) - [open standards](https://standards.theodi.org/find-existing-standards/)
+- [Reuters](https://www.reuters.com/) - world news
 - [WHATWG](https://whatwg.org) - The Web Hypertext Application Technology Working Group
 - [World Wide Web Consortium](https://w3.org)
 
