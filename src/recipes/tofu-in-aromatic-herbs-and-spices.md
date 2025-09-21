@@ -6,10 +6,10 @@ Adapted from _Classic Indian Cooking_ by Julie Sahni.
 
 ## Ingredients
 
-- 2 containers of firm tofu
+- 2 lbs firm tofu
 - 1/2 lemon
 - 1/2 tsp Kosher salt
-- 5 tbsp vegetable oil 
+- 5 Tbsp vegetable oil
 - 2 cups chopped onions 
 - 1-2 Tbsp finely chopped garlic 
 - 1-2 Tbsp chopped fresh ginger. 
