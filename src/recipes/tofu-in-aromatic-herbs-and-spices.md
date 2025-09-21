@@ -8,7 +8,7 @@ Adapted from _Classic Indian Cooking_ by Julie Sahni.
 
 - 2 containers of firm tofu
 - 1/2 lemon
-- 1/2 tsp Kosher salt (15-30 min) 
+- 1/2 tsp Kosher salt
 - 5 tbsp vegetable oil 
 - 2 cups chopped onions 
 - 1-2 Tbsp finely chopped garlic 
