@@ -587,11 +587,12 @@ This section is for the official web presences of non-web entities.
 - [URL Specification](https://url.spec.whatwg.org)
 - [Willow Protocol](https://willowprotocol.org/)
 
-### U.S. Government
+### U.S. Government<hs-meta keywords="united states"></hs-meta>
 
 - [Bureau of Labor Statistics](https://data.bls.gov)
 - [Federal Aviation Administration](https://www.faa.gov/)
 - [Internal Revenue Service](https://www.irs.gov/)
+- [USGS](https://www.usgs.gov/)<hs-meta keywords="geological survey"></hs-meta>
 
 ### Academic <hs-meta keywords="academia university universities"></hs-meta>
 
