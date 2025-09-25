@@ -514,6 +514,7 @@ This section is for the official web presences of non-web entities.
 - [Benchmark.js](https://benchmarkjs.com/)
 - [Bun](https://bun.sh/)
 - [CodeMirror](https://codemirror.net/)
+- [Deno](https://deno.com/)
 - [DuckDB](https://duckdb.org)
 - [Elixir](https://elixir-lang.org/) - [Docs](https://hexdocs.pm/)
 - [esbuild](https://esbuild.github.io/)
