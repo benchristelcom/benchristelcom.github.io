@@ -773,6 +773,7 @@ See also [my /uses page](/uses).
 <div class="col-2"></div>
 
 - [Bundlephobia](https://bundlephobia.com) - View the size and composition of NodeJS / JavaScript packages on NPM. Includes comparisons to similar libraries. Useful for keeping your JS bundles small.
+- [deps.dev](https://deps.dev/) - Explore the dependencies of open source software.
 - [jsdelivr](https://jsdelivr.com/) - CDN that distributes code from NPM and GitHub, with neat features like automatic minification.
 - [Namecheap](https://namecheap.com/) - Domain registrar
 - [Markdown] - Lightweight markup syntax that bridges the gap between plain text and HTML. Designed by [John Gruber](https://daringfireball.net).
