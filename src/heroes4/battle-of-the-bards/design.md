@@ -32,9 +32,17 @@ The player alignments are fixed.
   each other.
 - Players start with only a level 1 hero. No towns, money, or creatures.
 - Free resources and campfires are scattered around to reward exploration.
+- There are placed events scattered around the map that give XP to the first
+  hero to encounter them.
 - Each player starts near a Sanctuary so they can resurrect heroes who die.
 - Each player starts near a town that they should be able to capture within a
   few weeks.
+
+## Ideas
+
+- scroll of Town Gate
+- a higher-level combat hero who can help you through the early battles (but
+  takes half the XP!) and resurrect you if you die.
 
 ## Victory Script
 
