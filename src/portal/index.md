@@ -618,6 +618,7 @@ This section is for the official web presences of non-web entities.
 <div class="col-3"></div>
 
 - [Framework Laptops](https://frame.work)
+- [Greenwaste](https://greenwaste.com)
 - [WASD Keyboards](https://www.wasdkeyboards.com)
 - [Sunridge Farms](https://sunridgefarms.com/)
 - [Monterey Bay Herb Company](https://herbco.com/)
