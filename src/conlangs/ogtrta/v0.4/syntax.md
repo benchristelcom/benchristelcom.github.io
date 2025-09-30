@@ -29,7 +29,7 @@ OGTRTA recognizes four parts of speech or _word classes_. Each class is either _
 
 **Nouns** are straightforward: a noun refers to a person, place, thing, or idea. Noun nodes are written `N` in the formal syntax.
 
-**Verbs** in OGTRTA are a little bit different from English verbs. OGTRTA has no adjectives or prepositions, so verbs fill the role of both. It is possible, though, to emulate adjectives and prepositions; see the [extensions](./extensions.md) page for ideas. Verb nodes are written `V` in the formal syntax.
+**Verbs** in OGTRTA refer to actions, states, qualities, and relations. OGTRTA does not have separate classes for adjectives and prepositions, so verbs fill the role of both. It is possible, though, to emulate separate classes of adjectives and prepositions; see the [extensions](./extensions.md) page for ideas. Verb nodes are written `V` in the formal syntax.
 
 **Conjunctions** connect syntax nodes (phrases and sentences) as peers — i.e. without subordinating one node to the other. English conjunctions include such useful words as "and", "or", "while", "because", "so", and so on. Conjunction nodes are written `CONJ` in the formal syntax.
 
@@ -37,7 +37,7 @@ OGTRTA recognizes four parts of speech or _word classes_. Each class is either _
 
 ### Valence
 
-Every noun and verb has a **valence**, a number which determines how many _complements_ must follow it in the syntax tree. The complements of a word are always noun phrases, and are similar to _objects_ (e.g. the _direct object_ and _indirect object_ of a verb) in traditional grammar. Knowing the valence of each word enables the listener to parse OGTRTA sentences. In the formal syntax, a word of valence `n` is denoted `N/n` (for nouns) and `V/n` (for verbs).
+Every noun and verb has a **valence**, a number which determines how many _complements_ must follow it in the syntax tree. The complements of a word are always noun phrases, and are similar to _objects_ (e.g. the _direct object_ and _indirect object_ of a verb) in traditional grammar. Knowing the valence of each word enables listeners to parse OGTRTA sentences. In the formal syntax, a word of valence `n` is denoted `N/n` (for nouns) and `V/n` (for verbs).
 
 When viewed in relation to its complements, a noun or verb is called a _complend_.
 
