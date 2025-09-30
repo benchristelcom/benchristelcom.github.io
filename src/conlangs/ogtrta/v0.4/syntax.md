@@ -49,17 +49,17 @@ In theory, there is no upper limit to the valence of a word. In practice, though
 
 ## Metasyntax
 
-The following notation is used in the formal description of OGTRTA syntax.
+The following notation is used in the formal description of OGTRTA syntax. Operators are listed in order from lowest to highest precedence.
 
 ```cpp
 //      // Two slashes begin a comment.
 A -> B; // an A consists of B
-A B     // A and B in sequence
 A | B   // either A or B
+A B     // A and B in sequence
 A*      // zero or more As
 A?      // an optional A
-A/n     // an A with valence n.
 A{n}    // exactly n As
+A/n     // an A with valence n.
 ```
 
 ## OGTRTA syntax rules
