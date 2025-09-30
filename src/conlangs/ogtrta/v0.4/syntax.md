@@ -14,11 +14,11 @@ OGTRTA is designed with extensibility in mind. Indeed, to get a naturalistic res
 
 The basic syntax of OGTRTA is designed with no view to semantics. The syntax defines _only_ the structural relationships that can exist among words and phrases; it has no opinion about what those relationships _mean_. Meaning comes from the [lexicon](./lexicon.md).
 
-This is one of the core principles of OGTRTA, and it is what allows [extensions](extensions.html) to do things like [build relative clauses out of questions](extensions.html#relative-clauses). We don't have to ponder philosophical issues like whether relative clauses "are really" questions or anything silly like that. There's no need to square the circle. _The meaning in a linguistic construction is purely a matter of convention._
+This is one of the core principles of OGTRTA, and it is what allows [extensions](extensions.html) to do things like [build relative clauses out of questions](extensions.html#relative-clauses). We don't have to ponder philosophical issues like whether relative clauses "are really" questions or anything silly like that. _The meaning in a linguistic construction is purely a matter of convention._
 
 ### Parts of speech
 
-OGTRTA recognizes four parts of speech or _word classes_. These are subdivided into _open classes_ and _closed classes_. An open class of words is one in which new words can be freely coined, derived, or borrowed from other languages. A closed class is one with a fixed set of words, which expands very rarely.
+OGTRTA recognizes four parts of speech or _word classes_. Each class is either _open_ or _closed_. An open class of words is one in which new words can be freely coined, derived, or borrowed from other languages. A closed class is one with a fixed set of words, which expands very rarely.
 
 - Open classes (content words)
   - Nouns
