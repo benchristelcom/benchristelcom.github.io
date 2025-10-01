@@ -526,6 +526,7 @@ This section is for the official web presences of non-web entities.
 - [Flathub](https://flathub.org/)
 - [Git](https://git-scm.com)
 - [GNU `make`](https://www.gnu.org/software/make/manual/html_node/index.html)
+- [Go](https://go.dev/)<hs-meta keywords="golang"></hs-meta>
 - [Haskell](https://www.haskell.org/)
 - [Homebrew](https://brew.sh)
 - [Husky](https://typicode.github.io/husky/)
