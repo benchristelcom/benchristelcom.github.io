@@ -378,6 +378,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [LeechBlock](https://www.proginosko.com/leechblock/) <hs-meta keywords="plugins extensions addons"></hs-meta>
 - [LibreWolf](https://librewolf.net/) <hs-meta keywords="browser firefox"></hs-meta>
 - [OpenShot](https://www.openshot.org/) - Video editor for Linux
+- [Orion Browser](https://kagi.com/orion/)<hs-meta keywords="browser safari ios ipados adblocker block ads"></hs-meta>
 - [Surfraw](http://surfraw.org/)
 - [uBlock Origin](https://ublockorigin.com/) <hs-meta keywords="plugins extensions addons advert blocker"></hs-meta>
 
@@ -504,7 +505,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 
 - [Framework Laptops](https://frame.work)
 - [Greenwaste](https://greenwaste.com)
-- [WASD Keyboards](https://www.wasdkeyboards.com)
+- [Kagi](https://kagi.com/)
 - [Sunridge Farms](https://sunridgefarms.com/)
 - [Monterey Bay Herb Company](https://herbco.com/)
 - [Rancho Gordo](https://www.ranchogordo.com/)
