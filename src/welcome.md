@@ -28,7 +28,10 @@ to make an actually playable map. When I do, I'll post it here.
 
 <div class="col-2"></div>
 
-- [_Process to Processes_](https://benchristel.github.io/process-to-processes) - A draft of my upcoming book about software development
+- [_Process to Processes_](https://benchristel.github.io/process-to-processes) - A draft of my upcoming book about software development.
+
+- [_DeFAANGed_](http://defaanged.mataroa.blog/) - a blog about finding good and
+  fighting evil on the Internet.
 
 - [Ben's Guide to Software Development](https://bensguide.substack.com) - A newsletter about software, and, let's be real, a bunch of other stuff too.
 - [Essays](posts) on this site.
