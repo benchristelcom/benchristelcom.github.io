@@ -332,11 +332,11 @@ html {
 <nav class="toc" aria-labelledby="table-of-contents">
 <h2 id="table-of-contents" style="margin-bottom:0.5em">Table of Contents</h2>
 
+- [Official Sites](#official-websites)
 - [Food](#food)
 - [Art](#art)
 - [Music](#music)
 - [Meditation](#meditation)
-- [Official Sites](#official-websites)
 - [Civilization](#reviving-civilization)
 - [Software Dev](#software-development)
 - [Free Images](#image-repositories)
@@ -363,122 +363,9 @@ html {
 
 <div data-hypersearch-start></div>
 
-## Food
-
-### Favorite Recipes (all vegetarian) <hs-meta keywords="cookbook cooking"></hs-meta>
-
-<div class="col-3"></div>
-{{toc /recipes}}
-
-### Recipes Elsewhere <hs-meta keywords="cookbook cooking"></hs-meta>
-
-<div class="col-2"></div>
-
-- [Indian Healthy Recipes](https://indianhealthyrecipes.com/)
-- [Ozlem's Turkish Table](https://ozlemsturkishtable.com/)
-- [Binnur's Turkish Cookbook](https://binnurturkishcookbook.blogspot.com/)
-- [Maangchi](https://maangchi.com/) - Korean recipes
-- [Korean Bapsang](https://koreanbapsang.com/)
-- [My Korean Kitchen](https://mykoreankitchen.com/)
-- [Pardon Your French](https://www.pardonyourfrench.com/)
-- [Gode Cookery](http://www.godecookery.com/) - A webring of medieval cooking sites (h/t [Cidoku])
-- [Cedar Down Farm](https://cedardownfarm.ca/)
-- [rmf's recipes on baccyflap.com](https://baccyflap.com/res/recipes/)
-
-### Merchants
-
-- [Sunridge Farms](https://sunridgefarms.com/) - Organic bulk goods, including grains and beans. <hs-meta keywords="bulk wholesale"></hs-meta>
-- [Monterey Bay Herb Company](https://herbco.com/) <hs-meta keywords="bulk wholesale"></hs-meta> - Tea, herbs, and spices for very competitive prices.
-- [Rancho Gordo](https://www.ranchogordo.com/) - Beans!
-
-## Art
-
-- [Celtic Art by Jen Delyth](http://celticartstudio.com/)
-
-## Music
-
-See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
-
-### Artists
-
-- [In Gowan Ring](https://ingowanring.com/) - Symbolist folk
-
-### Discovery
-
-- [Every Noise at Once](https://everynoise.com) - A catalog of all music on Spotify by algorithmically-inferred genre. An incredible work of data science by [Glenn McDonald](https://www.furia.com)
-- [Album of the Year](https://www.albumoftheyear.org/) - browse music by release year, going back to the early 1900s. [Here's 1920](https://www.albumoftheyear.org/1920/releases/).
-- [cc-bc](https://handeyeco.github.io/cc-bc/) - find Creative Commons music on Bandcamp, organized by tag.
-- [The Lost Media Wiki](https://lostmediawiki.com) - Some lost and found, others just lost.
-- [The Roud Folksong Index](https://archives.vwml.org/search/roud) - a database of around 25,000 English and Scottish folk songs, compiled by Steve Roud. See also the [List of Folk Songs by Roud Number on Wikipedia](https://en.wikipedia.org/wiki/List_of_folk_songs_by_Roud_number) and the [Roud Folk Song Index series on MusicBrainz](https://musicbrainz.org/series/4e817004-53ed-438e-96da-88e27fb8d872).
-- [List of the Child Ballads on Wikipedia](https://en.wikipedia.org/wiki/List_of_the_Child_Ballads) - another list of English and Scottish folk songs.
-- [Musical Traditions](https://www.mustrad.org.uk/) - "The Magazine for Traditional Music throughout the world"
-
-### Buying / Downloading
-
-- [Qobuz](https://www.qobuz.com) - High-quality MP3 downloads. They have an extensive catalog (including every obscure album I've searched for so far).
-- [Bandcamp](https://bandcamp.com/) - self-publishing for indie artists.
-
-### Streaming
-
-- [Culture Machine](https://tv.benchristel.com/) - Channel 3 plays my favorite albums on shuffle
-- [Deezer](https://deezer.com)
-
-### Sheet Music
-
-- [Münich DigitiZation Center](https://www.digitale-sammlungen.de/en/) - search archives of sheet music and manuscripts
-- [_Alexander's Feast_ - Händel](https://daten.digitale-sammlungen.de/0001/bsb00016738/images/index.html?fip=193.174.98.30&seite=17&pdfseitex=)
-
-### Lyrics
-
-- [Mainly Norfolk](https://mainlynorfolk.info) - "English Folk and Other Good Music"
-- [Lyrics Translate](https://lyricstranslate.com/) - multilingual lyrics
-- [Universo Cantigas](https://universocantigas.gal/) - "Edición Crítica da Poesía Medieval Galego-Portuguesa." In Galician.
-- [The LiederNet Archive](https://www.lieder.net/)  - "the world’s largest reference archive of texts and translations of art songs and choral works."
-- [Musica International](https://www.musicanet.org/en/) - "The Virtual Choral Library"
-
-### Visualizers
-
-- [Butterchurn](https://butterchurnviz.com/) - online music visualizer.
-
-## Meditation
-
-### Theory
-
-- [_The Mind Illuminated_ (book)](https://www.goodreads.com/book/show/25942786-the-mind-illuminated) ([subreddit](https://www.reddit.com/r/TheMindIlluminated/))
-- [OnThatPath's Video Series](/meditation/on-that-path-video-summaries.html)
-  <hs-meta keywords="on that path"></hs-meta>
-- [The Dhammapada and Sutta-Nipâta](https://sacred-texts.com/bud/sbe10/index.htm)
-- [Coping with intrusive thoughts](https://www.bruh.ltd/blog/coping-with-intrusive-thoughts/)
-  by Ruby Klover — this also happens to be good advice in general.
-- [Meditation and Going Beyond Mindfulness - A Secular Perspective | Mingyur Rinpoche](https://benchristel.github.io/yt/#ukTaodQfYRQ)
-- [Happiest Man on Earth | Mingyur Rinpoche](https://benchristel.github.io/yt/#kaNO09cPS6c)
-- [From Panic Attacks to Meditation | Mingyur Rinpoche](https://benchristel.github.io/yt/#k1tw5sowFyM)
-- [Meditate Better | Swami Sarvapriyananda](https://benchristel.github.io/yt/#GGYGxdcdE40)
-- [Jnana Yoga: The Path of Knowledge | Swami Sarvapriyananda](https://benchristel.github.io/yt/#EijmfagFw20)
-- [Rational Dharma](https://rationaldharma.com/) - no-nonsense explanations of how meditation works.
-- [Effects of Two Online Positive Psychology and Meditation Programs on Persistent Self-Transcendence](https://psycnet.apa.org/fulltext/2021-81896-001.html) - research on enlightenment
-
-### Practice
-
-- [Meditation timer with water sound](https://benchristel.github.io/meditation/)
-
-- [Culture Machine](https://tv.benchristel.com/) — for practicing the Middle
-  Way between desire and aversion.
-
-- **Sit, Breathe, Wake Up! Guided meditations by Culadasa**
-  - [One - Awareness (40 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=UG-0XGpesgs)
-  - [Two - Attention (43 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=IeXWFRs5cGk)
-  - [Three - Moving and Stable Attention (46 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=SRqXq570Cf0)
-  - [Four (21 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=aNFc4veG61E)
-  - [Five (35 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=gB4_JS4jsb0)
-  - [Six (59 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=F-SO2jLEl94)
-  - [Seven (52 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=LBDV7jmZL8s)
-  - [Eight (46 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=nbvx7K_Zh0U)
-  - [Nine - Metta (25 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=SpTDGyhoFho)
-
 ## Official Websites
 
-This section is for the official web presences of non-web entities.
+Official web presences of non-web entities. The purpose of this section is to replace the large subset of web searches that are just the name of some website.
 
 ### Software - Apps and Plugins
 
@@ -647,6 +534,119 @@ This section is for the official web presences of non-web entities.
 - [Reuters](https://www.reuters.com/) - world news
 - [WHATWG](https://whatwg.org) - The Web Hypertext Application Technology Working Group
 - [World Wide Web Consortium](https://w3.org)
+
+## Food
+
+### Favorite Recipes (all vegetarian) <hs-meta keywords="cookbook cooking"></hs-meta>
+
+<div class="col-3"></div>
+{{toc /recipes}}
+
+### Recipes Elsewhere <hs-meta keywords="cookbook cooking"></hs-meta>
+
+<div class="col-2"></div>
+
+- [Indian Healthy Recipes](https://indianhealthyrecipes.com/)
+- [Ozlem's Turkish Table](https://ozlemsturkishtable.com/)
+- [Binnur's Turkish Cookbook](https://binnurturkishcookbook.blogspot.com/)
+- [Maangchi](https://maangchi.com/) - Korean recipes
+- [Korean Bapsang](https://koreanbapsang.com/)
+- [My Korean Kitchen](https://mykoreankitchen.com/)
+- [Pardon Your French](https://www.pardonyourfrench.com/)
+- [Gode Cookery](http://www.godecookery.com/) - A webring of medieval cooking sites (h/t [Cidoku])
+- [Cedar Down Farm](https://cedardownfarm.ca/)
+- [rmf's recipes on baccyflap.com](https://baccyflap.com/res/recipes/)
+
+### Merchants
+
+- [Sunridge Farms](https://sunridgefarms.com/) - Organic bulk goods, including grains and beans. <hs-meta keywords="bulk wholesale"></hs-meta>
+- [Monterey Bay Herb Company](https://herbco.com/) <hs-meta keywords="bulk wholesale"></hs-meta> - Tea, herbs, and spices for very competitive prices.
+- [Rancho Gordo](https://www.ranchogordo.com/) - Beans!
+
+## Art
+
+- [Celtic Art by Jen Delyth](http://celticartstudio.com/)
+
+## Music
+
+See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
+
+### Artists
+
+- [In Gowan Ring](https://ingowanring.com/) - Symbolist folk
+
+### Discovery
+
+- [Every Noise at Once](https://everynoise.com) - A catalog of all music on Spotify by algorithmically-inferred genre. An incredible work of data science by [Glenn McDonald](https://www.furia.com)
+- [Album of the Year](https://www.albumoftheyear.org/) - browse music by release year, going back to the early 1900s. [Here's 1920](https://www.albumoftheyear.org/1920/releases/).
+- [cc-bc](https://handeyeco.github.io/cc-bc/) - find Creative Commons music on Bandcamp, organized by tag.
+- [The Lost Media Wiki](https://lostmediawiki.com) - Some lost and found, others just lost.
+- [The Roud Folksong Index](https://archives.vwml.org/search/roud) - a database of around 25,000 English and Scottish folk songs, compiled by Steve Roud. See also the [List of Folk Songs by Roud Number on Wikipedia](https://en.wikipedia.org/wiki/List_of_folk_songs_by_Roud_number) and the [Roud Folk Song Index series on MusicBrainz](https://musicbrainz.org/series/4e817004-53ed-438e-96da-88e27fb8d872).
+- [List of the Child Ballads on Wikipedia](https://en.wikipedia.org/wiki/List_of_the_Child_Ballads) - another list of English and Scottish folk songs.
+- [Musical Traditions](https://www.mustrad.org.uk/) - "The Magazine for Traditional Music throughout the world"
+
+### Buying / Downloading
+
+- [Qobuz](https://www.qobuz.com) - High-quality MP3 downloads. They have an extensive catalog (including every obscure album I've searched for so far).
+- [Bandcamp](https://bandcamp.com/) - self-publishing for indie artists.
+
+### Streaming
+
+- [Culture Machine](https://tv.benchristel.com/) - Channel 3 plays my favorite albums on shuffle
+- [Deezer](https://deezer.com)
+
+### Sheet Music
+
+- [Münich DigitiZation Center](https://www.digitale-sammlungen.de/en/) - search archives of sheet music and manuscripts
+- [_Alexander's Feast_ - Händel](https://daten.digitale-sammlungen.de/0001/bsb00016738/images/index.html?fip=193.174.98.30&seite=17&pdfseitex=)
+
+### Lyrics
+
+- [Mainly Norfolk](https://mainlynorfolk.info) - "English Folk and Other Good Music"
+- [Lyrics Translate](https://lyricstranslate.com/) - multilingual lyrics
+- [Universo Cantigas](https://universocantigas.gal/) - "Edición Crítica da Poesía Medieval Galego-Portuguesa." In Galician.
+- [The LiederNet Archive](https://www.lieder.net/)  - "the world’s largest reference archive of texts and translations of art songs and choral works."
+- [Musica International](https://www.musicanet.org/en/) - "The Virtual Choral Library"
+
+### Visualizers
+
+- [Butterchurn](https://butterchurnviz.com/) - online music visualizer.
+
+## Meditation
+
+### Theory
+
+- [_The Mind Illuminated_ (book)](https://www.goodreads.com/book/show/25942786-the-mind-illuminated) ([subreddit](https://www.reddit.com/r/TheMindIlluminated/))
+- [OnThatPath's Video Series](/meditation/on-that-path-video-summaries.html)
+  <hs-meta keywords="on that path"></hs-meta>
+- [The Dhammapada and Sutta-Nipâta](https://sacred-texts.com/bud/sbe10/index.htm)
+- [Coping with intrusive thoughts](https://www.bruh.ltd/blog/coping-with-intrusive-thoughts/)
+  by Ruby Klover — this also happens to be good advice in general.
+- [Meditation and Going Beyond Mindfulness - A Secular Perspective | Mingyur Rinpoche](https://benchristel.github.io/yt/#ukTaodQfYRQ)
+- [Happiest Man on Earth | Mingyur Rinpoche](https://benchristel.github.io/yt/#kaNO09cPS6c)
+- [From Panic Attacks to Meditation | Mingyur Rinpoche](https://benchristel.github.io/yt/#k1tw5sowFyM)
+- [Meditate Better | Swami Sarvapriyananda](https://benchristel.github.io/yt/#GGYGxdcdE40)
+- [Jnana Yoga: The Path of Knowledge | Swami Sarvapriyananda](https://benchristel.github.io/yt/#EijmfagFw20)
+- [Rational Dharma](https://rationaldharma.com/) - no-nonsense explanations of how meditation works.
+- [Effects of Two Online Positive Psychology and Meditation Programs on Persistent Self-Transcendence](https://psycnet.apa.org/fulltext/2021-81896-001.html) - research on enlightenment
+
+### Practice
+
+- [Meditation timer with water sound](https://benchristel.github.io/meditation/)
+
+- [Culture Machine](https://tv.benchristel.com/) — for practicing the Middle
+  Way between desire and aversion.
+
+- **Sit, Breathe, Wake Up! Guided meditations by Culadasa**
+  - [One - Awareness (40 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=UG-0XGpesgs)
+  - [Two - Attention (43 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=IeXWFRs5cGk)
+  - [Three - Moving and Stable Attention (46 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=SRqXq570Cf0)
+  - [Four (21 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=aNFc4veG61E)
+  - [Five (35 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=gB4_JS4jsb0)
+  - [Six (59 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=F-SO2jLEl94)
+  - [Seven (52 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=LBDV7jmZL8s)
+  - [Eight (46 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=nbvx7K_Zh0U)
+  - [Nine - Metta (25 minutes)](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=SpTDGyhoFho)
 
 ## Reviving Civilization
 
