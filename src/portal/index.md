@@ -255,14 +255,6 @@ input[type=search] {
 .hypersearch-no-results-shown {
   display: block;
 }
-/* used for search keywords */
-span[inert] {
-  display: inline-block;
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-}
 button {
   margin-block: 3px;
   min-height: 24px;
@@ -373,12 +365,12 @@ html {
 
 ## Food
 
-### Favorite Recipes (all vegetarian) <span inert>cookbook cooking</span>
+### Favorite Recipes (all vegetarian) <hs-meta keywords="cookbook cooking"></hs-meta>
 
 <div class="col-3"></div>
 {{toc /recipes}}
 
-### Recipes Elsewhere <span inert>cookbook cooking</span>
+### Recipes Elsewhere <hs-meta keywords="cookbook cooking"></hs-meta>
 
 <div class="col-2"></div>
 
@@ -395,8 +387,8 @@ html {
 
 ### Merchants
 
-- [Sunridge Farms](https://sunridgefarms.com/) - Organic bulk goods, including grains and beans. <span inert>bulk wholesale</span>
-- [Monterey Bay Herb Company](https://herbco.com/) <span inert>bulk wholesale</span> - Tea, herbs, and spices for very competitive prices.
+- [Sunridge Farms](https://sunridgefarms.com/) - Organic bulk goods, including grains and beans. <hs-meta keywords="bulk wholesale"></hs-meta>
+- [Monterey Bay Herb Company](https://herbco.com/) <hs-meta keywords="bulk wholesale"></hs-meta> - Tea, herbs, and spices for very competitive prices.
 - [Rancho Gordo](https://www.ranchogordo.com/) - Beans!
 
 ## Art
@@ -788,10 +780,10 @@ See also [my /uses page](/uses).
 - [tiny-invariant](https://www.npmjs.com/package/tiny-invariant) - TypeScript assertion library that does type narrowing.
 - [Cloudflare](https://cloudflare.com) - Static/serverless web host and CDN.
 - [Render.com](https://render.com) - Web app hosting
-- [WCAG Contrast Checker Extension (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/)<span inert>add-ons addons plugin a11y accessibility</span> - Tells you about any elements on your webpage that don't have WCAG AA or AAA-compliant contrast. See also the [Chrome](https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf) and [Edge](https://microsoftedge.microsoft.com/addons/detail/wcag-color-contrast-check/idahaggnlnekelhgplklhfpchbfdmkjp) versions.
-- **axe DevTools for Web Accessibility Testing** - check any webpage for accessibility problems. Extensions for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/), [Chrome](https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd), and [Edge](https://microsoftedge.microsoft.com/addons/detail/axe-devtools-web-access/kcenlimkmjjkdfcaleembgmldmnnlfkn).<span inert>add-ons addons plugin a11y accessibility</span>
+- [WCAG Contrast Checker Extension (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/wcag-contrast-checker/)<hs-meta keywords="add-ons addons plugin a11y accessibility"></span> - Tells you about any elements on your webpage that don't have WCAG AA or AAA-compliant contrast. See also the [Chrome](https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf) and [Edge](https://microsoftedge.microsoft.com/addons/detail/wcag-color-contrast-check/idahaggnlnekelhgplklhfpchbfdmkjp) versions.
+- **axe DevTools for Web Accessibility Testing** - check any webpage for accessibility problems. Extensions for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/), [Chrome](https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd), and [Edge](https://microsoftedge.microsoft.com/addons/detail/axe-devtools-web-access/kcenlimkmjjkdfcaleembgmldmnnlfkn).<hs-meta keywords="add-ons addons plugin a11y accessibility"></span>
 - [searchpass](https://github.com/larham/searchpass) - A shell script that checks if your password has been exposed in a data breach, *without* revealing it to anyone. If you're a programmer, you'll appreciate the elegant algorithm. Made by my colleague Larry Hamel.
-- [uBlock Origin](https://ublockorigin.com/) - The ad blocker geeks use. Don't worry, there's nothing particularly geeky about it; it's just an ad blocker that works. Blocks trackers, too! Extensions for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), and [Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak).<span inert>add-ons addons plugin adblock</span>
+- [uBlock Origin](https://ublockorigin.com/) - The ad blocker geeks use. Don't worry, there's nothing particularly geeky about it; it's just an ad blocker that works. Blocks trackers, too! Extensions for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), and [Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak).<hs-meta keywords="add-ons addons plugin adblock"></span>
 - [MarkDownload](https://github.com/deathau/markdownload) - View and download the main content of most HTML pages as [Markdown]. Made by [Gordon Pedersen](https://death.id.au/). (h/t [Maya] via [Chris Aldrich](https://boffosocko.com/2020/12/29/markdownload-github/))
 
 ### Tips and Tricks, How Tos
@@ -837,12 +829,12 @@ See also [my /uses page](/uses).
 - [Geocities Backgrounds Collection](https://pixelmoondust.neocities.org/archives/archivedtiles/backgroundsindex) by Pixel Moondust <hs-meta keywords="tiling textures"></hs-meta>
 - [GifCities](https://gifcities.org/) - Archived gifs from Geocities websites.
 - [TextureTown](https://textures.neocities.org/) - Thousands of textures to use in website backgrounds and 3D worlds.
-- [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - website backgrounds on Toptal.com (h/t [eev.ee](https://eev.ee/)).<span inert>tiling textures</span>
-- [Background Tiles](https://background-tiles.com/) <span inert>tiling textures</span>
-- [Hero Patterns](https://heropatterns.com/) - tiling SVG patterns for your website background<span inert>textures</span>
-- [Pattern Monster](https://pattern.monster/) - even more tiling SVG patterns for your website background<span inert>textures</span>
-- [nnnoise - SVG Noise Generator](https://www.fffuel.co/nnnoise/) - create fractal noise or turbulence dynamically with SVG. A very network-efficient replacement for PNG or JPEG textures.<span inert>background tiling</span>
-- [Grainy Gradient Playground](https://grainy-gradients.vercel.app/) - dithered gradients for a retro (or is it futuristic?) look
+- [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - website backgrounds on Toptal.com (h/t [eev.ee](https://eev.ee/)).<hs-meta keywords="tiling textures"></hs-meta>
+- [Background Tiles](https://background-tiles.com/) <hs-meta keywords="tiling textures"></hs-meta>
+- [Hero Patterns](https://heropatterns.com/) - tiling SVG patterns for your website background.<hs-meta keywords="textures"></hs-meta>
+- [Pattern Monster](https://pattern.monster/) - even more tiling SVG patterns for your website background.<hs-meta keywords="textures"></hs-meta>
+- [nnnoise - SVG Noise Generator](https://www.fffuel.co/nnnoise/) - create fractal noise or turbulence dynamically with SVG. A very network-efficient replacement for PNG or JPEG textures.<hs-meta keywords="tiling backgrounds"></hs-meta>
+- [Grainy Gradient Playground](https://grainy-gradients.vercel.app/) - dithered gradients for a retro (or is it futuristic?) look<hs-meta keywords="textures backgrounds"></hs-meta>
 - [IconsDB](https://www.iconsdb.com/)
 - [Heroicons](https://heroicons.com/) - copy these SVG icons directly into your HTML. Nothing to download. Outline, solid, mini, and micro variants. (h/t [JT Archie](https://jtarchie.com/))
 - [Cliparts.co](https://cliparts.co) - give your website, flyer, or email that ultimate kitschy look.
@@ -856,9 +848,9 @@ See also [my /uses page](/uses).
 - [Weather on DuckDuckGo](https://duckduckgo.com/?q=palo+alto+weather)
 - [Accuweather](https://accuweather.com/)
 - [Purple Air](https://map.purpleair.com/) - Crowdsourced monitoring of air quality near you!
-- [Webtrak flight tracker](https://webtrak.emsbk.com/) - Tracks aircraft in your area. Pairs great with [FAA registry search](https://registry.faa.gov/AircraftInquiry/Search/NNumberInquiry). Stupid UI thing, though: if you don't want it to ask for / use your location, click "Cancel" at the initial prompt. Then you'll be able to select an airport from a list. <span inert>webtrack planes</span>
+- [Webtrak flight tracker](https://webtrak.emsbk.com/) - Tracks aircraft in your area. Pairs great with [FAA registry search](https://registry.faa.gov/AircraftInquiry/Search/NNumberInquiry). Stupid UI thing, though: if you don't want it to ask for / use your location, click "Cancel" at the initial prompt. Then you'll be able to select an airport from a list. <hs-meta keywords="webtrack planes"></hs-meta>
 
-### Searching <span inert>web search engines</span>
+### Searching <hs-meta keywords="web search engines"></hs-meta>
 
 - [FrogFind](http://frogfind.com/) - Searches the web with DuckDuckGo, but removes all JavaScript and CSS from the linked pages
 - [Stract](https://stract.com/) - A search engine that lets you use customizable filters called [optics](https://stract.com/settings/optics) (h/t [Seirdy])
@@ -869,7 +861,7 @@ See also [my /uses page](/uses).
 - [Million Short](https://millionshort.com/) - Filters out the top million (or thousand, or hundred) most popular websites from your search results. Subscription-based. (h/t [Cidoku])
 - [Open Street Map](https://www.openstreetmap.org/) - Alternative to Google Maps. In addition to searching for locations, it can also provide [navigation directions](https://www.openstreetmap.org/directions).
 
-### Calculating<span inert>calculators calculate</span>
+### Calculating<hs-meta keywords="calculators calculate"></hs-meta>
 
 - [PVIR Electrical Calculator](https://www.electricaltechnology.org/2014/03/power-voltage-current-resistance-pvir-calculator.html) - calculate power, voltage, current, or resistance.
 
@@ -889,7 +881,7 @@ See also [my /uses page](/uses).
 
 ### Transforming
 
-- [Dither it!](https://ditherit.com/) - Creates dithered versions of images, as seen on [Low Tech Magazine](https://solar.lowtechmagazine.com/). <span inert>dithering</span>
+- [Dither it!](https://ditherit.com/) - Creates dithered versions of images, as seen on [Low Tech Magazine](https://solar.lowtechmagazine.com/).<hs-meta keywords="dithering"></hs-meta>
 - [TinyPNG](https://tinypng.com/) - Reduces image filesizes.
 - [Squoosh](https://squoosh.app/) - Another tool to reduce image filesizes.
 - [JSONPath Online Evaluator](https://jsonpath.com/) - Evaluates JSONPath expressions against data.
@@ -996,7 +988,7 @@ A.K.A. the lost art of amusing yourself without electricity.
 
 ## Languages and Linguistics
 
-### Conlangs <span inert>constructed languages</span>
+### Conlangs <hs-meta keywords="constructed languages"></hs-meta>
 
 - [Ardalambion](https://ardalambion.org) - Resources on J.R.R. Tolkien's elvish languages, by Helge Kåre Fauskanger.
 - [Eldamo.org](https://eldamo.org) - the ELvish DAta MOdel. Paul Strack's project to collect every word of Elvish in Tolkien's works into one searchable, cross-referenced database.
