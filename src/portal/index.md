@@ -454,21 +454,22 @@ Official web presences of non-web entities. The purpose of this section is to re
 
 <div class="col-3"></div>
 
-- [Atom Syndication Format Specification](https://www.rfc-editor.org/rfc/rfc4287)
+- [Atom Syndication Format](https://www.rfc-editor.org/rfc/rfc4287)
 - [C++](https://en.cppreference.com/w/) <hs-meta keywords="cpp"></hs-meta>
 - [ECMAScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) a.k.a. JavaScript
 - [EditorConfig](https://editorconfig.org/)
-- [GraphQL Specification](http://spec.graphql.org)
-- [HTML Specification](https://html.spec.whatwg.org)
+- [GraphQL](http://spec.graphql.org)
+- [HTML](https://html.spec.whatwg.org)
 - [JSDoc](https://jsdoc.app/)
-- [json.org](https://json.org/)
+- [JSON](https://json.org/)
 - [jwt.io](https://jwt.io/) - JSON Web Tokens
 - [NPM package.json](https://docs.npmjs.com/cli/v8/configuring-npm/package-json)
-- [RSS 2.0 Specification](https://www.rssboard.org/rss-specification). [Mirror](https://cyber.harvard.edu/rss/rss.html).
+- [RSS 2.0](https://www.rssboard.org/rss-specification). [Mirror](https://cyber.harvard.edu/rss/rss.html).
 - [Semantic Versioning](https://semver.org)
 - [Semantic Versioning for TypeScript Types](https://www.semver-ts.org/)
-- [URL Specification](https://url.spec.whatwg.org)
+- [URL](https://url.spec.whatwg.org)
 - [Willow Protocol](https://willowprotocol.org/)
+- [XPath](https://www.w3.org/TR/1999/REC-xpath-19991116/)
 
 ### U.S. Government<hs-meta keywords="united states us"></hs-meta>
 
