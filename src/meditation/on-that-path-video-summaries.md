@@ -409,8 +409,8 @@ clinging to and allow it to move on when it's ready.
 | 9. Experiencing the mind | Breath sensations | Forehead, eyes, bridge of nose
 | 10. Gladdening the mind | Piti, brightness | Center of head, visual field
 | (Jhanas) |
-| 11. Centering the mind in samadhi | Tension | Center of head
-| 12. Releasing the mind | Dukkha and sense of self decrease
+| 11. Centering the mind in samadhi | (Jhanas) |
+| 12. Releasing the mind | Tension &rarr; Dukkha and sense of self decrease | Center of head
 
 ## Tracking meditation progress part 3: Vipassana steps in detail
 
