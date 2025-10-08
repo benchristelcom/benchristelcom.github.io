@@ -245,6 +245,16 @@ field of awareness expanding, like I'm looking out at a vast landscape, each tim
 
 As you maintain awareness, let attention go wherever. It doesn't matter.
 
+### Dealing with dullness
+
+@onthatpath doesn't address the possibility of feeling sleepy or foggy-brained during meditation (what Culadasa calls _dullness_). YouTube user @tonightsmeaningless278 asked a question about this:
+
+> How would I deal with strong and subtle dullness while practicing in this mode? Do you still recommend following the antidotes from \[_The Mind Illuminated_\]?
+
+@onthatpath replied:
+
+> Physical dullness =  lack of sleep. Mental dullness = lack of awareness. Mental dullness is an issue mostly pre-step 1 (negative mental states) or if dependent origination is allowed to happen via clinging. So, first get into step 1 at least, and then make sure you maintain enough mindfulness and keep preventing clinging.
+
 ## How to Meditate Effectively. Part 2: Booster Tools
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B0IJ-f_cnVA" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
