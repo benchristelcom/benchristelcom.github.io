@@ -1,5 +1,7 @@
 # Conclusion?
 
+Posted January 2024, updated October 12th, 2025.
+
 _Author's note: I originally planned for this chapter to be the conclusion of the present essay on Christopher Alexander. However, it ended up not being the conclusion. I don't think it even presents a particularly good way of looking at the question I’m trying to answer — namely, why the same fifteen properties of structure that characterize healthy natural systems and beautiful buildings also appear in maintainable, human-adapted software systems. It was only after I’d written several very different drafts of this chapter that I went combing through_ The Nature of Order _to see if Christopher Alexander had an answer to the problem I was struggling with. I discovered that he did, and that it was better than any of my answers. I describe C.A.'s answer in the next chapter._
 
 _Rather than throw away my drafts, though, I thought I’d show a few of them to you — the top three “takes,” one after the other. I’m hoping that if I show you my thought process, it will prepare you (as it prepared me) for Alexander’s surprising solution._
@@ -59,7 +61,7 @@ Christopher Alexander gives us a clue: he frames each of the fifteen properties 
 
 We’ve all experienced the difference between wholeness-preserving and wholeness-destroying changes when writing code. Wholeness-preserving changes fit in with the existing structure of the code. They tend to be simple additions of new code, with no invasive surgery required. By contrast, wholeness-destroying changes cut across functions or modules, complicating the code with new irregularities. The diffs for wholeness-destroying changes tend to be difficult to read.
 
-Thus, we have an inkling of an idea that the wholeness-preserving nature of the fifteen properties might be related to the long-term maintainability or adaptability of the system. Systems that accumulate a lot of wholeness-destroying changes become hard to change. But why is this the case? What do the fifteen properties have to do with changeability?
+Thus, we have an inkling of an idea that the wholeness-preserving nature of the fifteen properties might be related to the long-term maintainability or adaptability of the system. Systems that accumulate a lot of wholeness-destroying changes become hard to change. But why is this the case? What does wholeness have to do with changeability?
 
 I think the key is this: a system that is whole has **options** for future development. That is, there are certain ways of developing it or extending it that make sense and are consistent with its existing structure. The system’s options are precisely the possible wholeness-preserving transformations. By contrast, a system that is not whole or self-consistent has fewer options. Because it contains contradictory structures, there are few or no possible extensions that make sense with the entire system as it exists.
 
