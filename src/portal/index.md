@@ -425,6 +425,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [NPM](https://npmjs.com/) - [docs](https://docs.npmjs.com/)
 - [PeerJS](https://peerjs.com/)
 - [Playwright](https://playwright.dev/)
+- [Plotly](https://plotly.com/) - JS charts &amp; graphs<hs-meta keywords="javascript charting graphing plotting"></hs-meta>
 - [pnpm](https://pnpm.io/)
 - [Preact](https://preactjs.com/)
 - [Prettier](https://prettier.io)
