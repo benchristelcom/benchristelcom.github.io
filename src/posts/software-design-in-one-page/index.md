@@ -242,6 +242,9 @@ which we will cover later. <!-- TODO: broken link -->
 
 ### Functions that know about too many things
 
+<details>
+<summary>Expand section</summary>
+
 Here is a function from a (fictional) static site generator:
 
 ```ts
@@ -260,15 +263,16 @@ async function getPageTitle(path: string, referencePath: string): Promise<string
 
 This function knows:
 
-- the program's data is stored in files
-- the path to a file may be absolute or relative
+- the program's data is stored in files.
+- the path to a file may be absolute or relative.
 - how to tell is a path is absolute (it looks for a leading `/` — but that
   won't work on Windows!)
-- there is special logic for resolving a relative path to a file
+- there is special logic for resolving a relative path — we don't just use the
+  path as-is.
 - "absolute" paths should actually be interpreted as relative to a `src`
   directory.
-- the input files contain HTML
-- the files are utf-8 encoded
+- the input files contain HTML.
+- the files are utf-8 encoded.
 - the "page title" of an HTML document is the text of its first `h1`
   element.
 - the page title should default to the filename if no `h1` is present.
@@ -276,9 +280,14 @@ This function knows:
 Only the last two bullet points above properly belong in a function named
 `getPageTitle`. And the last one is debatable.
 
-It is quite likely that some of this knowledge is duplicated in other parts of
-the program. Because of the duplication, this function could become
-inconsistent with the rest of the program as the code changes.
+There are a couple problems with having everything lumped together like this:
+
+- Someone reading this function might only be interested in a specific aspect
+  of what it does, but they have to read all the aspects because they're all
+  tangled together.
+- It is quite likely that some of this function's knowledge is duplicated in
+  other parts of the program. Over time, this function could get out of
+  sync with the rest of the program.
 
 ```ts
 // Better; we have removed the extraneous knowledge
@@ -310,6 +319,8 @@ class HtmlPage {
   }
 }
 ```
+
+</details>
 
 ## Summary: fixing the imponderables
 
