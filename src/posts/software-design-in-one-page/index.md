@@ -294,16 +294,19 @@ knowledge to the caller, and passed in just what the function needs to
 accomplish its central purpose.
 
 ```ts
-// Better; we have removed the extraneous knowledge
+// Better; we have removed the extraneous knowledge.
 async function getPageTitle(dom: HtmlDom, path: string): Promise<string> {
   return dom.querySelector("h1")?.innerText ?? basename(path)
 }
 ```
 
-One imponderable still remains: [implicit structure]. The `dom` and `path`
-parameters are correlated (they're supposed to be derived from the same file)
-and the `path` has internal structure that isn't represented in its type. In
-the section on [implicit structure], we'll see how to fix these problems.
+One imponderable still remains: [implicit structure]:
+
+- The `dom` and `path` parameters are correlated (they're supposed to be
+  derived from the same file).
+- The `path` has internal structure that isn't represented in its type.
+
+In the section on [implicit structure], we'll see how to fix these problems.
 
 </details>
 
