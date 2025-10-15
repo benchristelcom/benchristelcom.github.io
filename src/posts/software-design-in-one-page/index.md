@@ -249,9 +249,9 @@ Here is a function from a (fictional) static site generator:
 
 ```ts
 // Bad code; this function knows way too much!
-async function getPageTitle(path: string, referencePath: string): Promise<string> {
+async function getPageTitle(path: string, basePath: string): Promise<string> {
   if (!path.startWith("/")) {
-    path = resolveRelativePath(path, referencePath)
+    path = resolveRelativePath(path, basePath)
   } else {
     path = resolveRelativePath(path.slice(1), "src")
   }
@@ -264,7 +264,7 @@ async function getPageTitle(path: string, referencePath: string): Promise<string
 This function knows:
 
 - the program's data is stored in files.
-- the path to a file may be absolute or relative.
+- the path to a file may be given as absolute or relative.
 - how to tell is a path is absolute (it looks for a leading `/` — but that
   won't work on Windows!)
 - there is special logic for resolving a relative path — we don't just use the
