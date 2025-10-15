@@ -81,7 +81,7 @@ making it *more difficult* to change.
 - (Side) [effects]
 - Global variables
 - Multiple modes
-- Denormalized input/output types
+- Implicit structure in the input data
 
 I call these problems **"imponderables."** We'll discuss what they are, and how to
 fix them, in the next several sections.
@@ -278,7 +278,7 @@ This function knows:
 - the page title should default to the filename if no `h1` is present.
 
 Only the last two bullet points above properly belong in a function named
-`getPageTitle`. And the last one is debatable.
+`getPageTitle`.
 
 There are a couple problems with having everything lumped together like this:
 
@@ -287,7 +287,11 @@ There are a couple problems with having everything lumped together like this:
   tangled together.
 - It is quite likely that some of this function's knowledge is duplicated in
   other parts of the program. Over time, this function could get out of
-  sync with the rest of the program.
+  sync with the rest of the program, resulting in bugs.
+
+Here is a better version of the function. We have moved the extraneous
+knowledge to the caller, and passed in just what the function needs to
+accomplish its central purpose.
 
 ```ts
 // Better; we have removed the extraneous knowledge
@@ -295,6 +299,20 @@ async function getPageTitle(dom: HtmlDom, path: string): Promise<string> {
   return dom.querySelector("h1")?.innerText ?? basename(path)
 }
 ```
+
+One imponderable still remains: [implicit structure]. The `dom` and `path`
+parameters are correlated (they're supposed to be derived from the same file)
+and the `path` has internal structure that isn't represented in its type. In
+the section on [implicit structure], we'll see how to fix these problems.
+
+</details>
+
+### Implicit structure in the input data
+
+[implicit structure]: #implicit-structure-in-the-input-data
+
+<details>
+<summary>Expand section</summary>
 
 ```ts
 // Better yet; the path and dom are grouped into an object.
@@ -334,7 +352,7 @@ class HtmlPage {
 | Effects             | Inline, then separate effectful from pure parts |
 | Global variables    | Treat as effects, or put the vars inside objects |
 | Multiple modes      | Split each mode into its own function |
-| Denormalized types  | Normalize the types |
+| Implicit structure  | Make it explicit! Use classes or algebraic types. |
 
 ## Preventing imponderables
 
