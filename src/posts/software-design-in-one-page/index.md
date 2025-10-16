@@ -265,14 +265,14 @@ This function knows:
 
 - the program's data is stored in files.
 - the path to a file may be given as absolute or relative.
-- how to tell is a path is absolute (it looks for a leading `/` — but that
-  won't work on Windows!)
-- there is special logic for resolving a relative path — we don't just use the
+- A path is absolute if it has a leading slash (but that's wrong — it won't
+  work on Windows!)
+- there is special logic for resolving a relative path — we can't just use the
   path as-is.
 - "absolute" paths should actually be interpreted as relative to a `src`
   directory.
 - the input files contain HTML.
-- the files are utf-8 encoded.
+- the files are UTF-8 encoded.
 - the "page title" of an HTML document is the text of its first `h1`
   element.
 - the page title should default to the filename if no `h1` is present.
@@ -310,6 +310,61 @@ In the section on [implicit structure], we'll see how to fix these problems.
 
 </details>
 
+### Functions with effects
+
+An _effect_ is an interaction between a _process_ (a running program) and the
+outside world. In general, effects include:
+
+- anything a program does that is visible to another program, or to the user.
+- anything that introduces nondeterminism into a program (where multiple runs
+  can produce different behavior).
+
+Specific examples of effects:
+
+- reading or writing a file
+- making a network request
+- drawing graphics on the screen
+- playing a sound
+- asking the user for input
+- generating a random number
+- getting the current time
+
+<aside>
+
+Side note: in every modern operating system I'm aware of, effects are
+implemented at the operating system level by _system calls_. Processes can't
+directly affect the outside world or behave nondeterministically. They have to
+ask the operating system to do it for them!
+
+</aside>
+
+Effects are not bad _per se_. In fact, they are necessary! A program that has
+no effects is useless. Effects are arguably the most important part of any
+program.
+
+But because effects are so important, they can create problems if they're
+hidden in the code. When you call a function, you need to be aware of what
+effects it will have (if any). If you make incorrect assumptions about effects,
+the program will do the wrong thing.
+
+Additionally, effects can create problems for testing. It's often hard for
+tests to observe effects, so we need some way to control the effects in our
+tests. The usual way to do this is by mocking the effectful function. That
+isn't free, though: it makes the tests more complex and harder to understand.
+
+My prescription for dealing with effects can be summarized as follows:
+
+- Make most of your code effect-free. You can do this by moving effects up
+  the call tree, so they happen near the root.
+- Ideally, code with effects is straightforward enough that it doesn't need
+  unit tests. E.g. it should have no conditionals. Move any conditional logic
+  down the call tree, into the effect-free code.
+- If you find that some code deep in the call tree needs to have an effect,
+  first consider:
+  - Can you replace an input effect (e.g. reading a file) with a parameter?
+  
+  - Can you replace an output effect (e.g. writing a file) with a return value?
+
 ### Implicit structure in the input data
 
 [implicit structure]: #implicit-structure-in-the-input-data
@@ -320,7 +375,7 @@ In the section on [implicit structure], we'll see how to fix these problems.
 ```ts
 // Better yet; the path and dom are grouped into an object.
 class HtmlPage {
-  static async load(path: PagePath): Promise<Page> {
+  static async load(path: PagePath): Promise<HtmlPage> {
     const html = await fs.readFile(path, "utf-8")
     return new HtmlPage(parseHtml(html), path)
   }
@@ -338,6 +393,35 @@ class HtmlPage {
   getFilename(): string {
     return this.path.getBasename()
   }
+}
+```
+
+Or perhaps you prefer a data-oriented approach:
+
+```ts
+type HtmlPage = {
+  path: PagePath
+  dom: HtmlDom
+}
+
+async function loadHtmlPage(path: PagePath): Promise<HtmlPage> {
+  const html = await fs.readFile(path, "utf-8")
+  return {
+    path,
+    dom: parseHtml(html),
+  }
+}
+
+function getTitle(page: HtmlPage): string {
+  return findFirst("h1", page)?.innerText ?? getFilename(page)
+}
+
+function findFirst(selector: string, page: HtmlPage): DomNode | undefined {
+  return page.dom.querySelector(selector)
+}
+
+function getFilename(page: HtmlPage): string {
+  return page.path.getBasename()
 }
 ```
 
