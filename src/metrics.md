@@ -36,6 +36,7 @@ Run `tools/metrics HISTORYFILE`
 
 | Month    | Webpages | Google searches | DDG searches |
 | -------- | -------- | --------------- | ------------ |
+| Sep 2025 | 481      | 3               | 1            |
 | Aug 2025 | 1280     | 0               | 5            |
 | Jul 2025 | 558      | 0               | 0            |
 | Jun 2025 | 821      | 0               | 0            |
@@ -57,6 +58,12 @@ Run `tools/metrics HISTORYFILE`
 | Feb 2024 | 1435     | 6               | 160          |
 
 ## Notes
+
+### September 2025
+
+The three Google searches were site-specific searches on a site that uses
+Google as their search engine. The DuckDuckGo search was accidental — looks
+like I meant to search YouTube.
 
 ### July 2025
 
