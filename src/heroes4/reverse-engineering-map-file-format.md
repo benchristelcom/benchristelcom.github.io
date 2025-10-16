@@ -7,14 +7,13 @@ You can read all about it at that link if you don't believe me.
 
 [Heroes of Might and Magic IV]: http://www.heroesofmightandmagic.com/heroes4/heroesofmightandmagic4iv.shtml
 
-Since I am currently on vacation from work, but can't seem to stay away from
-computers, I thought it would be fun to try to decipher the game's (binary)
-scenario file format. My motivation is partly practical: I want to make maps
-for the game, but the scripting system is obstructed by an obnoxiously clunky
-GUI (made for non-programmers, obviously). I'd love to be able to write scripts
-for the game as textual source code that then gets "compiled" into the map.
-That's probably a pipe dream, but in the short term I can still have fun
-reverse-engineering some binary.
+I thought it would be fun to try to decipher the game's (binary) scenario file
+format. This document chronicles my attempt. My motivation is partly practical:
+I want to make maps for the game, but the scripting system is obstructed by an
+obnoxiously clunky GUI (made for non-programmers, obviously). I'd love to be
+able to write scripts for the game as textual source code that then gets
+"compiled" into the map. That's probably a pipe dream, but in the short term I
+can still have fun reverse-engineering some binary.
 
 ## Chapter 1: finding the end of the thread
 
