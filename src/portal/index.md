@@ -1163,7 +1163,7 @@ into one searchable, cross-referenced database.
 
 <div class="space-32"></div>
 
-<p class="centered-text">There are <noscript>approximately 500</noscript><span id="number-of-links"></span> external links on this page.</p>
+<p class="centered-text">There are <noscript>approximately 540</noscript><span id="number-of-links"></span> external links on this page.</p>
 
 <div data-hypersearch-end></div>
 </main>
