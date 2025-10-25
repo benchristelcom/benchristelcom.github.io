@@ -333,6 +333,7 @@ html {
 <h2 id="table-of-contents" style="margin-bottom:0.5em">Table of Contents</h2>
 
 - [Official Sites](#official-websites)
+- [My Projects](#my-projects)
 - [Food](#food)
 - [Art](#art)
 - [Music](#music)
@@ -352,7 +353,6 @@ html {
 - [General](#general-reference)
 - [Researchers](#information-researchers)
 - [Web Curators](#web-curators)
-- [My Projects](#my-projects)
 - [Webring](#webring)
 - [Settings](#settings)
 
@@ -537,6 +537,44 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [Reuters](https://www.reuters.com/) - world news
 - [WHATWG](https://whatwg.org) - The Web Hypertext Application Technology Working Group
 - [World Wide Web Consortium](https://w3.org)
+
+## My Projects
+
+- [_Process to Processes_](https://benchristel.github.io/process-to-processes) - A draft of my upcoming book about software development
+- [Ben's Guide to Software Development](https://bensguide.substack.com) - A newsletter about the book
+- [Bliki](https://github.com/benchristel/benchristel.github.io/wiki) - My personal blog/wiki about software, with 250+ topic-focused pages on everything from [abstraction](https://github.com/benchristel/benchristel.github.io/wiki/Abstraction) to [wholeness](https://github.com/benchristel/benchristel.github.io/wiki/Wholeness).
+- [The Wayward Web](https://waywardweb.org) - A webring. A collaborative effort to map the useful, human parts of the web.
+- [Druthers](https://druthers.app) - Instantly grok your group's priorities with ranked-choice voting. A collaboration with [Gavin Morgan](https://gavmor.com). 
+- [Culture Machine](https://tv.benchristel.com/) - The app I wrote to break my YouTube addiction (it worked). Emotionally-stabilizing "[iyashikei]" videos played continuously in an unskippable random sequence.
+- [mdsite](https://benchristel.github.io/mdsite) - A modern generator for old-school static sites. It turns any tree of [Markdown] files into a website, complete with auto-generated navigation links. It's also the tool I used to create this webpage!
+- [Taste](https://npmjs.com/package/@benchristel/taste) - Simple, speedy JavaScript test framework
+- [yt](https://benchristel.github.io/yt/) - Watch YouTube without ads or tracking. Pairs great with [LeechBlock](https://www.proginosko.com/leechblock/).
+- [hypersearch](https://www.npmjs.com/package/@benchristel/hypersearch) - Powers the searchbar on this page!
+- [Bastion](https://bastionhome.github.io/) - A big directory of links. The predecessor of this page.
+- [The Cave](https://benchristel.github.io/the-cave/) - Helps you keep track of short-term tasks with deep dependencies.
+- [Auracle](https://benchristel.github.io/auracle) - A word generator for conlangs. Give it some examples of your desired aesthetic, and get more in return.
+- [Audition](https://github.com/benchristel/audition) - A command-line tool that keeps the prose description of your conlang up to date with its morphology and lexicon.
+- [The One Grammar to Rule Them All](/conlangs/ogtrta) (OGTRTA) - The Lisp of conlangs. A syntax template for people who don't want to think about syntax anymore.
+- [wwwebring](https://www.npmjs.com/package/wwwebring) - A fully clientside webring widget for static sites. Powers [the Wayward Web](https://waywardweb.org).
+- [LynX](https://github.com/benchristel/LynX) - My Linux Mint theme. Re-skins Linux to look and feel like "big cat"-era Mac OSX. Don't ask me how it's pronounced.
+- [autokeyconf](https://github.com/benchristel/autokeyconf) - Rebinds shortcut keys system-wide on Linux.
+- ["Frost" theme for Docky](https://github.com/benchristel/docky-frost) - An OSX-style dock for Linux.
+
+[iyashikei]: https://innerspiral.lol/blog-entry-13
+
+### Pages on this site
+
+<div class="col-2"></div>
+
+- [Posts](/posts/) - essays, articles, and other writings
+- [Heroes of Might and Magic IV](/heroes4/) - the art and science of an old game
+- [Recipes](/recipes/)
+- [Housekeeping](/housekeeping/) - like recipes for your house
+- [Meditation](/meditation/)
+- [Metrics](/metrics/) - how I measure how well this (portal) page is working
+- [Conlangs] - constructed languages
+- [Lyrics](/lyrics/)
+- [/uses](/uses/)
 
 ## Food
 
@@ -1107,30 +1145,6 @@ into one searchable, cross-referenced database.
 - ["How Blogs Broke the Web"](https://stackingthebricks.com/how-blogs-broke-the-web/) by Amy Hoy. Circa 2017.
 - [Maggie Appleton on Digital Gardens](https://maggieappleton.com/garden-history). 2021.
 - ["We Can Have a Different Web"](https://www.citationneeded.news/we-can-have-a-different-web/) by Molly White. 2024. A hopeful look at the web's problems.
-
-## My Projects
-
-- [_Process to Processes_](https://benchristel.github.io/process-to-processes) - A draft of my upcoming book about software development
-- [Ben's Guide to Software Development](https://bensguide.substack.com) - A newsletter about the book
-- [Bliki](https://github.com/benchristel/benchristel.github.io/wiki) - My personal blog/wiki about software, with 250+ topic-focused pages on everything from [abstraction](https://github.com/benchristel/benchristel.github.io/wiki/Abstraction) to [wholeness](https://github.com/benchristel/benchristel.github.io/wiki/Wholeness).
-- [The Wayward Web](https://waywardweb.org) - A webring. A collaborative effort to map the useful, human parts of the web.
-- [Druthers](https://druthers.app) - Instantly grok your group's priorities with ranked-choice voting. A collaboration with [Gavin Morgan](https://gavmor.com). 
-- [Culture Machine](https://tv.benchristel.com/) - The app I wrote to break my YouTube addiction (it worked). Emotionally-stabilizing "[iyashikei]" videos played continuously in an unskippable random sequence.
-- [mdsite](https://benchristel.github.io/mdsite) - A modern generator for old-school static sites. It turns any tree of [Markdown] files into a website, complete with auto-generated navigation links. It's also the tool I used to create this webpage!
-- [Taste](https://npmjs.com/package/@benchristel/taste) - Simple, speedy JavaScript test framework
-- [yt](https://benchristel.github.io/yt/) - Watch YouTube without ads or tracking. Pairs great with [LeechBlock](https://www.proginosko.com/leechblock/).
-- [hypersearch](https://www.npmjs.com/package/@benchristel/hypersearch) - Powers the searchbar on this page!
-- [Bastion](https://bastionhome.github.io/) - A big directory of links. The predecessor of this page.
-- [The Cave](https://benchristel.github.io/the-cave/) - Helps you keep track of short-term tasks with deep dependencies.
-- [Auracle](https://benchristel.github.io/auracle) - A word generator for conlangs. Give it some examples of your desired aesthetic, and get more in return.
-- [Audition](https://github.com/benchristel/audition) - A command-line tool that keeps the prose description of your conlang up to date with its morphology and lexicon.
-- [The One Grammar to Rule Them All](/conlangs/ogtrta) (OGTRTA) - The Lisp of conlangs. A syntax template for people who don't want to think about syntax anymore.
-- [wwwebring](https://www.npmjs.com/package/wwwebring) - A fully clientside webring widget for static sites. Powers [the Wayward Web](https://waywardweb.org).
-- [LynX](https://github.com/benchristel/LynX) - My Linux Mint theme. Re-skins Linux to look and feel like "big cat"-era Mac OSX. Don't ask me how it's pronounced.
-- [autokeyconf](https://github.com/benchristel/autokeyconf) - Rebinds shortcut keys system-wide on Linux.
-- ["Frost" theme for Docky](https://github.com/benchristel/docky-frost) - An OSX-style dock for Linux.
-
-[iyashikei]: https://innerspiral.lol/blog-entry-13
 
 ## Webring<hs-meta keywords="ring wayward"></hs-meta>
 
