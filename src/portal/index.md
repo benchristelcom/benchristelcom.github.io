@@ -304,6 +304,7 @@ html {
 <search>
   <h2 id="search" class="sr-only">Search</h2>
   <div style="text-align: center">
+    <noscript><p>Search won't work because you don't have JavaScript enabled.</p></noscript>
     <input data-hypersearch type="search" list="search-shortcuts" placeholder="Search the web and this page" aria-labelledby="search">
     <button id="ddg" data-search="https://html.duckduckgo.com/html?q=%s">DuckDuckGo</button>
     <button id="marginalia" data-search="https://old-search.marginalia.nu//search?query=%s">Marginalia</button>
