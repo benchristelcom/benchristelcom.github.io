@@ -41,3 +41,4 @@ empty
 
 - [Etymonline](https://www.etymonline.com/word/Georgian#etymonline_v_41014) - nice color scheme and use of Georgia.
 - [Becca Piastrelli](https://beccapiastrelli.com/tea-of-redwood/) - the serif font face is [Winterheath](https://creativemarket.com/avalonrosedesign/4412890-Winterheath-Hand-Drawn-Serif-Font)
+- [Ploum.net](https://ploum.net/) - Minimalist, Times New Roman, sepia-toned
