@@ -99,7 +99,8 @@ I don't currently use these, but I might someday.
 - [The Old Reader](https://theoldreader.com/) - An RSS feed reader modeled after the now-defunct Google Reader.
 - [Surfraw](http://surfraw.org/) - Browses the web from the command line. Apparently you can customize it via
   plugin-like things called [elvi](https://baccyflap.com/res/sr/).
-- [Buttondown](https://buttondown.com/) - Sends email newsletters.
+- [Offpunk](https://sr.ht/~lioploum/offpunk/) - Browses the web, Gopher, and
+  Gemini from the terminal; caches pages for offline viewing.
 
 ### Software Development
 
