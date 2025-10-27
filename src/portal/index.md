@@ -395,6 +395,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [Arch Linux](https://archlinux.org/)
 - [Benchmark.js](https://benchmarkjs.com/)
 - [Bun](https://bun.sh/)
+- [Clojure](https://clojure.org/)
 - [CodeMirror](https://codemirror.net/)
 - [Deno](https://deno.com/)
 - [DuckDB](https://duckdb.org)
