@@ -1,11 +1,17 @@
 # A Pattern Language for Heroes IV Maps
 
+a.k.a. how to design a map for Heroes of Might and Magic 4. Based on my
+observations of the maps that come with the game and my experiments with
+mapmaking.
+
 ## Regions
 
-- A small map should have ~2 regions
-- A medium map, with four times the area, should have ~8
-- A large map, ~18
-- An extra-large map, ~32
+A region is an area of the map with a consistent terrain type.
+
+- A small map should have about 2–4 regions (per "plane", i.e. above ground or underground)
+- A medium map, with four times the area, should have about 8–16
+- A large map, 18–36
+- An extra-large map, 32–64
 
 A region can be land or sea. If you are making a map with a coastline, lakes,
 or inland seas, each body of water is a region.
@@ -29,16 +35,19 @@ can help — [Deep Interlock].
 
 ## Starting Regions
 
-- Choose a region for each player start in
+- Choose a region for each player to start in
 - Place a town in each starting region
   - If the town is placed close to the center of the region, the map can
-    feel more "open world" and less railroaded, which can be a good or a bad
-    thing depending on what you're aiming for.
+    feel more "open world" and less railroaded than if it is placed in a corner.
+    That can be a good or a bad thing depending on what you're aiming for.
 
-Near each town, place an Ore Pit and a Sawmill. These can be unguarded, or
-guarded by level 1 monsters — [Level 1 Encounters].
+Near each town, place an Ore Pit and a Sawmill, and a couple resources next to
+each. They can be unguarded, or guarded by level 1 monsters
+— [Level 1 Encounters].
 
 ## Folded Boundaries
+
+[Folded Boundaries]: #folded-boundaries
 
 - Use an obstacle brush to create boundaries between the regions.
 - Each boundary should be "folded" into a zigzag or wiggle, with many
@@ -67,10 +76,17 @@ creates a more relaxed feel. Small maps tend to have a tighter spacing.
 
 The minimum spacing is about **2–4 tiles** (Danger in the Trees is an example
 of a map with very tight spacing). A spacing of **8 tiles** is typical for maps
-of medium size and up.
+of medium size and up. The spacing should not be larger than 8, because an
+army's scouting distance is generally only 7 or 8 tiles. If you can't see
+nearby encounters and obstacles from where you are, you can't navigate.
 
 Spacing should be _approximately_ consistent within a region. Don't be too
 rigid about it. See: [blue noise].
+
+This pattern implies that the width of a path should be roughly equal to the
+spacing of interactive centers along that path. If you space interactions
+tighter than the path width, it feels unnatural. Interactions can occasionally
+be spaced looser than the path width to give a tunnel-like effect.
 
 [blue noise]: https://momentsingraphics.de/BlueNoise.html
 
@@ -78,8 +94,8 @@ rigid about it. See: [blue noise].
 
 [Rooms and Paths]: #rooms-and-paths
 
-Once you have your regional boundaries drawn, add more obstacle "islands"
-within each region.
+Once you have your regional boundaries drawn ([Folded Boundaries]), add more
+obstacle "islands" within each region.
 
 These obstacles should be shaped so they interact with the regional boundaries
 to create "rooms" and "paths" with [Positive Space]. The obstacles should also
@@ -87,6 +103,11 @@ be positive shapes themselves. Remember that most of your paths should be as
 wide as your chosen spacing — [Rhythmic Spacing].
 
 [Positive Space]: /posts/alexandrian-software/05-positive-space.html
+
+A common failure mode is to have "dots" of obstacles on a negatively-shaped
+ground of passable space. An example of this antipattern is the map Field of
+Life. This antipattern can make it hard for the player to recognize different
+parts of the map and orient themselves, because everything looks the same.
 
 ## Freebies
 
@@ -130,18 +151,20 @@ a monster to guard an object, make sure it is _actually_ guarding it.
 
 Every monster guards a 5x5 square area centered on the monster. It will attack
 armies that enter this area (unless the army has the stealth skill at a level
-that allows it to sneak past). Armies can pick up treasure and interact with
-buildings on adjacent tiles.
+that allows it to sneak past). Note that armies can pick up treasure and
+interact with buildings on adjacent tiles, so if an army is standing 3 squares
+away from a monster, it can pick up items inside its guard area.
 
-You can toggle on the passability display in the map editor to see which parts
-of each object are interactive. Interactive sides and corners of an object are
-those that touch the yellow triangles. An army on the tile opposite an
-interactive side or corner can interact with the object.
+To check your guard areas, toggle on the passability display in the map editor
+to see which parts of each object are interactive. Interactive sides and
+corners of an object are those that touch the yellow triangles. An army on the
+tile directly opposite an interactive side or corner can interact with the
+object.
 
-You may want to consider how the Stealth skill will interact with your guards.
-The way you set up guards can make Stealth overpowered or underpowered. A hero
-with Grandmaster Stealth can stand on the tile next to any monster without
-being attacked.
+Consider how the Stealth skill will interact with your guards. The way you set
+up guards can make Stealth overpowered or underpowered. A hero with Grandmaster
+Stealth can stand on the tile next to any monster without being attacked, so
+they can steal anything that isn't in a 1x1 nook directly behind the monster.
 
 ## Alternative Fights
 
@@ -155,7 +178,7 @@ either of these monsters will let the player pass by on the road.
 ![](alternative-fights.png)
 
 This is an easy way to create a (hopefully) interesting decision for the player
-to make.
+to make. Which fight is easier?
 
 ## Glimpses of the Future
 
@@ -163,24 +186,37 @@ to make.
 
 [Level Variety]: #level-variety
 
-- off-level fights should give better rewards, to increase the incentive to
-  return to an already-visited area or take a fight early.
+Avoid clustering together too many fights at the same level. It limits
+strategic decision making if the sequence of fights is too obvious: walk down
+the road, fight 5 level 1s, then 5 level 2s, etc. Instead, you want the player
+to be weighing options and tradeoffs. Can I take this fight now? Can I afford
+to come back later?
 
-## Treasure Gradient
+Still, each region of the map will have a dominant encounter level. As a rule
+of thumb, aim to make about 20–30% of the fights in an area off-level. If you
+have 5 level 1 fights, mix in a couple of level 2s.
 
-- treasure at a given encounter level should increase with distance from town
-  or main path
+Most of the time, adjacent fights should be at most one level apart. The
+exception is when you want to draw the player's attention to something that is
+_important_ but inaccessible till later in the game — [Glimpses of the Future].
+That's when you put a level 4 monster next to the starting town.
+
+Off-level fights should give above-average rewards for their level, to increase
+the incentive to return to an already-visited area or take a fight early.
 
 ## Level 2 Encounters
 
-Level 2 creatures often guard rare resource mines (gem, crystal, mercury, sulfur)
-and random treasures.
+Level 2 creatures often guard rare resource mines (gem, crystal, mercury,
+sulfur) and random treasures. See also [Treasure Point Values].
 
 ## Level 3 Encounters
 
-Level 3 creatures often guard gold mines and minor artifacts.
+Level 3 creatures often guard gold mines and minor artifacts. See also
+[Treasure Point Values].
 
 ## Level 4 Encounters
+
+Level 4 creatures often guard major artifacts. See also [Treasure Point Values].
 
 ## Free Path
 
@@ -259,10 +295,6 @@ Level 3 creatures often guard gold mines and minor artifacts.
 
 - Major Artifact
 - Staff
-
-----
-
-TODO: water?
 
 <style>
 a[href*='#'] {
