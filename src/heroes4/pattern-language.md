@@ -85,8 +85,9 @@ rigid about it. See: [blue noise].
 
 This pattern implies that the width of a path should be roughly equal to the
 spacing of interactive centers along that path. If you space interactions
-tighter than the path width, it feels unnatural. Interactions can occasionally
-be spaced looser than the path width to give a tunnel-like effect.
+tighter than the path width, it feels unnatural — more like a strip mall than a
+natural landscape. Interactions can occasionally be spaced _looser_ than the
+path width to give a tunnel-like effect.
 
 [blue noise]: https://momentsingraphics.de/BlueNoise.html
 
@@ -104,10 +105,17 @@ wide as your chosen spacing — [Rhythmic Spacing].
 
 [Positive Space]: /posts/alexandrian-software/05-positive-space.html
 
-A common failure mode is to have "dots" of obstacles on a negatively-shaped
-ground of passable space. An example of this antipattern is the map Field of
-Life. This antipattern can make it hard for the player to recognize different
-parts of the map and orient themselves, because everything looks the same.
+A common antipattern is to have "dots" of obstacles on a negatively-shaped
+ground of passable space. An example is the map Field of Life. Taken to an
+extreme, this can make it hard for the player to recognize different parts of
+the map and orient themselves, because everything looks the same.
+
+Another common antipattern is to draw long, thin "walls" of obstacle terrain. A
+rather literal example of this can be seen in Bandits of the Rifen Maze. This
+kind of map is annoying to traverse, doesn't provide many nooks for treasures
+and monsters, and tends to look flat and bland besides. To create positive
+space, a "wall" should be no more than 4 times as long as it is wide — and
+probably closer to 2 or 3.
 
 ## Freebies
 
@@ -182,6 +190,22 @@ to make. Which fight is easier?
 
 ## Glimpses of the Future
 
+One of the things that makes Heroes games fun is the sense of progression. You
+start out not being able to do a thing, and then later, as your heroes level
+up, you find you _can_ do the thing.
+
+To give players a sense of progression, you want to occasionally show them an
+area they can't access yet, or a monster they can't fight yet. The Window of
+the Magi structure does this in a very deliberate way, and is often used by
+mapmakers to draw the player's attention to plot-relevant areas. But you can
+also use the normal scouting radius of armies or towns to lift the shroud on
+a late-game area. An example of this occurs at the beginning of In War with the
+In-Laws. You can see across the mountains to a region that you won't be able to
+explore until the late game.
+
+Even more simply, you can put a level 4 monster guarding a major artifact in a
+player's start area.
+
 ## Level Variety
 
 [Level Variety]: #level-variety
@@ -191,6 +215,11 @@ strategic decision making if the sequence of fights is too obvious: walk down
 the road, fight 5 level 1s, then 5 level 2s, etc. Instead, you want the player
 to be weighing options and tradeoffs. Can I take this fight now? Can I afford
 to come back later?
+
+Having a variety of monster levels in an area also makes the fights less
+repetitive, [as YouTube user Finkellll points out][heroes3-mapmaking].
+
+[heroes3-mapmaking]: https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=6Qkd_sC8PMc
 
 Still, each region of the map will have a dominant encounter level. As a rule
 of thumb, aim to make about 20–30% of the fights in an area off-level. If you
@@ -222,12 +251,83 @@ Level 4 creatures often guard major artifacts. See also [Treasure Point Values].
 
 ## Shortcut Guards
 
-## Conflict Areas
+Monsters don't only have to guard treasure. Another valuable reward is a
+shortcut between different areas of the map.
+
+The most dramatic example of this is when you have a monster guarding a portal.
+But you can also put guards on smaller shortcuts that are simply paths between
+obstacles. If a player can cut a day off their journey by fighting a monster on
+the way, it might be worth taking the fight. You can throw in some treasure
+too, to sweeten the deal.
+
+## Contested Regions
+
+Contested regions are any passable region that isn't a player's start region.
+They are often designed for PvP (player-versus-player) combat. They can also
+have PvE (player-versus-environment) elements that reward players who get there
+first.
+
+Often, you'll want to structure the map so players must pass through a contested
+region before they can get to another player's start region. In any case, you
+want contested regions to be accessible from multiple players' start regions.
+Otherwise, they're not really contested.
+
+Contested regions often contain:
+
+- level 3 and 4 monsters
+- artifacts
+- buildings that provide temporary buffs
+- gold mines and other high-value resource mines
+- high-level creature dwellings
+- high-level spells (shrines, conservatories)
+- skill altars
+- towns
+- trading posts
+- loops or circuits in the path
+- chokepoints
+
+## Dungeons
+
+A dungeon is a kind of contested region which
+
+- is small
+- is designed for PvE, not PvP
+- contains monsters and lots of treasure.
+
+## Grass
+
+Unless there's rain or a sprinkler system keeping it wet, grass quickly dries
+out and turns yellow in direct sunlight. To make a rural-looking grass area,
+use lush grass terrain in the following places:
+
+- under trees
+- next to mountains that have bright green grass at the bottom of their slopes
+- near water
+- (maybe) on the north (shaded) side of mountains and trees.
+
+Elsewhere, you probably want to use dry grass terrain.
+
+If you are going for a fairyland look, you can use lush grass almost
+everywhere. You still might want to use dry grass to create a "road" in the
+center of passable areas. This guides the player's eye and helps them see the
+map's structure. It's also naturalistic, since grass dies under heavy foot
+traffic.
+
+## Ground cover
+
+- under trees: logs, moss,
+- around interactive objects:
+  - rocks
+  - trees
+  - rocks + wildflowers
+- next to mountains: rocks, trees
+- on beaches: dunes, rocks
 
 ## Sound Design
 
-- each area should have a consistent terrain type on passable tiles, to ensure
-  that the music doesn't change too often.
+- Each area should have a consistent terrain type on passable tiles, to ensure
+  that the music doesn't change too often. You can use a different terrain type
+  under trees to give some visual variety.
 
 ## Mountains Above, Trees Below
 
