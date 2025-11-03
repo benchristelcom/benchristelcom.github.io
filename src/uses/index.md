@@ -100,7 +100,9 @@ I don't currently use these, but I might someday.
 - [Surfraw](http://surfraw.org/) - Browses the web from the command line. Apparently you can customize it via
   plugin-like things called [elvi](https://baccyflap.com/res/sr/).
 - [Offpunk](https://sr.ht/~lioploum/offpunk/) - Browses the web, Gopher, and
-  Gemini from the terminal; caches pages for offline viewing.
+  Gemini from the terminal; caches pages for offline viewing. Made by [Ploum].
+
+[Ploum]: https://ploum.eu/
 
 ### Software Development
 
