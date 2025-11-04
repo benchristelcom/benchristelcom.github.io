@@ -141,3 +141,6 @@ of the Magi) somewhat early in the game so players can plan a strategy.
   - Chaos direct damage spells do +50% damage
 - Shackles of War
   - TODO: does this prevent Town Gate from working?
+- Harmonic Chainmail, Necklace of Muses, Aiffe's Mandolin
+  - The TGS expansion has special rules for this combo. The hero's attack casts
+    Song of Peace on the target.
