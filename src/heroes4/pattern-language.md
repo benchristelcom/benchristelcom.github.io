@@ -21,6 +21,29 @@ ratio between the smallest and largest can be 4:1 or perhaps more.
 
 Each region should be a coherent shape — [Positive Space].
 
+Here is an example: regions I drew for the map "Battle of the Bards". This is
+an extra large map. Counting water regions, there are around 30 regions all
+told.
+
+<img src="regions.png" alt="a map with regional boundaries" width="302">
+
+Positive shape is enhanced by local symmetries. In the picture below, I shaded
+some of the sub-regions that are roughly symmetric. You can see that the
+symmetric shapes are not always the entire region — hence the emphasis on
+_local_ symmetries.
+
+<img src="symmetries.png" alt="a map with locally symmetric areas shaded" width="302">
+
+To enhance positive shape and give you more opportunities for symmetry, a
+few good rules of thumb are:
+
+- Always make 3-way junctions between region borders. Avoid making "cross" or
+  "star" intersections where 4 or more regions meet at a point.
+- Make borders meet at right or obtuse angles — around 90 or 120 degrees.
+  Squares and hexagons fit together nicely.
+- Build up regions by overlapping almost-rectangular or almost-hexagonal
+  shapes. Trapezoids are good too.
+
 Regions that are simply "left over" after brushing in the terrain for the other
 regions tend to have negative/bad shape. To counteract this, go back and forth
 between adjacent regions as you brush, expanding and adjusting each until the
@@ -28,6 +51,10 @@ whole configuration looks good. Making the regions interlock or interpenetrate
 can help — [Deep Interlock].
 
 [Deep Interlock]: https://benchristel.com/posts/alexandrian-software/08-deep-interlock-and-ambiguity.html
+
+*Don't rush this step.* Awkwardly-shaped regions will haunt you the whole time
+you're building and playing the map. Take your time and keep working at it
+until you're satisfied with every region.
 
 - Choose terrain type for each region
 - Regions with movement-limiting terrain (rough, snow, sand, swamp) should be
