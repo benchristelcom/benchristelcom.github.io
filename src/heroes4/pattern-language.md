@@ -6,6 +6,8 @@ mapmaking.
 
 ## Regions
 
+[Regions]: #regions
+
 A region is an area of the map with a consistent terrain type.
 
 - A small map should have about 2–4 regions (per "plane", i.e. above ground or underground)
@@ -56,9 +58,52 @@ can help — [Deep Interlock].
 you're building and playing the map. Take your time and keep working at it
 until you're satisfied with every region.
 
-- Choose terrain type for each region
-- Regions with movement-limiting terrain (rough, snow, sand, swamp) should be
-  smaller and have tighter spacing — [Rhythmic Spacing].
+This investment will pay off later. In particular, one of the benefits of
+positive shape, besides aesthetics and ease of fitting in adventure objects and
+pathways, is that it means you can subdivide or combine regions if you find
+they're too big, and still end up with positively-shaped regions as a result.
+
+## Terrain Types
+
+Once you have outlined each region, brush in a single terrain type per region.
+This will be the dominant terrain in that region. When choosing a terrain type
+for a region, prefer those that contrast with adjacent regions.
+
+You can subdivide or merge regions at this point, maintaining [Positive Space]
+— see [Regions].
+
+Regions with movement-limiting terrain (rough, snow, sand, swamp) should be
+smaller and have tighter spacing — [Rhythmic Spacing]. If you are working on a
+small map, using terrain to limit movement makes the map feel larger. This
+technique was used to good effect in the map The Ultimate Mug of Ale.
+
+Here is an example, from the development of my map, Battle of the Bards. You
+can see that I've tweaked some regions from the map above, subdividing
+some and slightly changing the shape of others.
+
+<img src="terrain.png" alt="a map with a single terrain type in each region" width="302">
+
+About half the land area is grass and dirt terrain, which impose no movement
+penalty. Note that I want most of the swamp, snow, rough, and volcanic regions
+to feel large and difficult to traverse — they will be [Contested Regions]
+loaded with goodies and monsters.
+
+As I fill in the terrain, I'm at least somewhat aware of how I want the
+gameplay to go and what stories I want to tell in each region. E.g. the swamp
+region at the lower left is the "pirate region". The red player will be Might
+and have a viking-ish aesthetic. Etc. I've made small volcanic regions to house
+strategic items that players will quest for as they transition into the
+midgame.
+
+After brushing in the terrain, you should stand back a bit and squint at the
+minimap to get a sense of its overall character. I like my maps to have a
+natural, weathered-looking roughness. I think this one does pretty well.
+
+<img src="terrain.png" alt="smaller image of the map above" width="75">
+
+The way you get this "natural" look is, as stated earlier, seeking positive
+shapes with local symmetries, varying the region size, and then brushing in
+terrain so adjacent regions contrast.
 
 ## Starting Regions
 
@@ -217,6 +262,8 @@ to make. Which fight is easier?
 
 ## Glimpses of the Future
 
+[Glimpses of the Future]: #glimpses-of-the-future
+
 One of the things that makes Heroes games fun is the sense of progression. You
 start out not being able to do a thing, and then later, as your heroes level
 up, you find you _can_ do the thing.
@@ -289,6 +336,8 @@ too, to sweeten the deal.
 
 ## Contested Regions
 
+[Contested Regions]: #contested-regions
+
 Contested regions are any passable region that isn't a player's start region.
 They are often designed for PvP (player-versus-player) combat. They can also
 have PvE (player-versus-environment) elements that reward players who get there
@@ -312,6 +361,11 @@ Contested regions often contain:
 - trading posts
 - loops or circuits in the path
 - chokepoints
+- garrisons
+- sanctuaries
+
+The point is, you want players to be racing to these regions and fighting over
+what's in them.
 
 ## Dungeons
 
@@ -321,11 +375,24 @@ A dungeon is a kind of contested region which
 - is designed for PvE, not PvP
 - contains monsters and lots of treasure.
 
+Players will race for these dungeons, but won't usually fight in them. Dungeons
+are thus a way of creating indirect conflict on a map.
+
+Often, players can see dungeons before they can reach them, via Windows of the
+Magi or shroud towers — [Glimpses of the Future]. They need to get an idea of
+what's in the dungeon so they know whether they should go for it.
+
+It may be unwise to put only random items in a dungeon. To motivate players to
+explore the dungeon, you want a couple really good, hand-picked items. Which
+items should go in a dungeon depends on the strategies you think will be good
+on the map. Imagine a few different hero builds for each alignment and choose
+items that go well with those.
+
 ## Grass
 
 Unless there's rain or a sprinkler system keeping it wet, grass quickly dries
-out and turns yellow in direct sunlight. To make a rural-looking grass area,
-use lush grass terrain in the following places:
+out and turns yellow in direct sunlight. To make a mediterranean-looking grass
+area, use lush grass terrain in the following places:
 
 - under trees
 - next to mountains that have bright green grass at the bottom of their slopes
@@ -334,11 +401,11 @@ use lush grass terrain in the following places:
 
 Elsewhere, you probably want to use dry grass terrain.
 
-If you are going for a fairyland look, you can use lush grass almost
-everywhere. You still might want to use dry grass to create a "road" in the
-center of passable areas. This guides the player's eye and helps them see the
-map's structure. It's also naturalistic, since grass dies under heavy foot
-traffic.
+If you are going for a fairyland / northern Europe / Ireland look, you can use
+lush grass almost everywhere. You still might want to use dry grass to create a
+"road" in the center of passable areas. This guides the player's eye and helps
+them see the map's structure. It's also naturalistic, since grass dies under
+heavy foot traffic.
 
 ## Ground cover
 
@@ -355,6 +422,9 @@ traffic.
 - Each area should have a consistent terrain type on passable tiles, to ensure
   that the music doesn't change too often. You can use a different terrain type
   under trees to give some visual variety.
+- add birds, frogs, and pigs as appropriate.
+- consider placing buildings with really annoying sound effects (e.g. the
+  Leprechaun) away from the main path.
 
 ## Mountains Above, Trees Below
 
@@ -424,7 +494,7 @@ traffic.
 - Staff
 
 <style>
-a[href*='#'] {
+a[href*='#']:not([href^=http]) {
     font-variant: small-caps;
     text-decoration: none;
     text-shadow: 0 0;
