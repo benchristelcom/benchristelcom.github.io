@@ -105,18 +105,6 @@ The way you get this "natural" look is, as stated earlier, seeking positive
 shapes with local symmetries, varying the region size, and then brushing in
 terrain so adjacent regions contrast.
 
-## Starting Regions
-
-- Choose a region for each player to start in
-- Place a town in each starting region
-  - If the town is placed close to the center of the region, the map can
-    feel more "open world" and less railroaded than if it is placed in a corner.
-    That can be a good or a bad thing depending on what you're aiming for.
-
-Near each town, place an Ore Pit and a Sawmill, and a couple resources next to
-each. They can be unguarded, or guarded by level 1 monsters
-— [Level 1 Encounters].
-
 ## Folded Boundaries
 
 [Folded Boundaries]: #folded-boundaries
@@ -189,6 +177,18 @@ and monsters, and tends to look flat and bland besides. To create positive
 space, a "wall" should be no more than 4 times as long as it is wide — and
 probably closer to 2 or 3.
 
+## Starting Regions
+
+- Choose a region for each player to start in
+- Place a town in each starting region
+  - If the town is placed close to the center of the region, the map can
+    feel more "open world" and less railroaded than if it is placed in a corner.
+    That can be a good or a bad thing depending on what you're aiming for.
+
+Near each town, place an Ore Pit and a Sawmill, and a couple resources next to
+each. They can be unguarded, or guarded by level 1 monsters
+— [Level 1 Encounters].
+
 ## Freebies
 
 - reward exploration.
@@ -222,6 +222,33 @@ are too valuable:
 - minor or major artifacts — see [Level 3 Encounters] and [Level 4 Encounters].
 
 When placing level 1 monsters, leave room for a few level 2s — [Level Variety].
+
+## Level Variety
+
+[Level Variety]: #level-variety
+
+Avoid clustering together too many fights at the same level. It limits
+strategic decision making if the sequence of fights is too obvious: walk down
+the road, fight 5 level 1s, then 5 level 2s, etc. Instead, you want the player
+to be weighing options and tradeoffs. Can I take this fight now? Can I afford
+to come back later?
+
+Having a variety of monster levels in an area also makes the fights less
+repetitive, [as YouTube user Finkellll points out][heroes3-mapmaking].
+
+[heroes3-mapmaking]: https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=6Qkd_sC8PMc
+
+Still, each region of the map will have a dominant encounter level. As a rule
+of thumb, aim to make about 20–30% of the fights in an area off-level. If you
+have 5 level 1 fights, mix in a couple of level 2s.
+
+Most of the time, adjacent fights should be at most one level apart. The
+exception is when you want to draw the player's attention to something that is
+_important_ but inaccessible till later in the game — [Glimpses of the Future].
+That's when you put a level 4 monster next to the starting town.
+
+Off-level fights should give above-average rewards for their level, to increase
+the incentive to return to an already-visited area or take a fight early.
 
 ## Guarded Areas
 
@@ -279,33 +306,6 @@ explore until the late game.
 
 Even more simply, you can put a level 4 monster guarding a major artifact in a
 player's start area.
-
-## Level Variety
-
-[Level Variety]: #level-variety
-
-Avoid clustering together too many fights at the same level. It limits
-strategic decision making if the sequence of fights is too obvious: walk down
-the road, fight 5 level 1s, then 5 level 2s, etc. Instead, you want the player
-to be weighing options and tradeoffs. Can I take this fight now? Can I afford
-to come back later?
-
-Having a variety of monster levels in an area also makes the fights less
-repetitive, [as YouTube user Finkellll points out][heroes3-mapmaking].
-
-[heroes3-mapmaking]: https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=6Qkd_sC8PMc
-
-Still, each region of the map will have a dominant encounter level. As a rule
-of thumb, aim to make about 20–30% of the fights in an area off-level. If you
-have 5 level 1 fights, mix in a couple of level 2s.
-
-Most of the time, adjacent fights should be at most one level apart. The
-exception is when you want to draw the player's attention to something that is
-_important_ but inaccessible till later in the game — [Glimpses of the Future].
-That's when you put a level 4 monster next to the starting town.
-
-Off-level fights should give above-average rewards for their level, to increase
-the incentive to return to an already-visited area or take a fight early.
 
 ## Level 2 Encounters
 
