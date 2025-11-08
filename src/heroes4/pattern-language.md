@@ -115,6 +115,8 @@ terrain so adjacent regions contrast.
   [Deep Interlock], [Alternating Repetition].
 - The entire center formed by the boundary can be quite thick: 10 tiles or more.
 
+For an example, see the map Harpy Horde.
+
 [Alternating Repetition]: https://benchristel.com/posts/alexandrian-software/04-alternating-repetition.html
 
 See [Mountains Above, Trees Below] for how to brush an obstacle center.
@@ -151,33 +153,96 @@ path width to give a tunnel-like effect.
 
 [blue noise]: https://momentsingraphics.de/BlueNoise.html
 
-## Rooms and Paths
+## Encounters and Obstacles
 
-[Rooms and Paths]: #rooms-and-paths
+This section tells you how to fill in a region with:
 
-Once you have your regional boundaries drawn ([Folded Boundaries]), add more
-obstacle "islands" within each region.
+- obstacles like mountains, trees, and rocks
+- encounters — groups of interactive objects that can include monsters,
+  buildings, and treasure.
 
-These obstacles should be shaped so they interact with the regional boundaries
-to create "rooms" and "paths" with [Positive Space]. The obstacles should also
-be positive shapes themselves. Remember that most of your paths should be as
-wide as your chosen spacing — [Rhythmic Spacing].
+There are multiple sequences you can follow to do this.
 
-[Positive Space]: /posts/alexandrian-software/05-positive-space.html
+- Seq 1. [Droplets] (A Land Without a King, Zanfas's Challenge)
+- Seq 2. [Paths and Walls] (Danger in the Trees, Dungeon Crawl, Forest Frenzy,
+  Seven Steps to Glory)
+- Seq 3. [Main Path and Branches] (Harpy Horde, Beebee and the Three Pigs, The
+  Ultimate Mug of Ale)
 
-A common antipattern is to have "dots" of obstacles on a negatively-shaped
-ground of passable space. An example is the map Field of Life. Taken to an
-extreme, this can make it hard for the player to recognize different parts of
-the map and orient themselves, because everything looks the same.
+What should you put in each encounter? To answer this question, see:
+[Starting Regions], [Level Variety], [Level 1 Encounters], [Level 2 Encounters],
+[Level 3 Encounters], [Level 4 Encounters]. For ideas on how to place
+monsters, see: [Guarded Areas], [Shortcut Guards], [Alternative Fights].
 
-Another common antipattern is to draw long, thin "walls" of obstacle terrain. A
-rather literal example of this can be seen in Bandits of the Rifen Maze. This
-kind of map is annoying to traverse, doesn't provide many nooks for treasures
-and monsters, and tends to look flat and bland besides. To create positive
-space, a "wall" should be no more than 4 times as long as it is wide — and
-probably closer to 2 or 3.
+### Droplets
+
+[Droplets]: #droplets
+
+This sequence is good when you want to create an "open world" map, where the
+player has a lot of choice in where to go and the order in which to take
+fights. It has the benefit of being easy to execute, and it results in a map
+that's easy to tweak later.
+
+Steps:
+
+- Scatter encounters around the region, maintaining [Rhythmic Spacing].
+- Add obstacles next to (usually above) each encounter to create a "droplet"
+  of impassable terrain.
+
+Risks:
+
+- Players can feel like they don't know where to go next. It can feel like the
+  map doesn't have an overall narrative arc.
+- The map can feel too samey. Example: Field of Life.
+- PvP can suffer, devolving into armies chasing each other around in circles.
+
+### Paths and Walls
+
+[Paths and Walls]: #paths-and-walls
+
+This sequence is good when players will be skirmishing over towns and mines,
+and you need to control the distance between those landmarks.
+
+Steps:
+
+- Use the Road tool to mark out a network of paths that players will follow.
+  Adhere to [Rhythmic Spacing] when deciding how close together paths can be.
+- Add encounters along and between the paths and at the ends of branches,
+  following [Rhythmic Spacing].
+- Fill the space between the paths with obstacles.
+- Delete any roads you don't want.
+
+Risks:
+
+- This style of map can feel artificial.
+- It can be a lot of work to remodel this type of map when playtesting reveals
+  flaws.
+
+### Main Path and Branches
+
+[Main Path and Branches]: #main-path-and-branches
+
+This sequence is good when you are creating a story-based map, or want to give
+players a clear set of choices for where to go. The branch paths give you a
+natural place to put sequences of fights of increasing difficulty.
+
+Steps:
+
+- Use the Road tool to draw the main path(s) in one type of road — say, cobble.
+  The main paths should connect to neighboring regions. They may form loops.
+  Small loops — just big enough to encircle one structure — can be quite
+  frequent. Bigger loops should be less frequent.
+  There should not be any dead ends in the main path.
+- Use a different type of Road — say, dirt — to create secondary paths
+  branching off the main path. Follow [Rhythmic Spacing].
+- Add encounters along and between the paths and at the ends of branches,
+  following [Rhythmic Spacing].
+- Fill the space between the paths with obstacles.
+- Delete any roads you don't want.
 
 ## Starting Regions
+
+[Starting Regions]: #starting-regions
 
 - Choose a region for each player to start in
 - Place a town in each starting region
@@ -252,6 +317,8 @@ the incentive to return to an already-visited area or take a fight early.
 
 ## Guarded Areas
 
+[Guarded Areas]: #guarded-areas
+
 When placing monsters, consider what tiles they are guarding. There's no point
 having monsters guard tiles with nothing on them. Conversely, if you intend for
 a monster to guard an object, make sure it is _actually_ guarding it.
@@ -274,6 +341,8 @@ Stealth can stand on the tile next to any monster without being attacked, so
 they can steal anything that isn't in a 1x1 nook directly behind the monster.
 
 ## Alternative Fights
+
+[Alternative Fights]: #alternative-fights
 
 When a path is between 4 and 10 tiles wide, you have the opportunity to block
 it with a pair of monsters in such a way that defeating either monster will let
@@ -309,21 +378,29 @@ player's start area.
 
 ## Level 2 Encounters
 
+[Level 2 Encounters]: #level-2-encounters
+
 Level 2 creatures often guard rare resource mines (gem, crystal, mercury,
 sulfur) and random treasures. See also [Treasure Point Values].
 
 ## Level 3 Encounters
+
+[Level 3 Encounters]: #level-3-encounters
 
 Level 3 creatures often guard gold mines and minor artifacts. See also
 [Treasure Point Values].
 
 ## Level 4 Encounters
 
+[Level 4 Encounters]: #level-4-encounters
+
 Level 4 creatures often guard major artifacts. See also [Treasure Point Values].
 
 ## Free Path
 
 ## Shortcut Guards
+
+[Shortcut Guards]: #shortcut-guards
 
 Monsters don't only have to guard treasure. Another valuable reward is a
 shortcut between different areas of the map.
