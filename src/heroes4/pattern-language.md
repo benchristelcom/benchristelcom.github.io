@@ -61,7 +61,8 @@ until you're satisfied with every region.
 This investment will pay off later. In particular, one of the benefits of
 positive shape, besides aesthetics and ease of fitting in adventure objects and
 pathways, is that it means you can subdivide or combine regions if you find
-they're too big, and still end up with positively-shaped regions as a result.
+they're too small or too big, and still end up with positively-shaped regions
+as a result.
 
 ## Terrain Types
 
