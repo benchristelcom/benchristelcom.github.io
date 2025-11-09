@@ -219,6 +219,12 @@ Risks:
 - It can be a lot of work to remodel this type of map when playtesting reveals
   flaws.
 
+Here is an example of how a region might look after the first step (drawing
+roads), from my map Battle of the Bards. The spacing is 7. Ignore the
+encounters — they are left over from a previous attempt at filling this region.
+
+![paths](paths.jpg)
+
 ### Main Path and Branches
 
 [Main Path and Branches]: #main-path-and-branches
