@@ -589,9 +589,13 @@ heavy foot traffic.
 
 ### 8 points
 
-- Gold Mine
 - Minor Artifact
 - Mage's Chest
+- Daily rare resource mine (gems/crystal/mercury/sulfur)
+
+### 16 points
+
+- Gold Mine
 
 ### 24 points?
 
