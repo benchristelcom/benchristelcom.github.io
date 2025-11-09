@@ -225,6 +225,10 @@ encounters — they are left over from a previous attempt at filling this region
 
 ![paths](paths.jpg)
 
+The image below shows the main path highlighted in blue:
+
+![main path](main-path.jpg)
+
 ### Main Path and Branches
 
 [Main Path and Branches]: #main-path-and-branches
