@@ -219,16 +219,6 @@ Risks:
 - It can be a lot of work to remodel this type of map when playtesting reveals
   flaws.
 
-Here is an example of how a region might look after the first step (drawing
-roads), from my map Battle of the Bards. The spacing is 7. Ignore the
-encounters — they are left over from a previous attempt at filling this region.
-
-![paths](paths.jpg)
-
-The image below shows the main path highlighted in blue:
-
-![main path](main-path.jpg)
-
 ### Main Path and Branches
 
 [Main Path and Branches]: #main-path-and-branches
@@ -250,6 +240,16 @@ Steps:
   following [Rhythmic Spacing].
 - Fill the space between the paths with obstacles.
 - Delete any roads you don't want.
+
+Here is an example of how a region might look after the first two steps
+(drawing roads), from my map Battle of the Bards. The spacing is 7. Ignore the
+encounters — they are left over from a previous attempt at filling this region.
+
+![paths](paths.jpg)
+
+The image below shows the main path highlighted in blue:
+
+![main path](main-path.jpg)
 
 ## Starting Regions
 
