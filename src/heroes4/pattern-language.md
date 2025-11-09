@@ -255,6 +255,22 @@ Near each town, place an Ore Pit and a Sawmill, and a couple resources next to
 each. They can be unguarded, or guarded by level 1 monsters
 — [Level 1 Encounters].
 
+Pretty much everything else about the starting region is up to you, but keep in
+mind that in the early game, players will want:
+
+- Resources
+- Treasure chests
+- XP boosters (Learning Stone, Dream Teacher)
+- Creature dwellings
+- Skills (Witch's Hut, Beastmaster's Hut, School of Magic/War, etc.)
+- Spells
+- Basic items like armor and bows
+- Temporary buffs
+- Mana replenishment
+
+You may want to throw in some stat upgrades, treasures, and minor
+artifacts as well, but these aren't as essential.
+
 ## Freebies
 
 - reward exploration.
@@ -283,7 +299,8 @@ One way to gauge the reward for a fight is to use a point-buy system. See
 Level 1 monsters generally should not guard the following reward types; they
 are too valuable:
 
-- rare resource mines (gem, crystal, mercury, sulfur) — see [Level 2 Encounters]
+- daily rare resource mines (gem, crystal, mercury, sulfur)
+  — see [Level 2 Encounters]. Weekly mines are okay for level 1.
 - gold mines — see [Level 3 Encounters]
 - minor or major artifacts — see [Level 3 Encounters] and [Level 4 Encounters].
 
