@@ -575,7 +575,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [Housekeeping](/housekeeping/) - like recipes for your house
 - [Meditation](/meditation/)
 - [Metrics](/metrics/) - how I measure how well this (portal) page is working
-- [Conlangs] - constructed languages
+- [Conlangs](/conlangs/) - constructed languages
 - [Lyrics](/lyrics/)
 - [/uses](/uses/)
 
