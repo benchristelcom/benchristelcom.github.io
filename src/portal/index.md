@@ -1033,9 +1033,7 @@ As seen on [Culture Machine](https://tv.benchristel.com/):
 - [maps4heroes.com](https://www.maps4heroes.com/heroes4/maps.php) - A huge collection of high-quality player-made maps. See also my own [map archive](https://github.com/benchristel/heroes-iv-map-archive).
 - [heroesofmightandmagic.com](http://www.heroesofmightandmagic.com/heroes4/heroesofmightandmagic4iv.shtml) - The official website, with descriptions of every hero, creature, spell, artifact, and building.
 - [Heroes Community Forums](http://heroescommunity.com)
-- Ever wonder how many berserkers it takes to beat a phoenix? My
-  [Army Strength Calculator](https://benchristel.github.io/heroes-iv-army-calculator)
-  has got you covered.<hs-meta keywords="creature ratings page"></hs-meta>
+- [Army Strength Calculator](https://benchristel.github.io/heroes-iv-army-calculator)<hs-meta keywords="creature ratings page"></hs-meta>
 
 ### Other Computer Games
 
@@ -1052,6 +1050,9 @@ As seen on [Culture Machine](https://tv.benchristel.com/):
 A.K.A. the lost art of amusing yourself without electricity.
 
 - [Card Game Rules at Pagat.com](https://www.pagat.com/) - A huge collection of game rules, maintained by John McLeod.
+- [Michigan Rummy / Tripoli](https://www.pagat.com/stops/3in1.html)
+- [Hand and Foot](https://www.pagat.com/rummy/handfoot.html)
+- [Durak](https://www.pagat.com/beating/durak.html)
 
 ## Model Railroads
 
