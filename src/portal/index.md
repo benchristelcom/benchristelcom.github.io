@@ -461,6 +461,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [C++](https://en.cppreference.com/w/) <hs-meta keywords="cpp"></hs-meta>
 - [ECMAScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) a.k.a. JavaScript
 - [EditorConfig](https://editorconfig.org/)
+- [Gemini Protocol](https://geminiprotocol.net/)
 - [GraphQL](http://spec.graphql.org)
 - [HTML](https://html.spec.whatwg.org)
 - [JSDoc](https://jsdoc.app/)
@@ -693,7 +694,9 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 
 ## Reviving Civilization
 
-- [A Solarpunk Manifesto](https://www.re-des.org/es/a-solarpunk-manifesto/). [Mirrored at Skyhold.org](https://skyhold.org/solarpunk/index.html).
+- [A Solarpunk Manifesto](https://iandennismiller.github.io/solarpunk/manifesto/english.html).
+  [Mirrored at Skyhold.org](https://skyhold.org/solarpunk/index.html).
+- [Petit Manifeste Low-Tech](https://ploum.net/2025-05-16-manifeste-lowtech.html) (en français)
 - [Skyhold's list of solarpunk and collapsepunk resources](https://skyhold.org/solarpunk/links.html)
 - [Diome](https://diome.xyz/0+%F0%9F%8C%9E+About/0.0+Technology+for+a+Regenerative+Civilization) - Technology for a regenerative civilization. By Andrea Farias.
 - [Meaningness](https://meaningness.com/) by [David Chapman](https://meaningness.com/about-my-sites). A work-in-progress philosophy book.
