@@ -347,6 +347,7 @@ html {
 - [Housekeeping](#housekeeping)
 - [Architecture](#architecture)
 - [Books](#books)
+- [Videos](#videos)
 - [Games](#games--gaming)
 - [Languages](#languages-and-linguistics)
 - [History of Tech](#history-of-technology)
@@ -924,6 +925,7 @@ See also [my /uses page](/uses).
 
 - [Dr. Link Check](https://www.drlinkcheck.com/) - Test for broken links on your website.
 - [W3C HTML Validator](https://validator.w3.org/) - Check your HTML for problems that could cause it to display incorrectly in some browsers.
+- [WebPageTest](https://www.webpagetest.org/) - Test web page performance on a variety of devices and under different network conditions.
 
 ### Transforming
 
@@ -996,6 +998,33 @@ See also:
 
 - [The Systems Bible (Systemantics 3rd Ed.)](https://www.generalsystemantics.com/product/the-systems-bible/) by John Gall
 - [The Canterbury Tales](https://chaucer.fas.harvard.edu/pages/text-and-translations) in Middle English
+
+## Videos
+
+### YouTube
+
+As seen on [Culture Machine](https://tv.benchristel.com/):
+
+- [MarchVivo](https://www.youtube.com/@marchvivo) - concerts
+- [Orchestra of the Age of Enlightenment](https://www.youtube.com/@oae) - classical music with a twist
+- [Dryante Zan](https://www.youtube.com/@Dryante) - "mediæval" video game music
+- [Total Baroque](https://www.youtube.com/@TotalBaroque) - concerts
+- [AudioPhil](https://www.youtube.com/@AudioPhil1) - record albums
+- [Wikitongues](https://www.youtube.com/@Wikitongues) - people speaking languages
+- [Pellwolok an Gernewegva](https://www.youtube.com/@KernowPods) - Television of the Cornish Language Community
+- [Simon Roper](https://www.youtube.com/@simonroper9218) - historical linguistics and archaeology
+- [Sally Pointer](https://www.youtube.com/@SallyPointer) - foraging and stone-age textiles
+- [Townsends](https://www.youtube.com/@townsends) - historical reenactment and cooking
+- [LibriVox](https://www.youtube.com/@LibriVoxAudiobooks) - public-domain audiobooks
+- [Mystical Magpie](https://www.youtube.com/@MysticalMagpie-wo5fn) - radio plays
+- [Ben Eater](https://www.youtube.com/@BenEater) - computers from scratch
+- [Engineerguy](https://www.youtube.com/@engineerguyvideo) - the engineering behind everyday objects
+- [Burr Stewart](https://www.youtube.com/@muchfunwithtrains) - model railroads
+- [Clocks Ticking](https://www.youtube.com/@clocksticking6173) - exactly what it sounds like
+
+### Others' Lists
+
+- [Small YouTube List](https://github.com/kagisearch/smallweb/blob/main/smallyt.txt) from Kagi.
 
 ## Games & Gaming
 
@@ -1080,6 +1109,7 @@ h/t [Low Tech Magazine](https://solar.lowtechmagazine.com/2010/06/how-to-tie-the
 
 - [Folklore.org](https://folklore.org/0-index.html) - the history of the Apple Macintosh
 - [Vintage Apple](https://vintageapple.org/) - the history of the early Macintosh, plus archives of magazines from the 80s and 90s (including Macworld and Byte).
+- [Infinite Mac](https://infinitemac.org/) - Run old versions of Mac OS — up to 10.4.11 — in your browser.
 - [Every default macOS (and OSX) wallpaper, in glorious 6K resolution](https://512pixels.net/projects/default-mac-wallpapers-in-5k/) courtesy of [512 Pixels](https://512pixels.net).
 - [Version Museum](https://versionmuseum.com/) - Screenshots of old software
 
@@ -1121,6 +1151,7 @@ into one searchable, cross-referenced database.
 
 ## Web Curators
 
+- [VE3ZSH's Links](https://ve3zsh.ca/links/index.html) - like this page, but bigger.
 - [varve's burrow](https://www.write-on.org/outbound.html) - useful programs and resources, plus the author's bookmarks
 - [Terrible Lizard](https://terriblelizard.info/) - free and open access to journal articles; internet privacy; website building resources.
 - [Public Domain Review](https://publicdomainreview.org/) - collections of public domain writing and art (h/t [Melon]).
