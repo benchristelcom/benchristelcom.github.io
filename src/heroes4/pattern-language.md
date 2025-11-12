@@ -544,6 +544,19 @@ heavy foot traffic.
 - When placing trees on the north side of mountains, you can place them on a
   tile that is already covered by the mountain. This limits the visual
   obstruction.
+- To make terrain north of trees impassable, you can put rocks there. This
+  technique was used in Beebee and the Three Pigs – e.g. just south of the
+  starting town, and behind it. This variant of the technique could be called
+  "rocks above, trees below."
+
+A tree + rock barrier should be at least 2 tiles thick, but 3 or 4 tiles looks
+better.
+
+## Hills and Valleys
+
+To make it easier for the player to see all the terrain, put obstacles
+(mountains, trees) in valleys or on the northern slope of hills. Example:
+Beebee and the Three Pigs.
 
 ## Appendix: Treasure Point Values
 
