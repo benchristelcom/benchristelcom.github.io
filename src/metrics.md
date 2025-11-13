@@ -1,7 +1,7 @@
 # Metrics for benchristel.com
 
 Created: July 4, 2024.<br>
-Updated: September 21, 2025.
+Updated: November 12, 2025.
 
 ## Background
 
@@ -36,6 +36,7 @@ Run `tools/metrics HISTORYFILE`
 
 | Month    | Webpages | Google searches | DDG searches |
 | -------- | -------- | --------------- | ------------ |
+| Oct 2025 | 882      | 0               | 9            |
 | Sep 2025 | 481      | 3               | 1            |
 | Aug 2025 | 1280     | 0               | 5            |
 | Jul 2025 | 558      | 0               | 0            |
@@ -58,6 +59,17 @@ Run `tools/metrics HISTORYFILE`
 | Feb 2024 | 1435     | 6               | 160          |
 
 ## Notes
+
+### October 2025
+
+Things I had to search for on DuckDuckGo this month:
+
+- A screenshot of the "New Facebook Protest Group" from 2008 (I was doing
+  research for a blog post). (7 searches)
+
+Websites that redirect site-specific searches to DuckDuckGo:
+
+- clojure.org (2 searches)
 
 ### September 2025
 
