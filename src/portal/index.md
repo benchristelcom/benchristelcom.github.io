@@ -1084,6 +1084,7 @@ A.K.A. the lost art of amusing yourself without electricity.
 
 ### English & Multilingual Dictionaries
 
+- [OED](https://www.oed.com/) - The Oxford English Dictionary
 - [Etymonline](https://www.etymonline.com/) - An etymological dictionary of English.
 - [Wiktionary](https://en.wiktionary.org/) - A collaborative multilingual dictionary. Extremely comprehensive.
 - [Merriam-Webster](https://www.merriam-webster.com) - English dictionary and thesaurus.
