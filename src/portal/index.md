@@ -1072,6 +1072,7 @@ A.K.A. the lost art of amusing yourself without electricity.
 - [Dedalvs.com](https://dedalvs.com/) - David J. Peterson's site. You might have heard of his language [Dothraki](http://www.dothraki.com/).
 - [The website of Jörg Rhiemeier](https://joerg-rhiemeier.de), creator of the Albic language family.
 - [The Guild of Linguists Homepage](http://linguists.riedl.org/old/), with info about the D'ni language from the world of _Myst_ and _Riven_. (h/t [Richard Kennaway](http://www2.cmp.uea.ac.uk/~jrk/conlang.html))
+- [A Conlanger's Thesaurus](https://fiatlingua.org/2014/09/) by William Annis - "a basic wordlist which has been annotated with notes on common paths of grammaticalization, cross-linguistic polysemy and other information" (h/t [Nicky](https://www.preterit.me/))
 
 ### Cornish - Kernewek
 
