@@ -611,6 +611,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 ## Art
 
 - [Celtic Art by Jen Delyth](http://celticartstudio.com/)
+- [Artvee](https://artvee.com/) - Download public-domain classical and modern art
 
 ## Music
 
