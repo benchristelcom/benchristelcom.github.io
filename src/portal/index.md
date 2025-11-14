@@ -482,6 +482,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [Federal Aviation Administration](https://www.faa.gov/)
 - [Internal Revenue Service](https://www.irs.gov/)
 - [USGS](https://www.usgs.gov/)<hs-meta keywords="geological survey"></hs-meta>
+- [USPS](https://www.usps.com/)<hs-meta keywords="postal service mail"></hs-meta>
 
 ### Local Governments
 
