@@ -22,7 +22,7 @@ span[inert] { position: absolute; width: 1px; height: 1px; overflow: hidden; }
   - Cinnamon desktop
   - [LynX theme](https://github.com/benchristel/LynX)
   - [macOS keybindings](https://github.com/benchristel/autokeyconf)
-- [WASD 87-key keyboard](https://www.wasdkeyboards.com/) with [Cherry MX brown switches](https://www.wasdkeyboards.com/mechanical-keyboard-guide) and Mac keycaps
+- WASD 87-key keyboard with Cherry MX brown switches and Mac keycaps
 
 ## Phone
 

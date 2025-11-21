@@ -1164,7 +1164,6 @@ into one searchable, cross-referenced database.
 - [Public Domain Review](https://publicdomainreview.org/) - collections of public domain writing and art (h/t [Melon]).
 - [Ruby Klover's website](https://www.bruh.ltd), which includes a [list of lists](https://www.bruh.ltd/lists) curated by the author.
 - [Brandon's Journal](https://brandons-journal.com/links/) - includes a collection of blogs and websites about internet history, film, comics, pop culture, and Buddhism. There's also a [recipe book](https://scribbles.page/fj78s9ca#new_tab) compiled by the author's great-grandmother.
-- [Mike Grindle](https://mikegrindle.com) - writing about retro technology and internet culture, plus a [links page](https://mikegrindle.com/blogroll) with a bunch of cool sites.
 - [The Cidoku Network](https://cidoku.net/links/)
 - [Website Review](https://websitereview.neocities.org/) - a virtual library of deepweb and www sites.
 - [Melon's Fav Hyperlinks](https://melonking.net/melon?z=/links)

@@ -13,7 +13,7 @@
 
 ### Retro
 
-- [Mike Grindle's Webpage](https://mikegrindle.com/)
+empty
 
 ## Maximalist Web 1.0
 
