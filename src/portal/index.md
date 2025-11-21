@@ -438,6 +438,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [RSpec](https://rspec.info/)
 - [Ruby](https://www.ruby-lang.org/)
 - [ShellCheck](https://www.shellcheck.net/)
+- [Solid JavaScript SDK](https://docs.inrupt.com/sdk/javascript-sdk)
 - [swc](https://swc.rs) <hs-meta keywords="speedy web compiler"></hs-meta>
 - [TC39](https://tc39.es/)
 - [TSTyche](https://tstyche.org/)
@@ -473,6 +474,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [RSS 2.0](https://www.rssboard.org/rss-specification). [Mirror](https://cyber.harvard.edu/rss/rss.html).
 - [Semantic Versioning](https://semver.org)
 - [Semantic Versioning for TypeScript Types](https://www.semver-ts.org/)
+- [Solid](https://solidproject.org/)
 - [URL](https://url.spec.whatwg.org)
 - [Willow Protocol](https://willowprotocol.org/)
 - [XPath](https://www.w3.org/TR/1999/REC-xpath-19991116/)
