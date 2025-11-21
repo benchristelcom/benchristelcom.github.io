@@ -1,0 +1,32 @@
+#!/bin/bash
+
+# Usage: tools/dead-links > /tmp/dead
+
+REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+
+# Makes a curl request and outputs the HTTP status code.
+request() {
+  url="$1"
+  shift
+  flags="$@"
+  
+  curl "$flags" --fail --max-time 10 --silent --write-out '%{http_code}\n' "$url"
+}
+
+"${REPO_ROOT}/tools/links" | while read url; do
+  http_code="$(request "$url" --head)"
+  
+  if grep -qE '^(405|406)$' <<<"$http_code"; then
+    # The server might not accept HEAD requests; try again with GET.
+    http_code="$(request "$url")"
+  fi
+  
+  # Treat 200, redirect, or 403 Forbidden as success. Sites often use 403 to
+  # block bots.
+  if ! grep -qE '^(200|3..|403)$' <<<"$http_code"; then
+    echo "$url"
+    echo -n X$http_code >&2
+  else
+    echo -n . >&2
+  fi
+done

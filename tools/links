@@ -1,0 +1,5 @@
+#!/bin/bash
+
+REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+
+grep -ro --no-filename -P 'https?://[^\]\)">\s]+' "$REPO_ROOT/src"
