@@ -465,6 +465,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [Gemini Protocol](https://geminiprotocol.net/)
 - [GraphQL](http://spec.graphql.org)
 - [HTML](https://html.spec.whatwg.org)
+- [HTTP Status Codes](https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)
 - [JSDoc](https://jsdoc.app/)
 - [JSON](https://json.org/)
 - [jwt.io](https://jwt.io/) - JSON Web Tokens
