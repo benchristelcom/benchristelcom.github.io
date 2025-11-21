@@ -515,6 +515,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 
 - [Framework Laptops](https://frame.work)
 - [Greenwaste](https://greenwaste.com)
+- [Inrupt](https://www.inrupt.com/)
 - [Kagi](https://kagi.com/)
 - [Sunridge Farms](https://sunridgefarms.com/)
 - [Monterey Bay Herb Company](https://herbco.com/)
