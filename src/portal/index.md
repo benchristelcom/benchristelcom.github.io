@@ -914,6 +914,7 @@ See also [my /uses page](/uses).
 - [Ecosia](https://www.ecosia.org/) - Berlin-based web search engine; donates profits to environmental causes.
 - [Million Short](https://millionshort.com/) - Filters out the top million (or thousand, or hundred) most popular websites from your search results. Subscription-based. (h/t [Cidoku])
 - [Open Street Map](https://www.openstreetmap.org/) - Alternative to Google Maps. In addition to searching for locations, it can also provide [navigation directions](https://www.openstreetmap.org/directions).
+- [Native Land Digital](https://native-land.ca/) - Find out whose ancestral land you're squatting on.
 
 ### Calculating<hs-meta keywords="calculators calculate"></hs-meta>
 
