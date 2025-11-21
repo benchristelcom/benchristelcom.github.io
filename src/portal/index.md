@@ -474,10 +474,12 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [RSS 2.0](https://www.rssboard.org/rss-specification). [Mirror](https://cyber.harvard.edu/rss/rss.html).
 - [Semantic Versioning](https://semver.org)
 - [Semantic Versioning for TypeScript Types](https://www.semver-ts.org/)
-- [Solid](https://solidproject.org/)
+- [Solid]
 - [URL](https://url.spec.whatwg.org)
 - [Willow Protocol](https://willowprotocol.org/)
 - [XPath](https://www.w3.org/TR/1999/REC-xpath-19991116/)
+
+[Solid]: https://solidproject.org/
 
 ### U.S. Government<hs-meta keywords="united states us"></hs-meta>
 
@@ -801,6 +803,8 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Gitea](https://gitea.com) - Self-hosted git web UI, comparable to GitHub
 - [js.org](https://js.org) - Free subdomains for JavaScript projects using [GitHub Pages](https://pages.github.com/).
 - [List of MediaWiki hosting providers](https://www.mediawiki.org/wiki/Hosting_services) - Create your own wiki!
+- [iGrant.io](https://igrant.io/datapod.html) - [Solid] pod provider <hs-meta keywords="data file blob store storage"></hs-meta>
+- [Inrupt](https://start.inrupt.com/profile) - [Solid] pod provider <hs-meta keywords="data file blob store storage"></hs-meta>
 
 ### UI/UX Design
 
