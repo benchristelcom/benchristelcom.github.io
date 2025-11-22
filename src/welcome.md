@@ -2,11 +2,10 @@
 
 I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); by night I write everything else. This website is the gateway to my many projects.
 
-- [Recent updates](log.html) &nbsp;&middot;&nbsp; [Subscribe via RSS](subscribe.md)
+- [Recent updates](log.html)
+- [Subscribe via RSS](subscribe.md)
 
 ## Cyberspace Curation
-
-<div class="col-2"></div>
 
 - [My Web Portal](/portal) - A searchable catalog of links I've bookmarked.
 
@@ -26,8 +25,6 @@ to make an actually playable map. When I do, I'll post it here.
 
 ## Writing Projects
 
-<div class="col-2"></div>
-
 - [_Process to Processes_](https://benchristel.github.io/process-to-processes) - A draft of my upcoming book about software development.
 
 - [_DeFAANGed_](http://defaanged.mataroa.blog/) - a blog about finding good and
@@ -40,8 +37,6 @@ to make an actually playable map. When I do, I'll post it here.
 ## Major Artifacts
 
 Projects I actively use and maintain.
-
-<div class="col-2"></div>
 
 - [Druthers](https://druthers.app) - Instantly grok your group's priorities with a ranked-choice poll. A collaboration with [Gavin Morgan](https://gavmor.com).
 
@@ -109,10 +104,6 @@ a.out {
   text-align: center;
 }
 
-ul > li {
-  list-style-type: none;
-  text-indent: -1em;
-}
 li > a:first-child, li > p:first-child > a:first-child {
   text-shadow: 0.03em 0;
   letter-spacing: 0.03em;
