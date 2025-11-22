@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# Usage: tools/dead-links > /tmp/dead
+# Reads a list of URLs on STDIN. Outputs those that are 404 or otherwise broken
+# on STDOUT. Prints progress on STDERR. 
 
 REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 
@@ -13,7 +14,7 @@ request() {
   curl "$flags" --fail --max-time 10 --silent --write-out '%{http_code}\n' "$url"
 }
 
-"${REPO_ROOT}/tools/links" | while read url; do
+while read url; do
   http_code="$(request "$url" --head)"
   
   if grep -qE '^(405|406)$' <<<"$http_code"; then
