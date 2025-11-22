@@ -707,7 +707,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
   [Mirrored at Skyhold.org](https://skyhold.org/solarpunk/index.html).
 - [Petit Manifeste Low-Tech](https://ploum.net/2025-05-16-manifeste-lowtech.html) (en français)
 - [Skyhold's list of solarpunk and collapsepunk resources](https://skyhold.org/solarpunk/links.html)
-- [Diome](https://diome.xyz/0+%F0%9F%8C%9E+About/0.0+Technology+for+a+Regenerative+Civilization) - Technology for a regenerative civilization. By Andrea Farias.
+- [Diome](https://diome.xyz/) - Technology for a regenerative civilization. By Andrea Farias.
 - [Meaningness](https://meaningness.com/) by [David Chapman](https://meaningness.com/about-my-sites). A work-in-progress philosophy book.
 - [Life Itself](https://lifeitself.org/)
 
@@ -851,7 +851,7 @@ See also [my /uses page](/uses).
 - [Commit git hooks to repository](https://stackoverflow.com/a/54281447)
   - `git config --local core.hooksPath .githooks/`
   - Run this in your Makefile (e.g. after installing dependencies) to make it automatic
-- [How to get RSS URLs from YouTube channels and playlists](https://chriswere.wales/articles/rss-youtube) by Chris Were.
+- [How to get RSS URLs from YouTube channels and playlists](https://chriswere.wales/posts/how-to-get-rss-urls-from-youtube-channels-and-playlists.html) by Chris Were.
   - It seems you can also paste YouTube channel URLs directly into at least some feed readers (tested with QuiteRSS). E.g. try this one: <https://www.youtube.com/@simonroper9218>.
 - [Show or hide HTML elements for screenreaders only](https://css-tricks.com/inclusively-hidden/) using CSS.
 - [Relative import paths need explicit file extensions in ECMAScript imports](https://www.totaltypescript.com/relative-import-paths-need-explicit-file-extensions-in-ecmascript-imports)
@@ -929,7 +929,6 @@ See also [my /uses page](/uses).
 - [Excalidraw](https://excalidraw.com/) - Create hand-drawn-style SVGs and PNG images
 - [TinkerCAD](https://www.tinkercad.com/) - 3D modeling online!
 - [Flaming Text](https://flamingtext.com/) - Creates logos and typemarks. Not just flaming text, but glowing text, drop shadows, reflections, leopard print... the sky's the limit!
-- [Dillinger.io](https://dillinger.io) - Online [Markdown] editor
 - [Firefox theme creator](https://color.firefox.com/?theme=XQAAAAL6AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xMDPsqu1p-XAF6EJDWcx9sS_Bi3JZH4KPzK-C2nG0G0z0EYOEN1uOojKq8xIkzQd7r6Lb_q5Whn0OXxiivqrZyadZXRncNouH8dON5uAlcixY_JS1naRZJs1_TXnHJS3Bp2orX6rzkWXrN_6M5wiHYKpJL5lHhwHuprDS2eb____dfIEA) - Essential if you can't stand FF's default low-contrast tabs.
 - [Favicon.cc](https://www.favicon.cc/) - Draw website icons, pixel by pixel.
 
@@ -952,7 +951,6 @@ See also [my /uses page](/uses).
 
 - [Mataroa.blog](https://mataroa.blog/) - Minimalist blogging and newsletter platform.
 - [Bear Blog](https://bearblog.dev/) - Minimalist blogging platform
-- [Off---line](https://off---line.com/) - Clone of Facebook circa 2007
 - [Blogtrottr](https://blogtrottr.com/) - Subscribe to RSS feeds, get blog posts sent to your email<hs-meta keywords="subscriptions notifications atom"></hs-meta>
 
 ### Prototyping
@@ -1069,8 +1067,6 @@ A.K.A. the lost art of amusing yourself without electricity.
 ## Model Railroads
 
 - [Burr Stewart (@muchfunwithtrains) on YouTube](https://www.youtube.com/@muchfunwithtrains/videos)
-- [Layout Design Special Interest Group (LDSIG)](https://ldsig.org/)
-  - [Design Primer](https://ldsig.net/o/ldsig/wiki/index_title_How_to_use_the_LDSIG_Design_Primer.html)
 - [Gateway NMRA](https://www.gatewaynmra.org) of St. Louis
 - [New Forest Model Railroad Society](http://www.nfmrs.org)
 
@@ -1170,8 +1166,8 @@ into one searchable, cross-referenced database.
 - [varve's burrow](https://www.write-on.org/outbound.html) - useful programs and resources, plus the author's bookmarks
 - [Terrible Lizard](https://terriblelizard.info/) - free and open access to journal articles; internet privacy; website building resources.
 - [Public Domain Review](https://publicdomainreview.org/) - collections of public domain writing and art (h/t [Melon]).
-- [Ruby Klover's website](https://www.bruh.ltd), which includes a [list of lists](https://www.bruh.ltd/lists) curated by the author.
-- [Brandon's Journal](https://brandons-journal.com/links/) - includes a collection of blogs and websites about internet history, film, comics, pop culture, and Buddhism. There's also a [recipe book](https://scribbles.page/fj78s9ca#new_tab) compiled by the author's great-grandmother.
+- [Ruby Klover's website](https://www.bruh.ltd)
+- [Brandon's Journal](https://brandons-journal.com/links/) - includes a collection of blogs and websites about internet history, film, comics, pop culture, and Buddhism.
 - [The Cidoku Network](https://cidoku.net/links/)
 - [Website Review](https://websitereview.neocities.org/) - a virtual library of deepweb and www sites.
 - [Melon's Fav Hyperlinks](https://melonking.net/melon?z=/links)
