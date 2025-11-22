@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Reads a list of URLs on STDIN. Outputs unique domain names to STDOUT.
+
+cut -d/ -f3 \
+  | cut -d: -f1 \
+  | sort \
+  | uniq

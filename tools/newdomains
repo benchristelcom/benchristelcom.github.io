@@ -12,10 +12,8 @@ if [ -z "$FILE" ]; then
   exit 1
 fi
 
-diff <(
-  cat "$FILE" \
-    | cut -d/ -f3 \
-    | cut -d: -f1 \
-    | sort \
-    | uniq
-) <("$REPO_ROOT/tools/all-domains") | ag '< ' | sed -e 's/< /https:\/\//'
+diff \
+  <(cat "$FILE" | "$REPO_ROOT/tools/domains") \
+  <("$REPO_ROOT/tools/all-domains") \
+  | ag '< ' \
+  | sed -e 's/< /https:\/\//'
