@@ -2,4 +2,4 @@
 
 REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 
-grep -ro --no-filename -P 'https?://[^\]\)">\s]+' "$REPO_ROOT/src"
+"$REPO_ROOT/tools/links" "$REPO_ROOT/src"

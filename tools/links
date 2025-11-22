@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Prints the URLs in a Markdown or HTML file, or a directory of them.
+# Usage: tools/links path/to/search
+
+grep -ro --no-filename -P 'https?://[^\]\)">\s]+' "$1"
