@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # This script prints domains that are in the given file ($1) but are not
-# listed by the `domains` script (i.e. not in src/).
+# listed by the `all-domains` script (i.e. not in src/).
 
 REPO_ROOT="$(cd "$(dirname "$0")" && pwd)"/..
 
@@ -18,4 +18,4 @@ diff <(
     | cut -d: -f1 \
     | sort \
     | uniq
-) <("$REPO_ROOT/tools/domains") | ag '< ' | sed -e 's/< /https:\/\//'
+) <("$REPO_ROOT/tools/all-domains") | ag '< ' | sed -e 's/< /https:\/\//'

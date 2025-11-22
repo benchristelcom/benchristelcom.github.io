@@ -14,7 +14,7 @@ QUARANTINED_REGEX='youtube.com'
   echo "*"
 
   # generate allowlist from links
-  "$REPO_ROOT"/tools/domains \
+  "$REPO_ROOT"/tools/all-domains \
     | (while read domain; do
       if [ "$domain" == "" ]; then
         continue

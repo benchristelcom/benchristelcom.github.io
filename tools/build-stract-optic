@@ -4,7 +4,7 @@ cd "$(dirname "$0")/.." || exit 1
 
 main() {
     preamble > src/optic.txt
-    tools/domains | rules >> src/optic.txt
+    tools/all-domains | rules >> src/optic.txt
 }
 
 preamble() {
