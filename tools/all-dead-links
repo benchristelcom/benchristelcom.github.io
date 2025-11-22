@@ -4,4 +4,4 @@
 
 REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 
-"${REPO_ROOT}/tools/links" | "${REPO_ROOT}/tools/dead-links"
+"${REPO_ROOT}/tools/all-links" | "${REPO_ROOT}/tools/dead-links"

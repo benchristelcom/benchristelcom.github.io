@@ -2,7 +2,7 @@
 
 REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 
-"${REPO_ROOT}/tools/links" \
+"${REPO_ROOT}/tools/all-links" \
   | cut -d/ -f3 \
   | cut -d: -f1 \
   | sort \
