@@ -12,12 +12,11 @@ Serves 6.
 - Flour
 - Salt
 - Pepper
-- 8oz mozzarella
+- 8oz grated mozzarella
 - 1 cup grated Parmesan
 - Fresh basil
 - Onion
 - 28oz can diced tomatoes
-- Tomato 
 
 ## Procedure
 
@@ -25,7 +24,7 @@ Serves 6.
 
 1. Sauté the onion in a saucepan
 
-2. Add tomatoes, salt and pepper
+2. Add tomatoes, salt and pepper, and a glug of extra virgin olive oil.
 
 3. Simmer 10–15 minutes, stirring occasionally
 
