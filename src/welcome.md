@@ -38,28 +38,31 @@ to make an actually playable map. When I do, I'll post it here.
 
 Projects I actively use and maintain.
 
-- [Druthers](https://druthers.app) - Instantly grok your group's priorities with a ranked-choice poll. A collaboration with [Gavin Morgan](https://gavmor.com).
-
 - [mdsite](https://benchristel.github.io/mdsite) - A modern generator for old-school static sites and HTML books. It turns any tree of [Markdown](https://daringfireball.net/projects/markdown/) files into a website, complete with auto-generated navigation links.
+
 - [marss](https://www.npmjs.com/package/marss) - A markdown-to-RSS converter. Turns your microblog or changelog into an RSS feed.
-- [Taste](https://npmjs.com/package/@benchristel/taste) - Simple, speedy JavaScript test framework
+- [taste](https://npmjs.com/package/@benchristel/taste) - Simple, speedy JavaScript test framework
 - [hypersearch](https://www.npmjs.com/package/@benchristel/hypersearch) - Powers the searchbar on the [web portal](/portal) page.
-- [Audition](https://github.com/benchristel/audition) - A command-line tool that keeps the prose description of your conlang up to date with its morphology and lexicon.
+- [audition](https://github.com/benchristel/audition) - A command-line tool that keeps the prose description of your conlang up to date with its morphology and lexicon.
 - [The One Grammar to Rule Them All](/conlangs/ogtrta) - The Lisp of conlangs. A syntax template for people who don't want to think about syntax anymore.
 - [wwwebring](https://www.npmjs.com/package/wwwebring) - A fully clientside webring widget for static sites. Powers [the Wayward Web](https://waywardweb.org).
 - [LynX](https://github.com/benchristel/LynX) - My Linux Mint theme. Re-skins Linux to look and feel like "big cat"-era Mac OSX. Don't ask me how it's pronounced.
 - [autokeyconf](https://github.com/benchristel/autokeyconf) - Rebinds shortcut keys system-wide on Linux.
 - ["Frost" theme for Docky](https://github.com/benchristel/docky-frost) - An OSX-style dock for Linux.
 - [yt](https://benchristel.github.io/yt/) - Watch YouTube without ads or tracking. Pairs great with [LeechBlock](https://www.proginosko.com/leechblock/).
-- [Meditation Timer](https://benchristel.github.io/meditation/) with background noise, and bells at 5-minute intervals.
 
 ## Minor Artifacts
 
 Projects I haven't done anything with in a while.
 
+- [Druthers](https://druthers.app) - Instantly grok your group's priorities with a ranked-choice poll. A collaboration with [Gavin Morgan](https://gavmor.com).
+
 - [Dunmanifestin](https://github.com/gavmor/dunmanifestin) - Recursive madlib engine, designed for generating D&D characters and settings. Made in collaboration with [Gavin Morgan](https://gavmor.com).
 
 - [The Cave](https://benchristel.github.io/the-cave/) - Helps you keep track of short-term tasks with deep dependencies.
+
+- [Meditation Timer](https://benchristel.github.io/meditation/) with background noise, and bells at 5-minute intervals.
+
 - [Auracle](https://benchristel.github.io/auracle) - A word generator for conlangs. Give it some examples of your desired aesthetic, and get more in return.
 - [Aether Author](http://benchristel.github.io/aether-author/) - Stream-of-consciousness writing tool. Hides everything but the last few characters, so you can write without your writing getting in the way.
 - [Hashema](https://github.com/benchristel/hashema) - a Ruby gem for checking if a data structure conforms to a schema / type definition. Designed to be more ergonomic and flexible than [JSON Schema](https://json-schema.org/).
