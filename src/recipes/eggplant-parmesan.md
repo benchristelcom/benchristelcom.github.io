@@ -32,7 +32,7 @@ Serves 6.
 ### Eggplant
 
 1. Preheat oven to 350º F.
-2. Peel the eggplants and cut into 1 centimeter slices.
+2. Peel the eggplants (optional) and cut into 1 centimeter slices.
 3. Salt and flour the slices on both sides.
 4. Shallow-fry in a pan with a few tablespoons of oil, 3–4 minutes per side
    until the flour starts to brown.
