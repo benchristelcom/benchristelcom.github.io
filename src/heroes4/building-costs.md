@@ -103,3 +103,29 @@
 - Secondary resource: crystal (if going for hydras)
 - There are many dependencies, making the build order more complicated than it
   is for other towns.
+
+## Nature (Preserve)
+
+| Building | Gold | Wood | Ore | Gems | Crystal | Mercury | Sulfur | Notes |
+| -------- | ---- | ---- | --- | ---- | ------- | ------- | ------ | ----- |
+| Citadel | 7500 | 10 | 10 | | | | | Required for Griffin Cliffs
+| Ranger's Guild | 3500 | 20 | | | | | | Required for Treetop Lodge
+| Druid's Hall Level 1 | 1000 | 2 | 2 | | 1
+| Druid's Hall Level 2 | 1000 | | | | 1
+| Druid's Hall Level 3 | 1000 | | | | 1
+| Druid's Hall Level 4 | 1000 | | | | 1
+| Druid's Hall Level 5 | 1000 | | | | 1
+| Conservatory of Chaos | 2500 | 2 | 2 | | | 2 | | Required for Magic Forest
+| Conservatory of Life | 2500 | 4 | 4
+| Tiger Den | 3000 | | 6
+| Griffin Cliffs | 6500 | 6 | 10 | | 4
+| Unicorn Glade | 6500 | 12 | | 6
+| Treetop Lodge | 3000 | 6
+| Pyre | 14000 | 12 | | | | 20 | 10
+| Magic Forest | 14000 | 14 | 6 | 7 | 7 | 7 | 7
+| Creature Portal | 6500 | | 10 | 5 | | | | Required for Pyre
+| Sacred Grove | 1000 | 4 | | | 1 | | | Required for Tiger Den
+| Rainbow | 1500 | | | 1 | 1 | | | Required for Unicorn Glade
+
+- Key resources: crystal, wood
+- Secondary resources: all
