@@ -51,3 +51,26 @@
 - Key resources: gems, gold
 - Secondary resources: crystal, sulfur
 
+## Death (Necropolis)
+
+| Building | Gold | Wood | Ore | Gems | Crystal | Mercury | Sulfur | Notes |
+| -------- | ---- | ---- | --- | ---- | ------- | ------- | ------ | ----- |
+| Tavern   | 500  | 2    |     |      |         |         |        | Required for Mansion
+| Tower of Darkness Level 1 | 1000 | 2 | 2 | | | | 1 | Required for Spawning Pit
+| Tower of Darkness Level 2 | 1000 | | | | | | 1
+| Tower of Darkness Level 3 | 1000 | | | | | | 1
+| Tower of Darkness Level 4 | 1000 | | | | | | 1
+| Tower of Darkness Level 5 | 1000 | | | | | | 1
+| Annex of Wizardry | 2500 | 2 | 2 | 2
+| Chaos Annex | 2500 | 2 | 2 | | | 2
+| Barrow Mound | 3250 | | | | 3
+| Kennels | 3000 | 4 | | | | | 1
+| Mansion | 6250 | 8 | | | 8
+| Spawning Pit | 6250 | | 8 | | | 8
+| Dragon Graveyard | 14000 | 12 | 14 | 6 | 6 | 6 | 6
+| Temple of the Damned | 14000 | 6 | 8 | 10 | | | 20
+| Necromancy Amplifier | 1000 | | 6 | | | 3 | 3 | Required for Dragon Graveyard
+| Undead Transformer | 2500 | | 10 | | | 5 | | Required for Barrow Mound
+
+- Key resources: sulfur (if going for demons), crystal (if going for undead)
+- Secondary resources: all
