@@ -122,3 +122,37 @@ some reason — inflating or outright fabricating their revenue figures in
 conversations with investors. I am not a lawyer, so I'm not fully able to
 understand why this isn't fraud. Indeed, it might _be_ fraud — but I don't know.
 Time, and the legal system, will tell, I suppose.
+
+## Conclusions
+
+### The User Must Pay
+
+It took me longer than it should have to realize this: you work for the person
+who pays you.
+
+It's a truism at this point that "if you don't pay for the product, you are the
+product," but there are one or two dashes of color that I think I can add to
+our collective image of non-user-funded software.
+
+First, if you are working for free — on a hobby project, say — then you are
+funding the project, and therefore you are building a product for yourself. You
+are the customer. It doesn't matter if your software has users. It doesn't
+matter if you have an "audience." You are working for you, and people like you.
+
+Second, if you work for a nonprofit, your users are not your customers — your
+donors are.
+
+What all this adds up to is that if you want to make "good software" — software
+that works for its users — then those users must pay for the product. This is
+the _sine qua non_ of software development. It is an ironclad, inescapable
+requirement. If you want good software, the users must pay. Otherwise, profit
+and quality will fight, and profit will win every time.
+
+### The CEO Must Have Zero Tolerance for Bullshit
+
+There still remains the problem of how to resolve the conflict between
+individual self-interest and collective interest. This is actually an easy
+problem to solve in theory, yet it is very rarely solved in practice. The
+solution is simply this: hire a CEO with zero tolerance for bullshit.
+
+TODO: Why don't stock options create alignment?
