@@ -821,6 +821,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Practical Typography](https://practicaltypography.com/) by Matthew Butterick (h/t [Ruby](https://www.bruh.ltd/))
 - [Programming Fonts](https://www.programmingfonts.org/) - Online playground for trying out programming fonts. Favorites include [Comic Shanns](https://github.com/shannpersand/comic-shanns), [Mensch](https://robey.lag.net/2010/06/21/mensch-font.html), and [Monaspace Xenon](https://monaspace.githubnext.com/).
 - [Mildliner Color Sets](https://mildliners.rknight.me/)
+- [Josh W. Comeau's Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
 
 ### Tools I Currently Use
 
