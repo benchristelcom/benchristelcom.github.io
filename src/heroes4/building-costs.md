@@ -25,6 +25,7 @@
 
 - Key resources: wood, ore, crystal
 - Secondary resource: gems
+- Life is unique in not needing sulfur or mercury at all.
 
 ## Order (Academy)
 
@@ -74,3 +75,31 @@
 
 - Key resources: sulfur (if going for demons), crystal (if going for undead)
 - Secondary resources: all
+
+## Chaos (Asylum)
+
+| Building | Gold | Wood | Ore | Gems | Crystal | Mercury | Sulfur | Notes |
+| -------- | ---- | ---- | --- | ---- | ------- | ------- | ------ | ----- |
+| Rogue's Guild | 3000 | 4 | 10 | | | | | Required for Volcanic Vent
+| Caravan  | 4000 | 10 | | | | | | Required for Black Wood
+| Sorceror's Guild Level 1 | 1000 | 2 | 2 | | | 1 | | Required for Statuary Garden
+| Sorceror's Guild Level 2 | 1000 | | | | | 1 | | Required for Mana Vortex
+| Sorceror's Guild Level 3 | 1000 | | | | | 1
+| Sorceror's Guild Level 4 | 1000 | | | | | 1
+| Sorceror's Guild Level 5 | 1000 | | | | | 1
+| Hall of the Dead | 2500 | 2 | 2 | | | | 2 | Required for Dragon Cave
+| Witch Hall | 2500 | 2 | 2 | | 2 | | | Required for Hydra Pond
+| Statuary Garden | 3000 | | 6
+| Labyrinth | 3000 | | | 3
+| Black Wood | 6250 | 14 | | | | 5
+| Volcanic Vent | 6250 | 14 | | | | | 5
+| Hydra Pond | 14000 | 16 | | | 4 | 20 | 6
+| Dragon Cave | 14000 | 6 | 6 | | | | 30
+| Mana Vortex | 1000 | | | 1 | 1 | 1 | 1
+| Battle Academy | 2000 | 5 | 5
+| Thieves' Gauntlet | 1000 | | 6 | | | | | Required for Labyrinth
+
+- Key resources: mercury (if going for "nature" creatures), sulfur (if going for fire creatures)
+- Secondary resource: crystal (if going for hydras)
+- There are many dependencies, making the build order more complicated than it
+  is for other towns.
