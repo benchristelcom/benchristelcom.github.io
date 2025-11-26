@@ -22,6 +22,7 @@
 | Stables | 2750 | 10 | | | | | | Required for Knight's Chapter
 | Abbey | 1000 | 4 | 4 | | | | | Required for Monastery
 | Seminary | 5750 | 5 | 5 | | | | | Required for Altar of Light
+| **Total** | **69500** | **109** | **95** | **17** | **22**
 
 - Key resources: wood, ore, crystal
 - Secondary resource: gems
@@ -47,10 +48,10 @@
 | Cloud Castle | 14000 | 16 | 16 | 20
 | Treasury | 6000 | 5 | 10 | | | | | Required for Golden Pavilion
 | University | 5750 | 5 | 5 | 2 | | | 2 | Required for Dragon Factory
+| **Total** | **71000** | **58** | **87** | **45** | **10** | **6** | **10**
 
-
-- Key resources: gems, gold
-- Secondary resources: crystal, sulfur
+- Key resources: gems, crystal, gold
+- Secondary resources: ore
 
 ## Death (Necropolis)
 
@@ -72,8 +73,9 @@
 | Temple of the Damned | 14000 | 6 | 8 | 10 | | | 20
 | Necromancy Amplifier | 1000 | | 6 | | | 3 | 3 | Required for Dragon Graveyard
 | Undead Transformer | 2500 | | 10 | | | 5 | | Required for Barrow Mound
+| **Total** | **60750** | **38** | **52** | **18** | **17** | **24** | **35**
 
-- Key resources: sulfur (if going for demons), crystal (if going for undead)
+- Key resources: sulfur (if going for demons), mercury
 - Secondary resources: all
 
 ## Chaos (Asylum)
@@ -98,8 +100,9 @@
 | Mana Vortex | 1000 | | | 1 | 1 | 1 | 1
 | Battle Academy | 2000 | 5 | 5
 | Thieves' Gauntlet | 1000 | | 6 | | | | | Required for Labyrinth
+| **Total** | **67500** | **75** | **39** | **4** | **7** | **31** | **44**
 
-- Key resources: mercury (if going for "nature" creatures), sulfur (if going for fire creatures)
+- Key resources: mercury (if going for "nature" creatures), sulfur (if going for fire creatures), wood
 - Secondary resource: crystal (if going for hydras)
 - There are many dependencies, making the build order more complicated than it
   is for other towns.
@@ -126,6 +129,7 @@
 | Creature Portal | 6500 | | 10 | 5 | | | | Required for Pyre
 | Sacred Grove | 1000 | 4 | | | 1 | | | Required for Tiger Den
 | Rainbow | 1500 | | | 1 | 1 | | | Required for Unicorn Glade
+| **Total** | **77000** | **92** | **50** | **19** | **18** | **29** | **17**
 
 - Key resources: crystal, wood
 - Secondary resources: all
