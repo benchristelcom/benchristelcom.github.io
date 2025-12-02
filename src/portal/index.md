@@ -484,6 +484,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 ### U.S. Government<hs-meta keywords="united states us"></hs-meta>
 
 - [Bureau of Labor Statistics](https://data.bls.gov)
+- [EEOC](https://www.eeoc.gov/) - Equal Employment Opportunity Commission
 - [Federal Aviation Administration](https://www.faa.gov/)
 - [Internal Revenue Service](https://www.irs.gov/)
 - [USGS](https://www.usgs.gov/)<hs-meta keywords="geological survey"></hs-meta>
