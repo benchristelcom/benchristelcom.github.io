@@ -7,6 +7,8 @@ When concerns are separated, on the other hand, there is contrast between the pa
 
 [Sandi Metz](https://github.com/benchristel/benchristel.github.io/wiki/SandiMetz) has a technique she calls the **[squint test](https://www.youtube.com/watch?v=8bZh5LMaSmE&t=3m43s)**: you lean back and squint at the code, looking for changes in shape and changes in color. The more coherence and consistency you see in each part, the better the code is.
 
+Christopher Alexander said it this way:
+
 > For functional and cognitive clarity, contrast is \[...\] practically necessary: the shop in the neighborhood is different from the houses next to it. \[... Contrast\] allows each center to take its proper nature. It permits more intensive attention to individual functions. And it creates a feeling of distinction which relaxes people, because it acknowledges and permits different dimensions of experience.
 > 
 > Contrast is the thing which creates differentiation, and allows differentiation. It is the differentiation of the void which gives birth to matter. All differentiation requires that contrast is created in space, in order to give birth to anything at all.
