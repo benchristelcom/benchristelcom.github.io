@@ -771,6 +771,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [What's in a Name? Anti-patterns to a Hard Problem](https://www.sitepoint.com/whats-in-a-name-anti-patterns-to-a-hard-problem/) - Katrina Owen <hs-meta keywords="idea fragment implementation"></hs-meta>
 - [Naming as a Process](https://www.digdeeproots.com/articles/on/naming-process/) - Arlo Belshee <hs-meta keywords="naming is a process not a single step"></hs-meta>
 - [The Twelve-Factor App](https://12factor.net/) - How to make web apps that are portable, scalable, and easy to develop and deploy.
+- [Growing a Language](https://benchristel.github.io/yt/#lw6TaiXzHAE) - Guy Steele, OOPSLA '98
 
 ### Reference
 
