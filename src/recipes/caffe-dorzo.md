@@ -16,3 +16,8 @@ An Italian-style caffeine-free coffee substitute, made from barley.
 ## Notes
 
 400ºF makes a very dark roast. 350º is too light, though. I'd do 375º next time.
+
+The roasting process will make your whole house smell like burnt coffee if you
+do it indoors. You won't notice, if you're in the room while it is taking
+place, but other people will. Running an exhaust fan doesn't really help. Maybe
+move your toaster oven outdoors.
