@@ -789,6 +789,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [MemoryManagement.org](https://www.memorymanagement.org/) - Approaches to garbage collection and more.
 - [List of Common MIME Types](https://developer.mozilla.org/en-US/docs/Web/HTTP/MIME_types/Common_types) on MDN
 - [TypeScript Utility Types](https://www.typescriptlang.org/docs/handbook/utility-types.html) <hs-meta keywords="ts"></hs-meta>
+- [Java SE Documentation](https://docs.oracle.com/en/java/javase/)
 
 ### Q&A
 
@@ -1001,6 +1002,7 @@ See also [my /uses page](/uses).
 - [Indie Bound](https://www.indiebound.org/) - Find local independent bookstores!
 - [Bookshop](https://bookshop.org/)
 - [Global Grey Ebooks](https://www.globalgreyebooks.com/)
+- [Routledge](https://www.routledge.com/)
 
 See also:
 
