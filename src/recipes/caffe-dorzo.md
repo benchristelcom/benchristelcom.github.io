@@ -8,14 +8,14 @@ An Italian-style caffeine-free coffee substitute, made from barley.
 
 ## Procedure
 
-1. Spread barley on a baking tray and bake at 400ºF for 20 minutes, stirring once
-   or twice during that time.
+1. Spread barley on a baking tray and bake at 375–400ºF for 10–15 minutes. The
+   time doesn't matter too much; you can't really overdo this by cooking it too
+   long—but the temperature is crucial. 375º makes a light-to-medium roast.
+   400º makes a very dark roast.
 2. In a coffee grinder, grind the barley as fine as you can.
-3. Brew in a French press or moka pot.
+3. Brew in a French press or moka pot as you would coffee.
 
 ## Notes
-
-400ºF makes a very dark roast. 350º is too light, though. I'd do 375º next time.
 
 The roasting process will make your whole house smell like burnt coffee if you
 do it indoors. You won't notice, if you're in the room while it is taking
