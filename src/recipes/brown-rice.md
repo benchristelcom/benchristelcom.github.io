@@ -18,3 +18,6 @@
 ## Notes
 
 This recipe works for short grain, long grain, and basmati rice.
+
+Pro tip: if you forget to set a timer at first, watch for when the water is level with the rice.
+Then it has 19 minutes left.
