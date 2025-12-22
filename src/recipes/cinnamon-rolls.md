@@ -32,7 +32,7 @@ Takes about 4 hours, partly 'cause I'm slow, but also because there's about 2:40
 
 ### Feeding the Yeast
 
-You can using either fresh milk or dry milk powder.
+You can use either fresh milk or dry milk powder.
 
 #### If you're using fresh milk:
 
