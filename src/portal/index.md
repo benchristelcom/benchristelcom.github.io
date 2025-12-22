@@ -429,6 +429,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [PeerJS](https://peerjs.com/)
 - [Playwright](https://playwright.dev/)
 - [Plotly](https://plotly.com/) - JS charts &amp; graphs<hs-meta keywords="javascript charting graphing plotting"></hs-meta>
+- [PmWiki](https://www.pmwiki.org/wiki/PmWiki/PmWiki)
 - [pnpm](https://pnpm.io/)
 - [Preact](https://preactjs.com/)
 - [Prettier](https://prettier.io)
@@ -762,6 +763,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Wat (Video)](https://www.destroyallsoftware.com/talks/wat) - Gary Bernhardt <hs-meta keywords="videos"></hs-meta>
 - [A Whole New World (Video)](https://www.destroyallsoftware.com/talks/a-whole-new-world) - Gary Bernhardt <hs-meta keywords="videos"></hs-meta>
 - [The Birth and Death of JavaScript (Video)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) - Gary Bernhardt <hs-meta keywords="videos"></hs-meta>
+- [The Tyranny of "The Plan"](https://www.infoq.com/presentations/tyranny-of-plan/) - Mary Poppendieck
 - [Agile is Dead (Video)](https://www.youtube.com/watch?v=a-BOSpxYJ9M) - Dave Thomas <hs-meta keywords="videos"></hs-meta>
 - [TDD: Where did it all go wrong? (Video)](https://www.youtube.com/watch?v=EZ05e7EMOLM) - Ian Cooper <hs-meta keywords="videos"></hs-meta>
 - [Dark Mode Is Wrong (Video)](https://www.youtube.com/watch?v=vzW674AdxlA) - Jason Barrons
