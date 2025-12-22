@@ -4,8 +4,6 @@ A Christmas tradition! Adapted from the Tassajara Bread Book. Serves 18. If you 
 
 Takes about 4 hours, partly 'cause I'm slow, but also because there's about 2:40 of rising and baking time.
 
-Makes 12 large rolls.
-
 ## Hardware
 
 - Large wooden board (15" by 19" or equivalent)
