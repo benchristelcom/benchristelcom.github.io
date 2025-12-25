@@ -44,6 +44,7 @@ span[inert] { position: absolute; width: 1px; height: 1px; overflow: hidden; }
 - [LeechBlock NG for Firefox](https://www.proginosko.com/leechblock/) - Highly configurable site-blocker. Lets you set time limits and redirects. [My configuration](/leechblock.txt).
   - [for Chrome](https://chromewebstore.google.com/detail/leechblock-ng/blaaajhemilngeeffpbfkdjjoefldkok)
   - [for Edge](https://microsoftedge.microsoft.com/addons/detail/leechblock-ng/hnncfhodpmpjchmmcnimoimkcojdmfhl)
+- [Recipe Filter for Firefox](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - Shows the recipe at the top of the page on recipe sites
 
 ## Desktop Apps
 
