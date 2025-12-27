@@ -533,6 +533,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 
 ### Nonprofits and Charities
 
+- [Free Silicon Foundation](https://f-si.org/)
 - [Khan Academy](https://khanacademy.org/)
 - [Kiva](https://kiva.org/)
 
