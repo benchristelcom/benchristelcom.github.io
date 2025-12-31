@@ -1149,6 +1149,7 @@ h/t [Low Tech Magazine](https://solar.lowtechmagazine.com/2010/06/how-to-tie-the
 ## General Reference
 
 - [Quote Investigator](https://quoteinvestigator.com)
+- [Copyright Lately](https://copyrightlately.com/) - lists films, music, art, books, and other works in the public domain - [2025](https://copyrightlately.com/public-domain-2025/) <hs-meta keywords="movies sound recordings"></hs-meta>
 - [arxiv.org](https://arxiv.org)
 - [ResearchGate](https://www.researchgate.net/)
 - [U.S. Bureau of Labor Statistics](https://data.bls.gov)
