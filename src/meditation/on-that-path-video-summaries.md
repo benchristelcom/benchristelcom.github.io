@@ -88,15 +88,15 @@ earlier, in four places:
    state is degraded, you are more likely to feel depression, anxiety, and
    existential dread with no obvious cause. In higher mental states, on the
    other hand, you can deal with whatever life throws at you.
-2. **Poop-tinted glasses:** the positive/neutral/negative feeling tone
-   associated with the objects of attention tends more towards the negative in
-   lower mental states, and more towards the positive in higher mental states.
-3. **Increased reactivity:** low mental states make you more likely to have
+2. **Poop-tinted glasses:** things that are pleasant or neutral in high
+   mental states can distress or bore you when you are in a lower mental
+   state.
+4. **Increased reactivity:** low mental states make you more likely to have
    strong reactive intentions. In high mental states, you are less likely to
    react.
-4. **Threshold of max dukkha:** in low mental states, reactive intentions
-   create more dukkha and make your mental state even worse. In higher mental
-   states, reacting doesn't harm your mental state as much.
+5. **Mental elasticity:** in low mental states, reactive intentions quickly
+   make your mental state even worse. In higher mental states, your mind is
+   more "elastic," and bounces back from disturbance.
 
 The result of all these feedback loops is that both positive and negative
 mental states are **self-reinforcing**.
