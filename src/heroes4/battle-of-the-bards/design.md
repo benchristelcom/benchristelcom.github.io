@@ -62,6 +62,31 @@ if (current army has hero named Bob) AND (experience level of most powerful hero
 The level needed to win is hardcoded in the "(Color) Victory" scripts, and in
 the "Explain Special Rules" timed event.
 
+## Skill Paths
+
+Creature strengths:
+
+- level 1 200 PEONS
+- level 2 250 PEONS
+- random 300
+- 360
+- 432
+- 622
+- 746
+- 895
+- 1074
+- 1289
+- 1547
+- 1856
+- 2227
+- 2672
+- 3206
+- 3847
+- 4616
+- 5539
+- 6647
+
+
 ## Likely Hero Classes
 
 - Bard (nature + scouting)
