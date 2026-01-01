@@ -5,3 +5,4 @@ https://localhost
 https://www.youtube-nocookie.com
 https://home
 https://www.unresolvedforces.com
+https://app.slack.com
