@@ -89,6 +89,25 @@ This is a nice philosophical argument for TDD, but I think the real value of TDD
     - Incremental typecheckers can be very fast - under the [Doherty threshold](https://github.com/benchristel/benchristel.github.io/wiki/DohertyThreshold) of 400ms.
 - You do _not_ need to know anything about monads etc. to get the benefits of functional programming. I learned the monad laws once... and promptly forgot them, because I never _used_ them for anything.
 
+### Pipelines
+
+I like to build up complicated functions by composing simpler ones.
+
+I favor flat, left-to-right composition because it's the easiest for humans to
+read.
+- flat composition reduces stack depth, and therefore working memory, needed to
+  mentally parse the code.
+- left-to-right matches the reading order of the surrounding code
+
+In TypeScript, it is possible to write typesafe functional pipelines like so:
+
+```ts
+const result = startWith(value)
+  .and(doSomething)
+  .and(doSomethingElse)
+  .result()
+```
+
 ## Data
 
 - Strictly separate persisted/transmitted data formats from in-process state formats.
