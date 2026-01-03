@@ -410,6 +410,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [Git](https://git-scm.com)
 - [GNU `make`](https://www.gnu.org/software/make/manual/html_node/index.html)
 - [Go](https://go.dev/)<hs-meta keywords="golang"></hs-meta>
+- [Graphviz](https://www.graphviz.org/)<hs-meta keywords="viz dot"></hs-meta>
 - [Haskell](https://www.haskell.org/)
 - [Homebrew](https://brew.sh)
 - [Husky](https://typicode.github.io/husky/)
