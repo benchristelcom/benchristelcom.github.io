@@ -59,3 +59,7 @@ C = round(C_i * 1.014 ^ (D - 1))
 However, there seems to be a cap on the growth rate. For peasants, it is
 about 5.125 creatures per day. For catapults, it seems to be around 1/3 of a
 creature per day. I don't know how the cap is determined.
+
+Hypothesis: the growth rate cap is `5.125 * sqrt(S)` PEONS per day, where `S`
+is the strength of an individual creature in PEONs. Note that catapults have an
+individual strength of 200 PEONs.
