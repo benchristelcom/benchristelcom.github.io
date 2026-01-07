@@ -776,6 +776,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Naming as a Process](https://www.digdeeproots.com/articles/on/naming-process/) - Arlo Belshee <hs-meta keywords="naming is a process not a single step"></hs-meta>
 - [The Twelve-Factor App](https://12factor.net/) - How to make web apps that are portable, scalable, and easy to develop and deploy.
 - [Growing a Language](https://benchristel.github.io/yt/#lw6TaiXzHAE) - Guy Steele, OOPSLA '98
+- [Notes on Programming in C](https://www.lysator.liu.se/c/pikestyle.html) - Rob Pike
 
 ### Reference
 
