@@ -102,6 +102,7 @@ I don't currently use these, but I might someday.
   plugin-like things called [elvi](https://baccyflap.com/res/sr/).
 - [Offpunk](https://sr.ht/~lioploum/offpunk/) - Browses the web, Gopher, and
   Gemini from the terminal; caches pages for offline viewing. Made by [Ploum].
+- [rmpc](https://rmpc.mierak.dev/) - Terminal-based music player for Linux
 
 [Ploum]: https://ploum.net/
 
