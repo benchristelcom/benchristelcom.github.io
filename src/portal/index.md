@@ -346,6 +346,7 @@ html {
 - [Commerce](#commerce)
 - [Housekeeping](#housekeeping)
 - [Architecture](#architecture)
+- [Gardening](#gardening-and-houseplants)
 - [Books](#books)
 - [Videos](#videos)
 - [Games](#games--gaming)
@@ -988,6 +989,14 @@ See also [my /uses page](/uses).
 - [The Christopher Alexander & Center for Environmental Structure Archive](https://christopher-alexander-ces-archive.org/)
 - [Patterns at ArchitectureZ](https://patterns.architexturez.net/)
 - [_The Nature of Order_](http://www.natureoforder.com/) - Christopher Alexander's magnum opus
+
+## Gardening and Houseplants<hs-meta keywords="horticulture plants gardens">
+
+- [How Many Plants](https://howmanyplants.com/) - Comprehensive guide to houseplant care
+- [Native Plants Hawaii](http://nativeplants.hawaii.edu/)
+- [Hawaiian Ecosystems at Risk (HEAR)](http://www.hear.org/)
+- [North Carolina Extension Gardener Plant Toolbox](https://plants.ces.ncsu.edu/)
+- [theferns.info](https://theferns.info/) - Tropical and temperate plants
 
 ## Books
 
