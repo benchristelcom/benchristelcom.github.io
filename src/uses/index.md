@@ -103,6 +103,7 @@ I don't currently use these, but I might someday.
 - [Offpunk](https://sr.ht/~lioploum/offpunk/) - Browses the web, Gopher, and
   Gemini from the terminal; caches pages for offline viewing. Made by [Ploum].
 - [rmpc](https://rmpc.mierak.dev/) - Terminal-based music player for Linux
+- [Raindrop.io](https://raindrop.io/) - Bookmark manager; solves a similar problem to the [Portal page](/portal/)
 
 [Ploum]: https://ploum.net/
 
