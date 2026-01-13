@@ -3,7 +3,8 @@
 MOSTLY_HARMLESS='bastionhome\.github\.io'\
 '|benchristel\.github\.io/meditation'\
 '|benchristel\.com/portal\.html'\
-'|mail\.google\.com'
+'|mail\.google\.com'\
+'|duckduckgo\.com/\?q=palo\+alto\+weather'
 
 echo -n "Pages visited:   "
 cat "$@" | \
@@ -19,4 +20,6 @@ echo -n "Google searches: "
 cat "$@" | ag 'https://(www\.)?google.com/search' | wc -l
 
 echo -n "DDG searches:    "
-cat "$@" | ag duckduckgo.com  | sed -e 's/&ia=web//' | uniq | wc -l
+cat "$@" | ag duckduckgo.com | ag -v "$MOSTLY_HARMLESS" \
+  | sed -e 's/&ia=web//' \
+  | uniq | wc -l

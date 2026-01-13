@@ -1,7 +1,7 @@
 # Metrics for benchristel.com
 
 Created: July 4, 2024.<br>
-Updated: December 24, 2025.
+Updated: January 12, 2025.
 
 ## Background
 
@@ -20,6 +20,7 @@ A few webpages that I consider mostly harmless are excluded from this metric. Th
 - [Bastion](https://bastionhome.github.io/)
 - my [meditation timer](https://benchristel.github.io/meditation/)
 - my email inbox
+- the local weather report on DuckDuckGo (since December 2025)
 
 I might add to this list in the future.
 
@@ -36,6 +37,7 @@ Run `tools/metrics HISTORYFILE`
 
 | Month    | Webpages | Google searches | DDG searches |
 | -------- | -------- | --------------- | ------------ |
+| Dec 2025 | 1490     | 0               | 4            |
 | Nov 2025 | 769      | 0               | 2            |
 | Oct 2025 | 882      | 0               | 9            |
 | Sep 2025 | 481      | 3               | 1            |
@@ -60,6 +62,16 @@ Run `tools/metrics HISTORYFILE`
 | Feb 2024 | 1435     | 6               | 160          |
 
 ## Notes
+
+### December 2025
+
+DuckDuckGo searches:
+
+- `site:heroesofmightandmagic.com pandora's box`
+- `the tyranny of the plan infoq` (added to the Web Portal)
+- `java stream class`
+- `sustainable dual-track development todd sedano`
+- the weather forecast (excluded from search count as described above)
 
 ### October 2025
 
