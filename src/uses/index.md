@@ -94,6 +94,12 @@ span[inert] { position: absolute; width: 1px; height: 1px; overflow: hidden; }
 
 I don't currently use these, but I might someday.
 
+### Browser Extensions
+
+- [DeArrow](https://dearrow.ajay.app/) - Removes clickbait from YouTube titles
+  and thumbnails. Sounds cool, but I've already hidden most thumbnails on
+  YouTube via uBlock Origin.
+
 ### Apps
 
 - [Taskwarrior](https://taskwarrior.org) - Manages todo lists from the command line.
