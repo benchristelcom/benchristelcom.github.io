@@ -1,4 +1,4 @@
-# How to Clean a Kettle with Vinegar
+# How to Clean an Electric Kettle with Vinegar
 
 How to descale / remove hard water buildup from an electric or stovetop kettle:
 
