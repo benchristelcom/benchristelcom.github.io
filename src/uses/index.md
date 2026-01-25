@@ -53,7 +53,7 @@ span[inert] { position: absolute; width: 1px; height: 1px; overflow: hidden; }
 ## Software development
 
 - [JetBrains editors](https://www.jetbrains.com/) - Expensive, but they come with pretty incredible code intelligence and refactoring tools. Lots of stuff you'd have to configure yourself or use plugins for in other editors "just works" in JetBrains.
-- [Visual Studio Code](https://code.visualstudio.com/) - Pretty good out of the box, configurable, versatile, and free.
+- [VSCodium](https://vscodium.com/) - a community fork of Microsoft's [Visual Studio Code](https://code.visualstudio.com/), with telemetry and AI junk removed.
   - [emeraldwalk.RunOnSave extension](https://marketplace.visualstudio.com/items?itemName=emeraldwalk.RunOnSave) - Runs a program each time a file is saved. I use it to build the development version of this website.
 - [GitHub](https://github.com) - Hosts Git repositories. Owned by Microsoft.
 - [GitLab](https://gitlab.com) - Hosts Git repositories.
@@ -116,7 +116,6 @@ I don't currently use these, but I might someday.
 ### Software Development
 
 - [Storytime](https://storytime.team/) - backlog management tool for Extreme Programming teams. In closed beta as of July 2025.
-- [VSCodium](https://vscodium.com/) - libre, telemetry-free build of VSCode
 - [Deno](https://deno.com/) - see also the [documentation](https://docs.deno.com/)
 - [Neutralino](https://neutralino.js.org/) - Build lightweight cross-platform desktop apps with HTML, JavaScript, and CSS.
 - [daisyUI](https://daisyui.com/)
