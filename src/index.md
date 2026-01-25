@@ -14,7 +14,7 @@
 <!-- - [Web Portal](/portal) -->
 - <a href="https://waywardweb.org" style="letter-spacing:-0.01em;">WaywardWeb.org</a>
 - [Blog (defunct)](https://benchristel.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/ben-christel-17a26829/)
+- <a href="/resumes/2025.html" style="letter-spacing:0.07em;">Résumé</a>
 - [email](mailto:ben.christel@gmail.com)
 
 </div>
