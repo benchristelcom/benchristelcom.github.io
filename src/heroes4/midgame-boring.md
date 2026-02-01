@@ -32,6 +32,25 @@ Fixes include:
 ## Winning every fight the same way
 ## Items you can't use (hero full)
 ## Junk items
+## Reduced rhythm
+
+Early-game, you're going back to town every week or so to get new spells and
+troops. As the midgame begins, your hero probably has level 1–4 spells already,
+so instead you begin to send small armies of troops to join your army.
+
+## Hard-to-estimate fights
+
+It seems to me that it's easier to know your strength relative to an enemy army
+early in the game. I'm not sure why — maybe because heroes are not very
+powerful, so army strength is a function of creatures. In the midgame, heroes
+become more of a wildcard, and it's harder to estimate their contribution to
+army strength.
+
+I find that the uncertainty leads to me playing more conservatively than I
+might have to, and leaving most or all of my troops out of most fights to avoid
+losses.
+
+## Pointless progression
 
 What the game seems to want you to do is grow forever: more towns, more heroes,
 more dwellings, more mines, bigger armies.
