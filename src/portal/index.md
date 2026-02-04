@@ -1126,6 +1126,7 @@ A.K.A. the lost art of amusing yourself without electricity.
 ## Crafting
 
 - [Open Stitch Dictionary](https://stitch.thefrugalgamer.net/index.php?title=Main_Page) - crochet, knitting, embroidery, and more!
+- [Friendship Bracelets](https://friendship-bracelets.net/)
 
 ### Knots and Ropework
 
