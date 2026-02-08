@@ -614,6 +614,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [Gode Cookery](http://www.godecookery.com/) - A webring of medieval cooking sites (h/t [Cidoku])
 - [Cedar Down Farm](https://cedardownfarm.ca/)
 - [rmf's recipes on baccyflap.com](https://baccyflap.com/res/recipes/)
+- [James Chip's website](https://www.jameschip.io/all.html)
 
 ### Merchants
 
