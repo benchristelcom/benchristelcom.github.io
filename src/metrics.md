@@ -1,7 +1,7 @@
 # Metrics for benchristel.com
 
 Created: July 4, 2024.<br>
-Updated: January 12, 2025.
+Updated: February 8, 2025.
 
 ## Background
 
@@ -37,6 +37,7 @@ Run `tools/metrics HISTORYFILE`
 
 | Month    | Webpages | Google searches | DDG searches |
 | -------- | -------- | --------------- | ------------ |
+| Jan 2026 | 744      | 0               | 3            |
 | Dec 2025 | 1490     | 0               | 4            |
 | Nov 2025 | 769      | 0               | 2            |
 | Oct 2025 | 882      | 0               | 9            |
@@ -62,6 +63,14 @@ Run `tools/metrics HISTORYFILE`
 | Feb 2024 | 1435     | 6               | 160          |
 
 ## Notes
+
+### January 2026
+
+DuckDuckGo searches:
+
+- `nephrolepis cordifolia` - a fern that grows in my house
+- a local restaurant's menu
+- [XKCD comic on mathematically unsound advertising](https://xkcd.com/870/)
 
 ### December 2025
 
