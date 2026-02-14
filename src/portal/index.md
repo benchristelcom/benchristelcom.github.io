@@ -925,6 +925,7 @@ See also [my /uses page](/uses).
 ### Searching <hs-meta keywords="web search engines"></hs-meta>
 
 - [FrogFind](http://frogfind.com/) - Searches the web with DuckDuckGo, but removes all JavaScript and CSS from the linked pages
+- [Slop Evader](https://tegabrain.com/Slop-Evader) - Search the pre-AI web. Browser extension for [Chrome](https://chromewebstore.google.com/detail/slop-evader/mlofdhcgaaimlpbjlhpfnpjfpebjpdpp) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/slop-evader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search).
 - [Stract](https://stract.com/) - A search engine that lets you use customizable filters called [optics](https://stract.com/settings/optics) (h/t [Seirdy])
 - [Search My Site](https://searchmysite.net) - A search engine that only returns results from personal sites. (h/t [C Jackdaw])
 - [Wiby](https://wiby.me/)
