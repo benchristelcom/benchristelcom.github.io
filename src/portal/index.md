@@ -1190,6 +1190,7 @@ into one searchable, cross-referenced database.
 
 - [VE3ZSH's Links](https://ve3zsh.ca/links/index.html) - like this page, but bigger.
 - [varve's burrow](https://www.write-on.org/outbound.html) - useful programs and resources, plus the author's bookmarks
+- [Resources on Kim's Blog](https://kimberlygb.nekoweb.org/resources)
 - [Terrible Lizard](https://terriblelizard.info/) - free and open access to journal articles; internet privacy; website building resources.
 - [Public Domain Review](https://publicdomainreview.org/) - collections of public domain writing and art (h/t [Melon]).
 - [Ruby Klover's website](https://www.bruh.ltd)
