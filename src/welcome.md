@@ -33,6 +33,7 @@ to make an actually playable map. When I do, I'll post it here.
 - [Ben's Guide to Software Development](https://bensguide.substack.com) - A newsletter about software, and, let's be real, a bunch of other stuff too.
 - [Essays](posts) on this site.
 - [Bliki](https://github.com/benchristel/benchristel.github.io/wiki) - My personal blog / wiki / digital garden about software, with 250+ topic-focused pages on everything from [abstraction](https://github.com/benchristel/benchristel.github.io/wiki/Abstraction) to [wholeness](https://github.com/benchristel/benchristel.github.io/wiki/Wholeness).
+- I also write [satire](https://knossos.benchristel.com/) sometimes.
 
 ## Major Artifacts
 
