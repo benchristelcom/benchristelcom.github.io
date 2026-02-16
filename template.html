@@ -72,7 +72,7 @@ h3 {
 
 h4 { font-size: 100%; }
 
-a:not(.webring-container *) {
+a {
   text-decoration: underline;
   text-decoration-color: var(--border-color);
   text-decoration-skip-ink: none;
@@ -131,14 +131,21 @@ img {
   }
 }
 
-.home-link {
+footer li {
+  list-style-type: none;
+}
+footer > nav > ul {
   display: flex;
   justify-content: space-between;
   margin-block-start: 2rem;
   border-block-start: 1px solid var(--border-color);
   padding-block: 1rem;
+  list-style-type: none;
 }
-.home-link a {
+footer > nav > ul > li {
+  display: inline;
+}
+footer > nav > ul a {
   text-decoration: none;
 }
 .edit-link, .edit-link:visited {
@@ -299,10 +306,12 @@ iframe[src*='https://www.youtube.com'] {
     </nav>
     <main>{{content}}</main>
     <footer>
-      <nav class="home-link">
-        <a href="/welcome.html">&larr; Home</a><a class="edit-link" href="https://github.com/benchristelcom/benchristelcom.github.io/edit/main/src{{inputpath}}">[Edit this page]</a>
+      <nav>
+        <ul>
+          <li><a href="/welcome.html">&larr; Home</a></li>
+          <li><a class="edit-link" href="https://github.com/benchristelcom/benchristelcom.github.io/edit/main/src{{inputpath}}">[Edit this page]</a></li>
+        </ul>
       </nav>
-      <a tabindex="-1" href="https://knossos.benchristel.com/042.html" style="position: absolute; left: -9999px">Click here for eldritch horrors</a>
     </footer>
   </body>
 </html>
