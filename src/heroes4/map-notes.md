@@ -1272,3 +1272,17 @@ on Grandmaster Summoning, and all I got out of it was... 12 water elementals.
 | Difficulty         | Intermediate |
 | Human player color | Blue         |
 | Alignment          | Life         |
+
+### Play 2
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Blue         |
+| Alignment          | Death        |
+
+
+Fairly open, amorphous map where you race two other players to defeat an
+underground boss player. You start with a couple level 4 heroes with some items.
+
