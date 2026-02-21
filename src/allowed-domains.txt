@@ -2,6 +2,7 @@ https://127.0.0.1
 https://0.0.0.0
 https://10.0.0.1
 http://10.0.0.215
+http://192.168.1.90
 https://localhost
 https://www.youtube-nocookie.com
 https://home
