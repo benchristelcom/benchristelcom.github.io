@@ -948,6 +948,10 @@ See also [my /uses page](/uses).
 - [Firefox theme creator](https://color.firefox.com/?theme=XQAAAAL6AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xMDPsqu1p-XAF6EJDWcx9sS_Bi3JZH4KPzK-C2nG0G0z0EYOEN1uOojKq8xIkzQd7r6Lb_q5Whn0OXxiivqrZyadZXRncNouH8dON5uAlcixY_JS1naRZJs1_TXnHJS3Bp2orX6rzkWXrN_6M5wiHYKpJL5lHhwHuprDS2eb____dfIEA) - Essential if you can't stand FF's default low-contrast tabs.
 - [Favicon.cc](https://www.favicon.cc/) - Draw website icons, pixel by pixel.
 
+### Remembering
+
+- [bigtextbox.com](https://bigtextbox.com/) - A big box you can put big text in. Good for writing notes to yourself.
+
 ### Verifying
 
 - [Dr. Link Check](https://www.drlinkcheck.com/) - Test for broken links on your website.
