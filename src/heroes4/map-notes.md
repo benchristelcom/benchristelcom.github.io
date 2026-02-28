@@ -1282,7 +1282,22 @@ on Grandmaster Summoning, and all I got out of it was... 12 water elementals.
 | Human player color | Blue         |
 | Alignment          | Death        |
 
-
 Fairly open, amorphous map where you race two other players to defeat an
 underground boss player. You start with a couple level 4 heroes with some items.
+There are a lot of mines, a few stat boosters, and not much else.
 
+Each player has two towns of their alignment and there are a few more towns
+underground. I think the intended strategy is that you race for the underground
+area rather than fighting the other players above ground, but I did not do that.
+
+The victory condition is total conquest, but there are too many towns on the
+map for that to be particularly fun.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★★☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★☆☆☆  |
