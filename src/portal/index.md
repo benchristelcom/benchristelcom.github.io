@@ -971,6 +971,7 @@ See also [my /uses page](/uses).
 
 - [Mataroa.blog](https://mataroa.blog/) - Minimalist blogging and newsletter platform.
 - [Bear Blog](https://bearblog.dev/) - Minimalist blogging platform
+- [rssby.email](https://rssby.email/) - Get RSS feeds sent to your email<hs-meta keywords="subscriptions notifications atom"></hs-meta>
 - [Blogtrottr](https://blogtrottr.com/) - Subscribe to RSS feeds, get blog posts sent to your email<hs-meta keywords="subscriptions notifications atom"></hs-meta>
 
 ### Prototyping
