@@ -18,6 +18,7 @@
 
 <div class="col-3"></div>
 
+- Avocado
 - Pita
 - Cucumbers
 - Garbanzo beans
