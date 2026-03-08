@@ -25,7 +25,7 @@
   --font-size: 0.875rem;
 }
 
-.home-link, .breadcrumb {
+.breadcrumb, footer {
   display: none;
 }
 
