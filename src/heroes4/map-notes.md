@@ -1357,3 +1357,16 @@ eliminating him.
 | Difficulty         | Intermediate |
 | Human player color | Red          |
 | Alignment          | Order        |
+
+Pretty difficult final fight against the neutral Nature player,
+but since they were holed up in a town, I couldn't really lose
+the game.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★★☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★☆☆☆  |
