@@ -1345,7 +1345,7 @@ eliminating him.
 | Difficulty          | Expert       |
 | Players             | 3            |
 | Included with       | Heroes IV    |
-| Multiplayer design  |  Yes          |
+| Multiplayer design  | Yes          |
 | Max humans          | 2            |
 | Playable alignments | Life, Order  |
 
@@ -1370,3 +1370,54 @@ the game.
 | Challenge     | ★★★☆☆  |
 | Replayability | ★★☆☆☆  |
 | Fun           | ★★☆☆☆  |
+
+## Jungle Fever
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Expert       |
+| Players             | 2            |
+| Included with       | Winds of War |
+| Multiplayer design  | No           |
+| Max humans          | 1            |
+| Playable alignments | Death        |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Green        |
+| Alignment          | Death        |
+
+Your AI opponent gets some big handicaps: an extra town and some high level
+heroes at the start. Death versus Chaos is an interesting matchup since you
+can't curse Black Dragons.
+
+You have several paths to your opponent. The guards are stronger on the shorter
+paths. This means the map starts out pretty closed off and becomes more and
+more open as the game progresses.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★★☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★★☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★☆☆☆  |
+
+## Just Another Mine War
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Intermediate |
+| Players             | 6            |
+| Included with       | Winds of War |
+| Multiplayer design  | No           |
+| Max humans          | 2            |
+| Playable alignments | Life, Death  |
+
