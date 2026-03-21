@@ -16,7 +16,7 @@ Red lentils with fenugreek. Serves 10.
 - 5 Tbsp butter or ghee
 - 2 1/2 tsp whole cumin seeds
 - 1 1/4 tsp mustard seeds
-- 1 tbsp garam masala
+- 1 Tbsp garam masala
 - 5 garlic cloves, finely chopped
 - 5 dried red peppers, crushed
 - 2 Tbsp crushed dried fenugreek leaves (kasuri methi)
@@ -29,6 +29,9 @@ Red lentils with fenugreek. Serves 10.
 1. Sauté the onion in oil until it begins to brown.
 1. Add carrots, chard stems, and jalapeño. Cook 5-10 minutes.
 1. Add ground spices. Cook 2 minutes.
+   - 1/2 tsp turmeric
+   - 2 Tbsp ground fenugreek seed
+   - 1 Tbsp garam masala
 1. Add tomatoes and salt. Cook 5-10 minutes.
 1. Add lentils, chard leaves, and water to cover.
 
