@@ -753,6 +753,8 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Abstraction, Encapsulation, and Information Hiding](https://web.archive.org/web/20000229235957/www.toa.com/pub/abstraction.txt) - Edward V. Berard
 - [Record Handling](https://archive.computerhistory.org/resources/text/algol/ACM_Algol_bulletin/1061032/p39-hoare.pdf) — C.A.R. Hoare. <hs-meta keywords="Sir Charles Antony (Tony) Richard Hoare"></hs-meta>
 
+[More papers, catalogued by Bret Victor on worrydream.com](https://worrydream.com/refs/by-date.html)
+
 ### Classic blog posts, talks, &amp;c.
 
 <div class="col-2"></div>
