@@ -1421,3 +1421,29 @@ more open as the game progresses.
 | Max humans          | 2            |
 | Playable alignments | Life, Death  |
 
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Blue         |
+| Alignment          | Life         |
+
+An interesting map design! You have to capture your opponent's four sulfur
+mines before they capture your crystal mines. You have two allies who annoy you
+by stealing your loot.
+
+Unfortunately, there are level 4 guards on the vital mines at the start of the
+game, which makes rushing impossible. As a result, player elimination still
+seems like the easiest route to victory when playing against AI. It's a pity,
+because the map would be easy to fix: just remove those level 4 guards.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★★☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★★★☆☆  |
+| Fun           | ★★☆☆☆  |
