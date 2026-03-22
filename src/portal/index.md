@@ -1096,6 +1096,8 @@ A.K.A. the lost art of amusing yourself without electricity.
 - [Hand and Foot](https://www.pagat.com/rummy/handfoot.html)
 - [Durak](https://www.pagat.com/beating/durak.html)
 
+Related: [Wikipedia's list of paper-and-pencil games](https://en.wikipedia.org/wiki/Category:Paper-and-pencil_games)
+
 ## Model Railroads
 
 - [Burr Stewart (@muchfunwithtrains) on YouTube](https://www.youtube.com/@muchfunwithtrains/videos)
