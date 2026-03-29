@@ -1245,9 +1245,11 @@ into one searchable, cross-referenced database.
 
 - <label><input type="checkbox" id="autofocus-checkbox"> Automatically focus the search field on page load.</label>
 
-<div class="space-32"></div>
+## Colophon
 
-<p class="centered-text">There are <noscript>approximately 540</noscript><span id="number-of-links"></span> external links on this page.</p>
+There are <span id="number-of-links">approximately 600</span> external links on this page.
+
+The painting that appears in the header is <a href="https://www.flickr.com/photos/23730371@N05/49396214307">Untitled Double Landscape</a> (detail) by Elizabeth Terry. It is in the public domain.
 
 <div data-hypersearch-end></div>
 </main>
