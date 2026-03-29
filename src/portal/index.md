@@ -803,6 +803,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [TypeScript Utility Types](https://www.typescriptlang.org/docs/handbook/utility-types.html) <hs-meta keywords="ts"></hs-meta>
 - [Java SE Documentation](https://docs.oracle.com/en/java/javase/)
 - [Which hashing algorithm is best for uniqueness and speed?](https://softwareengineering.stackexchange.com/questions/49550/which-hashing-algorithm-is-best-for-uniqueness-and-speed/145633#145633)
+- [YouTube embedded iframe player API](https://developers.google.com/youtube/iframe_api_reference)<hs-meta keywords="js javascript"></hs-meta>
 
 ### Q&A
 
