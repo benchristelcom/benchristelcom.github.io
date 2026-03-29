@@ -1447,3 +1447,42 @@ because the map would be easy to fix: just remove those level 4 guards.
 | Challenge     | ★★☆☆☆  |
 | Replayability | ★★★☆☆  |
 | Fun           | ★★☆☆☆  |
+
+## Knight Time
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Advanced     |
+| Players             | 4            |
+| Included with       | Winds of War |
+| Multiplayer design  | No           |
+| Max humans          | 1            |
+| Playable alignments | Life         |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Blue         |
+| Alignment          | Life         |
+
+A fun map with asymmetrical terrain, where the focus is on PvP. You start with
+two towns and two level-three heroes with some basic items. The AI opponents
+were more of a challenge than usual on this map so I suspect they get a
+handicap.
+
+The endgame was still slightly tedious, but reasonably quick. I tend to think
+all maps would be improved by reducing the number of towns you need to capture
+to win.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★★☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★★☆☆  |
+| Replayability | ★★★☆☆  |
+| Fun           | ★★★★☆  |
