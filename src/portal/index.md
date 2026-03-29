@@ -1241,6 +1241,14 @@ into one searchable, cross-referenced database.
   data-wwwebring-you-are-here="https://ben.waywardweb.org"
 ></p>
 
+<noscript>
+  <p>
+    <a href="https://waywardweb.org/sites/benchristel.com/previous">&larr;<span class="sr-only"> previous site on the wayward webring</span></a>
+    <a href="https://waywardweb.org/">The Wayward Webring</a>
+    <a href="https://waywardweb.org/sites/benchristel.com/next">&rarr;<span class="sr-only"> next site on the wayward webring</span></a>
+  </p>
+</noscript>
+
 ## Settings
 
 - <label><input type="checkbox" id="autofocus-checkbox"> Automatically focus the search field on page load.</label>
