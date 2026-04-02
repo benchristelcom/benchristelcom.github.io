@@ -1484,5 +1484,41 @@ to win.
 | Strategy      | ★★★☆☆  |
 | Narrative     | ★☆☆☆☆  |
 | Challenge     | ★★★☆☆  |
-| Replayability | ★★★☆☆  |
+| Replayability | ★★☆☆☆  |
 | Fun           | ★★★★☆  |
+
+## Knight's Gauntlet
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Expert       |
+| Players             | 4            |
+| Included with       | The Gathering Storm |
+| Multiplayer design  | No           |
+| Max humans          | 1            |
+| Playable alignments | Life         |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Purple       |
+| Alignment          | Life         |
+
+You are sandwiched between Nature and Might and have to battle both of them.
+There is also a Chaos player on an island who gets a slower start. I think the
+strategy is probably to attack Chaos first. I didn't do that, though.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★★☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★☆☆☆☆  |
+| Fun           | ★★☆☆☆  |
+
+## Land of the Lamp
