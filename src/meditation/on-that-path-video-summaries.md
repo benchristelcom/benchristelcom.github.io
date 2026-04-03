@@ -4,6 +4,10 @@ YouTube user [@onthatpath](https://www.youtube.com/channel/UCKuHpb6N1jLet2ZzNXnt
 
 I recommend watching all of the videos, and then referring to this page when you need a refresher to boost your meditation practice.
 
+## tl;dr
+
+I wrote a summary of this summary: [meditation instructions](https://benchristel.com/meditation/metasummary.html).
+
 ## Table of Contents
 
 - [Playlist 1 (Right View)](https://www.youtube.com/playlist?list=PLfznqxq7ocuH2RUe5-3YFVuTn_3HzkCNE)
