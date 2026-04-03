@@ -767,6 +767,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Making Badass Developers (Video)](https://benchristel.github.io/yt#FKTxC9pl-WM) - Kathy Sierra <hs-meta keywords="videos"></hs-meta>
 - [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) - Alexis King
 - [Local-first software: You own your data, in spite of the cloud](https://www.inkandswitch.com/local-first/) - Kleppmann, Wiggins, van Hardenberg, and McGranaghan
+- [Hexagonal Architecture - the original 2005 article](https://alistair.cockburn.us/hexagonal-architecture) - Alistair Cockburn
 - [Boundaries (Video)](https://www.destroyallsoftware.com/talks/boundaries) - Gary Bernhardt <hs-meta keywords="videos"></hs-meta>
 - [Functional Core, Imperative Shell (Video)](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell) - Gary Bernhardt <hs-meta keywords="videos"></hs-meta>
 - [Wat (Video)](https://www.destroyallsoftware.com/talks/wat) - Gary Bernhardt <hs-meta keywords="videos"></hs-meta>
