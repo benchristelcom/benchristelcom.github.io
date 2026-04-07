@@ -1522,3 +1522,35 @@ strategy is probably to attack Chaos first. I didn't do that, though.
 | Fun           | ★★☆☆☆  |
 
 ## Land of the Lamp
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Expert       |
+| Players             | 3            |
+| Included with       | Winds of War |
+| Multiplayer design  | No           |
+| Max humans          | 1            |
+| Playable alignments | Might        |
+
+## Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Orange       |
+| Alignment          | Might        |
+
+Do you like playing hide and seek on a map where it takes ages to get anywhere?
+Do you like trying to take a castle town from an army of genies and titans?
+This map is loathsome. I wish I had made a rating category for annoyingness.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★☆☆☆☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★★★☆  |
+| Replayability | ★☆☆☆☆  |
+| Fun           | ★☆☆☆☆  |
