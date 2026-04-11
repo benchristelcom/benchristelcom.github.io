@@ -1145,8 +1145,9 @@ Related: [Wikipedia's list of paper-and-pencil games](https://en.wikipedia.org/w
 
 ### Knots and Ropework
 
-h/t [Low Tech Magazine](https://solar.lowtechmagazine.com/2010/06/how-to-tie-the-world-together-online-knotting-reference-books/) for all of these.
+h/t [Low Tech Magazine](https://solar.lowtechmagazine.com/2010/06/how-to-tie-the-world-together-online-knotting-reference-books/) for most of these.
 
+- [Animated Knots by Grog](https://www.animatedknots.com/)
 - [Net Knots dot com](https://www.netknots.com) - descriptions of many knots, with animated instructions
 - [The International Guild of Knot Tyers](https://igkt.net/)
 - [_Knots, Ties, and Splices_ (1884)](http://www.archive.org/stream/cu31924014519940#page/n17/mode/thumb) by J. Tom Burgess.
