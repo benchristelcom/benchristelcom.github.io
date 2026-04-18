@@ -1533,7 +1533,7 @@ strategy is probably to attack Chaos first. I didn't do that, though.
 | Max humans          | 1            |
 | Playable alignments | Might        |
 
-## Play 1
+### Play 1
 
 | Setting            | Value        |
 | ------------------ | ------------ |
@@ -1567,7 +1567,7 @@ This map is loathsome. I wish I had made a rating category for annoyingness.
 | Max humans          | 1            |
 | Playable alignments | All          |
 
-## Play 1
+### Play 1
 
 | Setting            | Value        |
 | ------------------ | ------------ |
@@ -1590,3 +1590,40 @@ limits replay value somewhat.
 | Challenge     | ★★★☆☆  |
 | Replayability | ★★★☆☆  |
 | Fun           | ★★★★☆  |
+
+## Lucky Charm
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Advanced     |
+| Players             | 4            |
+| Included with       | Winds of War |
+| Multiplayer design  | No           |
+| Max humans          | 4            |
+| Playable alignments | Life, Chaos, Nature, Might |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Blue         |
+| Alignment          | Nature       |
+
+A map designed around the luck mechanic sounds sort of interesting, but there
+aren't actually enough lucky charms on this map to make much of a difference to
+strategy. There are several leprechaun dwellings on the map, but why would
+anyone care about controlling those? The gold mines they're paired with are
+much more interesting. Unfortunately, there's not much to spend gold on, since
+you start with a castle and a creature dwellings up to level 3.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★☆☆☆☆  |
+| Fun           | ★★☆☆☆  |
