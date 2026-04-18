@@ -1554,3 +1554,39 @@ This map is loathsome. I wish I had made a rating category for annoyingness.
 | Challenge     | ★★★★☆  |
 | Replayability | ★☆☆☆☆  |
 | Fun           | ★☆☆☆☆  |
+
+## Last Man Standing
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Intermediate |
+| Players             | 6            |
+| Included with       | Heroes IV    |
+| Multiplayer design  | No           |
+| Max humans          | 1            |
+| Playable alignments | All          |
+
+## Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Red          |
+| Alignment          | Chaos        |
+
+As the name suggests, this is a battle royale where you have to duke it out
+with five other players in a space that's tighter than it looks (due to many
+portals and movement boosters). A nearly perfect multiplayer map — if only
+multiplayer was enabled. The fact that the enemy alignments are predetermined
+limits replay value somewhat.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★★☆☆  |
+| Strategy      | ★★★☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★★☆☆  |
+| Replayability | ★★★☆☆  |
+| Fun           | ★★★★☆  |
