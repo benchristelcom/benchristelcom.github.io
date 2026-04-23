@@ -1203,6 +1203,7 @@ into one searchable, cross-referenced database.
 ## Web Curators
 
 - [VE3ZSH's Links](https://ve3zsh.ca/links/index.html) - like this page, but bigger.
+- [Things and Stuff Wiki](https://wiki.thingsandstuff.org/Main_Page) - a huge personal compendium of knowledge and notes
 - [varve's burrow](https://www.write-on.org/outbound.html) - useful programs and resources, plus the author's bookmarks
 - [Resources on Kim's Blog](https://kimberlygb.nekoweb.org/resources)
 - [Terrible Lizard](https://terriblelizard.info/) - free and open access to journal articles; internet privacy; website building resources.
