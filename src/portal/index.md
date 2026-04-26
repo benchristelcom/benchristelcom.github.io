@@ -826,7 +826,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [iGrant.io](https://igrant.io/datapod.html) - [Solid] pod provider <hs-meta keywords="data file blob store storage"></hs-meta>
 - [Inrupt](https://start.inrupt.com/profile) - [Solid] pod provider <hs-meta keywords="data file blob store storage"></hs-meta>
 
-### UI/UX Design
+### UI/UX Design<hs-meta keywords="graphic"></hs-meta>
 
 - [Apple Human Interface Guidelines 1980–2013 (archive.org)](https://archive.org/details/apple-hig/1980_Lisa_UI_Standards/) - and TBH I don't care about any of the later versions.<hs-meta keywords="hig lisa newton macintosh macosx ii nextstep"></hs-meta>
 - [Ask Tog](https://asktog.com/) - Bruce Tognazzini (early employee at Apple)'s thoughts on UX design.
@@ -839,9 +839,11 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Google Fonts](https://fonts.google.com/) - Free downloadable fonts for your website. You can also hotlink them, but that will let Google surveil your users.
 - [Recursive](https://www.recursive.design/) - A variable font that blends sans, handwritten, and monospace styles.
 - [Practical Typography](https://practicaltypography.com/) by Matthew Butterick (h/t [Ruby](https://www.bruh.ltd/))
+- [Articles on comic book lettering by Todd Klein](https://kleinletters.com/)
 - [Programming Fonts](https://www.programmingfonts.org/) - Online playground for trying out programming fonts. Favorites include [Comic Shanns](https://github.com/shannpersand/comic-shanns), [Mensch](https://robey.lag.net/2010/06/21/mensch-font.html), and [Monaspace Xenon](https://monaspace.githubnext.com/).
 - [Mildliner Color Sets](https://mildliners.rknight.me/)
 - [Josh W. Comeau's Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
+
 
 ### Tools I Currently Use
 
