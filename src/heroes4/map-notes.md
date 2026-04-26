@@ -1627,3 +1627,39 @@ you start with a castle and a creature dwellings up to level 3.
 | Challenge     | ★★☆☆☆  |
 | Replayability | ★☆☆☆☆  |
 | Fun           | ★★☆☆☆  |
+
+## Magic Middle
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Intermediate |
+| Players             | 6            |
+| Included with       | The Gathering Storm |
+| Multiplayer design  | No           |
+| Max humans          | 6            |
+| Playable alignments | All          |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Red          |
+| Alignment          | Order        |
+
+A very Heroes-y multiplayer map. Six players and eight towns. The towns in the
+middle are always Life and Chaos — I guess the mapmaker felt like those
+alignments needed a handicap? The AI did decently well on this map.
+
+There are some underground areas that feel underutilized.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★★☆☆  |
+| Strategy      | ★★★☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★★☆☆  |
+| Replayability | ★★★☆☆  |
+| Fun           | ★★★★☆  |
