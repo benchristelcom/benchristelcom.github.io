@@ -1165,7 +1165,7 @@ h/t [Low Tech Magazine](https://solar.lowtechmagazine.com/2010/06/how-to-tie-the
 - [Vintage Apple](https://vintageapple.org/) - the history of the early Macintosh, plus archives of magazines from the 80s and 90s (including Macworld and Byte).
 - [Infinite Mac](https://infinitemac.org/) - Run old versions of Mac OS — up to 10.4.11 — in your browser.
 - [Every default macOS (and OSX) wallpaper, in glorious 6K resolution](https://512pixels.net/projects/default-mac-wallpapers-in-5k/) courtesy of [512 Pixels](https://512pixels.net).
-- [Version Museum](https://versionmuseum.com/) - Screenshots of old software
+- [Version Museum](https://versionmuseum.com/) - Screenshots of old software<hs-meta keywords="uis guis user interfaces"></hs-meta>
 
 ## Publicly Available Data
 
