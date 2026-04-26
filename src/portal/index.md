@@ -669,6 +669,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Universo Cantigas](https://universocantigas.gal/) - "Edición Crítica da Poesía Medieval Galego-Portuguesa." In Galician.
 - [The LiederNet Archive](https://www.lieder.net/)  - "the world’s largest reference archive of texts and translations of art songs and choral works."
 - [Musica International](https://www.musicanet.org/en/) - "The Virtual Choral Library"
+- [Gunther Anderson's V](http://www.guntheranderson.com/v/toc.htm) - lyrics and chords for folk and pop songs
 
 ### Visualizers
 
