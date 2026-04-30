@@ -447,7 +447,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [TC39](https://tc39.es/)
 - [TSTyche](https://tstyche.org/)
 - [TypeDoc](https://typedoc.org/)
-- [TypeScript](https://typescriptlang.org/) - [Play](https://www.typescriptlang.org/play/)
+- [TypeScript](https://typescriptlang.org/) - [Play](https://www.typescriptlang.org/play/) - [Wiki](https://github.com/microsoft/TypeScript/wiki)
 - [Underscore.js](https://underscorejs.org/)
 - [Visual Studio Code](https://code.visualstudio.com/) <hs-meta keywords="vscode"></hs-meta>
 - [Vite](https://vite.dev/)
