@@ -9,11 +9,12 @@
 ## Elsewhere:
 
 - [GitHub](https://github.com/benchristel)
-- [Newsletter](https://bensguide.substack.com/)
+- [DeFAANGed](https://defaanged.mataroa.blog/)
 - [Digital Garden](https://github.com/benchristel/benchristel.github.io/wiki)
 <!-- - [Web Portal](/portal) -->
 - <a href="https://waywardweb.org" style="letter-spacing:-0.01em;">WaywardWeb.org</a>
 - [Blog (defunct)](https://benchristel.github.io/)
+- [Ben's Guide](https://bensguide.substack.com/)
 - <a href="/resumes/2025.html" style="letter-spacing:0.07em;">Résumé</a>
 - [email](mailto:ben.christel@gmail.com)
 
