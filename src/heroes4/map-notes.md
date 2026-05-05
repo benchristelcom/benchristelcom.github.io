@@ -1655,6 +1655,9 @@ alignments needed a handicap? The AI did decently well on this map.
 
 There are some underground areas that feel underutilized.
 
+Note: there is also an "allied" version of this map where the players are
+grouped into two teams. Each player's starting town is between two opponents'.
+
 | Category      | Rating |
 | ------------- | ------ |
 | Scenery       | ★★★☆☆  |
@@ -1663,3 +1666,76 @@ There are some underground areas that feel underutilized.
 | Challenge     | ★★★☆☆  |
 | Replayability | ★★★☆☆  |
 | Fun           | ★★★★☆  |
+
+## Magic Plains
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Intermediate |
+| Players             | 3            |
+| Included with       | Winds of War |
+| Multiplayer design  | No           |
+| Max humans          | 1            |
+| Playable alignments | Might        |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Blue         |
+| Alignment          | Might        |
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★☆☆☆☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★☆☆☆☆  |
+| Fun           | ★★☆☆☆  |
+
+## Maranthea's Isle
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Intermediate |
+| Players             | 2            |
+| Included with       | Heroes IV    |
+| Multiplayer design  | No           |
+| Max humans          | 2            |
+| Playable alignments | All          |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Red          |
+| Alignment          | Death        |
+
+A rush map where the early turns and build order matter a lot. At least, I
+think they do. It took me two whole weeks to get around to attacking the AI, and
+when I did, it hadn't done much of anything yet. Oh well. The PvE fights are
+somewhat more difficult than I'd expect from an "intermediate" map, especially
+one that starts you with no creature dwellings.
+
+It seems like this might be a fun map to play against another human, but with
+only one town per player, it seems like it might just turn into a standoff. Or
+maybe players would race to the treasure troves scattered around the map.
+
+I suspect I'd rate this map better if I'd had a worthier opponent — but I can't
+rate hypotheticals. The rating reflects the map as I experienced it.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★☆☆☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★☆☆☆☆  |
