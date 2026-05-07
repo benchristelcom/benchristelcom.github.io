@@ -374,6 +374,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 
 <div class="col-3"></div>
 
+- [Ardour](https://ardour.org/) - Cross-platform DAW<hs-meta keywords="digital audio workstation editing music midi macos windows"></hs-meta>
 - [Firefox](https://firefox.com/) <hs-meta keywords="mozilla browser"></hs-meta>
 - [Firefox Browser Add-ons](https://addons.mozilla.org/) <hs-meta keywords="plugins extensions addons"></hs-meta>
 - [Gimp](https://gimp.org) - [docs](https://docs.gimp.org)
