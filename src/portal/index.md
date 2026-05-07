@@ -660,6 +660,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 
 ### Sheet Music
 
+- [IMSLP - Petrucci Music Library](https://imslp.org/wiki/Main_Page) - public domain sheet music
 - [Münich DigitiZation Center](https://www.digitale-sammlungen.de/en/) - search archives of sheet music and manuscripts
 - [_Alexander's Feast_ - Händel](https://daten.digitale-sammlungen.de/0001/bsb00016738/images/index.html?fip=193.174.98.30&seite=17&pdfseitex=)
 
