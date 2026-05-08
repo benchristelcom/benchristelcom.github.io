@@ -134,4 +134,4 @@ dt {
   border-radius: 999px;
 }
 </style>
-<script src="https://keepandroidopen.org/banner.js"></script>
+<script src="https://keepandroidopen.org/banner.js?size=minimal&animation=off"></script>
