@@ -1739,3 +1739,38 @@ rate hypotheticals. The rating reflects the map as I experienced it.
 | Challenge     | ★☆☆☆☆  |
 | Replayability | ★★☆☆☆  |
 | Fun           | ★☆☆☆☆  |
+
+## Midnight Mayhem
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Advanced     |
+| Players             | 4            |
+| Included with       | Winds of War |
+| Multiplayer design  | No           |
+| Max humans          | 1            |
+| Playable alignments | Death        |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Green        |
+| Alignment          | Death        |
+
+You start out at a disadvantage relative to the AI players, so they put up a
+decent fight. Towns changed hands many times before I finally achieved victory,
+possibly because Death is bad at defense. The early turns feel strategic, and I
+had to play efficiently to get an edge on my nearest opponent.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★★☆☆  |
+| Strategy      | ★★★☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★★☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★★★☆  |
