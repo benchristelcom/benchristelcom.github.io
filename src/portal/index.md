@@ -681,10 +681,11 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 
 ### Theory
 
-- [_The Mind Illuminated_ (book)](https://www.goodreads.com/book/show/25942786-the-mind-illuminated) ([subreddit](https://www.reddit.com/r/TheMindIlluminated/))
 - [OnThatPath's Video Series](/meditation/on-that-path-video-summaries.html)
   <hs-meta keywords="on that path"></hs-meta>
+- [Sutta Central](https://suttacentral.net/)
 - [The Dhammapada and Sutta-Nipâta](https://sacred-texts.com/bud/sbe10/index.htm)
+- [_The Mind Illuminated_ (book)](https://www.goodreads.com/book/show/25942786-the-mind-illuminated) ([subreddit](https://www.reddit.com/r/TheMindIlluminated/))
 - [Coping with intrusive thoughts](https://www.bruh.ltd/blog/coping-with-intrusive-thoughts/)
   by Ruby Klover — this also happens to be good advice in general.
 - [Meditation and Going Beyond Mindfulness - A Secular Perspective | Mingyur Rinpoche](https://benchristel.github.io/yt/#ukTaodQfYRQ)
