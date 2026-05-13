@@ -757,6 +757,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Out of the Tar Pit](https://github.com/papers-we-love/papers-we-love/blob/main/design/out-of-the-tar-pit.pdf) - Ben Moseley and Peter Marks, 2006.
 - [Abstraction, Encapsulation, and Information Hiding](https://web.archive.org/web/20000229235957/www.toa.com/pub/abstraction.txt) - Edward V. Berard
 - [Record Handling](https://archive.computerhistory.org/resources/text/algol/ACM_Algol_bulletin/1061032/p39-hoare.pdf) — C.A.R. Hoare. <hs-meta keywords="Sir Charles Antony (Tony) Richard Hoare"></hs-meta>
+- [Managing the Development of Large Software Systems] - Winston Royce<hs-meta keywords="waterfall"></hs-meta>
 
 [More papers, catalogued by Bret Victor on worrydream.com](https://worrydream.com/refs/by-date.html)
 
