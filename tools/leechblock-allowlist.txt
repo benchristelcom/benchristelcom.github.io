@@ -6,6 +6,7 @@
 +youtube.com/results*
 +youtube.com/watch*
 +youtube.com/account*
++youtube.com/user*
 +substack.com/chat*
 +*.gov/*
 +*.edu/*
