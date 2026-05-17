@@ -1774,3 +1774,43 @@ had to play efficiently to get an edge on my nearest opponent.
 | Challenge     | ★★★☆☆  |
 | Replayability | ★★☆☆☆  |
 | Fun           | ★★★★☆  |
+
+## Nefilis's Rescue
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Advanced     |
+| Players             | 4            |
+| Included with       | Winds of War |
+| Multiplayer design  | No           |
+| Max humans          | 1            |
+| Playable alignments | Life         |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Red          |
+| Alignment          | Life         |
+
+Simple but beautiful map with a lot of fun stuff going on. Your objective is to
+hero from a prison and escort them through enemy territory to a safe house.
+There are some quests that ask for resources, so you have a reason to capture
+mines. Unfortunately, the easiest path to victory still seems to be conquest,
+because the PVE enemies you have to fight on the rescue mission are harder than
+the AI players.
+
+(For some reason, I thought Nefilis was the name of one of the Death heroes in
+the game, but nope, you play Life.)
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★★★☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★★★☆☆  |
+| Challenge     | ★★★☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★★★☆  |
