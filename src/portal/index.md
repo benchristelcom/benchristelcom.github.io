@@ -386,7 +386,8 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [Orion Browser](https://kagi.com/orion/)<hs-meta keywords="browser safari ios ipados adblocker block ads"></hs-meta>
 - [Surfraw](http://surfraw.org/)
 - [uBlock Origin](https://ublockorigin.com/) <hs-meta keywords="plugins extensions addons advert blocker"></hs-meta>
-- [uBlock DNS](https://ublockdns.com/) - Cross-device adblocking. Not affiliated with uBlock Origin.<hs-meta keywords="advert blocker"></hs-meta>
+- [uBlock DNS](https://ublockdns.com/) - Cross-device adblocking. Not affiliated with uBlock Origin.<hs-meta keywords="ios iphone ipados android smartphone phone advertisement blocker"></hs-meta>
+- [AdGuard DNS](https://adguard-dns.io/en/public-dns.html) - Cross-device adblocking<hs-meta keywords="ios iphone ipados android smartphone phone advertisement blocker"></hs-meta>
 
 ### Software - Games
 
