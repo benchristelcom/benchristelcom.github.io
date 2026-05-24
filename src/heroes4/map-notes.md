@@ -1814,3 +1814,15 @@ the game, but nope, you play Life.)
 | Challenge     | ★★★☆☆  |
 | Replayability | ★★☆☆☆  |
 | Fun           | ★★★★☆  |
+
+## Parental Guidance
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Advanced     |
+| Players             | 3            |
+| Included with       | The Gathering Storm |
+| Multiplayer design  | No           |
+| Max humans          | 1            |
+| Playable alignments | Might        |
