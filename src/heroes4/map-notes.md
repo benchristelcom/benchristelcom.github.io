@@ -1826,3 +1826,32 @@ the game, but nope, you play Life.)
 | Multiplayer design  | No           |
 | Max humans          | 1            |
 | Playable alignments | Might        |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Blue         |
+| Alignment          | Might        |
+
+This is a race against the clock where you must defeat the Death boss within
+120 turns. Build order and early game micro is important, as is not spending
+too much on early game units. You want to get level 4s quickly. The map has its
+moments and is nicely designed, but gets tedious after a while. Lots of
+caravanning, and TOO MANY TOWNS. The extra towns are particularly gratuitous on
+this map, since the victory condition is just to eliminate the boss. I didn't
+need the towns for creature growth but I wanted them for spells.
+
+The boss enemy is trapped in their starting area, so there is not much PvP
+strategy. It is truly just a race against time.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★★☆☆  |
+| Strategy      | ★★★☆☆  |
+| Narrative     | ★★★☆☆  |
+| Challenge     | ★★★★☆  |
+| Replayability | ★☆☆☆☆  |
+| Fun           | ★★☆☆☆  |
