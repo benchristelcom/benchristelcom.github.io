@@ -444,6 +444,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [React](https://react.dev/)
 - [RSpec](https://rspec.info/)
 - [Ruby](https://www.ruby-lang.org/)
+- [Ruby on Rails](https://rubyonrails.org/)
 - [ShellCheck](https://www.shellcheck.net/)
 - [Solid JavaScript SDK](https://docs.inrupt.com/sdk/javascript-sdk)
 - [swc](https://swc.rs) <hs-meta keywords="speedy web compiler"></hs-meta>
