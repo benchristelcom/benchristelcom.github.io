@@ -410,6 +410,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [ESLint](https://eslint.org/)
 - [eslint.style](https://eslint.style/)
 - [ExpressJS](https://expressjs.com/)
+- [ext2 filesystem](https://docs.kernel.org/filesystems/ext2.html)
 - [F#](https://fsharp.org/) <hs-meta keywords="sharp"></hs-meta>
 - [Flathub](https://flathub.org/)
 - [Git](https://git-scm.com)
