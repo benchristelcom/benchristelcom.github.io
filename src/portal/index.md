@@ -1086,6 +1086,14 @@ As seen on [Culture Machine](https://tv.benchristel.com/):
 
 - [Small YouTube List](https://github.com/kagisearch/smallweb/blob/main/smallyt.txt) from Kagi.
 
+### Television
+
+- [TVARK](https://tvark.org/) - British telly museum
+
+### Movies
+
+- [rarefilmm](https://rarefilmm.com/)
+
 ## Games & Gaming
 
 ### Heroes of Might and Magic IV
