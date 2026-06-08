@@ -958,6 +958,7 @@ See also [my /uses page](/uses).
 ### Calculating<hs-meta keywords="calculators calculate"></hs-meta>
 
 - [PVIR Electrical Calculator](https://www.electricaltechnology.org/2014/03/power-voltage-current-resistance-pvir-calculator.html) - calculate power, voltage, current, or resistance.
+- [Tap for Beats Per Minute](https://www.all8.com/tools/bpm.htm)
 
 ### Creating
 
