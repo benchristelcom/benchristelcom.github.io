@@ -1855,3 +1855,71 @@ strategy. It is truly just a race against time.
 | Challenge     | ★★★★☆  |
 | Replayability | ★☆☆☆☆  |
 | Fun           | ★★☆☆☆  |
+
+## River Crossing
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Intermediate |
+| Players             | 3            |
+| Included with       | Heroes IV    |
+| Multiplayer design  | Yes          |
+| Max humans          | 3            |
+| Playable alignments | Order, Nature, Might |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Red          |
+| Alignment          | Nature       |
+
+Pretty standard three-player map. Each player has one town. Good balance of
+hero progression, creatures, and items. The AI did decently well on this map.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★★☆☆  |
+
+## Road to Victory!
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Intermediate |
+| Players             | 4            |
+| Included with       | Heroes IV    |
+| Multiplayer design  | No           |
+| Max humans          | 4            |
+| Playable alignments | All          |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Red          |
+| Alignment          | Chaos        |
+
+A symmetric map with four gold mines in the center. There are also a lot of
+sulfur mines, so it seems like Chaos has an advantage. Portals lead to some
+odd goodies, like elemental dwellings. The scenery is weird; parts of the map
+have very nice detailing, and other parts are totally undecorated.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★★★☆  |
+| Strategy      | ★★☆☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★☆☆☆  |
+| Replayability | ★☆☆☆☆  |
+| Fun           | ★★☆☆☆  |
