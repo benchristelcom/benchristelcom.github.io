@@ -1160,6 +1160,8 @@ Related: [Wikipedia's list of paper-and-pencil games](https://en.wikipedia.org/w
 ### Linguistics
 
 - [Leipzig Glossing Rules](https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf) - see also Wikipedia's [List of Glossing Abbreviations](https://en.wikipedia.org/wiki/List_of_glossing_abbreviations)
+- [Articulatory Settings of French and English Monolingual and Bilingual Speakers](https://www.researchgate.net/publication/228825086_Articulatory_settings_of_French_and_English_monolingual_and_bilingual_speakers)
+- [Language-Specific Articulatory Settings: Evidence from Inter-Utterance Rest Position](https://www.researchgate.net/publication/7913375_Language-Specific_Articulatory_Settings_Evidence_from_Inter-Utterance_Rest_Position)
 
 ## Crafting
 
