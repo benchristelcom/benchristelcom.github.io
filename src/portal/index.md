@@ -763,6 +763,8 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Record Handling](https://archive.computerhistory.org/resources/text/algol/ACM_Algol_bulletin/1061032/p39-hoare.pdf) — C.A.R. Hoare. <hs-meta keywords="Sir Charles Antony (Tony) Richard Hoare"></hs-meta>
 - [Managing the Development of Large Software Systems](https://github.com/tpn/pdfs/blob/master/Managing%20the%20Development%20of%20Large%20Software%20Systems%20-%201970%20(waterfall).pdf) - Winston Royce<hs-meta keywords="waterfall"></hs-meta>
 - [Design for testability in object-oriented systems](https://dl.acm.org/doi/epdf/10.1145/182987.184077) - Robert V. Binder
+- [connascence.io](https://connascence.io/)
+- [The original MVC reports](https://folk.universitetetioslo.no/trygver/2007/MVC_Originals.pdf) - Trygve Reenskaug
 
 [More papers, catalogued by Bret Victor on worrydream.com](https://worrydream.com/refs/by-date.html)
 
