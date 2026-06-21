@@ -1,4 +1,4 @@
-# Soy Sauce Lentil Stew
+# Soy Sauce Lentil Stew ★★
 
 Easy, delicious, and vegan without even trying! I invented this recipe on the spur of the moment when there was nothing in the fridge.
 From its unlikely origins as survival food, it has risen to become one of the stars of our kitchen.
