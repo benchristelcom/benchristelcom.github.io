@@ -1944,3 +1944,21 @@ have very nice detailing, and other parts are totally undecorated.
 | Difficulty         | Intermediate |
 | Human player color | Red          |
 | Alignment          | Life         |
+
+I don't have enough problems, so I use computers to create imaginary problems
+for myself. Today my computer is imagining that I'm getting beaten up by three
+different kinds of wizards. Or actually, two kinds of wizards and a barbarian.
+
+There was quite a lot of town-trading and a few tense moments. The AI players
+seem pretty strong and if you're not careful they will overwhelm you. The map
+is weirdly sparse: not a lot of XP buildings or treasure chests. Lots of big
+empty spaces.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★★☆☆  |
+| Strategy      | ★★★☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★★☆☆  |
+| Replayability | ★☆☆☆☆  |
+| Fun           | ★★☆☆☆  |
