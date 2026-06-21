@@ -39,6 +39,12 @@ These are not strictly required, but make the result more delicious.
 6. Add mushrooms to the soup.
 7. Divide rice into bowls and ladle the soup over it.
 
+## Even simpler procedure
+
+If you are feeling lazy, you can throw all the ingredients, plus brown rice, into the pot at once and simmer for 45 minutes.
+
 ## Notes
+
+Serve with [brown rice](https://benchristel.com/recipes/brown-rice.html).
 
 Lentils lower your blood sugar; to counteract that, I recommend pairing this recipe with ice cream.
