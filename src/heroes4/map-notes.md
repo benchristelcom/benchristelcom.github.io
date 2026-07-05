@@ -1952,7 +1952,8 @@ different kinds of wizards. Or actually, two kinds of wizards and a barbarian.
 There was quite a lot of town-trading and a few tense moments. The AI players
 seem pretty strong and if you're not careful they will overwhelm you. The map
 is weirdly sparse: not a lot of XP buildings or treasure chests. Lots of big
-empty spaces.
+empty spaces. Also, there are random neutral creatures just hanging out not
+guarding anything. Maybe this map is meant to be played with mobile guards.
 
 | Category      | Rating |
 | ------------- | ------ |
@@ -1960,5 +1961,72 @@ empty spaces.
 | Strategy      | ★★★☆☆  |
 | Narrative     | ★☆☆☆☆  |
 | Challenge     | ★★★☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★☆☆☆  |
+
+## Sandstorm
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Intermediate |
+| Players             | 3            |
+| Included with       | Winds of War |
+| Multiplayer design  | No           |
+| Max humans          | 1            |
+| Playable alignments | Order        |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Blue         |
+| Alignment          | Order        |
+
+You play as Order and must defeat Might and Chaos.
+
+The victory condition on this map is buggy — I eliminated the other players and
+took all the towns, but I didn't win. The endgame turned into a drawn-out
+standoff, probably because I was playing too cautiously.
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★☆☆☆  |
+| Strategy      | ★★★☆☆  |
+| Narrative     | ★☆☆☆☆  |
+| Challenge     | ★★★☆☆  |
 | Replayability | ★☆☆☆☆  |
 | Fun           | ★★☆☆☆  |
+
+## Search for the Old Heroes
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Advanced     |
+| Players             | 2            |
+| Included with       | Heroes IV    |
+| Multiplayer design  | No           |
+| Max humans          | 1            |
+| Playable alignments | Order        |
+
+### Play 1
+
+The first half of this map is excellent. Great sense of progression, the right
+amount of scarcity to force strategic choices, variety, and no excess of towns.
+The first three towns you encounter also have the fort disabled.
+
+Unfortunately, the second (underground) half feels kind of tedious. There's a
+lot of waiting to build up your army for the final boss fight, which is made
+only slightly more tense by the six-month time limit. Still a fun map!
+
+| Category      | Rating |
+| ------------- | ------ |
+| Scenery       | ★★★★☆  |
+| Strategy      | ★★★☆☆  |
+| Narrative     | ★★★☆☆  |
+| Challenge     | ★★★☆☆  |
+| Replayability | ★★☆☆☆  |
+| Fun           | ★★★★☆  |
