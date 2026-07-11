@@ -259,6 +259,8 @@ As you maintain awareness, let attention go wherever. It doesn't matter.
 
 > Physical dullness =  lack of sleep. Mental dullness = lack of awareness. Mental dullness is an issue mostly pre-step 1 (negative mental states) or if dependent origination is allowed to happen via clinging. So, first get into step 1 at least, and then make sure you maintain enough mindfulness and keep preventing clinging.
 
+[Shinzen Young also has some tips on dealing with dullness](https://www.shinzen.org/from-fuzz-to-buzz-suggestions-for-breaking-through-sleepiness-during-meditation-practice/).
+
 ## How to Meditate Effectively. Part 2: Booster Tools
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B0IJ-f_cnVA" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
