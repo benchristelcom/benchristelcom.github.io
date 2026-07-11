@@ -9,6 +9,26 @@
         <managingEditor>benchristel@gmail.com (Ben Christel)</managingEditor>
         <webMaster>benchristel@gmail.com (Ben Christel)</webMaster>
         <item>
+            <title>August 18, 2024</title>
+            <guid isPermaLink="false">august-18-2024</guid>
+            <link>https://benchristel.com/log.html#august-18-2024</link>
+            <pubDate>Sun, 18 Aug 2024 12:00:00 +0000</pubDate>
+            <description><![CDATA[<blockquote>
+<p>Every time i look at what sites are linking to me in my analytics i get faintly sad. I gotta ward off the &#x201c;Making A Smol Old Indie Yester Free Web Personal Garden Commonplace Book Is A Revolutionary Act&#x201d; crowd somehow, if someone&#x2019;s linking to me and their site&#x2019;s only other page is a manifesto about how Mark Zuckerberg personally smashed every Geocities server they&#x2019;ve severely misunderstood why i tend to my website</p>
+<p>&#x2014;Xanthe Tynehorne</p>
+</blockquote>
+<p>I want to write a post soon about how I think the <a href="https://waywardweb.org/">Wayward Webring</a> will die (cheery, I know, but it will help me ward off the envisioned death). One cause of death I might predict: the sites on the ring become so self-referential, so focused on the smol web for the smol web&apos;s sake, that the ring just sublimates into a kind of informational froth &#x2014; all meta-analysis, no meat.</p>
+<p>The web cannot survive if it consists only of navel-gazing personal blogs and
+corporate dystopias. What people want from the web are useful information and
+services, and personal websites often provide neither of those. Information and
+services are, by their nature, <em>impersonal</em>.</p>
+<p>Like Xanthe, I too want to ward off the &quot;revolution&quot; &#x2014; but the revolution I&apos;m grappling with is in my head. The urge to write &quot;engaging&quot; rants is something I battle every day. It&apos;s enticing and gratifying to believe that, by making a website, I&apos;m doing something politically significant. But it&apos;s more honest to admit that I&apos;m mostly just writing notes to myself. I have to remind myself that the things I&apos;ve created with no audience in mind are the things I look back on now as some of my best work.</p>
+<h3 id="random-thoughts">Random thoughts</h3>
+<p>Programming is the art of accounting for the possible and ruling out the impossible.</p>
+<p>An optimistic vision of the future: Instead of your friends sarcastically saying &quot;let me Google that for you,&quot; Google&apos;s AI would sarcastically say &quot;let me ask your friends for you.&quot; And then it actually <em>would</em> ask your friends, or at least, their web presences. Of course, <em>Google</em> won&apos;t do this, because where&apos;s the money? But <em>someone</em> might.</p>
+<p>The worldview of consumerism says the world is made of <em>things</em>. Creating value, in this system, equates to creating <em>things</em>. Christopher Alexander&apos;s worldview says the world is made of <em>structure</em>, and that value is created by giving order to that structure.</p>]]></description>
+        </item>
+        <item>
             <title>December 2, 2024</title>
             <guid isPermaLink="false">december-2-2024</guid>
             <link>https://benchristel.com/log.html#december-2-2024</link>
@@ -142,7 +162,7 @@ Can anyone in the audience help me out? Send email to benchristel at gmail.com. 
 but TypeScript doesn&apos;t, and you just want to throw an error in the (presumably impossible) case where the thing is the wrong type and move on with your life. I learned about tiny-invariant by contributing to <a href="https://mafs.dev/">Mafs</a>, <a href="https://stevenpetryk.com/">Steven Petryk</a>&apos;s ReactJS library for math visualization.</li>
 </ul>
 <h3 id="end-of-july">End of July</h3>
-<p>Today being the last day of the month, I&apos;ve updated the <a href>metrics page</a> with the latest data.</p>]]></description>
+<p>Today being the last day of the month, I&apos;ve updated the <a href="https://benchristel.com/metrics.html">metrics page</a> with the latest data.</p>]]></description>
         </item>
     </channel>
 </rss>

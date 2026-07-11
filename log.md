@@ -1,6 +1,6 @@
 # Web Log
 
-This page is a reverse chronology of what I've been doing and thinking about. You can [subscribe to updates via RSS](/subscribe.html).
+This page is a reverse chronology of what I've been doing and thinking about. You can [subscribe to updates via RSS or email](/subscribe.html).
 
 <style>
 :root {
@@ -21,15 +21,18 @@ webMaster: benchristel@gmail.com (Ben Christel)
 managingEditor: benchristel@gmail.com (Ben Christel)
 -->
 
-<!--
-
-## August 18, 2024: NEXT POST
+## August 18, 2024
 
 > Every time i look at what sites are linking to me in my analytics i get faintly sad. I gotta ward off the “Making A Smol Old Indie Yester Free Web Personal Garden Commonplace Book Is A Revolutionary Act” crowd somehow, if someone’s linking to me and their site’s only other page is a manifesto about how Mark Zuckerberg personally smashed every Geocities server they’ve severely misunderstood why i tend to my website
 >
 > —Xanthe Tynehorne
 
-I want to write a post soon about how I think the Wayward Webring will die (cheery, I know, but it will help me ward off the envisioned death). One cause of death I might predict: the sites on the ring become so self-referential, so focused on the smol web for the smol web's sake, that the ring just sublimates into a kind of informational froth — all meta-analysis, no meat.
+I want to write a post soon about how I think the [Wayward Webring](https://waywardweb.org/) will die (cheery, I know, but it will help me ward off the envisioned death). One cause of death I might predict: the sites on the ring become so self-referential, so focused on the smol web for the smol web's sake, that the ring just sublimates into a kind of informational froth — all meta-analysis, no meat.
+
+The web cannot survive if it consists only of navel-gazing personal blogs and
+corporate dystopias. What people want from the web are useful information and
+services, and personal websites often provide neither of those. Information and
+services are, by their nature, *impersonal*.
 
 Like Xanthe, I too want to ward off the "revolution" — but the revolution I'm grappling with is in my head. The urge to write "engaging" rants is something I battle every day. It's enticing and gratifying to believe that, by making a website, I'm doing something politically significant. But it's more honest to admit that I'm mostly just writing notes to myself. I have to remind myself that the things I've created with no audience in mind are the things I look back on now as some of my best work.
 
@@ -40,8 +43,6 @@ Programming is the art of accounting for the possible and ruling out the impossi
 An optimistic vision of the future: Instead of your friends sarcastically saying "let me Google that for you," Google's AI would sarcastically say "let me ask your friends for you." And then it actually _would_ ask your friends, or at least, their web presences. Of course, _Google_ won't do this, because where's the money? But _someone_ might.
 
 The worldview of consumerism says the world is made of _things_. Creating value, in this system, equates to creating _things_. Christopher Alexander's worldview says the world is made of _structure_, and that value is created by giving order to that structure.
-
--->
 
 ## December 2, 2024
 
@@ -190,4 +191,4 @@ but TypeScript doesn't, and you just want to throw an error in the (presumably i
 
 ### End of July
 
-Today being the last day of the month, I've updated the [metrics page]() with the latest data.
+Today being the last day of the month, I've updated the [metrics page](/metrics.html) with the latest data.
