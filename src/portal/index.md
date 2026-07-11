@@ -836,6 +836,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [List of MediaWiki hosting providers](https://www.mediawiki.org/wiki/Hosting_services) - Create your own wiki!
 - [iGrant.io](https://igrant.io/datapod.html) - [Solid] pod provider <hs-meta keywords="data file blob store storage"></hs-meta>
 - [Inrupt](https://start.inrupt.com/profile) - [Solid] pod provider <hs-meta keywords="data file blob store storage"></hs-meta>
+- [Tuta](https://tuta.com) - privacy-respecting email and cloud storage provider (h/t [Alex Zee])
 
 ### UI/UX Design<hs-meta keywords="graphic"></hs-meta>
 
@@ -1304,6 +1305,7 @@ HREFS BELOW
 [Markdown]: https://daringfireball.net/projects/markdown/
 [Melon]: https://melonking.net/
 [Seirdy]: https://seirdy.one/
+[Alex Zee]: https://alexzeecomedy.com/
 
 <script defer src="https://cdn.jsdelivr.net/npm/@benchristel/hypersearch@0.5.1"></script>
 <script>
