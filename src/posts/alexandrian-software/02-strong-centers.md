@@ -53,6 +53,6 @@ It’s worth considering this history from the perspective of the 15 properties.
 *   identified that this structure was mismatched with their clients’ needs
 *   fixed the problem by strengthening a center.
 
-This is how adaptation works. It’s also a great example of how, in a complex system, a small change to a parameter (in this case, the length of time that team members stayed with a project) can have a big impact.
+This is how adaptation works in a living system. Often, the solution to a problem is not to create a completely new center, but to strengthen what's already working.
 
 <nav class="centered-text">{{prev}} | {{next}}</nav>
