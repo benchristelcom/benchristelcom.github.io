@@ -2014,6 +2014,13 @@ standoff, probably because I was playing too cautiously.
 
 ### Play 1
 
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Blue         |
+| Alignment          | Order        |
+
 The first half of this map is excellent. Great sense of progression, the right
 amount of scarcity to force strategic choices, variety, and no excess of towns.
 The first three towns you encounter also have the fort disabled.
@@ -2030,3 +2037,24 @@ only slightly more tense by the six-month time limit. Still a fun map!
 | Challenge     | ★★★☆☆  |
 | Replayability | ★★☆☆☆  |
 | Fun           | ★★★★☆  |
+
+## Search for the Old Heroes 2
+
+| Attribute           | Value        |
+| ------------------- | ------------ |
+| Map Size            | Medium       |
+| Difficulty          | Expert       |
+| Players             | 6            |
+| Included with       | The Gathering Storm |
+| Multiplayer design  | No           |
+| Max humans          | 1            |
+| Playable alignments | Life, Order, Might |
+
+### Play 1
+
+| Setting            | Value        |
+| ------------------ | ------------ |
+| Stationary guards  | Yes          |
+| Difficulty         | Intermediate |
+| Human player color | Blue         |
+| Alignment          | Might        |
