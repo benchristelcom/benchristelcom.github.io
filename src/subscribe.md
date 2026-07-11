@@ -28,4 +28,4 @@ https://benchristel.com/feed.rss
 
 If you don't know from RSS, you can sign up to get my posts by email.
 
-Send an email to `add@rssby.email` with `https://benchristel.com` in the body. Here is a link to draft the email automatically: <mailto:add@rssby.email?body=https%3A%2F%2Fbenchristel.com>
+Send an email to `add@rssby.email` with `https://benchristel.com` in the body. Here is a [link to draft the email automatically](mailto:add@rssby.email?body=https%3A%2F%2Fbenchristel.com). 
