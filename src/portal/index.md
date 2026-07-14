@@ -895,6 +895,7 @@ See also [my /uses page](/uses).
   - `sudo mount -o rw,remount,force /dev/sda2`
 - [How to make an android dumbphone](https://www.marginalia.nu/misc/android-dumbphone/) by Viktor Löfgren
 - [Create a "Note", "Tip", or "Warning" callout in GitHub-Flavored Markdown](https://github.com/orgs/community/discussions/16925)<hs-meta keywords="alert blockquote quote"></hs-meta> (`> [!NOTE]`)
+- Print file at commit: `git show SHA:PATH`.
 
 ## Image Repositories<hs-meta keywords="free stock images"></hs-meta>
 
