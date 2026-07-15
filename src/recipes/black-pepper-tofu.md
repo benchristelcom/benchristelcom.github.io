@@ -1,5 +1,7 @@
 # Black Pepper Tofu, "Clay Pot" style
 
+Serves 6.
+
 ## Hardware
 
 - Mortar and pestle
@@ -11,7 +13,7 @@
 
 - 2 Tbsp vegetable oil (plus 4 Tbsp for the sauce; see below)
 - 3 shallots, diced
-- 3 green onions / scallions, diced
+- 5 green onions / scallions, diced
 - 2 tsp fresh ginger, minced
 - 1 large carrot, sliced
 - 1 small Savoy cabbage, cut into approx. 1 inch squares
