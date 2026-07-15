@@ -17,12 +17,12 @@
 - 1 small Savoy cabbage, cut into approx. 1 inch squares
 - 2 packages firm tofu, cut into bite-sized rectangles
 - 1/4 cup black peppercorns, crushed with a mortar and pestle.
-- 1 Tbsp cornstarch
+- 2 Tbsp cornstarch
 
 ### Sauce
 
 - 6 Tbsp low-sodium soy sauce
-- 3 Tbsp oyster sauce
+- 4 Tbsp oyster sauce
 - 3 Tbsp mirin (sweetened rice wine)
 - 4 Tbsp vegetable oil
 
