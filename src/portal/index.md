@@ -765,6 +765,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Design for testability in object-oriented systems](https://dl.acm.org/doi/epdf/10.1145/182987.184077) - Robert V. Binder
 - [connascence.io](https://connascence.io/)
 - [The original MVC reports](https://folk.universitetetioslo.no/trygver/2007/MVC_Originals.pdf) - Trygve Reenskaug
+- [Arrakis: The Operating System Is the Control Plane](https://dl.acm.org/doi/10.1145/2812806)
 
 [More papers, catalogued by Bret Victor on worrydream.com](https://worrydream.com/refs/by-date.html)
 
