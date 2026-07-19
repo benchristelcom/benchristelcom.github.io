@@ -481,6 +481,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [jwt.io](https://jwt.io/) - JSON Web Tokens
 - [NPM package.json](https://docs.npmjs.com/cli/v8/configuring-npm/package-json)
 - [PNG](https://www.libpng.org/pub/png/)
+- [POSIX](https://pubs.opengroup.org/onlinepubs/9699919799/)
 - [RSS 2.0](https://www.rssboard.org/rss-specification). [Mirror](https://cyber.harvard.edu/rss/rss.html).
 - [Semantic Versioning](https://semver.org)
 - [Semantic Versioning for TypeScript Types](https://www.semver-ts.org/)
