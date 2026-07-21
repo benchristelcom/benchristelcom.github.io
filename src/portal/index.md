@@ -1171,6 +1171,7 @@ Related: [Wikipedia's list of paper-and-pencil games](https://en.wikipedia.org/w
 
 ## Crafting
 
+- [Antique Pattern Library](https://antiquepatternlibrary.org/)
 - [Open Stitch Dictionary](https://stitch.thefrugalgamer.net/index.php?title=Main_Page) - crochet, knitting, embroidery, and more!
 - [Friendship Bracelets](https://friendship-bracelets.net/)
 
