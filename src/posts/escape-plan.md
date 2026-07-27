@@ -171,12 +171,14 @@ many other problems.
 
 [^1]: [Patanjali]: "_Yogas-citta-vritti-nirodhaḥ_" ("Yoga is the restriction of the fluctuations of mindstuff"). Here, "yoga" means meditation.
 
-A complete meditation manual is *way* beyond the scope of this post, but I can
+A complete meditation manual is *way* beyond the scope of this post; you
+should refer to the other resources I mention below. Still, I can
 provide a few tips.
 
-When you first sit to meditate, your mind *won't* calm down and you won't be
-able to make it calm down. Don't worry about that; it's normal. Just let your
-mind run until it runs out of steam.
+When you first sit to meditate (and for a long time after), your mind *won't*
+calm down and you won't be able to make it calm down. Don't worry about that;
+it's normal. Just let your mind run until it runs out of steam. This may take
+a long time — weeks or months of daily practice.
 
 The mind is like a mill: everything you put in will eventually, inevitably,
 come out the other side. If you want stuff to stop coming out, you have to stop putting stuff
@@ -192,8 +194,9 @@ it has not been the most helpful resource for me. Its biggest flaw is the
 author's insistence that the distinction between attention and awareness is
 crucially important — even though, by his own admission, it doesn't seem to
 have been very important to two hundred generations of Hindu and Buddhist
-meditators. I think this slowed down my progress a lot for the first
-couple of years.
+meditators. As a result, he over-emphasizes (IMO) tightly focusing your
+attention on a meditation object. I think this slowed down my progress a lot
+for the first couple of years.
 
 At first I couldn't meditate for more than 10 minutes at a stretch. My mind
 would get restless, I'd forget myself, and my eyes would open of their own
@@ -229,9 +232,10 @@ generally.
 And those voices in my head that used to narrate my life and my thoughts? They're all
 but gone. They stay quiet until I call them up.
 
-Turns out [that voice in your head isn't you][intrusive]. It's a fictional character, a
-made-up simulation of a person you were taught to believe was you. It often
-says things you wouldn't endorse. *And you can think just fine without it.*
+Turns out [that voice in your head isn't you][intrusive]. It's a fictional
+character (or several fictional characters) — a made-up simulation of a person
+you were taught to believe was you. It often says things you wouldn't endorse.
+*And you can think just fine without it.*
 
 Contrary to what the AI-pilled weirdos would have you believe, language and
 intelligence have almost nothing to do with each other. You don't need to
@@ -257,8 +261,8 @@ One tool that I have found useful for warding off harmful distractions is
 websites or simply make them less tempting. I've configured it to impose a
 20-second delay before visiting any site I haven't explicitly allowlisted.
 That's just what's worked for me, though, and your mileage may vary. Other
-options include blurring blocked sites to make them harder to read, or reducing
-them to black and white.
+options include blurring blocked sites to make them harder to read, reducing
+them to black and white, or redirecting to a different site.
 
 At this point, you may be able to trade your smartphone for a dumbphone.
 Perhaps [r/dumbphones] can advise. Or [try making your Android phone into an
@@ -326,8 +330,8 @@ This world you inhabit is full of billions of other people
 the thing: all of these people belong to a culture. *They* all have voices in
 their head telling them what to do. *They* all stare at their phones while
 they're waiting for a train, reading words and watching videos that claw at
-their hearts and drag them deeper and deeper into this culture that they're a
-part of.
+their hearts and their egos and drag them deeper and deeper into this culture
+that they're a part of.
 
 But you... you *don't*, anymore.
 
@@ -336,16 +340,14 @@ only is it made up, it is *cuckoo bananas*. It has virtually nothing to do with
 the actual facts on the ground, the actual stuff of reality. People's
 activities are *entirely* disconnected from their psychological needs, and only
 as correlated with their physical needs as they have to be to hold body and
-soul together. Many of the things people talk about will start to sound
-absolutely unhinged to you, like they're Jehovah's Witnesses talking about the
-Rapture.
+soul together.
 
 And you'll realize... you're *outside culture*. Like a fish that jumps out of
 the ocean and suddenly tastes air, you'll see that the psychological world
 you've lived in your whole life has a *hard limit*. And you're now on the other
 side of that limit.
 
-There's a word for someone who lives outside the culture they're nominally a
+There's a word for someone who has transcended the culture they're nominally a
 part of. That person is a shaman.[^shaman]
 
 [^shaman]: This is not the generally accepted definition of "shaman." In most anthropological
@@ -374,6 +376,8 @@ communicate with reality.
 > measure? How much of this situation do you understand? How many levels are you
 > simultaneously aware of at this moment?" And you know, looking into the eyes
 > of that sort of person, you either grow or you turn away.
+>
+> —Terence McKenna
 
 In many societies, shamans have a purpose: they are spiritual guides. They
 have a direct connection to reality that most people don't because most people
