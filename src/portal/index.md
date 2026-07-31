@@ -993,6 +993,10 @@ See also [my /uses page](/uses).
 - [Atmos.Style CSS Color Converter](https://atmos.style/color-converter/hsl-to-lch) - Converts between hex, RGB, HSL, and LCH. Also names the colors, which is a nice touch.
 - [HTML to Markdown converter](https://htmlmarkdown.com)
 
+### Translating<hs-meta keywords="translation translates languages"></hs-meta>
+
+- [LibreTranslate](https://libretranslate.com/)<hs-meta keywords="google"></hs-meta>
+
 ### Publishing and Social
 
 - [Mataroa.blog](https://mataroa.blog/) - Minimalist blogging and newsletter platform.
