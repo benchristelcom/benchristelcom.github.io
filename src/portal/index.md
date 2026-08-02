@@ -1259,6 +1259,7 @@ into one searchable, cross-referenced database.
 - Mark Rosenfelder has compiled a [list of stories and novels that feature languages or linguistics](http://zompist.com/lang15.html) and a [list of websites about linguistics](http://zompist.com/lang17.html#Websites).
 - [Ytoo!](https://ytoo.org) - Retro, indie search engines, social networks, memes, and browser-based games.
 - [Curlie](https://curlie.org/) - A collaborative web directory with a search engine (h/t [Cidoku])
+- [All About Frogs](http://www.allaboutfrogs.org/) - Do you like frogs? This is a website about frogs.
 - [Ben Christel](https://benchristel.com) - this website. [Source code on GitHub](https://github.com/benchristelcom/benchristelcom.github.io/).
 
 ### Inspiration
