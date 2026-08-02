@@ -4,6 +4,8 @@ YouTube user [@onthatpath](https://www.youtube.com/channel/UCKuHpb6N1jLet2ZzNXnt
 
 I recommend watching all of the videos, and then referring to this page when you need a refresher to boost your meditation practice.
 
+You can also refer to this [summary from er4NT on Reddit](https://www.reddit.com/r/streamentry/comments/134zitc/an_overview_of_the_path/) that goes into more depth about progress in Vipassana stages.
+
 ## tl;dr
 
 I wrote a summary of this summary: [meditation instructions](https://benchristel.com/meditation/metasummary.html).
