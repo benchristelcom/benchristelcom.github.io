@@ -240,6 +240,8 @@ exists, or be aware of the feeling of having a body, that's what mindfulness fee
 [Terminology note: I'm not sure if this definition of mindfulness is distinct from awareness. Culadasa
 clearly distinguishes between these terms, defining mindfulness as the optimal interaction between attention and awareness. I'll use the term *awareness* where OnThatPath uses *mindfulness* from here on. —B.C.]
 
+[Being mindful of breath sensation feels a bit like stirring soup that you're cooking. You don't need to laser-focus on stirring the soup. You can listen to music or have a conversation at the same time; your attention can move around. However, you can't *completely forget* about the soup because then you'd stop stirring. You need to stay aware of it.  —B.C.]
+
 ### Anapanasati (mindfulness of breathing)
 
 *Anapanasati* means being aware of the sensations that let you know you're breathing.
