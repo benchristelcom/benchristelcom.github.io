@@ -1,20 +1,41 @@
 # Escape Plan
 
-How do you break the cycle of tech addiction? It's a long row to hoe, but it can be done.
+How do you break the cycle of tech addiction? It's a long row to hoe, but it
+can be done.
 
 I'm about eight years into this journey (counting from when I deleted my
 Facebook account in 2018). Here's a rough map based on how it's gone for me. I
-divide the path into eight "stages".
+divide the path into six "stages".
 
 ## Stage I. Personality Security
 
 A self is a dangerous thing to lose.
 
+We all know, deep down, how to be happy. The principles are not difficult.
+Every religion and every kindergarten teacher preaches them, to the point that
+they are clichés. The Golden Rule. Be yourself. Touch grass. Call your mom. We
+*know* what we *should* do. But we don't do it. Why?
+
+My theory: it's a combination of several things:
+
+- Manipulation by advertisers, propagandists, influencers, demagogues, and peer
+  pressure. This is the "foot in the door" that gets the problem started.
+- Habit. Once we are used to doing something, we're likely to continue doing it
+  without really thinking about it.
+- Our mistaken belief in a persistent self, and the illusion that this self is
+  fully in control of our minds and behaviors. Our egositical desire to
+  preserve this illusion leads to our *intentionally* pursuing wrongheaded
+  desires. The train of thought is basically "I chose to do this last time, so
+  I must be the kind of person who does this, therefore I'll do it again."
+
+Stage I of the path is about stopping the "foot in the door", guarding your ego
+against manipulators.
+
 "Personality Security" is my overarching term for the set of practices that one
-can use for self-defense against advertisers, propagandists, influencers, and
-other manipulators of the ego. Entire businesses with billions of dollars at
-their command exist solely for the purpose of getting you to do things that are
-not in your best interest. You have to fight them.
+can use for self-defense against manipulators of the ego. Entire businesses
+with billions of dollars at their command exist solely for the purpose of
+getting you to do things that are not in your best interest. You have to fight
+them.
 
 ### Technical practices for Stage I
 
@@ -25,6 +46,8 @@ not in your best interest. You have to fight them.
     - [uBlock DNS] or [AdGuard DNS] on mobile. (Blocks your phone from even looking up the internet addresses of advertising networks. [DNS = Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System))
 - [Delete social media accounts - justdeleteme.xyz][justdeleteme]
 - Use your ad blocker to banish newsfeeds, recommendations, and comments sections (to stop doomscrolling).
+- Learn about [Dark Patterns] in user interface design, and the various ways
+  that software is [designed to be addictive].
 
 ### Personal practices for Stage I
 
@@ -75,7 +98,7 @@ happier life.
 Some things I've done to make my tech experiences better:
 
 - Made a [Firefox theme](https://color.firefox.com/?theme=XQAAAAL6AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xMDPsqu1p-XAF6EJDWcx9sS_Bi3JZH4KPzK-C2nG0G0z0EYOEN1uOojKq8xIkzQd7r6Lb_q5Whn0OXxiivqrZyadZXRncNouH8dON5uAlcixY_JS1naRZJs1_TXnHJS3Bp2orX6rzkWXrN_6M5wiHYKpJL5lHhwHuprDS2eb____dfIEA)
-- Made a lil [website][portal] (not as hard as you might think! E.g. my sister made [her website] with no prior experience and only a small amount of coaching from me.) Good starting places are [Neocities] or [Nekoweb].
+- Made this lil [website][portal] (not as hard as you might think! E.g. my sister made [her website] with no prior experience and only a small amount of coaching from me.) Good starting places are [Neocities] or [Nekoweb].
 - Installed [New Tab Override] so my browser would open my
   [web portal page][portal] on each new tab.
 - [Switched to Linux](https://github.com/benchristel/lynx).
@@ -115,7 +138,7 @@ Stage I. It should also be something that's *easy* to get yourself to do. As
 a bad example, you could say "my default activity is doing pushups"
 but realistically that's not gonna happen every time you feel the urge to reach
 for your phone. You might have to do a bit of experimentation to find something
-that fits both of these criteria.
+that is both harmless and effortless.
 
 My Harmless Default Activity is watching [Culture Machine]. Culture Machine is
 an app I made that plays a curated set of YouTube videos on shuffle. The
@@ -217,8 +240,7 @@ and still sit for thirty minutes. The limiting factor was now physical pain
 again. Over the following two years the pain diminished and now I can sit for 
 40 or 50 minutes, multiple times per day.
 
-[^2]: Incidentally, my description of the psychological effects of tech addiction,
-above, is directly inspired by [one of OnThatPath's videos][do].
+[^2]: Incidentally, my description of the psychological effects of tech addiction, above, is directly inspired by [one of OnThatPath's videos][do].
 
 I say all this to illustrate that meditation can be difficult at first. The
 path is rough and you may have to take some detours. However, it is *so* worth
@@ -319,6 +341,8 @@ A whole new world awaits: the "real" (or, at least, non-tech-mediated) world
 beyond the screen. It has its good and bad points, to be sure, but in any case,
 it's the world we're all stuck with, so we might as well make the best of it.
 
+<!--
+
 ## VII. Shamanhood
 
 We've reached the end of the journey, as far as tech is concerned. But when you
@@ -350,12 +374,7 @@ side of that limit.
 There's a word for someone who has transcended the culture they're nominally a
 part of. That person is a shaman.[^shaman]
 
-[^shaman]: This is not the generally accepted definition of "shaman." In most anthropological
-contexts, a shaman is someone who enters a trancelike state to communicate with
-the spirit world. However, I think there is a useful analogy to be drawn. Whereas
-shamans in a traditional society travel outside the mundane world to communicate
-with spirits, shamans in our modern society might travel outside culture to
-communicate with reality.
+[^shaman]: This is not the generally accepted definition of "shaman." In most anthropological contexts, a shaman is someone who enters a trancelike state to communicate with the spirit world. However, I think there is a useful analogy to be drawn. Whereas shamans in a traditional society travel outside the mundane world to communicate with spirits, shamans in our modern society might travel outside culture to communicate with reality.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sopijO_cftE?si=CB6ihR_xY7sMHy8b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -424,6 +443,10 @@ be long and arduous.
 
 I wish you well on *your* journey, traveler.
 
+-->
+
+[Dark Patterns]: https://en.wikipedia.org/wiki/Dark_pattern
+[designed to be addictive]: ./ye-2025.pdf
 [wearing green goggles]: https://en.wikipedia.org/wiki/Emerald_City#In_The_Wonderful_Wizard_of_Oz_(1900)
 [Dào Dé Jīng]: https://terebess.hu/english/tao/mitchell.html
 [hommiv]: http://www.heroesofmightandmagic.com/heroes4/heroesofmightandmagic4iv.shtml
@@ -431,11 +454,11 @@ I wish you well on *your* journey, traveler.
 [LeechBlock]: https://www.proginosko.com/leechblock/
 [beginner's mind]:https://en.wikipedia.org/wiki/Shoshin
 [intrusive]: https://www.bruh.ltd/blog/coping-with-intrusive-thoughts/
-[do](https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=i1izrpQqvP4)
+[do]: https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=i1izrpQqvP4
 [OnThatPath]: https://www.youtube.com/channel/UCKuHpb6N1jLet2ZzNXntNmA
 [meditation timers]: https://benchristel.github.io/meditation/
 [Patanjali]: https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali
-[_The Mind Illuminated_](https://www.betterworldbooks.com/product/detail/the-mind-illuminated-a-complete-meditation-guide-integrating-buddhist-wisdom-and-brain-science-for-9781501156984/new)
+[_The Mind Illuminated_]: https://www.betterworldbooks.com/product/detail/the-mind-illuminated-a-complete-meditation-guide-integrating-buddhist-wisdom-and-brain-science-for-9781501156984/new
 [Culture Machine]: https://tv.benchristel.com/
 [concerts]: https://defaanged.mataroa.blog/blog/there-are-some-phenomenal-concerts-on-youtube/
 [Nekoweb]: https://nekoweb.org/
