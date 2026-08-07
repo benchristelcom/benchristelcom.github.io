@@ -1,4 +1,4 @@
-# Ben Christel's Homepage
+# Ben Christel&rsquo;s Homepage
 
 I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); by night I write everything else. This website is the gateway to my many projects.
 
@@ -94,7 +94,6 @@ Best viewed with <a href="https://lynx.browser.org/"><img alt="Lynx 2.6" src="/a
 <style>
 
 :root {
-  --font-size: 0.9375rem;
   --align: left;
   --hyphens: manual;
 }
