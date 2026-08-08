@@ -767,6 +767,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [connascence.io](https://connascence.io/)
 - [The original MVC reports](https://folk.universitetetioslo.no/trygver/2007/MVC_Originals.pdf) - Trygve Reenskaug
 - [Arrakis: The Operating System Is the Control Plane](https://dl.acm.org/doi/10.1145/2812806) - as seen in [The 30 Million Line Problem](https://www.youtube.com/watch?v=kZRE7HIO3vk&pp=ygUbdGhlIDMwIG1pbGxpb24gbGluZSBwcm9ibGVt0gcJCcQLAYcqIYzv).
+- [An Introduction to Computer Networks](https://intronetworks.cs.luc.edu/) - Peter L Dordal
 
 [More papers, catalogued by Bret Victor on worrydream.com](https://worrydream.com/refs/by-date.html)
 
