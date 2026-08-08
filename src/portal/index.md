@@ -756,17 +756,17 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [The Emperor's Old Clothes](https://worrydream.com/refs/Hoare_1981_-_The_Emperors_Old_Clothes.pdf) 1981 Turing Award lecture by C.A.R. Hoare. <hs-meta keywords="Sir Charles Antony (Tony) Richard Hoare"></hs-meta>
 - [Software Aspects of Strategic Defense Systems](https://web.stanford.edu/class/cs99r/readings/parnas1.pdf) - David Parnas, 1985.
 - [The Beautiful Mess](https://cutlefish.substack.com) - John Cutler's newsletter on product management and software development.
-- [Manifesto for Agile Software Development](http://agilemanifesto.org/) - Read this before you hate on "Agile."
+- [Manifesto for Agile Software Development](http://agilemanifesto.org/) - What started it all. Read this before you hate on "Agile."
 - [_Communications of the ACM_](https://cacm.acm.org/), an open-access journal published by [the Association for Computing Machinery](https://acm.org).
 - [As We May Think](https://dl.acm.org/doi/pdf/10.1145/227181.227186) - Vannevar Bush on hypertext. 1945.
 - [Out of the Tar Pit](https://github.com/papers-we-love/papers-we-love/blob/main/design/out-of-the-tar-pit.pdf) - Ben Moseley and Peter Marks, 2006.
 - [Abstraction, Encapsulation, and Information Hiding](https://web.archive.org/web/20000229235957/www.toa.com/pub/abstraction.txt) - Edward V. Berard
 - [Record Handling](https://archive.computerhistory.org/resources/text/algol/ACM_Algol_bulletin/1061032/p39-hoare.pdf) — C.A.R. Hoare. <hs-meta keywords="Sir Charles Antony (Tony) Richard Hoare"></hs-meta>
-- [Managing the Development of Large Software Systems](https://github.com/tpn/pdfs/blob/master/Managing%20the%20Development%20of%20Large%20Software%20Systems%20-%201970%20(waterfall).pdf) - Winston Royce<hs-meta keywords="waterfall"></hs-meta>
+- [Managing the Development of Large Software Systems](https://github.com/tpn/pdfs/blob/master/Managing%20the%20Development%20of%20Large%20Software%20Systems%20-%201970%20(waterfall).pdf) - Winston Royce. A.K.A. "the waterfall paper"
 - [Design for testability in object-oriented systems](https://dl.acm.org/doi/epdf/10.1145/182987.184077) - Robert V. Binder
 - [connascence.io](https://connascence.io/)
 - [The original MVC reports](https://folk.universitetetioslo.no/trygver/2007/MVC_Originals.pdf) - Trygve Reenskaug
-- [Arrakis: The Operating System Is the Control Plane](https://dl.acm.org/doi/10.1145/2812806)
+- [Arrakis: The Operating System Is the Control Plane](https://dl.acm.org/doi/10.1145/2812806) - as seen in [The 30 Million Line Problem](https://www.youtube.com/watch?v=kZRE7HIO3vk&pp=ygUbdGhlIDMwIG1pbGxpb24gbGluZSBwcm9ibGVt0gcJCcQLAYcqIYzv).
 
 [More papers, catalogued by Bret Victor on worrydream.com](https://worrydream.com/refs/by-date.html)
 
