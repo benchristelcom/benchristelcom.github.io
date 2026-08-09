@@ -1143,6 +1143,8 @@ Related: [Wikipedia's list of paper-and-pencil games](https://en.wikipedia.org/w
 
 ## Languages and Linguistics
 
+- [Omniglot](https://omniglot.com/) - Information on more than 2000 languages
+
 ### Conlangs <hs-meta keywords="constructed languages"></hs-meta>
 
 - [Ardalambion](https://ardalambion.org) - Resources on J.R.R. Tolkien's elvish languages, by Helge Kåre Fauskanger.
