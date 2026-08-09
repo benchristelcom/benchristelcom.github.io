@@ -1144,6 +1144,7 @@ Related: [Wikipedia's list of paper-and-pencil games](https://en.wikipedia.org/w
 ## Languages and Linguistics
 
 - [Omniglot](https://omniglot.com/) - Information on more than 2000 languages
+- [Language Links on Arcana Verba](https://arcanaverba.neocities.org/languagelinks)<hs-meta keywords="akkadian ugaritic proto semitic anglo saxon middle english arabic azerbaijani basque breton bulgarian burmese myanmar cambodian catalan celtic cornish czech danish egyptian coptic esperanto estonian faroese old french friulian gaulish georgian west germanic greek hebrew hindi urdu hungarian icelandic norse indonesian irish japanese karelian klingon kurdish latin latvian lithuanian livonian maori nepali northern central american occitan oromo pali persian farsi dari tajik polabian polish portuguese quechua quenya romanian russian sanskrit serbo croatian sicilian sindarin slovak slovene somali spanish swahili classical syriac jewish aramaic thai tibetan turkish ukranian uzbek high valyrian veps vietnamese welsh neo turoyo surayt westron"></hs-meta>
 
 ### Conlangs <hs-meta keywords="constructed languages"></hs-meta>
 
