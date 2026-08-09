@@ -441,6 +441,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [Preact](https://preactjs.com/)
 - [Prettier](https://prettier.io)
 - [Python](https://python.org/)
+- [Quill](https://quilljs.com/) - WYSIWYG HTML editor
 - [Ramda](https://ramdajs.com/)
 - [React](https://react.dev/)
 - [RSpec](https://rspec.info/)
