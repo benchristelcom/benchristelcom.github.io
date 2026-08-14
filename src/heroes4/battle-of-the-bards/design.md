@@ -9,9 +9,16 @@ level 30 (level requirement TBD).
 
 ## Player Setup
 
+Human players start with no resources at all.
+
 Each player except for Red starts with a level 1 bard (Basic Herbalism and
-Basic Stealth) and a town with nothing constructed (not even a Fort).
-**The town allows heroes to retreat.**
+Basic Stealth) and a level 3 "secondary hero" of their chosen alignment. E.g. the
+Life player gets a Paladin. Players start with a free Scroll of Town Gate (picked
+up within the first couple of turns) and level 1 dwelling.
+
+HACK: the players own their level 1 dwelling at the start. This allows their
+alignment to be set correctly (the game won't let the mapmaker set a player's
+alignment to e.g. Life unless that player owns a Life creature/hero/building).
 
 The player alignments are fixed.
 
@@ -22,21 +29,39 @@ The player alignments are fixed.
 - Blue: Order
 - Red: Might
 
+Players must complete a quest (kill a particular neutral hero with an 80-PEON army)
+to gain access to the town in their starting area. The town has a City Hall and
+Fort, but no other buildings.
+
+Players can get a Bag of Gold within the first couple of days by defeating a level
+1 monster.
+
+Players have access to two level-2 dwellings and one level-3 dwelling in their
+starting area.
+
 ## Global Events
 
 - Day 1 - zero resources for all human players but Red
+- Day 1 - Exposition
+  - Shows a message to give players the backstory
+- Day 1 - Set up (COLOR) CPU
+  - Runs on (COLOR) player's turn if they are a computer
+  - Deletes wall in front of town
+  - Triggers "Unlock (COLOR) Town" to change the town's owner
+  - Gives secondary hero
+- Day 1, then every 7 days on Red's turn - Start of Week
+  - Adventure objects can subscribe to the `Week` Triggerable Event to do something
+    every week.
+  - Mines in neutral areas add creatures to their garrisons on `Week`.
+- Day 3 - explain XP rules
+  - Shows rules explanation
 
 ## Map Structure
 
-- Players start near the center of the map and can explore outwards or toward
-  each other.
-- Players start with only a level 1 hero. No towns, money, or creatures.
 - Free resources and campfires are scattered around to reward exploration.
 - There are placed events scattered around the map that give XP to the first
   hero to encounter them.
 - Each player starts near a Sanctuary so they can resurrect heroes who die.
-- Each player starts near a town that they should be able to capture within a
-  few weeks.
 
 ## Ideas
 
