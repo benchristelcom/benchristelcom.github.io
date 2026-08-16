@@ -623,6 +623,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [Cedar Down Farm](https://cedardownfarm.ca/)
 - [rmf's recipes on baccyflap.com](https://baccyflap.com/res/recipes/)
 - [James Chip's website](https://www.jameschip.io/all.html)
+- [Chili Pepper Madness](https://www.chilipeppermadness.com/) - recipes and growing / gardening tips
 
 ### Merchants
 
