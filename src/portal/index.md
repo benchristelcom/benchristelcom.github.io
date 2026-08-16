@@ -1266,7 +1266,9 @@ into one searchable, cross-referenced database.
 - [Ytoo!](https://ytoo.org) - Retro, indie search engines, social networks, memes, and browser-based games.
 - [Curlie](https://curlie.org/) - A collaborative web directory with a search engine (h/t [Cidoku])
 - [All About Frogs](http://www.allaboutfrogs.org/) - Do you like frogs? This is a website about frogs.
+- [ManualsLib](https://www.manualslib.com/) - User and installation manuals for physical products and appliances.
 - [Ben Christel](https://benchristel.com) - this website. [Source code on GitHub](https://github.com/benchristelcom/benchristelcom.github.io/).
+
 
 ### Inspiration
 
