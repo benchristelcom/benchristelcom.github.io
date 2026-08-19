@@ -1242,6 +1242,7 @@ Dedicated individuals' comprehensive maps of their chosen domain.
 into one searchable, cross-referenced database.
 - [David Rumsey Map Collection](https://www.davidrumsey.com/) - Historical and rare maps. (h/t [Cidoku])
 - [Folklore and Mythology Electronic Texts](https://sites.pitt.edu/~dash/folktexts.html) collected by [D. L. Ashliman](https://sites.pitt.edu/~dash/ashliman.html). (h/t [Cidoku])
+- [The Jargon File](http://catb.org/esr/jargon/html/index.html) - Eric S. Raymond's dictionary of hacker slang
 
 ## Web Curators
 
