@@ -565,6 +565,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 
 ## My Projects
 
+- [_DeFAANGed_](https://defaanged.mataroa.blog/) - a blog about becoming less dependent on big tech
 - [_Process to Processes_](https://benchristel.github.io/process-to-processes) - A draft of my upcoming book about software development
 - [Ben's Guide to Software Development](https://bensguide.substack.com) - A newsletter about the book
 - [Bliki](https://github.com/benchristel/benchristel.github.io/wiki) - My personal blog/wiki about software, with 250+ topic-focused pages on everything from [abstraction](https://github.com/benchristel/benchristel.github.io/wiki/Abstraction) to [wholeness](https://github.com/benchristel/benchristel.github.io/wiki/Wholeness).
