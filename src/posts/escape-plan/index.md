@@ -5,7 +5,9 @@ can be done.
 
 I'm about eight years into this journey (counting from when I deleted my
 Facebook account in 2018). Here's a rough map based on how it's gone for me. I
-divide the path into six "stages".
+divide the path into six "stages". These stages are progressive and build on
+each other: in Stage II you keep doing the practices from Stage I, in Stage III
+you keep doing the practices from I and II, etc.
 
 ## Stage I. Personality Security
 
@@ -13,8 +15,7 @@ A self is a dangerous thing to lose.
 
 We all know, deep down, how to be happy. The principles are not difficult.
 Every religion and every kindergarten teacher preaches them, to the point that
-they are clichés. The Golden Rule. Be yourself. Touch grass. Call your mom. We
-*know* what we *should* do. But we don't do it. Why?
+they are clichés. We *know* what we *should* do. But we don't do it. Why?
 
 My theory: it's a combination of several things:
 
@@ -23,7 +24,7 @@ My theory: it's a combination of several things:
 - Habit. Once we are used to doing something, we're likely to continue doing it
   without really thinking about it.
 - Our mistaken belief in a persistent self, and the illusion that this self is
-  fully in control of our minds and behaviors. Our egositical desire to
+  fully in control of our minds and behaviors. Our egotistical desire to
   preserve this illusion leads to our *intentionally* pursuing wrongheaded
   desires. The train of thought is basically "I chose to do this last time, so
   I must be the kind of person who does this, therefore I'll do it again."
@@ -58,18 +59,22 @@ the later it arrives, and by that time it's too late to do anything about it.
 It's almost like the subtle effects are the "seeds" that grow into the obvious
 ones.
 
-From most to least noticeable, the effects are:
+In the order they happen, the effects are:
 
-- **Anxiety or depression**. These can build up over a period of weeks or
-  months and become totally hellish.
-- **Restlessness** means wanting to do *something* but not really knowing what
-  to do. Usually lasts hours or at most a couple days. Physical restlessness
-  shows up as pacing or fidgeting. Mental restlessness manifests as racing
-  thoughts or even talking out loud to yourself.
+- **Craving**. This is the feeling of gleeful anticipation that you get when
+  you start doomscrolling, or you're about to click on an article that looks
+  really juicy. It feels good in the moment, but it is the seed that grows into
+  the later, less pleasant effects.
 - **Lock-in / clinging / tunnel vision**. This kind of feels like your mind
   won't let go of something, won't let you look away from the screen or put
   down your phone. In its early stages it feels like a knot of tension between
   your eyes or behind your forehead, almost like a clenched fist.
+- **Restlessness** means wanting to do *something* but not really knowing what
+  to do. Usually lasts hours or at most a couple days. Physical restlessness
+  shows up as pacing or fidgeting. Mental restlessness manifests as racing
+  thoughts or even talking out loud to yourself.
+- **Anxiety or depression**. These can build up over a period of weeks or
+  months and become totally hellish.
 
 It's important to note that the later and more severe effects are *inevitable*
 if you don't stop the earlier ones in their tracks. It can sometimes *feel* like
@@ -82,6 +87,11 @@ out of the "doom loop," they will become less intense and less frequent.
 
 Also, for what it's worth, these effects are caused by all forms of hedonism (trying
 to get pleasure or happiness from the world) not just tech-related stuff.
+
+Don't try to forcibly stop these effects — that will just lead to more distress.
+Instead, just notice them happening. Over time, your subconscious mind will
+learn the pattern, and you might find yourself doing less of the behaviors that
+cause these effects.
 
 ## II. A Room of One's Own
 
@@ -98,7 +108,7 @@ happier life.
 Some things I've done to make my tech experiences better:
 
 - Made a [Firefox theme](https://color.firefox.com/?theme=XQAAAAL6AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xMDPsqu1p-XAF6EJDWcx9sS_Bi3JZH4KPzK-C2nG0G0z0EYOEN1uOojKq8xIkzQd7r6Lb_q5Whn0OXxiivqrZyadZXRncNouH8dON5uAlcixY_JS1naRZJs1_TXnHJS3Bp2orX6rzkWXrN_6M5wiHYKpJL5lHhwHuprDS2eb____dfIEA)
-- Made this lil [website][portal] (not as hard as you might think! E.g. my sister made [her website] with no prior experience and only a small amount of coaching from me.) Good starting places are [Neocities] or [Nekoweb].
+- Made a lil [website][portal] (not as hard as you might think! E.g. my sister made [her website] with no prior experience and only a small amount of coaching from me.) Good starting places are [Neocities] or [Nekoweb].
 - Installed [New Tab Override] so my browser would open my
   [web portal page][portal] on each new tab.
 - [Switched to Linux](https://github.com/benchristel/lynx).
@@ -135,8 +145,8 @@ urge to do *something* with a computer/phone but don't really know what.
 
 "Harmless" means it doesn't cause the bad psychological symptoms I described in
 Stage I. It should also be something that's *easy* to get yourself to do. As
-a bad example, you could say "my default activity is doing pushups"
-but realistically that's not gonna happen every time you feel the urge to reach
+a bad example, you could say "my default activity is doing pushups";
+realistically, that's not gonna happen every time you feel the urge to reach
 for your phone. You might have to do a bit of experimentation to find something
 that is both harmless and effortless.
 
@@ -148,9 +158,9 @@ sounds that runs at its own pace.
 
 The videos themselves are... eclectic? Weird? Oddly calming? There's not a
 whiff of clickbait. No one talking in Podcaster Voice. Instead you get [foraging
-videos from an experimental archaeologist](https://www.sallypointer.com/),
-[archival footage from Welsh TV programmes](https://www.youtube.com/@archifitvcymruwalesllgcitv9713),
-[lectures about Old English grammar with B-roll of birds](https://www.youtube.com/@simonroper9218),
+videos from an experimental archaeologist](https://www.youtube.com/@SallyPointer),
+[archival Welsh TV footage](https://www.youtube.com/@archifitvcymruwalesllgcitv9713),
+[Old English grammar and nature videography](https://www.youtube.com/@simonroper9218),
 [ASMR guitar repair](https://www.youtube.com/@TanyaShpachuk),
 and [model trains](https://www.youtube.com/@muchfunwithtrains). Among many
 other things.
@@ -183,7 +193,7 @@ that makes sense.
 ## IV. Meditation
 
 This is the part where I go out on a limb and talk about something that isn't at all
-tech-related. But there's no getting around it. Remember, this is the map of the journey *as
+tech-related. But there's no getting around it. This is the map of the journey *as
 I experienced it*, and I would be remiss to leave meditation out of the
 picture. It's been absolutely crucial for me.
 
@@ -198,10 +208,18 @@ A complete meditation manual is *way* beyond the scope of this post; you
 should refer to the other resources I mention below. Still, I can
 provide a few tips.
 
+First: if you want any significant benefits from meditation, you have to get
+in the habit of doing it every day. It's like brushing your teeth: once or
+twice a week isn't going to do much of anything. It doesn't have to take a lot
+of time, but it needs to be every day. Start with 5 or 10 minute sits at a
+consistent time in the morning or evening. As you practice more, the duration
+of your sits will naturally, gradually increase.
+
 When you first sit to meditate (and for a long time after), your mind *won't*
-calm down and you won't be able to make it calm down. Don't worry about that;
-it's normal. Just let your mind run until it runs out of steam. This may take
-a long time — weeks or months of daily practice.
+calm down, and you won't be able to make it calm down. Don't worry about that;
+it's normal. Don't try to make your mind do anything in particular. Just stay
+aware of what it's doing, and let it run until it runs out of steam. This may
+take a long time — weeks or months of daily practice.
 
 The mind is like a mill: everything you put in will eventually, inevitably,
 come out the other side. If you want stuff to stop coming out, you have to stop putting stuff
@@ -209,10 +227,10 @@ in. That is why meditation generally involves sitting still with your eyes
 closed, and why people associate meditation with seclusion and long retreats.
 
 I started meditating daily-ish in July or August of 2022 — within a month of
-when I started building [Culture Machine]. A friend had given me a copy of
-[_The Mind Illuminated_], and this became my first textbook.
+when I started building Culture Machine. A friend had given me a copy of
+[_The Mind Illuminated_], and this became my first textbook.[^tmi]
 
-I feel the need to mention that while I think _The Mind Illuminated_ is *good*,
+[^tmi]: I feel the need to mention that while I think _The Mind Illuminated_ is *good*,
 it has not been the most helpful resource for me. Its biggest flaw is the
 author's insistence that the distinction between attention and awareness is
 crucially important — even though, by his own admission, it doesn't seem to
@@ -223,9 +241,9 @@ for the first couple of years.
 
 At first I couldn't meditate for more than 10 minutes at a stretch. My mind
 would get restless, I'd forget myself, and my eyes would open of their own
-accord. I tried sitting on the floor so my physical posture would be a reminder
-of what I was doing, but I couldn't sit for more than 5 minutes without acute
-pain. I am not very flexible.
+accord. (Again: normal! But I didn't know that.) I tried sitting on the floor
+so my physical posture would be a reminder of what I was doing, but I couldn't
+sit for more than 5 minutes without acute pain. I am not very flexible.
 
 Gradually, by practicing almost every day, I was able to increase the time to
 20 minutes. I could do 30, but it seemed like an eternity. [Meditation timers]
@@ -237,8 +255,8 @@ Then, in 2024, I discovered [OnThatPath]'s YouTube series[^2], and everything
 changed for the better. I highly recommend his videos. Suddenly, meditation
 was *restful* instead of a struggle. I found that I could ditch the timer
 and still sit for thirty minutes. The limiting factor was now physical pain
-again. Over the following two years the pain diminished and now I can sit for 
-40 or 50 minutes, multiple times per day.
+again. Over the following two years, the pain diminished, and now I can sit for 
+50 minutes to an hour, twice a day.
 
 [^2]: Incidentally, my description of the psychological effects of tech addiction, above, is directly inspired by [one of OnThatPath's videos][do].
 
@@ -246,7 +264,7 @@ I say all this to illustrate that meditation can be difficult at first. The
 path is rough and you may have to take some detours. However, it is *so* worth
 it.
 
-My emotional state is a lot more resilient than it used to be. I used to fall into
+My emotional state is now a lot more resilient than it used to be. I used to fall into
 depressive moods for days or weeks at a time when something disturbed me. Now
 I bounce back in an hour or two. I don't get upset as easily. I'm less anxious
 generally.
@@ -259,9 +277,11 @@ character (or several fictional characters) — a made-up simulation of a person
 you were taught to believe was you. It often says things you wouldn't endorse.
 *And you can think just fine without it.*
 
+<!--
 Contrary to what the AI-pilled weirdos would have you believe, language and
 intelligence have almost nothing to do with each other. You don't need to
 verbalize your thoughts to think.
+-->
 
 This *freedom from language* is like a return to the garden of Eden.
 Even the ur-technology of humanity can become just another tool that
@@ -290,7 +310,8 @@ At this point, you may be able to trade your smartphone for a dumbphone.
 Perhaps [r/dumbphones] can advise. Or [try making your Android phone into an
 almost-dumb phone](https://www.marginalia.nu/misc/android-dumbphone/).
 
-(note: I have never owned a smartphone.)
+(note: I have never owned a smartphone, so I can't offer very specific advice
+on how to quit them. Sorry.)
 
 ### Personal practices for Stage V
 
@@ -305,8 +326,8 @@ for hours afterward.
 
 I would love to be able to be all Zen about it, assume a [beginner's mind], and
 play the game in the loose, emotional way that I did as a kid. But I'm not able
-to detach myself from the egotistical part of my mind that wants to be *smart*.
-At least, not yet.
+to detach myself from the egotistical part of my mind that wants to be *smart*
+and *strategic*. At least, not yet.
 
 Someday, I'll go back to playing Heroes IV, probably on an easier difficulty
 setting, but for now I'm on a strict diet.
@@ -338,7 +359,7 @@ ready to work whenever you tell it to, ready to rest whenever you tell it to.
 You will have a steady and almost inexhaustible supply of energy.
 
 A whole new world awaits: the "real" (or, at least, non-tech-mediated) world
-beyond the screen. It has its good and bad points, to be sure, but in any case,
+beyond the screen. It has its good and bad points, to be sure. But in any case,
 it's the world we're all stuck with, so we might as well make the best of it.
 
 <!--
@@ -446,7 +467,7 @@ I wish you well on *your* journey, traveler.
 -->
 
 [Dark Patterns]: https://en.wikipedia.org/wiki/Dark_pattern
-[designed to be addictive]: ./ye-2025.pdf
+[designed to be addictive]: https://benchristel.com/posts/escape-plan/ye-2025.pdf
 [wearing green goggles]: https://en.wikipedia.org/wiki/Emerald_City#In_The_Wonderful_Wizard_of_Oz_(1900)
 [Dào Dé Jīng]: https://terebess.hu/english/tao/mitchell.html
 [hommiv]: http://www.heroesofmightandmagic.com/heroes4/heroesofmightandmagic4iv.shtml
