@@ -1,4 +1,4 @@
-# Methi Dal
+# Methi Dal ★
 
 Red lentils with fenugreek. Serves 10.
 
