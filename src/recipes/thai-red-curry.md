@@ -1,4 +1,4 @@
-# Thai Red Curry
+# Thai Red Curry ★
 
 ## Ingredients
 
