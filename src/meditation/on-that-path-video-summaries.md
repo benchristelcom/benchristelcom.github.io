@@ -322,12 +322,12 @@ Things to avoid include:
 - Lying
 - Killing
 - Cheating
+- Intoxication
 - Fantasizing about any of the above
 - [Doomscrolling —B.C.]
 - [Perfectionism and obsessions —B.C.]
 - [Attention-grabbing media —B.C.]
 - [People you get into arguments with —B.C.]
-- [Alcohol and dehydration —B.C.]
 
 In short, un-virtue is anything you regret doing at the end of the day, or anything that makes your mind/body feel restless, foggy, or yucky afterward.
 
