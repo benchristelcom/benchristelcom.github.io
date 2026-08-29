@@ -13,8 +13,10 @@ Human players start with no resources at all.
 
 Each player except for Red starts with a level 1 bard (Basic Herbalism and
 Basic Stealth) and a level 3 "secondary hero" of their chosen alignment. E.g. the
-Life player gets a Paladin. Players start with a free Scroll of Town Gate (picked
-up within the first couple of turns) and level 1 dwelling.
+Life player gets a Paladin. Players start with a free Scroll of Town Gate and Potion of Immortality (picked up within the first couple of turns) and level 1
+dwelling.
+
+A daily event on each town negates the income from the City Hall.
 
 HACK: the players own their level 1 dwelling at the start. This allows their
 alignment to be set correctly (the game won't let the mapmaker set a player's
@@ -44,10 +46,14 @@ starting area.
 - Day 1 - zero resources for all human players but Red
 - Day 1 - Exposition
   - Shows a message to give players the backstory
-- Day 1 - Set up (COLOR) CPU
-  - Runs on (COLOR) player's turn if they are a computer
-  - Deletes wall in front of town
-  - Triggers "Unlock (COLOR) Town" to change the town's owner
+- Day 1 - Set up $COLOR CPU
+  - Runs on $COLOR player's turn if they are a computer
+  - Deletes (`$COLOR Town Wall`) and (`$COLOR Town Gate`). HACK: the wall and
+    gate have separate markers because we need to be able to delete the wall
+    without deleting the gate, when the player completes the quest to unlock
+    their town (which they do by visiting the gate). If the quest-completion
+    event deletes the quest gate it's running on, the game crashes.
+  - Triggers "Unlock $COLOR Town" to change the town's owner
   - Gives secondary hero
 - Day 1, then every 7 days on Red's turn - Start of Week
   - Adventure objects can subscribe to the `Week` Triggerable Event to do something
@@ -62,12 +68,6 @@ starting area.
 - There are placed events scattered around the map that give XP to the first
   hero to encounter them.
 - Each player starts near a Sanctuary so they can resurrect heroes who die.
-
-## Ideas
-
-- scroll of Town Gate
-- a higher-level combat hero who can help you through the early battles (but
-  takes half the XP!) and resurrect you if you die.
 
 ## Victory Script
 
