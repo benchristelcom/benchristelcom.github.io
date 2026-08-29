@@ -6,6 +6,8 @@ of computer use. I might still post to Ben's Guide occasionally, but if you
 want to follow what I'm up to, _DeFAANGed_ is the best place.
 [You can subscribe here](https://defaanged.mataroa.blog/newsletter/).
 
+[_DeFAANGed_]: https://defaanged.mataroa.blog/
+
 This post is going to be sort of a self-indulgent ramble. I'm sorry about that,
 but I needed the catharsis, and I thought you might like some explanation of
 why I'm not primarily going to be writing about software development anymore.
@@ -257,7 +259,7 @@ motivated to write about programming. What I *am* motivated to write about
 (clearly!) is my struggle with tech addiction and how I've (mostly) kicked the
 habit, in the hope that reading about my journey might help someone.
 
-I have therefore started a new blog, titled _DeFAANGed_, where I'll be covering
+I have therefore started a new blog, titled [_DeFAANGed_], where I'll be covering
 topics like...
 
 - How to block advertisements on mobile devices
