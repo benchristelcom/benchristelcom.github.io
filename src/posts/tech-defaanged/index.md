@@ -138,9 +138,9 @@ Anyway, back to my webocalypse-prepping experiment: I didn't account for
 Goodhart's Law when designing my metrics. And so I started *intentionally
 avoiding search* in order to make the numbers look good. This naturally led to
 me spending less time online. *That* naturally led to me using computers less.
-What had started as a strategy for self-defense against a collapsing web
-devolved into pointless metrics-chasing. My project seemed to have gone off the
-rails.
+My experiment, which had started as a strategy for self-defense against a
+collapsing web, had devolved into austerity and pointless metrics-chasing. My
+project seemed to have gone off the rails.
 
 But then, a funny thing happened. I noticed that I was becoming happier.
 
@@ -179,6 +179,33 @@ The insight itself has two parts to it. The first part is not something that
 fits into words all that well. The best I can do is to say: **computers are
 just not that important**.
 
+In making this statement, I have to make clear that I'm looking
+through a particular frame: the Silicon Valley culture of the 2010s, which is
+when my career began. At that time, the Valley was abuzz with excitement about
+*apps* and *mobile*. Web 2.0 was maturing. There was a website for everything,
+and soon, people felt, there would be an app for everything. "There's an app
+for that" was an in-joke, but also an earnest motto. Venture capitalists were
+flinging wads of cash at every software company in sight. And these companies
+needed nothing so quaint as a "business model" to get investors; growth was the
+only consideration. People in Silicon Valley felt that every problem would soon
+be solved, every little need that people had would be satisfied, by harnessing
+the infinite potential of the computer in your pocket, and that the future would
+be one of such overwhelming abundance that revenue would be *sure* to come
+from *somewhere*.[^2]
+
+[^2]: I don't want to go off on a tangent about this, but I think the nonchalance
+about business models in the 2010s directly set the stage for [enshittification]
+in the 2020s. It turns out that actually, pretty much the only way to make money with
+software is to get people addicted to it and then shove ads in their face — and
+then to progressively make the experience worse and worse for both users and
+advertisers as you claw back all the value for shareholders. This could have
+all been avoided if people had insisted on sustainable business models from the
+start. Of course, we would have had a lot fewer tech companies.
+
+[enshittification]: https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=rimtaSgGz_4
+
+Of course, that was all a bit silly.
+
 <!--
 Having experienced a relatively-offline life — and enjoyed it — I can no longer say with full-throated confidence that creating software for personal computers is a pursuit that's worth my free time. I just can't believe in it anymore.
 -->
@@ -199,17 +226,32 @@ following years, the broader cult of technology took their place, and I became
 dependent on it. Subconsciously, I thought of digital technology, whether good
 or evil, as _the most important thing_. It's not.
 
+Now, please don't misconstrue what I'm saying: I'm *not* saying that the
+quality of our technological experiences doesn't matter. I'm *not* saying it's
+okay for software to not work or to have bugs. I'm *not* saying it's okay to do
+a crappy job when programming. If I'm going to write software, I want it to be
+my best work, *especially* if someone is paying me to do it. I am still
+interested in being a *maker* of software. What has changed is that I am no
+longer at all interested in being a *user*.
+
+<!--I'm also still at least sort of
+interested in writing software as a learning exercise, or as a way to
+understand a problem better. What's changed is that I am now, by default,
+skeptical of the *practical* utility of any new software I might write.-->
+
 I now look at my computer the same way I look at my food processor. I *like*
 having a food processor. I use it approximately every week to make [hummus],
 and though I can imagine living without that luxury, I think it would be a
-slightly poorer existence. But I'm not going to spend 30 hours a week hunting
-for opportunities to mash stuff up in my food processor. I think that would be
-pretty weird. No judgement if that's your thing, but I have a really hard time
-believing that 99% of the population would be into that. So it feels *very
-incongruous to me* that I used to spend as much time with computers as
-I did, given how niche and occasional their actual utility is. And when I see
-how obsessively other people use their computers (or phones, usually), I can't
-help but think "that can't possibly be the correct dose."
+slightly poorer existence. But I'm not going to let it rule my life or define
+who I am. I'm not going to spend 30 hours a week hunting for opportunities to
+mash stuff up in my food processor. I think that would be pretty weird. No
+judgement if that's your thing, but I have a really hard time believing that
+99% of the population would be into that. So it feels *very incongruous to me*
+that I used to spend as much time with computers as I did, given how niche and
+occasional their actual utility is. And when I see how obsessively other people
+use their computers (or phones, usually), I can't help but think "the human
+can't possibly be the one in control here."
+<!--"that can't possibly be the correct dose."-->
 
 [hummus]: https://benchristel.com/recipes/hummus.html
 
@@ -236,7 +278,11 @@ Technology is a dissatisfaction machine. It is never complete, never quite good
 enough, never perfectly functional, never finished. And it wants *you* to be
 incomplete. That is how it powers itself. It feeds off your sense of
 incompleteness. It fills you with desires and problems that you itch to resolve.
-And how do you resolve them? More technology.
+And how do you resolve them? More technology.[^1]
+
+[^1]: This could actually be construed as a broader statement about consumerism,
+or even hedonism, but I'm not going to make that argument right now. It's out
+of scope for this post.
 
 This entire gruesome circus — this [Karn Evil], to borrow a phrase
 from Emerson, Lake & Palmer — is a self-referential loop. It's self-feeding,
@@ -250,9 +296,11 @@ and self-defense against big tech in the moment; happiness and inner peace a
 bit later; and if enough other people get the same idea, we all save the world.
 
 The problem, of course, is that it's not that simple. Computers are addictive.
-Software is addictive, *by design*. One does not simply quit. I know, because
+[Software is addictive, *by design*][fb-addict]. One does not simply quit. I know, because
 I've been there. It's taken me _years_ to get to this point. Still, I am proof
 that a person *can* quit. It isn't easy, but it can be done.
+
+[fb-addict]: https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement
 
 I sense the futility of trying to convey in mere words what I have learned by
 experience. But words are all I have. So here I am writing, in the vague hope
@@ -261,7 +309,10 @@ that it will make a difference.
 Anyway, that was a long-winded way of saying that I'm no longer particularly
 motivated to write about programming. What I *am* motivated to write about
 (clearly!) is my struggle with tech addiction and how I've (mostly) kicked the
-habit, in the hope that reading about my journey might help someone.
+habit, in the hope that reading about my journey might help someone. I am
+convinced that what the world needs now is not more software, or even "better"
+software, but a re-balancing away from the idea that digital technology is
+going to be the magic silver bullet that somehow solves our problems.
 
 I have therefore started a new blog, titled [_DeFAANGed_], where I'll be covering
 topics like...
