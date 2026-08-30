@@ -1,9 +1,10 @@
 # Tech DeFAANGed
 
 ***tl;dr*** the focus of my writing has shifted. I've started a new blog,
-[_DeFAANGed_], where I'll be writing about tech addiction and the phenomenology
-of computer use. I might still post to Ben's Guide occasionally, but if you
-want to follow what I'm up to, _DeFAANGed_ is the best place.
+[_DeFAANGed_], where I'll be writing about technology addiction, the
+phenomenology of computer use, and how to get Big Tech out of your life. I
+might still post to Ben's Guide occasionally, but if you want to follow what
+I'm up to, _DeFAANGed_ is the best place.
 [You can subscribe here](https://defaanged.mataroa.blog/newsletter/).
 
 [_DeFAANGed_]: https://defaanged.mataroa.blog/
@@ -90,21 +91,26 @@ list of links](web-portal.png)
 
 I knew that this project was too big for one person. So I looked around for
 other folks on the web who were maintaining big pages full of links. I contacted
-several of them, and started organizing a webring of all of our link pages. I
-put up a signup form, too. The webring started growing, and my Portal kept
+several of them, and started organizing [a webring] of all of our link pages. I
+put up a [signup form], too. The webring started growing, and my Portal kept
 growing along with it. I felt pretty good. I felt like if it kept on going this
 way, I could bootstrap my own little search engine from the webring — a search
 engine covering *just* the slice of the web that a small community of humans
 actually cared about.
 
+[a webring]: https://waywardweb.org/
+[signup form]: https://docs.google.com/forms/d/e/1FAIpQLScsy0R3xCz6dcKOcF0_AQn8zuG3rEizQnKfzERgvNfB3BjGiA/viewform
+
 I didn't actually do that, though, because first things had to come first.
 First, I needed some metrics.
 
-To measure how well I had prepped for the Webocalypse, I started keeping track
-of how many web searches I did every month. The hypothesis was that the fewer
-searches I needed to make, the better the portal was working. Fewer searches on
-DuckDuckGo and Google meant that my link collection could get me wherever I
-needed to go.
+To measure how well I had prepped for the Webocalypse, I started [keeping track
+of how many web searches I did every month][metrics]. The hypothesis was that
+the fewer searches I needed to make, the better the portal was working. Fewer
+searches on DuckDuckGo and Google meant that my link collection could get me
+wherever I needed to go.
+
+[metrics]: https://benchristel.com/metrics.html
 
 Alas, I should have foreseen what would happen. I should have known. I fell
 into the very same trap that I have been warning other people about for years.
@@ -156,6 +162,13 @@ stop doing computers."
 For ten days, I just *forgot* to boot up my personal laptop. I *forgot to want*
 to do anything that required a computer.
 
+(Side note: Throughout this post, I use "computers" as a shorthand for
+"personal desktops, laptops, tablets, and phones." I've never owned a
+smartphone, so most of my experience is with the first two form factors, but I
+hope you can see that there are all roughly equivalent devices. I'm explicitly
+_not_ talking about computers used for business, financial, or scientific
+applications.)
+
 I'm back online, for the moment, because I felt it was important to share this
 strange experience with you. I felt it was important to give you a window into
 this vanishingly rare insight, discovered by accident — an insight that, thanks
@@ -165,13 +178,6 @@ approximately no one online is ever going to tell you about.
 The insight itself has two parts to it. The first part is not something that
 fits into words all that well. The best I can do is to say: **computers are
 just not that important**.
-
-(Side note: Throughout this post, I use "computers" as a shorthand for
-"personal desktops, laptops, tablets, and phones." I've never owned a
-smartphone, so most of my experience is with the first two form factors, but I
-hope you can see that there are all roughly equivalent devices. I'm explicitly
-_not_ talking about computers used for business, financial, or scientific
-applications.)
 
 <!--
 Having experienced a relatively-offline life — and enjoyed it — I can no longer say with full-throated confidence that creating software for personal computers is a pursuit that's worth my free time. I just can't believe in it anymore.
@@ -190,8 +196,8 @@ Back in, say 2016, I *knew* I had an unhealthy relationship with Facebook. In
 2022, I *knew* I had an unhealthy relationship with YouTube. I kicked those
 habits, eventually. But what I didn't fully appreciate was that, over the
 following years, the broader cult of technology took their place, and I became
-dependent on it. I thought of digital technology as _the most important thing_.
-It's not.
+dependent on it. Subconsciously, I thought of digital technology, whether good
+or evil, as _the most important thing_. It's not.
 
 <!--
 I'm not making a moral argument. I'm not trying to shame anyone for liking computers. I am making a pragmatic argument, a hedonistic argument. I am *happier*, I am more at peace with myself and the world, because I see computers as just a boring tool now. I don't think they're useless, I just think they're worth closer to 30 minutes a week of my time than 30 hours. I can use all that time for other things.
@@ -215,8 +221,9 @@ This, then, is the source of my cognitive dissonance about computers. On one
 level, I'm angry about the tech industry: about AI, about social media, about
 data centers, about surveillance, about CEOs who want to replace all thought
 and labor with mediocre simulacra. This is not the future we were promised, and
-I want to help make it better. But on another level, I'm like: "It seems like
-everyone hates this shit. *Why don't we just turn off all the computers?*"
+I want to help make it better. I want to engage with it constructively. But on
+another level, I'm like: "It seems like everyone hates this shit. *Why don't we
+just turn off all the computers?*"
 
 Because as stupid as it sounds, I honestly think that would work. I honestly
 think that would cure the tech industry's bullshit/psychopath problem. Just
@@ -237,11 +244,12 @@ And how do you resolve them? More technology.
 
 This entire gruesome circus — this [Karn Evil], to borrow a phrase
 from Emerson, Lake & Palmer — is a self-referential loop. It's self-feeding,
-self-perpetuating. But cut off the sink, and you cut off the source.
+self-perpetuating. But that works both ways. Cut off the sink, and you cut off
+the source.
 
 [Karn Evil]: https://benchristel.github.io/yt/#https://www.youtube.com/watch?v=fLS0Med0s6E
 
-So: turn off, turn away. It's a three-for-one deal, really. Political action
+So: **turn off, turn away**. It's a three-for-one deal, really. Political action
 and self-defense against big tech in the moment; happiness and inner peace a
 bit later; and if enough other people get the same idea, we all save the world.
 
@@ -268,7 +276,7 @@ topics like...
 - Why software companies are so dysfunctional
 - The phenomenology of tech addiction and computer use
 - Meditation and Hindu+Buddhist philosophy
-- My weirder software projects, including the Web Portal and Culture Machine.
+- My "self help" software projects, including the Web Portal and Culture Machine.
 
 I hope to see you there. You can read more at [defaanged.mataroa.blog](https://defaanged.mataroa.blog/),
 and [you can subscribe to _DeFAANGed_ by dropping your email here](https://defaanged.mataroa.blog/newsletter/)
