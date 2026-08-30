@@ -199,10 +199,6 @@ following years, the broader cult of technology took their place, and I became
 dependent on it. Subconsciously, I thought of digital technology, whether good
 or evil, as _the most important thing_. It's not.
 
-<!--
-I'm not making a moral argument. I'm not trying to shame anyone for liking computers. I am making a pragmatic argument, a hedonistic argument. I am *happier*, I am more at peace with myself and the world, because I see computers as just a boring tool now. I don't think they're useless, I just think they're worth closer to 30 minutes a week of my time than 30 hours. I can use all that time for other things.
--->
-
 I now look at my computer the same way I look at my food processor. I *like*
 having a food processor. I use it approximately every week to make [hummus],
 and though I can imagine living without that luxury, I think it would be a
@@ -281,28 +277,3 @@ topics like...
 I hope to see you there. You can read more at [defaanged.mataroa.blog](https://defaanged.mataroa.blog/),
 and [you can subscribe to _DeFAANGed_ by dropping your email here](https://defaanged.mataroa.blog/newsletter/)
 or pasting `https://defaanged.mataroa.blog/` into your RSS reader.
-
-<!---
-
-I've lost count of how many times I've written and rewritten this post. I've had to cut out many tangents and gloss over some foundational ideas. So I've started a new blog, titled DeFAANGed, where I can explore the idea of _being less online_ a bit more. I don't know how often I'll be writing there. Most likely I'll do most of my writing offline and only post occasionally. But I have at least one substantial post up, with maybe more to follow.
-
-_So I could get back to writing code_. Yeah, maybe that's what's changed. I haven't been working on personal projects, like, at all.
-
-As you might have noticed, I haven't been writing much recently. Actually, that's not quite true: I've been writing plenty, I just haven't been hitting "send." I don't lack for ideas — get a cup of coffee in me at 7 AM and I'll hand you half a dozen half-baked thoughts about programming — but every time I sit down to write a blog post there's this nagging little voice in the back of my head going "*this isn't the most interesting story. Tell them the most interesting story.*"
-
-So this is that post: the most interesting story in my life right now.
-
-For the last c
-
-I really haven't been using computers that much recently.
-
-This is nominally a blog where I write advice about interacting with computers. Said advice is always based on my own experiences: what has worked for me, and, just as importantly, what hasn't. 
-
----
-This question has arrived alongside a very strange feeling of negativity that I'm not sure how to classify. I wouldn't call it _burnout_. I'm enthusiastic about my day job, and I'm as "productive" (bleh) as I've ever been. I *look forward* to writing software that helps other people. Often, of a Sunday evening, I find myself wishing that Monday would hurry up so I could get back to work. Still, I haven't felt much like writing.
-
-I'm also quite sure this isn't _depression_, a condition with which I have some acquaintance. I'm generally pretty happy these days, except for this one weird negative feeling about computers — let's call it *cognitive dissonance*, for lack of anything better.
-
-[_DeFAANGed_]: https://defaanged.mataroa.blog/
-
--->
