@@ -97,38 +97,9 @@ li > p {
   margin-block-start: 0;
 }
 
-.col-2, .col-3 {
-  display: none;
-}
-
-:is(.col-2, .col-3) + * {
-  text-align: start;
-  hyphens: manual;
-  column-gap: 4em;
-}
-
-.col-2 + * {
-  column-count: 2;
-}
-
-.col-3 + * {
-  column-count: 3;
-}
-
 img {
   vertical-align: -2px;
   max-width: 100%;
-}
-
-@media (max-width: 760px) {
-  .col-2 + * {
-    column-count: 1;
-    column-gap: 4em;
-  }
-
-  .col-3 + * {
-    column-count: 1;
-  }
 }
 
 footer li {

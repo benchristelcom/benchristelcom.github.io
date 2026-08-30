@@ -1,3 +1,16 @@
+<style>
+.col-3 {
+  display: none;
+}
+
+.col-3 + * {
+  column-count: 3;
+  text-align: start;
+  hyphens: manual;
+  column-gap: 4em;
+}
+</style>
+
 # The One Shopping List... TO RULE THEM ALL!
 
 ## Breakfast

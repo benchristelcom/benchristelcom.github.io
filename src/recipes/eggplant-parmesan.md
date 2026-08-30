@@ -4,8 +4,6 @@ Serves 6.
 
 ## Ingredients
 
-<div class="col-2"></div>
-
 - 2 eggplants (2–3 lbs total)
 - Extra virgin olive oil
 - High-smoke-point oil for frying
