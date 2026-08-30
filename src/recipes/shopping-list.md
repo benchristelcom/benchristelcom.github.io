@@ -56,3 +56,21 @@
 - Hand soap
 - Dishwasher detergent
 - Laundry detergent
+
+## HerbCo
+
+- assam tea
+- black currant tea
+- earl grey
+- cumin
+
+## Costco
+
+- Canned tomatoes
+- Coconut milk
+- EVOO
+- neutral oil
+- nuts
+- maple syrup
+- pretzels
+- tofu
