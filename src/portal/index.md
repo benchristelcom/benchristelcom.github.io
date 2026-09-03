@@ -1038,6 +1038,7 @@ See also [my /uses page](/uses).
 ## Gardening and Houseplants<hs-meta keywords="horticulture plants gardens">
 
 - [How Many Plants](https://howmanyplants.com/) - Comprehensive guide to houseplant care
+- [Calscape](https://calscape.org/) - California native plants
 - [Native Plants Hawaii](http://nativeplants.hawaii.edu/)
 - [Hawaiian Ecosystems at Risk (HEAR)](http://www.hear.org/)
 - [North Carolina Extension Gardener Plant Toolbox](https://plants.ces.ncsu.edu/)
