@@ -79,6 +79,8 @@
 
 ## Costco
 
+<div class="col-3"></div>
+
 - Canned tomatoes
 - Coconut milk
 - EVOO
@@ -87,3 +89,5 @@
 - maple syrup
 - pretzels
 - tofu
+- toothpaste
+- rice
