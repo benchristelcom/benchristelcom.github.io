@@ -1260,7 +1260,7 @@ into one searchable, cross-referenced database.
 - [The Cidoku Network](https://cidoku.net/links/)
 - [Website Review](https://websitereview.neocities.org/) - a virtual library of deepweb and www sites.
 - [Melon's Fav Hyperlinks](https://melonking.net/melon?z=/links)
-- [garlic.garden](https://garlic.garden/) by [allium house](https://allium.house/)
+- [garlic.garden](https://allium.house/garden/) by [allium house](https://allium.house/)
 - [candle's website](https://kool.tools/) - a collection of tools focused on making tiny, minimalist games
 - [Dan's Tools](https://www.danstools.com/) - a collection of simple browser-based utilities for web development and data conversion, plus a database of [user manuals](https://www.cleancss.com/user-manuals/) for physical products.
 - [Bookmark Beat](https://bookmarkbeat.substack.com/) by [Dani Sandoval](https://dreamindani.com/) - Software development and UX design.
