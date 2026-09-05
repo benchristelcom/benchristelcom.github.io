@@ -692,7 +692,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [OnThatPath's Video Series](/meditation/on-that-path-video-summaries.html)
   <hs-meta keywords="on that path"></hs-meta>
 - [Sutta Central](https://suttacentral.net/)
-- [The Dhammapada and Sutta-Nipâta](https://sacred-texts.com/bud/sbe10/index.htm)
+- [The Dhammapada and Sutta-Nipâta](https://archive.sacred-texts.com/bud/sbe10/index.htm)
 - [_The Mind Illuminated_ (book)](https://www.goodreads.com/book/show/25942786-the-mind-illuminated) ([subreddit](https://www.reddit.com/r/TheMindIlluminated/))
 - [Coping with intrusive thoughts](https://www.bruh.ltd/blog/coping-with-intrusive-thoughts/)
   by Ruby Klover — this also happens to be good advice in general.
@@ -1058,7 +1058,7 @@ See also [my /uses page](/uses).
 - [Better World Books](https://www.betterworldbooks.com/) - Save a tree! Buy used books!
 - [Ex-Classics](https://exclassics.com/) - Books that were once favorites, and are now public domain.
 - [Terebess Asia Online (TAO)](https://terebess.hu/english/tao.html) - Asian (and other) philosophy works, in many translations.
-- [Sacred-Texts.com](https://sacred-texts.com/) - Religious texts, legends, and myths. Here's [The Kalevala](https://sacred-texts.com/neu/kveng/).
+- [Sacred-Texts.com](https://archive.sacred-texts.com/) - Religious texts, legends, and myths. Here's [The Kalevala](https://archive.sacred-texts.com/neu/kveng/).
 - [Folklore and Mythology Electronic Texts](https://sites.pitt.edu/~dash/folktexts.html) collected by D. L. Ashliman. (h/t [Cidoku])
 - [Indie Bound](https://www.indiebound.org/) - Find local independent bookstores!
 - [Bookshop](https://bookshop.org/)
