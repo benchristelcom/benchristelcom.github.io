@@ -91,3 +91,4 @@
 - tofu
 - toothpaste
 - rice
+- pepper
