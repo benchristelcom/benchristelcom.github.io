@@ -150,6 +150,12 @@ The causal chain that creates dukkha is **dependent origination**.
 - Reaction — **becoming**
 - Mental state degradation — **rebirth**
 
+For more information on these links, see:
+
+- [The twelve nidanas](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da#The_twelve_nidanas) on Wikipedia
+- [SN (Saṁyuttanikāya) 12.1 "Dependent Origination"](https://suttacentral.net/sn12.1/en/sujato), translated by Bhikkhu Sujato
+- [SN 12.2 "Analysis"](https://suttacentral.net/sn12.2/en/sujato), translated by Bhikkhu Sujato
+
 The game of going up and down mental states = **samsara**.
 
 ## How to Permanently Be Free from Stress, Suffering, &amp; Dissatisfaction: The Prognosis &amp; Prescription
