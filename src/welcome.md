@@ -1,3 +1,5 @@
+<div id="android-banner" style="height:75px;"></div>
+
 # Ben Christel&rsquo;s Homepage
 
 I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); by night I write everything else. This website is the gateway to my many projects.
@@ -133,4 +135,4 @@ dt {
   border-radius: 999px;
 }
 </style>
-<script src="https://keepandroidopen.org/banner.js?size=minimal&animation=off"></script>
+<script src="https://keepandroidopen.org/banner.js?size=minimal&animation=off&id=android-banner"></script>
