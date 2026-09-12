@@ -1,7 +1,5 @@
 # Last Fun Thing
 
-_Should we go gentle into that good night?_
-
 When I was a very small child, about three or four years old, my evening ritual
 was called "Last Fun Thing." It took place between about 7 and 8 PM, after which
 the bedtime story began. During this hour, my parents would play along with
@@ -22,10 +20,10 @@ precious to me, abundant though it was, that wide-open expanse between 7:30 and
 10, when I was fed and washed and free from obligations. I budgeted that time
 — planned it out, scheduled it to the minute. I spent a lot of it watching
 YouTube: mainly let's-plays, vlogs, and programming videos. The goal was to
-have as much fun as I could in two and a half hours. 
+cram as much fun as I could into two and a half hours.
 
 You see, I was under a certain very common misapprehension: that happiness is
-proportional to the average rate of fun.
+proportional to the rate at which you're having fun.
 
 ```
 H ∝ F/t
@@ -62,11 +60,14 @@ fighter pilot. Completely focused, utterly alone. Nothing but air for miles
 around me in all directions. Nothing but the sun and the roar of the engine in
 my face.
 
-In that moment, a strange calm came over me. I found I had no fear of death,
-yet I knew I would fight hard to survive. I had no hatred for my enemy, yet I
-knew I would bring all my skill to bear to shoot him down. My body had become a
+In that moment, a strange calm came over me. My body had become a
 machine — a machine that I was merely _watching_, as if it were part of the
 aircraft.
+
+A black speck appeared against the cloudbank — an enemy fighter.
+_This is it_, I thought. To my surprise, I found I had no fear of death, yet I
+knew I would fight hard to survive. I had no hatred for my enemy, yet I knew I
+would bring all my skill to bear to shoot him down.
 
 And at the same time, I heard Alan Watts say, in his wry, unhurried baritone:
 
@@ -84,6 +85,11 @@ I began to understand that time is not a vessel to be filled. It is only the
 page number of a story we are being told. Time advances, moment by moment, at an
 unvarying rate, and our reactions to what it brings define the quality of
 our lives. Whether life is long or short, fast or slow, makes no difference.
+
+_Time_ — the plane rolled over and pulled into a steep dive — I
+had been trying all my life to spend, save, hoard, borrow, invest, or steal it.
+I thought time was something I could _have_. How absurd. Where is it now? And
+now? And now? Time isn't anything.
 
 The guns blazed, and pulled smoke from hot metal.
 
@@ -123,7 +129,47 @@ H = 1/D
 
 Happiness is inversely proportional to desire.
 
-However, I couldn't bring myself to fully believe that this was true.
+However, I couldn't bring myself to fully believe that this was true. It seemed
+to fly in the face of every assumption of my culture and almost every lesson
+I'd been taught.
+
+Of course, I'd *heard* of Buddhism. I knew that there were people who found joy
+in a life of monastic asceticism. I even considered myself kind of
+anti-consumerist. But, like... if I didn't want anything, then what was I
+supposed to *do*?
+
+The puzzle seemed unsolvable from that perspective, so I tried starting from
+the other end. I asked myself: _when am I happiest_?
+
+That question was easy to answer. I'm happiest between 6:30 and 8 in the
+morning, when I'm [making oatmeal and coffee], a ritual I've performed with
+religious exactitude every day for over ten years.
+
+Why did that make me happy? Was it the stillness and grey twilight of the early
+morning? The birds getting up and going about their day? The solitude? The
+caffeine? Or was there something else?
+
+Could it be, to borrow a phrase from Jerry Holkins, _the texture of ritual_?
+
+The more I thought about it, the more I thought there was something to that
+hypothesis. I'm happiest when I know what I need to do, and I'm doing it, but
+not seeking anything specific.
+
+This is kind of a tangent, but it's relevant: when I get up in
+the morning my body really wants caffeine. But the headachey withdrawal feeling
+doesn't hit me until, and *only if*, I know there's no coffee left in the
+fridge. So I know that I am utterly confident, at a physical level, in my
+ability to perform the oatmeal-and-coffee ritual successfully. My brain doesn't
+send the "you need caffeine" signal unless that confidence wavers.
+
+This is what I mean by "not seeking anything specific:" either being entirely
+confident in the results, or entirely letting go of the results.
+
+My "Last fun thing" of watching YouTube was kind of a ritual, in the sense that
+I did it every day, but it didn't have the right texture. I was too invested in
+the results, and too dissatisfied with them.
+
+- the shame of doing the right thing
 
 How can I take what I'm currently doing (watching a lot of YouTube) and turn it
 into a _ritual_ that I do _without desire_ so that I will be happy? YouTube
@@ -131,4 +177,3 @@ seems optimized against this. It wants you to want more videos and to always
 be looking for the next thing to watch.
 
 The answer was Culture Machine. But that is a topic for another time.
-
