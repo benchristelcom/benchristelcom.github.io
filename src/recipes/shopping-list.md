@@ -92,3 +92,4 @@
 - toothpaste
 - rice
 - pepper
+- tissues
