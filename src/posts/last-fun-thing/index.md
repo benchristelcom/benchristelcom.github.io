@@ -111,3 +111,24 @@ but it was _[just okay]_.
 
 [just okay]: https://defaanged.mataroa.blog/blog/life-without-a-computer-is-just-okay/
 
+I also noticed that the time of day I was happiest was early in the morning:
+while making breakfast, eating breakfast, and after breakfast but before work.
+I did the same "ritual" every morning.
+
+Based on these experiences, I came up with a new model of happiness.
+
+```
+H = 1/D
+```
+
+Happiness is inversely proportional to desire.
+
+However, I couldn't bring myself to fully believe that this was true.
+
+How can I take what I'm currently doing (watching a lot of YouTube) and turn it
+into a _ritual_ that I do _without desire_ so that I will be happy? YouTube
+seems optimized against this. It wants you to want more videos and to always
+be looking for the next thing to watch.
+
+The answer was Culture Machine. But that is a topic for another time.
+
