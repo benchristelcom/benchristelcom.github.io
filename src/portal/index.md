@@ -1236,7 +1236,7 @@ h/t [Low Tech Magazine](https://solar.lowtechmagazine.com/2010/06/how-to-tie-the
 - [Wikimedia](https://wikimedia.org)
 - [Table Flipping Emoticons](https://emoticoncentral.com/category/table-flipping) `(ノಠ益ಠ)ノ彡┻━┻`
 
-## Information Researchers
+## Museums and Information Researchers
 
 Dedicated individuals' comprehensive maps of their chosen domain.
 
@@ -1246,6 +1246,7 @@ into one searchable, cross-referenced database.
 - [David Rumsey Map Collection](https://www.davidrumsey.com/) - Historical and rare maps. (h/t [Cidoku])
 - [Folklore and Mythology Electronic Texts](https://sites.pitt.edu/~dash/folktexts.html) collected by [D. L. Ashliman](https://sites.pitt.edu/~dash/ashliman.html). (h/t [Cidoku])
 - [The Jargon File](http://catb.org/esr/jargon/html/index.html) - Eric S. Raymond's dictionary of hacker slang
+- [Museum of the Game](https://www.arcade-museum.com/) - Old arcade games
 
 ## Web Curators
 
