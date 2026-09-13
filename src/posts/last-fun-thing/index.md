@@ -157,7 +157,7 @@ not seeking anything specific.
 
 This is kind of a tangent, but it's relevant: when I get up in
 the morning my body really wants caffeine. But the headachey withdrawal feeling
-doesn't hit me until, and *only if*, I know there's no coffee left in the
+doesn't hit me until, and *only if*, I observe that there are no coffee beans left in the
 fridge. So I know that I am utterly confident, at a physical level, in my
 ability to perform the oatmeal-and-coffee ritual successfully. My brain doesn't
 send the "you need caffeine" signal unless that confidence wavers.
