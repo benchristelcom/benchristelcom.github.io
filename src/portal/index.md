@@ -547,6 +547,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [Free Silicon Foundation](https://f-si.org/)
 - [Khan Academy](https://khanacademy.org/)
 - [Kiva](https://kiva.org/)
+- [VideoLAN](https://www.videolan.org/) - makers of [VLC](https://www.videolan.org/vlc/). [wiki](https://wiki.videolan.org/)
 
 ### Other Organizations
 
