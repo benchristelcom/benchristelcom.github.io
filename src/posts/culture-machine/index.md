@@ -9,8 +9,9 @@ What is Culture Machine? You can try it out right now at the link below.
 
 Your first reaction is likely to be "what" or "huh" or "it doesn't do much,
 does it?" or "why would anyone want this?" Indeed, this is a large part of what
-makes me want to write about Culture Machine. Everyone I've shown it to is a bit
-baffled by it, and I think that says something about both it and them.
+makes me want to write about Culture Machine. The people I've shown it to tend
+to be a bit baffled by it, and I think that says something about both it and
+them.
 
 Culture Machine is what you get if you take all the dark patterns that Silicon
 Valley tech corps use to addict and trick people, and flip them all on their
@@ -95,14 +96,96 @@ chasing what you like. The way to happiness is to settle down into the good,
 rich, wholesome muck of the world, and — to borrow a phrase from Zhuangzi —
 wag your tail in the mud.
 
-## Humans doing human things
+So one has to go beyond likes and dislikes. One has to become free of the idea
+that getting what you want all the time is going to lead to a good life. Then
+one can start asking more interesting questions: questions like "is this thing
+a mirror that shows me my innermost self? And how does it make me feel — not
+only now, but afterwards?"
 
-Here's a quote I heartily endorse:
+## Deep YouTube
 
-> (quote about content from eev.ee)
+YouTube is, for better or for worse, two things. It is a global, searchable
+database of videos that anyone can upload to — cool! But it is also a 
+recommendation algorithm and user interface designed to addict people and get
+them to watch as many videos (and ads) as possible. Not cool.
 
-Culture Machine is content-free. Over 5000 videos, and no content anywhere in
-sight! How'd he do it?
+Because the good and bad halves of YouTube are glued together, most people only
+see the surface of what it has to offer. They get caught in the algorithm and
+never go deeper. But Deep YouTube is a lot more diverse, weird, and
+*interesting* than you might think.
+
+As I've said before, I don't have a good handle on exactly what criteria I use
+to choose videos for Culture Machine. It's largely a subconscious process and
+I can't pretend to know everything about it. But here are some of the criteria
+that I *think* I'm considering:
+
+One: I need to be able to tell that *someone truly cared* about making the video.
+If the creator is just trying to fill airtime or get views or likes or
+whatever, the result is not going to be interesting to me at all. They might
+as well have just put up a title card that says "please subscribe" for 45
+minutes; it would convey exactly the same information about them.
+
+Two: The subject matter of the video should be something that will still be interesting in 50 or 500 or 5000 years. It should be something that would have
+been interesting 50 or 500 or 5000 years ago. It should not depend on pop
+culture or trends or technology to give it meaning or relatability.
+
+Three — actually, I should probably detour here and say a bit about *how* I
+watch these videos. I don't primarily watch videos for the "content" or the
+subject matter. I don't particularly care *what the video is about* (though I
+might care what the person making it *thought* it was about). I watch for
+personality, texture, and details; things the people being filmed probably
+weren't even aware of. Houses in the background. The color of the sky. Where
+people look when they talk, how they pause, how the light falls on their face.
+Many of the videos on Culture Machine are in languages I don't speak because I 
+find it fascinating to watch people's body language, uncontaminated by
+intelligible words.
+
+I call this activity "deep watching."
+
+<!--
+TODO: move to another post?
+Deep watching requires repetition, and Culture Machine delivers. There are
+5000 or so videos in it currently, but they're re-shuffled every day, and
+thanks to the [Birthday Paradox] you're very likely to see reruns within a week or so. This repetition is not a bug; it is a feature. Re-watching, re-reading, and re-listening is how I get all the juice out of something.
+
+[Birthday Paradox]: https://en.wikipedia.org/wiki/Birthday_problem
+-->
+
+There is an immense amout of information in a typical high-definition camera 
+frame. Your brain can't take in all the details of a video at once, so every
+time you see it, you'll see something new — if you know how to look. If you
+master the art of deep watching and repetition, you will never be bored. If you 
+get in the habit of noticing all the details, then mundane, everyday existence
+transmutes into art. It becomes like a movie.
+
+So, three: the videos in Culture Machine should have this rich texture, this
+detail that supports deep watching.
+
+Four: videos should have high production values. They don't have to be
+professional quality, but I also prefer it if they don't look and sound like
+crap.
+
+Five: the videos should be "good TV." I try to avoid screencasts, Zoom
+conferences, slideshows etc. because they don't really fit the aesthetic I'm
+going for (which is vaguely inspired by 1990s public television).
+
+## The criterion of life
+
+If I had to say in one line what Culture Machine is "about", I'd say "humans
+doing human things." 
+
+The "mirror of the self test"
+
+- Do I feel my humanity increasing in the presence of this thing?
+- Does it make me feel more at ease, more whole, more fully alive?
+
+When I seriously consider these questions, I come to the conclusion that at a
+lot of the videos I "like" — Minecraft let's-plays, for instance — are not
+particularly "alive" or life-giving in this sense. They do not nourish my
+true self, but are, in fact, diminishing it. And a lot of things I don't
+"like" — say, opera — *are* alive and life-giving.
+
+
 
 
 
