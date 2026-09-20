@@ -12,12 +12,9 @@
 }
 
 :root {
-  --body-width: 50em;
-  --align: left;
   --hyphens: manual;
-  --font-size: 1.1rem;
+  --font-size: 0.875rem;
   --body-font-family: 'Times New Roman', serif;
-  --heading-font-family: 'Times New Roman', serif;
   --line-height: 1.5;
   --font: var(--font-size) / var(--line-height) var(--body-font-family);
 
@@ -25,38 +22,35 @@
   --burgundy: #720;
   --brown: hsl(-18, 15%, 15%);
   --blue: hsl(222, 100%, 25%);
-  --body-bg: transparent;
   --border-color: hsl(40, 20%, 70%);
 
   background-color: var(--global-bg);
   font: var(--font);
-  text-align: var(--align);
+  text-align: center;
   hyphens: var(--hyphens);
   overflow-y: scroll;
   color: hsl(41, 89%, 6%);
 }
 
 body {
-  max-width: var(--body-width);
+  max-width: 50em;
   min-height: 100vh;
   margin: 0 auto;
-  background: var(--body-bg);
   padding: 2rem 4rem 8rem;
 }
 @media (max-width: 760px) {
   body {padding-inline: 1rem}
 }
 
-h1, h2, h3 {
+h1, h2 {
   font-weight: normal;
-  font-family: var(--heading-font-family);
   letter-spacing: 0.025em;
   text-shadow: 0 0 0.03em;
-  margin-block: 1em;
 }
 
 h1 {
   font-size: 175%;
+  margin-block: 1em;
 }
 
 h2 {
@@ -64,13 +58,6 @@ h2 {
   border-block-end: 1px solid var(--border-color);
   font-size: 150%;
 }
-
-h3 {
-  margin-block: 2em 0.5em;
-  font-size: 110%;
-}
-
-h4 { font-size: 100%; }
 
 a {
   text-decoration: underline;
@@ -88,137 +75,6 @@ a:visited { color: var(--burgundy); }
 li {
   break-inside: avoid;
 }
-dt {
-  break-after: avoid;
-}
-
-li > p {
-  /* prevent the first list item in a column from being shifted down */
-  margin-block-start: 0;
-}
-
-img {
-  vertical-align: -2px;
-  max-width: 100%;
-}
-
-footer li {
-  list-style-type: none;
-}
-footer > nav > ul {
-  display: flex;
-  justify-content: space-between;
-  margin-block-start: 2rem;
-  border-block-start: 1px solid var(--border-color);
-  padding-block: 1rem;
-  padding-inline: 0;
-  list-style-type: none;
-}
-footer > nav > ul > li {
-  display: inline;
-}
-footer > nav > ul a {
-  text-decoration: none;
-}
-.edit-link, .edit-link:visited {
-  font-size: 0.9em;
-  color: gray;
-}
-
-/* hide mdsite's top-level breadcrumb link so we can replace it with our own */
-.breadcrumb > a:nth-child(2) {
-  display: none;
-}
-.breadcrumb > a:first-child {
-  vertical-align: -3px;
-}
-.breadcrumb > a:first-child::after {
-  vertical-align: 3px;
-}
-.breadcrumb > a::after {
-  display: inline-block;
-  width: 2em;
-  text-align: center;
-  content: '➤';
-  color: #888c;
-  font-size: 0.9em;
-}
-
-table, td, th {
-  text-align: left;
-  border: 1px solid #0003;
-  background: #fff;
-  /* Georgia doesn't have lining-nums */
-  font-family: 'Times New Roman', serif;
-}
-
-td, th {
-  padding: 0.1em 0.2em;
-}
-
-blockquote {
-  font-style: italic;
-}
-
-blockquote :is(em, i) {
-  font-style: normal;
-}
-
-code { white-space: pre-wrap; }
-pre > code { white-space: pre; }
-pre:not(.poetry) {
-  overflow-x: auto;
-  padding: 0.5em;
-  background: #fff;
-}
-pre.poetry {
-  font-family: inherit;
-}
-
-figure {
-  margin-inline: 0;
-}
-figure > img {
-  display: block;
-  max-width: calc(min(97vw, var(--fig-width, 80%)));
-  margin: 24px auto;
-  border: 1px solid #e5e5e5;
-  box-shadow: -8px -8px #fff, 8px -8px #fff, -8px 8px #fff, 8px 8px #fff, 0 0 12px #000;
-  background: #fff;
-}
-figure > figcaption {
-  margin: 24px auto;
-  text-align: center;
-  max-width: 40em;
-  font-size: 0.867em;
-}
-figure.bleed {
-  --fig-width: 97vw;
-  margin-inline: -50%;
-}
-
-sup, sup > a {
-  /* don't let footnote refs mess with line spacing */
-  line-height: 0;
-}
-sup > a {
-  /* Georgia doesn't have lining-nums */
-  font-family: 'Times New Roman', serif;
-  font-weight: bold;
-  padding-inline: 0.25em;
-}
-
-num {
-  /* Georgia doesn't have lining-nums */
-  font-family: 'Times New Roman', 'Liberation Serif', serif;
-  font-variant-numeric: lining-nums;
-}
-
-.footnotes {
-  margin-block-start: 2rem;
-  border-block-start: 1px solid var(--border-color);
-  font-size: 0.9em;
-}
 
 .centered-text {
   text-align: center;
@@ -230,52 +86,9 @@ num {
   padding-inline: 0;
   text-indent: 0;
 }
-
-.space-8 {
-  height: 0.5rem;
-  width: 0.5rem;
-}
-
-.space-32 {
-  height: 2rem;
-  width: 2rem;
-}
-
-.sr-only {
-  clip: rect(0 0 0 0);
-  clip-path: inset(50%);
-  height: 1px;
-  overflow: hidden;
-  position: absolute;
-  white-space: nowrap;
-  width: 1px;
-}
-
-hr {
-  color: var(--border-color);
-  border: none;
-}
-hr::after {
-  display: block;
-  text-align: center;
-  content: '—ɔOc—'
-}
-
-iframe[src*='https://www.youtube.com'] {
-  width: 100%;
-  aspect-ratio: 16 / 9;
-}
-
-.mdsite-current-file::after {
-  content: ' (this page)';
-  color: #444;
-}
     </style>
 	</head>
 	<body>
-    <nav class="breadcrumb" aria-label="Breadcrumb">
-      <a href="welcome.html"><span class="sr-only">Home</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" style="width:16px;height:16px"><path fill-rule="evenodd" d="M9.293 2.293a1 1 0 0 1 1.414 0l7 7A1 1 0 0 1 17 11h-1v6a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1v-3a1 1 0 0 0-1-1H9a1 1 0 0 0-1 1v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-6H3a1 1 0 0 1-.707-1.707l7-7Z" clip-rule="evenodd" /></svg></a>
-    </nav>
     <main><h1 id="ben-christels-website">Ben Christel&#39;s Website</h1>
 <p><a href="welcome.html" id="tree" aria-hidden="true" tabIndex="-1"></a></p>
 <div class="centered-text">
@@ -299,17 +112,8 @@ iframe[src*='https://www.youtube.com'] {
 
 <style>
 
-:root {
-  --font-size: 0.875rem;
-}
-
-.breadcrumb, footer {
-  display: none;
-}
-
 h1 {
   margin-block-start: 0;
-  text-align: center;
 }
 
 h2 {
@@ -347,13 +151,5 @@ li {
 }
 
 </style></main>
-    <footer>
-      <nav>
-        <ul>
-          <li><a href="welcome.html">&larr; Home</a></li>
-          <li><a class="edit-link" href="https://github.com/benchristelcom/benchristelcom.github.io/edit/main/src/index.md">[Edit this page]</a></li>
-        </ul>
-      </nav>
-    </footer>
   </body>
 </html>
