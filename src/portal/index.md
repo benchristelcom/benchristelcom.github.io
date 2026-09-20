@@ -836,6 +836,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 ### Web Hosting
 
 - [Neocities](https://neocities.org) - Free, indie, social web hosting. A spiritual successor to Geocities.
+- [Disroot](https://disroot.org/) - Email, cloud storage, git hosting, and more<hs-meta keywords="google docs drive gmail mail"></hs-meta>
 - [EU.org](https://nic.eu.org/) - Free subdomain names for individuals and nonprofits.
 - [surge.sh](https://surge.sh) - Put any folder of HTML files on the web instantly.
 - [codeberg.org](https://codeberg.org/) - Free indie git hosting <hs-meta keywords="github"></hs-meta>
@@ -844,7 +845,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [List of MediaWiki hosting providers](https://www.mediawiki.org/wiki/Hosting_services) - Create your own wiki!
 - [iGrant.io](https://igrant.io/datapod.html) - [Solid] pod provider <hs-meta keywords="data file blob store storage"></hs-meta>
 - [Inrupt](https://start.inrupt.com/profile) - [Solid] pod provider <hs-meta keywords="data file blob store storage"></hs-meta>
-- [Tuta](https://tuta.com) - privacy-respecting email and cloud storage provider (h/t [Alex Zee])
+- [Tuta](https://tuta.com) - privacy-respecting email and cloud storage provider (h/t [Alex Zee])<hs-meta keywords="google docs drive gmail mail"></hs-meta>
 
 ### UI/UX Design<hs-meta keywords="graphic"></hs-meta>
 
