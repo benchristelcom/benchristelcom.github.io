@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Ben Christel's Website</title>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="https://benchristel.com/feed.rss">
+    <style>
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --body-width: 50em;
+  --align: left;
+  --hyphens: manual;
+  --font-size: 1.1rem;
+  --body-font-family: 'Times New Roman', serif;
+  --heading-font-family: 'Times New Roman', serif;
+  --line-height: 1.5;
+  --font: var(--font-size) / var(--line-height) var(--body-font-family);
+
+  --global-bg: #eee7e0;
+  --burgundy: #720;
+  --brown: hsl(-18, 15%, 15%);
+  --blue: hsl(222, 100%, 25%);
+  --body-bg: transparent;
+  --border-color: hsl(40, 20%, 70%);
+
+  background-color: var(--global-bg);
+  font: var(--font);
+  text-align: var(--align);
+  hyphens: var(--hyphens);
+  overflow-y: scroll;
+  color: hsl(41, 89%, 6%);
+}
+
+body {
+  max-width: var(--body-width);
+  min-height: 100vh;
+  margin: 0 auto;
+  background: var(--body-bg);
+  padding: 2rem 4rem 8rem;
+}
+@media (max-width: 760px) {
+  body {padding-inline: 1rem}
+}
+
+h1, h2, h3 {
+  font-weight: normal;
+  font-family: var(--heading-font-family);
+  letter-spacing: 0.025em;
+  text-shadow: 0 0 0.03em;
+  margin-block: 1em;
+}
+
+h1 {
+  font-size: 175%;
+}
+
+h2 {
+  margin-block: 3em 1em;
+  border-block-end: 1px solid var(--border-color);
+  font-size: 150%;
+}
+
+h3 {
+  margin-block: 2em 0.5em;
+  font-size: 110%;
+}
+
+h4 { font-size: 100%; }
+
+a {
+  text-decoration: underline;
+  text-decoration-color: var(--border-color);
+  text-decoration-skip-ink: none;
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 1px;
+  padding-block: 0.3em;
+  margin-block: -0.3em;
+}
+
+a { color: var(--blue); }
+a:visited { color: var(--burgundy); }
+
+li {
+  break-inside: avoid;
+}
+dt {
+  break-after: avoid;
+}
+
+li > p {
+  /* prevent the first list item in a column from being shifted down */
+  margin-block-start: 0;
+}
+
+img {
+  vertical-align: -2px;
+  max-width: 100%;
+}
+
+footer li {
+  list-style-type: none;
+}
+footer > nav > ul {
+  display: flex;
+  justify-content: space-between;
+  margin-block-start: 2rem;
+  border-block-start: 1px solid var(--border-color);
+  padding-block: 1rem;
+  padding-inline: 0;
+  list-style-type: none;
+}
+footer > nav > ul > li {
+  display: inline;
+}
+footer > nav > ul a {
+  text-decoration: none;
+}
+.edit-link, .edit-link:visited {
+  font-size: 0.9em;
+  color: gray;
+}
+
+/* hide mdsite's top-level breadcrumb link so we can replace it with our own */
+.breadcrumb > a:nth-child(2) {
+  display: none;
+}
+.breadcrumb > a:first-child {
+  vertical-align: -3px;
+}
+.breadcrumb > a:first-child::after {
+  vertical-align: 3px;
+}
+.breadcrumb > a::after {
+  display: inline-block;
+  width: 2em;
+  text-align: center;
+  content: '➤';
+  color: #888c;
+  font-size: 0.9em;
+}
+
+table, td, th {
+  text-align: left;
+  border: 1px solid #0003;
+  background: #fff;
+  /* Georgia doesn't have lining-nums */
+  font-family: 'Times New Roman', serif;
+}
+
+td, th {
+  padding: 0.1em 0.2em;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+blockquote :is(em, i) {
+  font-style: normal;
+}
+
+code { white-space: pre-wrap; }
+pre > code { white-space: pre; }
+pre:not(.poetry) {
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #fff;
+}
+pre.poetry {
+  font-family: inherit;
+}
+
+figure {
+  margin-inline: 0;
+}
+figure > img {
+  display: block;
+  max-width: calc(min(97vw, var(--fig-width, 80%)));
+  margin: 24px auto;
+  border: 1px solid #e5e5e5;
+  box-shadow: -8px -8px #fff, 8px -8px #fff, -8px 8px #fff, 8px 8px #fff, 0 0 12px #000;
+  background: #fff;
+}
+figure > figcaption {
+  margin: 24px auto;
+  text-align: center;
+  max-width: 40em;
+  font-size: 0.867em;
+}
+figure.bleed {
+  --fig-width: 97vw;
+  margin-inline: -50%;
+}
+
+sup, sup > a {
+  /* don't let footnote refs mess with line spacing */
+  line-height: 0;
+}
+sup > a {
+  /* Georgia doesn't have lining-nums */
+  font-family: 'Times New Roman', serif;
+  font-weight: bold;
+  padding-inline: 0.25em;
+}
+
+num {
+  /* Georgia doesn't have lining-nums */
+  font-family: 'Times New Roman', 'Liberation Serif', serif;
+  font-variant-numeric: lining-nums;
+}
+
+.footnotes {
+  margin-block-start: 2rem;
+  border-block-start: 1px solid var(--border-color);
+  font-size: 0.9em;
+}
+
+.centered-text {
+  text-align: center;
+}
+
+.centered-text :is(ul, li) {
+  list-style-type: none;
+  margin-inline: 0;
+  padding-inline: 0;
+  text-indent: 0;
+}
+
+.space-8 {
+  height: 0.5rem;
+  width: 0.5rem;
+}
+
+.space-32 {
+  height: 2rem;
+  width: 2rem;
+}
+
+.sr-only {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+hr {
+  color: var(--border-color);
+  border: none;
+}
+hr::after {
+  display: block;
+  text-align: center;
+  content: '—ɔOc—'
+}
+
+iframe[src*='https://www.youtube.com'] {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
+.mdsite-current-file::after {
+  content: ' (this page)';
+  color: #444;
+}
+    </style>
+	</head>
+	<body>
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="welcome.html"><span class="sr-only">Home</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" style="width:16px;height:16px"><path fill-rule="evenodd" d="M9.293 2.293a1 1 0 0 1 1.414 0l7 7A1 1 0 0 1 17 11h-1v6a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1v-3a1 1 0 0 0-1-1H9a1 1 0 0 0-1 1v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-6H3a1 1 0 0 1-.707-1.707l7-7Z" clip-rule="evenodd" /></svg></a>
+    </nav>
+    <main><h1 id="ben-christels-website">Ben Christel&#39;s Website</h1>
+<p><a href="welcome.html" id="tree" aria-hidden="true" tabIndex="-1"></a></p>
+<div class="centered-text">
+
+<p><a href="welcome.html" class="enter-link">— ENTER —</a></p>
+<h2 id="elsewhere">Elsewhere:</h2>
+<ul>
+<li><a href="https://github.com/benchristel">GitHub</a></li>
+<li><a href="https://defaanged.mataroa.blog/">DeFAANGed</a></li>
+<li><a href="https://github.com/benchristel/benchristel.github.io/wiki">Digital Garden</a></li>
+</ul>
+<!-- - [Web Portal](/portal) -->
+<ul>
+<li><a href="https://waywardweb.org" style="letter-spacing:-0.01em;">WaywardWeb.org</a></li>
+<li><a href="https://benchristel.github.io/">Blog (defunct)</a></li>
+<li><a href="https://bensguide.substack.com/">Ben&#39;s Guide</a></li>
+<li><a href="resumes/2025.html" style="letter-spacing:0.07em;">Résumé</a></li>
+<li><a href="mailto:ben.christel@gmail.com">email</a></li>
+</ul>
+</div>
+
+<style>
+
+:root {
+  --font-size: 0.875rem;
+}
+
+.breadcrumb, footer {
+  display: none;
+}
+
+h1 {
+  margin-block-start: 0;
+  text-align: center;
+}
+
+h2 {
+  border: none;
+  font-size: 1rem;
+  font-style: italic;
+  font-weight: normal;
+  letter-spacing: 0.04em;
+  color: #666;
+  margin-block-start: 3rem;
+}
+
+li {
+  margin-block-end: 0.75em;
+  letter-spacing: 0.03em;
+}
+
+.enter-link {
+  font-size: 1.2rem;
+  text-shadow: 0.5px 0;
+  letter-spacing: 0.13em;
+}
+
+#tree {
+  display: block;
+  width: 206px;
+  height: 206px;
+  margin: 1rem auto 3rem;
+  background-position: 0px -22px;
+  background-color: var(--global-bg);
+  background-blend-mode: multiply;
+  border: 5px double #888;
+  border-radius: 999px;
+  background-image: url('data:image/png;base64,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');
+}
+
+</style></main>
+    <footer>
+      <nav>
+        <ul>
+          <li><a href="welcome.html">&larr; Home</a></li>
+          <li><a class="edit-link" href="https://github.com/benchristelcom/benchristelcom.github.io/edit/main/src/index.md">[Edit this page]</a></li>
+        </ul>
+      </nav>
+    </footer>
+  </body>
+</html>
