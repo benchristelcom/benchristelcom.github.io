@@ -1,29 +1,34 @@
 # Butternut Squash Soup
 
+Adapted from Gourmet magazine, Jan 2001.
+
+Makes 6 cups.
+
+## Hardware
+
+- Blender
 
 ## Ingredients
 
-- 1 large butternut squash
-- 2 tablespoons butter
-- 1 sweet onion
-- vegetable stock
-- nutmeg
-- salt & pepper
+- 1 celery rib
+- 1 medium carrot, chopped
+- 1 medium onion, chopped
+- 2 Tbsp extra virgin olive oil, plus more for drizzling
+- 1 lb. butternut squash, peeled, seeded, and cut into half-inch cubes
+- 1/2 lb. boiling potatoes like Yukon Gold or new potatoes, peeled and cut into
+  half-inch dice
+- 1 whole fresh pepperoncino, or 1/8 tsp red pepper flakes
+- 2 tsp salt
+- 3 1/2 cups boiling water
+- amaretto cookies, crushed into small crumbs, for topping
 
 ## Procedure
 
-1. Cut the butternut squash into one-inch cubes. Dice onion.
-2. Saute the onion with melted butter in a large pot until it is somewhat caramelized, 10-15 minutes.
-3. Add butternutsquash cubes, then vegetable stock until stock covers butternut squash cubes.
-4. Add nutmet, salt, and pepper. 
-5. Simmer for 20 minutes.
-6. Remove butternut squash cubes, which should be soft by now, and puree in blender.
-7. Return butternut squash puree to pot and simmer for 5 minutes.
-
-## Notes
-
-May need more salt than you think.
-
-This requires a blender. Be careful moving butternut squash to and from blender. It will be hot! If cubes are not blending evenly, add some liquid from pot, and stir vertically with a wooden spoon between blend attempts.
-
-This goes well with a firm protein, like a grilled cheese sandwich, or a ham and cheese sandwich if you are a meat-eater. 
+- Cook celery, carrot, and onion in 2 Tbsp oil over low heat until tender but
+  not browned.
+- Add squash, potatoes, pepperoncino, and salt. Add 3 1/2 cups boiling water
+  and simmer, covered, until veggies are very tender, about 20 minutes.
+- Remove pepperoncino.
+- Puree in blender, or use a stick blender. Add more hot water to thin to
+  desired consistency.
+- Serve in shallow bowls garnished with amaretto cookie crumbs and olive oil.
