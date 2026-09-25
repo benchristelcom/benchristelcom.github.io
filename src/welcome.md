@@ -6,6 +6,7 @@ I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); b
 
 - [Recent updates](log.html)
 - [Subscribe via RSS](subscribe.md)
+- [Contact me](contact)
 
 ## Cyberspace Curation
 
