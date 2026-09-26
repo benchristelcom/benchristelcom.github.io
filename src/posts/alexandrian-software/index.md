@@ -1,4 +1,4 @@
-# Christopher Alexander's Fifteen Properties of Living Structure in Software
+# Alexandrian Software
 
 Ben Christel, 2024
 
