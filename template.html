@@ -12,22 +12,24 @@
 }
 
 :root {
-  --body-width: 50em;
+  --body-width: 48rem;
   --align: left;
   --hyphens: manual;
-  --font-size: 1.1rem;
+  --font-size: 1.125rem;
   --body-font-family: 'Times New Roman', serif;
   --heading-font-family: 'Times New Roman', serif;
   --line-height: 1.5;
   --font: var(--font-size) / var(--line-height) var(--body-font-family);
 
-  --global-bg: #eee7e0;
-  --burgundy: #720;
+  --global-bg: #fafafa;
+  --burgundy: #831;
   --brown: hsl(-18, 15%, 15%);
   --blue: hsl(222, 100%, 25%);
-  --body-bg: transparent;
-  --border-color: hsl(40, 20%, 70%);
+  --body-bg: #fafafa66;
+  --border-color: #bbb;
 
+  background: url(/assets/paper.jpg);
+  background-size: 120px 120px;
   background-color: var(--global-bg);
   font: var(--font);
   text-align: var(--align);
@@ -87,9 +89,6 @@ a:visited { color: var(--burgundy); }
 
 li {
   break-inside: avoid;
-}
-dt {
-  break-after: avoid;
 }
 
 li > p {
