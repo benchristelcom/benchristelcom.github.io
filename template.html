@@ -20,6 +20,7 @@
   --heading-font-family: 'Times New Roman', serif;
   --line-height: 1.5;
   --font: var(--font-size) / var(--line-height) var(--body-font-family);
+  --list-indent: 2em;
 
   --global-bg: #fafafa;
   --burgundy: #831;
@@ -149,6 +150,10 @@ table, td, th {
   background: #fff;
   /* Georgia doesn't have lining-nums */
   font-family: 'Times New Roman', serif;
+}
+
+ul, ol {
+  padding-inline-start: var(--list-indent);
 }
 
 td, th {

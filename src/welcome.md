@@ -10,7 +10,7 @@ I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); b
 
 ## Cyberspace Curation
 
-- [My Web Portal](/portal) - A searchable catalog of links I've bookmarked.
+- <a href="/portal/"><img src="/assets/portal-screenshot.png" alt="a screenshot of the Web Portal" class="project-image"></a> [My Web Portal](/portal) - A searchable catalog of links I've bookmarked.
 
 - [Culture Machine](https://tv.benchristel.com/) - The digital equivalent of touching grass. Thousands of hand-picked YouTube videos to amuse, confuse, and delight you, played in a neverending random sequence.
 
@@ -117,8 +117,31 @@ li > a:first-child, li > p:first-child > a:first-child {
   letter-spacing: 0.03em;
 }
 
-dt {
-  font-weight: bold;
+li {
+  /* Ensure list items don't wrap around floating images in lists */
+  clear: both;
+}
+
+li:has(.project-image) {
+  list-style-type: none;
+  margin-inline: calc(0px - var(--list-indent)) 0;
+}
+
+.project-image {
+  display: block;
+  width: 100%;
+  margin-block-end: 1rem;
+  border: 1px solid var(--border-color);
+  box-shadow: -3px -3px #fff, -3px 3px #fff, 3px -3px #fff, 3px 3px #fff, 0 4px 8px #0008;
+}
+
+@media (min-width: 769px) {
+  .project-image {
+    display: inline-block;
+    float: left;
+    width: 300px;
+    margin-inline: 1rem;
+  }
 }
 
 #tree {
