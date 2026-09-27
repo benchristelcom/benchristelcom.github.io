@@ -4,6 +4,12 @@
 >
 > —Vivekananda
 
+> The majority of us cannot see beyond a few years, just as some animals cannot see beyond a few steps. Just a little narrow circle; that is our world. We have not the patience to look beyond, and thus become immoral and wicked. This is our weakness, our powerlessness.
+>
+> —Vivekananda, _[Karma-Yoga]_ p. 31
+
+[Karma-Yoga]: https://archive.sacred-texts.com/hin/kyog/kyog01.htm
+
 > In every religion there are three parts; philosophy, mythology and ritual. Philosophy of course is the essence of every religion; mythology explains and illustrates it by means of the more or less legendary lives of great men, stories and fables of wonderful things and so on; ritual gives to that philosophy a still more concrete form, so that every one may grasp it—ritual is in fact concretised philosophy.
 >
 > —Vivekananda, [_Karma-Yoga_ p. 70](https://archive.sacred-texts.com/hin/kyog/kyog05.htm)
