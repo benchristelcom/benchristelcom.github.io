@@ -12,7 +12,7 @@ I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); b
 
 - <a href="/portal/"><img src="/assets/portal-screenshot.png" alt="a screenshot of the Web Portal" class="project-image"></a> [My Web Portal](/portal) - A searchable catalog of links I've bookmarked.
 
-- [Culture Machine](https://tv.benchristel.com/) - The digital equivalent of touching grass. Thousands of hand-picked YouTube videos to amuse, confuse, and delight you, played in a neverending random sequence.
+- <a href="https://tv.benchristel.com"><img src="/assets/culture-machine-screenshot.png" alt="a screenshot of Culture Machine" class="project-image"></a> [Culture Machine](https://tv.benchristel.com/) - The digital equivalent of touching grass. Thousands of hand-picked YouTube videos to amuse, confuse, and delight you, played in a neverending random sequence.
 
 - [The Wayward Web](https://waywardweb.org) - A webring. A collaborative effort to map the useful, human parts of the web.
 
@@ -132,7 +132,7 @@ li:has(.project-image) {
   width: 100%;
   margin-block-end: 1rem;
   border: 1px solid var(--border-color);
-  box-shadow: -3px -3px #fff, -3px 3px #fff, 3px -3px #fff, 3px 3px #fff, 0 4px 8px #0008;
+  box-shadow: -3px -3px #fff, -3px 3px #fff, 3px -3px #fff, 3px 3px #fff, 0 4px 8px #0004;
 }
 
 @media (min-width: 769px) {
