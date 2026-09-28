@@ -1062,6 +1062,7 @@ See also [my /uses page](/uses).
 - [Ex-Classics](https://exclassics.com/) - Books that were once favorites, and are now public domain.
 - [Terebess Asia Online (TAO)](https://terebess.hu/english/tao.html) - Asian (and other) philosophy works, in many translations.
 - [Sacred-Texts.com](https://archive.sacred-texts.com/) - Religious texts, legends, and myths. Here's [The Kalevala](https://archive.sacred-texts.com/neu/kveng/).
+- [Karma-Yoga](https://archive.sacred-texts.com/hin/kyog/index.htm) by Swami Vivekananda
 - [Folklore and Mythology Electronic Texts](https://sites.pitt.edu/~dash/folktexts.html) collected by D. L. Ashliman. (h/t [Cidoku])
 - [Indie Bound](https://www.indiebound.org/) - Find local independent bookstores!
 - [Bookshop](https://bookshop.org/)
