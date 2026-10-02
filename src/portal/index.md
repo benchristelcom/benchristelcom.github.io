@@ -1239,6 +1239,7 @@ h/t [Low Tech Magazine](https://solar.lowtechmagazine.com/2010/06/how-to-tie-the
 - [English Wiktionary](https://en.wiktionary.org)
 - [Wikimedia](https://wikimedia.org)
 - [Table Flipping Emoticons](https://emoticoncentral.com/category/table-flipping) `(ノಠ益ಠ)ノ彡┻━┻`
+- 80-character ruler: `---------|---------|---------|---------|---------|---------|---------|---------|`<hs-meta keywords="eighty columns"></hs-meta> - for hard-wrapping text in GitHub's editor
 
 ## Museums and Information Researchers
 
