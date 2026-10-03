@@ -4,3 +4,6 @@
 >
 > —Vivekananda
 
+> In every religion there are three parts; philosophy, mythology and ritual. Philosophy of course is the essence of every religion; mythology explains and illustrates it by means of the more or less legendary lives of great men, stories and fables of wonderful things and so on; ritual gives to that philosophy a still more concrete form, so that every one may grasp it—ritual is in fact concretised philosophy.
+>
+> —Vivekananda, [_Karma-Yoga_ p. 70](https://archive.sacred-texts.com/hin/kyog/kyog05.htm)
