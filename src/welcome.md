@@ -8,7 +8,9 @@ I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); b
 - [Subscribe via RSS](subscribe.md)
 - [Contact me](contact)
 
-## Cyberspace Curation
+## My Projects
+
+### Cyberspace Curation
 
 - <a href="/portal/"><img src="/assets/portal-screenshot.png" alt="a screenshot of the Web Portal" class="project-image"></a> [My Web Portal](/portal) - A searchable catalog of links I've bookmarked.
 
@@ -22,13 +24,13 @@ I'm Ben. By day I write code for [Khan Academy](https://www.khanacademy.org/); b
 
 - [Old Media in the U.S. Public Domain](/public-domain/)
 
-## &ldquo;Research&rdquo;
+### &ldquo;Research&rdquo;
 
 I enjoy playing [Heroes of Might and Magic IV](heroes4) and have explored
 various aspects of the game using SCIENCE! Someday I hope to use this knowledge
 to make an actually playable map. When I do, I'll post it here.
 
-## Writing Projects
+### Writing
 
 - [_Process to Processes_](https://benchristel.github.io/process-to-processes) - A draft of my upcoming book about software development.
 
@@ -40,7 +42,7 @@ to make an actually playable map. When I do, I'll post it here.
 - [Bliki](https://github.com/benchristel/benchristel.github.io/wiki) - My personal blog / wiki / digital garden about software, with 250+ topic-focused pages on everything from [abstraction](https://github.com/benchristel/benchristel.github.io/wiki/Abstraction) to [wholeness](https://github.com/benchristel/benchristel.github.io/wiki/Wholeness).
 - I also write [satire](https://knossos.benchristel.com/) sometimes.
 
-## Major Artifacts
+### Major Artifacts
 
 Projects I actively use and maintain.
 
@@ -57,7 +59,7 @@ Projects I actively use and maintain.
 - ["Frost" theme for Docky](https://github.com/benchristel/docky-frost) - An OSX-style dock for Linux.
 - [yt](https://benchristel.github.io/yt/) - Watch YouTube without ads or tracking. Pairs great with [LeechBlock](https://www.proginosko.com/leechblock/).
 
-## Minor Artifacts
+### Minor Artifacts
 
 Projects I haven't done anything with in a while.
 
@@ -112,7 +114,9 @@ a.out {
   text-align: center;
 }
 
-li > a:first-child, li > p:first-child > a:first-child {
+li > a:first-child,
+li > p:first-child > a:first-child,
+li a:has(> .project-image) + a {
   text-shadow: 0.03em 0;
   letter-spacing: 0.03em;
 }
