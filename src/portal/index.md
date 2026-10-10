@@ -1222,7 +1222,13 @@ h/t [Low Tech Magazine](https://solar.lowtechmagazine.com/2010/06/how-to-tie-the
 - [KFF](https://www.kff.org/) (formerly the Kaiser Family Foundation) - public health data
 - [Macrotrends](https://macrotrends.net) - economic and financial data over time
 
-## Archives and Archiving Tools
+## Information Science
+
+### Cataloging<hs-meta keywords="catalogue cataloguing"></hs-meta>
+
+- [Universal Decimal Classification Summary](https://udcsummary.info/php/index.php)
+
+### Archives and Archiving Tools
 
 - [Restorativland's Geocities Archive](https://geocities.restorativland.org/) - a resurrection of old websites
 - [The Internet Archive](https://archive.org/) - A.K.A. the Wayback Machine.
