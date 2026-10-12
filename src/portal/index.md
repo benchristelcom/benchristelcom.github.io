@@ -1318,6 +1318,11 @@ into one searchable, cross-referenced database.
   </p>
 </noscript>
 
+## Online Communities<hs-meta keywords="community forum message board"></hs-meta>
+
+- [MelonLand Forum](https://melonking.net/frames/forum)
+- [quxnet](https://quxnet.net/about) - a private network with old internet manners
+
 ## Settings
 
 - <label><input type="checkbox" id="autofocus-checkbox"> Automatically focus the search field on page load.</label>
