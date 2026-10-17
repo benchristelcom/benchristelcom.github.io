@@ -503,6 +503,10 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [USGS](https://www.usgs.gov/)<hs-meta keywords="geological survey"></hs-meta>
 - [USPS](https://www.usps.com/)<hs-meta keywords="postal service mail"></hs-meta>
 
+### State Governments
+
+- [California Voter Guide](https://voterguide.sos.ca.gov/)
+
 ### Local Governments
 
 - [City of Palo Alto](https://www.paloalto.gov/) - [Utilities](https://mycpau.cityofpaloalto.org/)
