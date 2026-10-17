@@ -10,7 +10,7 @@ Every link is associated with a classifier that can indicate the following
 attributes of the linked resource:
 
 - scope: is the link intended to refer the reader to a specific _page_/URL, an entire domain, a subdomain, or a subdirectory?
-- topic
+- subject / topic: what is the linked resource about?
 - (optional) person: author, translator, archivist
 - (optional) date
 - (optional) language
@@ -18,11 +18,13 @@ attributes of the linked resource:
 - (optional) purpose: e.g. description, instruction, critique, entertainment
 - (optional) provenance: is it a translation of another work? A commentary? An archive? A mirror?
 
+Any attribute can be repeated.
+
 Although classifiers describe the linked resource, they are assigned by the
 directory maintainer, and therefore reflect the *maintainer*'s judgement what
 the best classification is.
 
-Attribute codes are separated by spaces. `0 S1 D2022 
+Attribute codes are separated by spaces. `0 S1 D2022`
 
 The value of the scope attribute is a hierarchical numeric code.
 - 0 - whole URL
@@ -30,7 +32,6 @@ The value of the scope attribute is a hierarchical numeric code.
 - 2 - subdomain
 - 3(dir) - directory
 
-- 001
 
 The person attribute gives the author's name prefixed by A0. Parentheses are
 used to delimit multi-word names. E.g. `A0(Richard P. Gabriel)`. The best
@@ -68,7 +69,46 @@ written in the 1990s.
 
 ### Cross-cutting numbers
 
-- Translation TODO
+- Translation
+- Archiving
+- Textual media and printed material
+  - Newspapers, journals, magazines, other periodicals
+    - News and newspapers
+    - Periodical scientific journals
+    - Magazines
+- Technology
+  - Programming and data languages
+    - JavaScript
+    - PHP
+    - HTML
+    - CSS
+    - SQL
+    - JSON
+  - Software and services
+    - 
+- Visual media
+  - Still images
+    - Photographs
+    - Drawing, painting
+  - Video and animation
+- Audio media
+  - Spoken word
+  - Music
+  - Field recording
+- Human organizations
+  - States, governments
+    - Nations
+    - States, regions, provinces
+    - Localities
+    - Cities, towns
+  - Nonprofits, charities, NGOs
+  - Religious organizations, churches
+  - Corporations, businesses
+  - Online communities
+    - Chatrooms, IRC
+    - Social networks and social media
+    - *nix systems
+    - Forums
 
 ### Form
 
@@ -86,11 +126,21 @@ written in the 1990s.
   - F1.0 - unstructured text
   - F1.1 - CSV and tabular data
   - F1.2 - Markdown
-- F2 - PDF
+- F2 - images
 - F3 - audio
 - F4 - video
+  - F4.1 - animation
+  - F4.2 - photographic video
+    - F4.2.1 - screencasts
+      - F4.2.1.1 - let's plays, gaming streams
+  - F4.3 - streaming video
+- F5 - PDF and similar
+- F6 - source code
+
 
 ### Governance
+
+Who controls this website?
 
 - G1 - government websites
   - G1.1 - federal / national government
@@ -121,6 +171,7 @@ Indicates the technology used to create or present the resource
   - X0.3 - PHP
     - X0.3.1 - PHPBB
   - X0.5 - Flash
+- X2 - image formats
 - X3 - audio formats
 - X4 - video formats
 
