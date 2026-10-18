@@ -1,5 +1,33 @@
 # Khandana Bhava Bandhana
 
+<div class="music-notation">
+  <span>&#x1D15E;</span>
+  <span>&#x2669;</span>
+  <span>&#x2669;</span>
+  <span>&#x1D100;</span>
+  <span>&#x2669;</span>
+  <span>&#x2669;</span>
+  <span>&#x2669;</span>
+  <span>&#x2669;</span>
+  <span>&#x1D100;</span>
+  <span>&#x2669;</span>
+  <span>&#x2669;</span>
+  <span>&#x2669;</span>
+  <span>&#x2669;</span>
+  <span>&#x1D100;</span>
+  <span>&#x2669;</span>
+  <span>&#x2669;</span>
+  <span>&#x2669;</span>
+  <span>&#x2669;</span>
+  <span>&#x1D100;</span>
+  <span>&#x2669;</span>
+  <span>&#x2669;</span>
+  <span>&#x2669;</span>
+  <span>&#x2669;</span>
+  <span>&#x1D100;</span>
+  <span>&#x1D15D;</span>
+</div>
+
 <pre class="poetry">
 
 Khandana Bhava Bandhana, Jaga Vandana, Vandi Tomay
@@ -42,3 +70,13 @@ Khandana Bhava Bandhana, Jaga Vandana, Vandi Tomay
 Jai Shri Guru Maharaj Ji Ki Jai!
 
 </pre>
+
+<style>
+  .music-notation {
+    font-size: 200%;
+  }
+  .music-notation > span {
+    display: inline-block;
+    width: 20px;
+  }
+</style>
