@@ -127,45 +127,129 @@ authority database (e.g. https://authorities.loc.gov/)
 
 For example, works by Mark Twain would have the author facet `a(Twain, Mark, 1835-1910)`.
 
+## Compound codes
+
+### Geographical regions
+
+Some classes are marked with a note `(append region code)`. Items in these
+classes should have a region code immediately following the class code to
+indicate the geographical region associated with the referenced entity. The
+`(append region code)` designation is used e.g. in the classes for government
+and business websites.
+
+The purpose of this aspect of classification is to allow searchers to find
+resources near them.
+
+### Cross-referencing
+
+Items in some classes can refer to other classes. For example, the subject code
+of a law in class `01` (official documents and data) would refer to the
+government that administers it via the code under `00` (official websites).
+The government's subject code, in turn, would be derived from the class of the
+region that it governs.
+
+When using cross-referencing codes, the common prefix is dropped. For example,
+the [EU website](https://european-union.europa.eu/) is classed under `001`:
+`00` for "Official websites of governments and intergovernmental organizations"
+and `1`, the code for Europe (taken from `8001`, where maps of Europe are
+classed).
+
 ## Classification by subject
 
 ### Notes
 
-- Class 0 is for _things themselves_, first-party information about things, and
-  websites whose primary purpose is to provide access to things.
-- Classes 1–7 are for resources that convey _knowledge about things_ or
-  _how to do things_.
+- Class 0 is for _things themselves_, information about things, and websites
+  whose primary purpose is to provide access to things.
+- Classes 1–7 are for resources that convey _knowledge about the world_ or
+  _how to do things_ in a way that might still be useful in the distant future
+  or on other planets. Knowledge about specific governments, businesses,
+  countries, products, tools, programming languages, etc. does not belong here
+  because it is too perishable. Knowledge of species, ecology, etc. *does*
+  belong here.
 - Class 8 is for purely descriptive works that convey broader context, history,
-  or analysis of the subjects covered in the other classes.
+  or analysis of the subjects covered in the other classes, in a way that is
+  bound to the present time and place. For example, biographies, histories, and
+  maps belong here.
 
 ### Classification
 
-1. **Originalia and ephemera (fiction, letters, newspapers, things-in-themselves)**
-	1. primary and first-party sources: letters, general accounts, documentation, memoranda, records, brochures, advertising
-		1. Official websites (of companies, products, etc.) (note: surface links only)
-			1. Websites of intergovernmental and international organizations (e.g. United Nations, NATO)
-			2. Government websites
-				1. National and federal government websites
-				2. State and provincial government websites
-				3. Local and special district websites
-				4. Municipal / city websites
-			3. Official websites of nonprofits, charities, and NGOs
-			4. Official websites of corporations and businesses
-			5. Official websites of other organizations, associations, and societies
-			6. Official websites of specific products, services, and things (note: prefer to class under things-in-themselves when the website actually provides the product or service)
-		2. Product documentation
-		3. Personal websites and blogs (note: surface links only)
-		4. Raw data (shared code with: Knowledge of the physical world)
-		5. Technological specifications and notices (RFCs, CVEs, etc.) (shared code with: Knowledge of skill)
-		6. Laws and contracts (shared code with: Knowledge of humanity)
-			1. International law
-			2. Federal and national laws
-			3. License agreements
-	2. things-in-themselves
-		1. Online tools and apps
-		2. Art
-		3. Games (incl. interactive fiction)
-		4. Fiction
+- **0 - Originalia and ephemera (fiction, letters, newspapers, things-in-themselves)**
+  - 0 - Official websites
+	- 0 - Governments and intergovernmental organizations (append region code from `800`)
+	- 1 - Academic institutions (append region code)
+	- 2 - Nonprofits, charities, NGOs, INGOs (append region code)
+	- 3 - Businesses (append region code)
+	- 4 - Religious organizations, churches (append region code)
+	- 5 - Other organizations, associations, clubs, societies (append region code)
+	- 6 - Products, services, and things (prefer to class in `02` when the website actually provides the product or service)
+  - 1 - Official documents
+    - 0 - Treaties, laws (append code from `000`)
+	- 1 - Data and documents about academic institutions (append code from `001`)
+	- 2 - Data and documents about nonprofits, charities, NGOs, INGOs (append code from `002`)
+	- 3 - Business documents, data about businesses (append code from `003`)
+	- 6 - Product documentation (append code from `006` or `026`)
+	- 7 - Technological specifications and notices (RFCs, CVEs, etc.)
+	- 8 - License agreements and contracts
+  - 2 - Things in themselves
+    - 1 - Online tools and apps
+	- 2 - Art, music, media
+	- 3 - Games, incl. interactive fiction
+	- 4 - Fiction
+    - 8 - Personal websites
+- **8 - Knowledge of the living earth**
+  - 0 - Knowledge of geography
+    - 0 - By region of the Earth
+	  - 0 - Africa
+	  - 1 - Europe
+	    - 0 - Iceland
+		- 1 - Ireland
+		- 2 - Great Britain
+		- 3 - Portugal
+		- 4 - Spain
+		- 5 - France
+		- 6 - Belgium
+		- 7 - Netherlands
+		- 8 - Germany
+		- 9 - Switzerland
+		- A00 - Austria
+		- A01 - Italy
+		- A02 - Slovenia
+		- A03 - Czechia
+		- A04 - Serbia
+		- A05 - Croatia
+		- A06 - Albania
+		- A07 - Macedonia
+		- A08 - Greece
+		- Slovenia
+		- Hungary
+		- Romania
+		- Bulgaria
+		- Ukraine
+		- Belarus
+		- Poland
+		- Lithuania
+		- Latvia
+		- Estonia
+		- Finland
+		- Sweden
+		- Norway
+		- Denmark
+		
+	  - 2 - Asia
+	  - 3 - Australia and Oceania
+	  - 4 - North America
+	  - 5 - South America
+	  - 6 - Polar regions
+	  - 7 - Atlantic ocean
+	  - 8 - Indian ocean
+	  - Pacific ocean
+	  - Mediterranean sea
+	  - Black sea
+	  - Baltic sea
+	- 1 - By aspects mapped
+	  - ...topography, political boundaries, climate, etc...
+
+
 2. **Knowledge of information (library science)**
 3. Knowledge of process (computer science)
 4. Knowledge of derivations (mathematics)
@@ -207,26 +291,6 @@ For example, works by Mark Twain would have the author facet `a(Twain, Mark, 183
 			1. Signal processing
 		7. Painting (as art)
 8. Knowledge of humanity (anthropology, sociology, political science, economics, management)
-	1. Religion
-		1. Hinduism
-		2. Buddhism
-		3. Daoism
-		4. Confucianism
-		5. Judaism
-		6. Christianity
-		7. Islam
-		8. Jainism
-		9. Sikhism
-		10. Shinto
-		11. Baha'i
-		12. Mormonism
-		13. Paganism
-			1. Greek and Roman paganism
-			2. Wicca
-			3. Druidism
-		14. Zoroastrianism
-		15. Minor and modern religions and cults
-			1. Hermeticism
 9. Knowledge of memory (history, memoirs, biography, geography) and tertiaria (meta-analysis, comparative studies, interdisciplinary works)
 	1. History
 		1. History of specific social movements
