@@ -108,13 +108,13 @@ facets:
 - `2012` - Year
 - `c2012` - Circa year
 - `2010s` - Decade
-- `21c` - Century
-- `-6c` - Century BCE
+- `20xx` - Century
+- `-6xx` - Century BCE
 
 Ranges are expressed using a slash `/`: `1600/1750`.
 
 For example, a book on 15th-century French cooking published in 2004 would
-have a call number like `s6A31*826*89(15c) d2004`.
+have a call number like `s6A31*826*89(14xx) d2004`.
 
 ## Keywords
 
@@ -129,7 +129,18 @@ For example, works by Mark Twain would have the author facet `a(Twain, Mark, 183
 
 ## Classification by subject
 
-1. **Originalia (fiction, letters, newspapers, things-in-themselves)**
+### Notes
+
+- Class 0 is for _things themselves_, first-party information about things, and
+  websites whose primary purpose is to provide access to things.
+- Classes 1–7 are for resources that convey _knowledge about things_ or
+  _how to do things_.
+- Class 8 is for purely descriptive works that convey broader context, history,
+  or analysis of the subjects covered in the other classes.
+
+### Classification
+
+1. **Originalia and ephemera (fiction, letters, newspapers, things-in-themselves)**
 	1. primary and first-party sources: letters, general accounts, documentation, memoranda, records, brochures, advertising
 		1. Official websites (of companies, products, etc.) (note: surface links only)
 			1. Websites of intergovernmental and international organizations (e.g. United Nations, NATO)
@@ -267,3 +278,7 @@ For example, works by Mark Twain would have the author facet `a(Twain, Mark, 183
 Use: https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes
 
 ## Classification by author
+
+## Open Questions and Problems
+
+Ranges make search indexing harder. Consider removing range notation.
