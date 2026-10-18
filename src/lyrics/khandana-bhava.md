@@ -1,31 +1,59 @@
 # Khandana Bhava Bandhana
 
 <div class="music-notation">
-  <span>&#x1D15E;</span>
-  <span>&#x2669;</span>
-  <span>&#x2669;</span>
-  <span>&#x1D100;</span>
-  <span>&#x2669;</span>
-  <span>&#x2669;</span>
-  <span>&#x2669;</span>
-  <span>&#x2669;</span>
-  <span>&#x1D100;</span>
-  <span>&#x2669;</span>
-  <span>&#x2669;</span>
-  <span>&#x2669;</span>
-  <span>&#x2669;</span>
-  <span>&#x1D100;</span>
-  <span>&#x2669;</span>
-  <span>&#x2669;</span>
-  <span>&#x2669;</span>
-  <span>&#x2669;</span>
-  <span>&#x1D100;</span>
-  <span>&#x2669;</span>
-  <span>&#x2669;</span>
-  <span>&#x2669;</span>
-  <span>&#x2669;</span>
-  <span>&#x1D100;</span>
-  <span>&#x1D15D;</span>
+  <span>&#x1D15E;</span> <!-- half note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x1D100;</span> <!-- bar line -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x1D100;</span> <!-- bar line -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x1D100;</span> <!-- bar line -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x1D100;</span> <!-- bar line -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x1D100;</span> <!-- bar line -->
+  <span>&#x1D15D;</span> <!-- whole note -->
+  <span>&#x1D100;</span> <!-- bar line -->
+</div>
+
+
+
+<div class="music-notation">
+  <span>𝄆</span>
+  <span>&#x1D15E;</span> <!-- half note -->
+  <span>&#x1D15E;</span> <!-- half note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x1D100;</span> <!-- bar line -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>𝄇</span>
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x2669;</span>  <!-- quarter note -->
+  <span>&#x1D100;</span> <!-- bar line -->
+  <span>&#x1D15D;&#x1D16D;</span> <!-- dotted whole note -->
+  <span>&#x1D100;</span> <!-- bar line -->
 </div>
 
 <pre class="poetry">
