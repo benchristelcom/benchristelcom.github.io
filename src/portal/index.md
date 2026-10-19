@@ -853,6 +853,7 @@ See Channel 3 of [Culture Machine](https://tv.benchristel.com/).
 - [Inrupt](https://start.inrupt.com/profile) - [Solid] pod provider <hs-meta keywords="data file blob store storage"></hs-meta>
 - [Tuta](https://tuta.com) - privacy-respecting email and cloud storage provider (h/t [Alex Zee])<hs-meta keywords="google docs drive gmail mail"></hs-meta>
 - [Storj](https://www.storj.io/) - S3-compatible cloud object storage
+- [Wasabi](https://wasabi.com/) - S3-compatible cloud object storage
 
 ### UI/UX Design<hs-meta keywords="graphic"></hs-meta>
 
