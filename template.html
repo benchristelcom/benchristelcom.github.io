@@ -22,15 +22,19 @@
   --font: var(--font-size) / var(--line-height) var(--body-font-family);
   --list-indent: 2em;
 
-  --global-bg: #fafafa;
+  --global-bg: #e8e7e4;
   --burgundy: #831;
   --brown: hsl(-18, 15%, 15%);
   --blue: hsl(222, 100%, 25%);
-  --body-bg: #fafafa66;
+  --body-bg: transparent;
   --border-color: #bbb;
 
-  background: url(/assets/paper.jpg);
-  background-size: 120px 120px;
+  background:
+    linear-gradient(to bottom, #fda2 0, #fda0 10%, #fda0 90%, #fda2 100%),
+    linear-gradient(to right, #fda3 0, #fda0 10%, #fda0 90%, #fda3 100%),
+    url(/assets/light_toast.webp);
+  background-attachment: fixed, fixed, scroll;
+  background-size: 100% 100%, 100% 100%, 200px 200px;
   background-color: var(--global-bg);
   font: var(--font);
   text-align: var(--align);
