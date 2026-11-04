@@ -3,7 +3,7 @@
 My email address is my full name with no spaces (which appears in the URL of
 this website) at gmail.com. I enjoy hearing from random strangers on the
 internet, so feel free to get in touch! I don't run any analytics or tracking
-software on this website, so if you don't email me I'll never know you visted,
+software on this website, so if you don't email me I'll never know you visited,
 and that would be kind of sad, don't you think?
 
 If *you* have a website, why not send me a link to it?
