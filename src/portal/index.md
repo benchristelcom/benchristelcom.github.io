@@ -429,7 +429,7 @@ Official web presences of non-web entities. The purpose of this section is to re
 - [Lit](https://lit.dev/)
 - [Lodash](https://lodash.com/)
 - [Marked](https://marked.js.org/)
-- [MathJax](https://mathjax.org)
+- [MathJax](https://www.mathjax.org)
 - [NodeJS](https://nodejs.org/)
 - [Node Version Manager](https://github.com/nvm-sh/nvm)
 - [NPM](https://npmjs.com/) - [docs](https://docs.npmjs.com/)
